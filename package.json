@@ -1,6 +1,6 @@
 {
   "name": "static-feed-aggregator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A command-line tool that creates a static HTML website, displaying content from some RSS feeds.",
   "main": "index.js",
   "scripts": {

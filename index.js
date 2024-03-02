@@ -15,7 +15,7 @@ const print = (a) => {
   return a;
 }
 
-const byPublishedDate = (a, b) => (new Date(b.published).getTime()) - (new Date(a.published).getTime())
+const byPublishedDate = (a, b) => (new Date(b.published) < new Date(a.published) ? -1 : 1)
 
 const getEntries = (site) => site.entries
   .map((entry) => ({...entry, site}))
