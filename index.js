@@ -7,7 +7,7 @@ import readline from 'readline';
 const sites = []
 
 const descriptionCharacterCount = 1000
-const articlesCount = 1000
+const articlesCount = 20000
 
 
 const print = (a) => {
@@ -15,7 +15,7 @@ const print = (a) => {
   return a;
 }
 
-const byPublishedDate = (a, b) => (new Date(b.published) < new Date(a.published) ? -1 : 1)
+const byPublishedDate = (a, b) => (new Date(b.published) - new Date(a.published))
 
 const getEntries = (site) => site.entries
   .map((entry) => ({...entry, site}))
@@ -43,14 +43,16 @@ rl.on('line', (line) => {
 rl.on('close', () => {
   Promise.all(sites)
     .then((sites) => 
-      console.log(sites.map(getEntries)
+      sites.map(getEntries)
         .flat()
         .sort(byPublishedDate)
         // .map(print)
         .slice(0, articlesCount)
         .map(formatAsMarkdown)
         .join('\n')
-      )).then(() => process.exit(1))
+      )
+      .then(console.log)
+      .then(() => process.exit(1))
 });
 
 rl.on('error', (err) => {
