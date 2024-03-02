@@ -1,0 +1,28 @@
+{
+  "name": "static-feed-aggregator",
+  "version": "1.0.0",
+  "description": "A command-line tool that creates a static HTML website, displaying content from some RSS feeds.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abuseofnotation/static-feed-aggregator.git"
+  },
+  "keywords": [
+    "rss",
+    "static-website"
+  ],
+  "author": "Jencel Panic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abuseofnotation/static-feed-aggregator/issues"
+  },
+  "homepage": "https://github.com/abuseofnotation/static-feed-aggregator#readme",
+  "dependencies": {
+    "@extractus/feed-extractor": "^7.0.9"
+  },
+    "type": "module",
+    "bin" : {"static-feed-aggregator": "index.js"}
+}
