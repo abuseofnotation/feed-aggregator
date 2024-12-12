@@ -27,4 +27,6 @@ Or without installing:
 echo -e "http://proses.io/feed\nhttps://rin.io/feed" | node <package-dir>/index.js > feeds.md
 ```
 
-Here is the [result](/feeds).
+Here is the result
+
+#[Read](https://abuseofnotation.github.io/static-feed-aggregator/feeds).
