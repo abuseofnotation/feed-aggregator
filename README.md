@@ -29,4 +29,4 @@ echo -e "http://proses.io/feed\nhttps://rin.io/feed" | node <package-dir>/index.
 
 Here is the result
 
-#[Read](https://abuseofnotation.github.io/static-feed-aggregator/feeds).
+# [Read](https://abuseofnotation.github.io/static-feed-aggregator/feeds).
