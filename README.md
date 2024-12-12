@@ -1,5 +1,5 @@
 # static-feed-aggregator
-A script that reads RSS feed and generates generates a simple Markdown page with their contents.
+An RSS aggregator that generates a simple embeddable static Markdown page
 
 
 Description
