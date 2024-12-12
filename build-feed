@@ -1,0 +1,1 @@
+cat feed-sites | node index.js > feeds.md
