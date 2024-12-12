@@ -21,8 +21,10 @@ cat feed-sites | static-feed-aggregator > feeds.md
 ```
 
 Or without installing:
+
+
 ```
-cat feed-sites | node <package-dir>/index.js > feeds.md
+echo -e "http://proses.io/feed\nhttps://rin.io/feed" | node <package-dir>/index.js > feeds.md
 ```
 
 Here is the [result](/feeds).
