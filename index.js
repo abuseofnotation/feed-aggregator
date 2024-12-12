@@ -36,14 +36,23 @@ const rl = readline.createInterface({
 
 rl.on('line', (line) => {
   if (line.trim()) {
-    sites.push(extract(line.trim()));
+    sites.push(line.trim());
   }
 });
 
 rl.on('close', () => {
-  Promise.all(sites)
-    .then((sites) => 
-      sites.map(getEntries)
+  Promise.allSettled(sites.map(extract))
+    .then((results) => 
+      results
+        .flatMap((result, i) => {
+          if (result.status === "fulfilled") {
+            return [result.value]
+          } else {
+            process.stderr.write("Could not retrieve " + sites[i])
+            return []
+          }
+        }) 
+        .map(getEntries)
         .flat()
         .sort(byPublishedDate)
         // .map(print)
