@@ -1,0 +1,215 @@
+Script started on 2024-12-13 22:15:58+02:00 [TERM="xterm-256color" TTY="/dev/pts/7" COLUMNS="66" LINES="37"]
+[?2004h[0;32m✔[0;0m [0;33m~/pr/static-feed-aggregator[0;0m [[0;35mmain[0;0m|[0;36m…2[0;0m[0;0m] 
+[0;37m22:15[0;0m $ ffo
+[?2004lCommand 'ffo' not found, did you mean:
+  command 'fifo' from snap fifo (1.3.1)
+  command 'ffe' from deb ffe (0.3.9-1)
+  command 'ffc' from deb python3-ffc (2019.2.0~legacy20230509.35df986-1)
+  command 'fio' from deb fio (3.36-1)
+See 'snap info <snapname>' for additional versions.
+[?2004h[0;31m✘-127[0;0m [0;33m~/pr/static-feed-aggregator[0;0m [[0;35mmain[0;0m|[0;36m…2[0;0m[0;0m] 
+[0;37m22:16[0;0m $ fo
+[?2004lfo: command not found
+[?2004h[0;31m✘-127[0;0m [0;33m~/pr/static-feed-aggregator[0;0m [[0;35mmain[0;0m|[0;36m…2[0;0m[0;0m] 
+[0;37m22:16[0;0m $ vim typescript 
+[?2004l[?1049h[22;0;0t[?1h=[H[2J]11;?[?2004h[?u[c[?25h[?25l(B[m[H[2J[>4;2m[93m  1 (B[m[K
+[94m~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+(B[0;1;7mtypescript                                      0,0-1          All]112[2 q]112[2 q[?1002h[?1006h[1;5H[?25h[?25l[?1004h[?25h[?25l[37;56H(B[m:         [1;5H[?25h[?25l[35B[K
+[J[A:]112[2 q[?25h[?25lq[?25h[?25la[?25h[?25l[36;1H[?25h[?25l]112[2 q[?25h[?25l
+]112[2 q[?1002l[?1006l(B[m[?25h[?1l>[>4;0m[?1049l[23;0;0t[?2004l[?1004l[?25h[?2004h[0;32m✔[0;0m [0;33m~/pr/static-feed-aggregator[0;0m [[0;35mmain[0;0m|[0;36m…2[0;0m[0;0m] 
+[0;37m22:16[0;0m $ cd ../me
+mellsans/             memory-matching-game/
+memory-game/          messing/
+[0;32m✔[0;0m [0;33m~/pr/static-feed-aggregator[0;0m [[0;35mmain[0;0m|[0;36m…2[0;0m[0;0m] 
+[0;37m22:16[0;0m $ cd ../me
+mellsans/             memory-matching-game/
+memory-game/          messing/
+[0;32m✔[0;0m [0;33m~/pr/static-feed-aggregator[0;0m [[0;35mmain[0;0m|[0;36m…2[0;0m[0;0m] 
+[0;37m22:16[0;0m $ cd ../me[K[Kabuseofnotation.github.io/
+[?2004l[?2004h[0;32m✔[0;0m [0;33m~/pr/abuseofnotation.github.io[0;0m [[0;35mmaster[0;0m|[1;32m✔[0;0m[0;0m] 
+[0;37m10:26[0;0m $ ls
+[?2004lblog.html             cv.pdf              pattern.html
+blogroll.md           dictionary.txt      [0m[01;34m_posts[0m
+[01;34mbookmarks[0m             epigrams.md         README.md
+build-feed            feed-aggregator.md  [01;34mscratchpads[0m
+[01;32mbuild-jekyll-tags.hs[0m  feed-sites          shorts.html
+_config.yml           Gemfile             [01;34m_site[0m
+consulting.md         Gemfile.lock        specimen.pdf
+custom-style.css      [01;34mimages[0m              style.css
+cv-bobby.md           index.html          [01;34mtags[0m
+cv-bobby.pdf          [01;34m_layouts[0m            tags.html
+c_v.md                [01;35mlogo.svg[0m            [01;34mtemp[0m
+cv.md                 [01;34mmell[0m                [01;34mtest[0m
+c_v.pdf               mell.css
+[?2004h[0;32m✔[0;0m [0;33m~/pr/abuseofnotation.github.io[0;0m [[0;35mmaster[0;0m|[1;32m✔[0;0m[0;0m] 
+[0;37m10:26[0;0m $ ls mell
+[?2004lMellContrast-BoldItalic.otf     MellMono-Regular.otf
+MellContrast-Bold.otf           MellMono-ThinItalic.otf
+MellContrast-Italic.otf         MellMono-Thin.otf
+MellContrast-Regular.otf        MellMono-UltraItalic.otf
+MellDisplay-BlackItalic.otf     MellMono-Ultra.otf
+MellDisplay-Black.otf           MellSans-BlackItalic.otf
+MellDisplay-BoldItalic.otf      MellSans-Black.otf
+MellDisplay-Bold.otf            MellSans-BoldItalic.otf
+MellDisplay-RegularItalic.otf   MellSans-Bold.otf
+MellDisplay-Regular.otf         MellSans-RegularItalic.otf
+MellDisplay-SemiboldItalic.otf  MellSans-Regular.otf
+MellDisplay-Semibold.otf        MellSans-SemiboldItalic.otf
+MellDisplay-ThinItalic.otf      MellSans-Semibold.otf
+MellDisplay-Thin.otf            MellSans-ThinItalic.otf
+MellDisplay-UltraItalic.otf     MellSans-Thin.otf
+MellDisplay-Ultra.otf           MellSans-UltraItalic.otf
+MellMono-BlackItalic.otf        MellSans-Ultra.otf
+MellMono-Black.otf              MellSlab-Black.otf
+MellMono-BoldItalic.otf         MellSlab-Bold.otf
+MellMono-Bold.otf               MellSlab-Regular.otf
+MellMonoContrast-Bold.otf       MellSlab-Thin.otf
+MellMonoContrast-Regular.otf    MellSlab-Ultra.otf
+MellMono-Italic.otf             [0m[01;31msans.zip[0m
+[?2004h[0;32m✔[0;0m [0;33m~/pr/abuseofnotation.github.io[0;0m [[0;35mmaster[0;0m|[1;32m✔[0;0m[0;0m] 
+[0;37m10:26[0;0m $ ls
+[?2004l[0m[01;32mblog.html[0m             [01;32mcv.pdf[0m              [01;32mpattern.html[0m
+[01;32mblogroll.md[0m           [01;32mdictionary.txt[0m      [34;42m_posts[0m
+[34;42mbookmarks[0m             [01;32mepigrams.md[0m         [01;32mREADME.md[0m
+[01;32mbuild-feed[0m            [01;32mfeed-aggregator.md[0m  [34;42mscratchpads[0m
+[01;32mbuild-jekyll-tags.hs[0m  [01;32mfeed-sites[0m          [01;32mshorts.html[0m
+[01;32m_config.yml[0m           [01;32mGemfile[0m             [34;42m_site[0m
+[01;32mconsulting.md[0m         [01;32mGemfile.lock[0m        [01;32mspecimen.pdf[0m
+[01;32mcustom-style.css[0m      [34;42mimages[0m              [01;32mstyle.css[0m
+[01;32mcv-bobby.md[0m           [01;32mindex.html[0m          [34;42mtags[0m
+[01;32mcv-bobby.pdf[0m          [34;42m_layouts[0m            [01;32mtags.html[0m
+[01;32mc_v.md[0m                [01;32mlogo.svg[0m            [34;42mtemp[0m
+[01;32mcv.md[0m                 [34;42mmell[0m                [34;42mtest[0m
+[01;32mc_v.pdf[0m               [01;32mmell.css[0m
+[?2004h[0;32m✔[0;0m [0;33m~/pr/abuseofnotation.github.io[0;0m [[0;35mmaster[0;0m|[0;34m✚ 327[0;0m[0;0m] 
+[0;37m17:28[0;0m $ rg shic[K[K[Kcience
+[?2004l[0m[35m_posts/blog/2031-09-01-boolean.md[0m
+[0m[32m40[0m:So while boolean logic may be splendid when viewed by itself, when viewed in relation to the "real world" there is a huge issue with it, the namely that *no logical framework is strong enough to capture the things that we usually want to dissect*, (the real world if we must.) Proving the claim above is a subject of a different text, for now it suffices to say that although it may not look logical or scientific, it is, however, very strongly backed up by both logic and [0m[1m[31mscience[0m. So strongly, that it is more appropriate to ask what makes us think the reverse, that the real world may be captured by a boolean logical framework - I'd argue that the thought that it can be is an instance of the so called "is-ought falacy"- the idea that something is true just because it will be good for us that it is true. 
+
+[0m[35m_posts/blog/2019-01-01-logic-thought.md[0m
+[0m[32m65[0m:Our power to *observe* stuff, to *sense* things, is the base source of truth. This is the simple part. We know when we feel pain or pleasure, just because we know it and we all know that we, for example, cannot walk through walls, simply because we all subconsciously remember the pain from that time we tried to do it. However, our power to think abstractly provides an infinite number of other sources of truth, such as truths based on the [0m[1m[31mscience[0ms, not to mention ones based on belief (and by belief I don't mean just religious belief, which some people don't endorse, but belief in authorities, on which all people rely). And I don't mean just official sources like "Mathematically True" (or even as "It's in the Bible") - for example, a child may have "My father told me so" as a legitimate concept of truth, and there can be a million other nameless sources with a varying degree of complexity. Each of them brings with itself its own notion of objects (such as "one", "God", and "apple") a sets of logical operations for these objects ("plus", "sin", "eat"). In other words it brings a completely separate *logical system* which the brain can utilize in a given context. 
+[0m[32m82[0m:> Real-world [0m[1m[31mscience[0m can almost always be expected to be inconsistent - simply because each scientific theory is a "local" approximation, and theories developed for different areas of the same [0m[1m[31mscience[0m are not required to be mutually consistent in order to be useful. One (in)famous example is quantum mechanics and general relativity. [source](https://news.ycombinator.com/item?id=28669806)
+[0m[32m84[0m:All statements that the commenter expresses are correct, but there is a subtle mistake in their analysis - conflicting theories may be inconsistent with one another, but they are not consistent *by themselves*. The co-existence of two conflicting theories in [0m[1m[31mscience[0m does not make [0m[1m[31mscience[0m itself inconsistent. This is because each theory has it's own criteria for truth, which is irrelevant for other theories.
+
+[0m[35m_posts/blog/2033-01-01-logic-thought-communication.md[0m
+[0m[32m40[0m:So [0m[1m[31mscience[0m and mathematics  is art - this is not so obvious when studying math at an elementary level, because the feeling/intuition is mostly already there for you (as it is with elementary art, like folklore, for example) and you just have to memorize the language/notation, but it is obvious when studying more advanced theories that require more dedication.
+
+[0m[35m_posts/blog/2023-06-24-laplace.md[0m
+[0m[32m21[0m:This principle *seems* true (at least in the smaller-scale), but the main reason it gets so much attention is that all of [0m[1m[31mscience[0m is based on it (after all, [0m[1m[31mscience[0m is all about verification which is predicting the outcome of some experiments and natural phenomena). 
+
+[0m[35mbookmarks/buddha.md[0m
+[0m[32m34[0m:    What Anatta should be taken to mean in relation to philosophy of [0m[1m[31mscience[0m is more like �you should never have a prior that is non-updateable by sense data.� This immovable prior would be something like being convinced that one had penetrated to the real �essence� of something. In practice it would be taking our successively better models of control with a grain of salt so that we don�t shit a brick when they suddenly fail out in the tails (tails come apart!). My sense of why this happens in the first place is that if we�re going to be propagating lossy compressions for efficiency anyway, then it would be really nice to just be able to multiply by one or zero rather than some point estimate or, even worse, trying to properly combine full distributions. This probably isn�t a big deal in the short term, but by default we have too many zeros and ones as placeholders in the belief network at a super low level. This is just another way of saying that we seem to reify things in an improper manner, leading to problems where higher level representations don�t orient our attention properly towards real causal levers. This sort of pretending that lossy compressions are actually lossless (X is Y) probably contributes to our transfer learning, but Awake people seem if anything above average at using metaphors to illustrate causal relations while not getting confused by them.
+
+[0m[35m_posts/blog/2018-02-12-pure-reason.md[0m
+[0m[32m24[0m:Philosophy is a strange beast - its position as kind of a middle ground between [0m[1m[31mscience[0m and, literature (or religion, as per Bertrand Russell) makes it, in some respects, harder than both of these disciplines - unlike novels and scientific paradigms, no philosophical work can be viewed by itself. So the only way to go forward is to go deeper into the rabbit hole. Here are some things that you definitely have to know about in order to read this book.
+[0m[32m39[0m:Roughly speaking where rationalists placed *religion* and faith, the empiricists placed *[0m[1m[31mscience[0m* and observation.
+[0m[32m57[0m:It is not that Heraclitus's thoughts don't make sense. But theories which make sense by themselves are not the same as theories which help us to make sense of the world. A theory which does both of these things is a true [0m[1m[31mscience[0m, provided it only operates in its own (usually very limited) scope (Darwin's theory of evolution is scientific only when we talk about animal species, not human societies, for example). A theory which allows us to make sense of the world without itself making sense can be a religion or another kind culture-shaping doctrine.
+[0m[32m70[0m:And because the only way for us humans to know something is to perceive it, we must begin our quest for *transcendental knowledge* with the [0m[1m[31mscience[0m of *transcendental perception* or as it is also called *transcendental aesthetics*. 
+[0m[32m102[0m:The [0m[1m[31mscience[0m that deals with the way we think is, of course, called *logic*. Logic can be *general* and can be *specific to some domain* like accounting, biology etc. And the general logic, we can divide to *pure* and *applied* where the applied part is everything that is related to the human mind as such (the psychological part, so to say). Taking away all else, pure logic contains just a few fundamentals that we know a priori and are essential to the way we think. Pure logic is, therefore, synonymous with "first order" logic - a fact which is proven (as much as it can be) by Kurt Godel in his *completeness theorem*. Therefore, these a priori concepts are the concept of a negation, the *AND* and *OR* operators and, of course, the *forall... there exists* structure which allows us to define functions.
+[0m[32m104[0m:Is pure logic also *transcendental*, in the sense of the word that we used when we talked about transcendental aesthetics - a prerequisite for a priori knowledge? Not quite, since, as we said earlier, logic does not constitute knowledge. That is, logically-correct statements are not necessarily true. Transcendental logic is, then, is pure logic but only insofar it is related to objects of sensibility i.e. it is the [0m[1m[31mscience[0m of understanding. 
+[0m[32m393[0m:A concept is *possible* only when it doesn't contradict our intuition (e.g. the laws of math, logic, [0m[1m[31mscience[0m etc.) But possibility itself does not guarantee that the concept exists (the only concepts that exist just because of their possibility are the pure concepts of understanding). In order to confirm that it exist i.e. that it is *actual*, we must seek an instance of it. And the only place where we can do that is in experience, because there is no other way for us to perceive anything. Finally, there are thing that must be true, as a precondition of what we actually see, these things must be true *necessarily*.
+
+[0m[35m_posts/microblog/philosophy/2022-07-09-strong-ai-godel.md[0m
+[0m[32m5[0m:tags: philosophy [0m[1m[31mscience[0m cs logic
+
+[0m[35m_posts/microblog/philosophy/2023-03-09-good-theories.md[0m
+[0m[32m5[0m:tags: [0m[1m[31mscience[0m philosophy
+[0m[32m8[0m:Whenever I think about good physical theories, I immediately  think of Boltzmann's statistical mechanics, not because he basically discovered the [0m[1m[31mscience[0m of atoms and molecules, but simply because every time I see an ice cube in a glass, I see the particles, the Brownian motion, the way the heat and coldness dissolve etc.
+
+[0m[35m_posts/microblog/philosophy/2023-07-09-second-incompleteness-theorem.md[0m
+[0m[32m5[0m:tags: [0m[1m[31mscience[0m cs mathematics
+
+[0m[35m_posts/microblog/philosophy/2023-04-09-cs-hard.md[0m
+[0m[32m2[0m:title: Hard things in computer [0m[1m[31mscience[0m
+[0m[32m5[0m:tags: programming [0m[1m[31mscience[0m joke cs
+[0m[32m8[0m:Finally got the final list of the three hard things in computer [0m[1m[31mscience[0m: 
+
+[0m[35m_posts/microblog/philosophy/2022-08-09-science-philosophy-math.md[0m
+[0m[32m5[0m:tags: philosophy [0m[1m[31mscience[0m mathematics
+[0m[32m16[0m:So [0m[1m[31mscience[0m is mathematics + a little philosophy. This came because I learned that when writing “Principia Mathematica”, Newton was influenced by two books - “Principia Philosophiæ” by Rene Desca is no other way for us to perceive anything. Finally, there are thing that must be true, as a precondition of what we actually see, these things must be true *necessarily*.
+
+[0m[35m_posts/microblog/philosophy/2022-07-09-strong-ai-godel.md[0m
+[0m[32m5[0m:tags: philosophy [0m[1m[31mscience[0m cs logic
+
+[0m[35m_posts/microblog/philosophy/2023-03-09-good-theories.md[0m
+[0m[32m5[0m:tags: [0m[1m[31mscience[0m philosophy
+[0m[32m8[0m:Whenever I think about good physical theories, I immediately  think of Boltzmann's statistical mechanics, not because he basically discovered the [0m[1m[31mscience[0m of atoms and molecules, but simply because every time I see an ice cube in a glass, I see the particles, the Brownian motion, the way the heat and coldness dissolve etc.
+
+[0m[35m_posts/microblog/philosophy/2023-07-09-second-incompleteness-theorem.md[0m
+[0m[32m5[0m:tags: [0m[1m[31mscience[0m cs mathematics
+
+[0m[35m_posts/microblog/philosophy/2023-04-09-cs-hard.md[0m
+[0m[32m2[0m:title: Hard things in computer [0m[1m[31mscience[0m
+[0m[32m5[0m:tags: programming [0m[1m[31mscience[0m joke cs
+[0m[32m8[0m:Finally got the final list of the three hard things in computer [0m[1m[31mscience[0m: 
+
+[0m[35m_posts/microblog/philosophy/2022-08-09-science-philosophy-math.md[0m
+[0m[32m5[0m:tags: philosophy [0m[1m[31mscience[0m mathematics
+[0m[32m16[0m:So [0m[1m[31mscience[0m is mathematics + a little philosophy. This came because I learned that when writing “Principia Mathematica”, Newton was influenced by two books - “Principia Philosophiæ” by Rene Descartes, from which he took the subject matter (and the name) and “The Elements” by Euclid, from which he took the method of reasoning.
+
+[0m[35mtags/science.html[0m
+[0m[32m2[0m:tag: [0m[1m[31mscience[0m
+
+[0m[35m_posts/microblog/philosophy/2023-01-09-short-history-philosophy.md[0m
+[0m[32m14[0m:Meanwhile in the realm of [0m[1m[31mscience[0m:
+
+[0m[35m_posts/microblog/misc/2023-11-23-good-theories.md[0m
+[0m[32m8[0m:Whenever I think about good physical theories, I immediately  think of Boltzmann's statistical mechanics (the theory of entropy, you can say), not because he basically discovered the [0m[1m[31mscience[0m of atoms and molecules, but simply because every time I see an ice cube in a glass, I see the particles, the Brownian motion, the way the heat and coldness dissolve etc.
+
+[0m[35mbookmarks/continuous.md[0m
+[0m[32m67[0m:While difficult (if not impossible) to construct physically without already having some other universal model of computation like a Turing Machine, Lambda Calculus expresses the same set of algorithms that can be run on a Turing Machine (or any other universal model). It was not intuitive to me, at first, how one would use such a simple system to replicate all types of computation. After all, it was far easier as a human to reason about things like numbers, lists, trees, boolean algebra, and other useful concepts in computer [0m[1m[31mscience[0m on a Turing Machine which was much closer to pen and paper than this new abstract world.
+[0m[32m170[0m:This was a watershed moment in the intersection of mathematics and computer [0m[1m[31mscience[0m, allowing for mathematical theorem proving software. In particular, a specific typed lambda calculus λC
+
+[0m[35mbookmarks/lambda.md[0m
+[0m[32m222[0m:lemoine: Neuroscientists have figured out some of how to do that. It�s a young [0m[1m[31mscience[0m but we�re much better at telling what a human is feeling based on their neural activations than we are at telling what you are feeling based on your neural activations.
+
+[0m[35mfeed-aggregator.md[0m
+[0m[32m796[0m:Ben Recht, a computer [0m[1m[31mscience[0m professor at UC Berkeley, recently wrapped up a 3-month series of blog posts on Paul Meehl’s “Philosophical Psychology.” Recht has a table of contents for his blog series. It loosely tracks a set of lectures that Meehl...
+[0m[32m855[0m:[(Excerpted transcript) Kenneth Stanley on MLST – AI: Is it [0m[1m[31mscience[0m or art?](http://proses.id/mlst-ks-[0m[1m[31mscience[0m-art/)
+[0m[32m860[0m:Kenneth Stanley (KS): … there’s this duality…. in the way i think about [0m[1m[31mscience[0m and engineering. … the two sides of a coin where scientists…
+[0m[32m1316[0m:Before I discovered math, I was a first year undergrad computer [0m[1m[31mscience[0m student taking Electrical Engineering 101. The first topic I learned was what bits and boolean gates are, and the second was the two’s complement representation of a negative...
+[0m[32m2212[0m:Here’s a thread from a few weeks ago, explaining an interesting but underexplored overlap between a theoretical problem in philosophy and a practical problem in computer [0m[1m[31mscience[0m: Okay, it looks like I’m going to have to explain my take on the...
+[0m[32m3124[0m:The singular value decomposition (SVD) of a matrix is a fundamental tool in computer [0m[1m[31mscience[0m, data analysis, and statistics. It’s used for all kinds of applications from regression to prediction, to finding approximate solutions to optimization...
+[0m[32m3140[0m:2010–2011 (Year 0) I had just switched my major at Cal Poly State University from computer [0m[1m[31mscience[0m to math. I wanted to double major but California was in a budget crisis and a few weeks before I tried submitting my double-major request the Provost...
+[0m[32m3188[0m:Math and computer [0m[1m[31mscience[0m are full of inequalities, but there is one that shows up more often in my work than any other. Of course, I’m talking about $$\displaystyle 1+x \leq e^{x}$$ This is The Inequality. I’ve been told on many occasions that the...
+[0m[32m3372[0m:satellite One of the most interesting questions posed in the last thirty years of computer [0m[1m[31mscience[0m is to ask how much “information” must be communicated between two parties in order for them to jointly compute something. One can imagine these two...
+[0m[32m3452[0m:Optimization is by far one of the richest ways to apply computer [0m[1m[31mscience[0m and mathematics to the real world. Everybody is looking to optimize something: companies want to maximize profits, factories want to maximize efficiency, investors want to...
+[0m[32m3511[0m:[Want to make a great puzzle game? Get inspired by theoretical computer [0m[1m[31mscience[0m.](https://www.jeremykun.com/2014/03/17/want-to-make-a-great-puzzle-game-get-inspired-by-theoretical-computer-[0m[1m[31mscience[0m/)
+[0m[32m3572[0m:This is a guest post by my friend and colleague Adam Lelkes. Adam’s interests are in algebra and theoretical computer [0m[1m[31mscience[0m. This gem came up because Adam gave a talk on probabilistic computation in which he discussed this technique. Problem:...
+[0m[32m3588[0m:This is a guest post by my friend and colleague Adam Lelkes. Adam’s interests are in algebra and theoretical computer [0m[1m[31mscience[0m. This gem came up because Adam gave a talk on probabilistic computation in which he discussed this technique. Problem:...
+[0m[32m3628[0m:In tackling machine learning (and computer [0m[1m[31mscience[0m in general) we face some deep philosophical questions. Questions like, “What does it mean to learn?” and, “Can a computer learn?” and, “How do you define simplicity?” and, “Why does Occam’s Razor...
+[0m[32m3924[0m:The graph is among the most common data structures in computer [0m[1m[31mscience[0m, and it’s unsurprising that a staggeringly large amount of time has been dedicated to developing algorithms on graphs. Indeed, many problems in areas ranging from sociology,...
+[0m[32m4180[0m:Problem: Prove that generalized versions of Mario Brothers, Metroid, Donkey Kong, Pokemon, and Legend of Zelda are NP-hard. Solution: http://arxiv.org/abs/1203.1895v1 Discussion: Three researchers (including Erik Demaine, a computer [0m[1m[31mscience[0m...
+[?2004h[0;32m✔[0;0m [0;33m~/pr/abuseofnotation.github.io[
