@@ -158,25 +158,6 @@ MellMono-Italic.otf             [0m[01;31msans.zip[0m
 
 [0m[35m_posts/microblog/philosophy/2022-08-09-science-philosophy-math.md[0m
 [0m[32m5[0m:tags: philosophy [0m[1m[31mscience[0m mathematics
-[0m[32m16[0m:So [0m[1m[31mscience[0m is mathematics + a little philosophy. This came because I learned that when writing “Principia Mathematica”, Newton was influenced by two books - “Principia Philosophiæ” by Rene Desca is no other way for us to perceive anything. Finally, there are thing that must be true, as a precondition of what we actually see, these things must be true *necessarily*.
-
-[0m[35m_posts/microblog/philosophy/2022-07-09-strong-ai-godel.md[0m
-[0m[32m5[0m:tags: philosophy [0m[1m[31mscience[0m cs logic
-
-[0m[35m_posts/microblog/philosophy/2023-03-09-good-theories.md[0m
-[0m[32m5[0m:tags: [0m[1m[31mscience[0m philosophy
-[0m[32m8[0m:Whenever I think about good physical theories, I immediately  think of Boltzmann's statistical mechanics, not because he basically discovered the [0m[1m[31mscience[0m of atoms and molecules, but simply because every time I see an ice cube in a glass, I see the particles, the Brownian motion, the way the heat and coldness dissolve etc.
-
-[0m[35m_posts/microblog/philosophy/2023-07-09-second-incompleteness-theorem.md[0m
-[0m[32m5[0m:tags: [0m[1m[31mscience[0m cs mathematics
-
-[0m[35m_posts/microblog/philosophy/2023-04-09-cs-hard.md[0m
-[0m[32m2[0m:title: Hard things in computer [0m[1m[31mscience[0m
-[0m[32m5[0m:tags: programming [0m[1m[31mscience[0m joke cs
-[0m[32m8[0m:Finally got the final list of the three hard things in computer [0m[1m[31mscience[0m: 
-
-[0m[35m_posts/microblog/philosophy/2022-08-09-science-philosophy-math.md[0m
-[0m[32m5[0m:tags: philosophy [0m[1m[31mscience[0m mathematics
 [0m[32m16[0m:So [0m[1m[31mscience[0m is mathematics + a little philosophy. This came because I learned that when writing “Principia Mathematica”, Newton was influenced by two books - “Principia Philosophiæ” by Rene Descartes, from which he took the subject matter (and the name) and “The Elements” by Euclid, from which he took the method of reasoning.
 
 [0m[35mtags/science.html[0m
@@ -212,4 +193,398 @@ MellMono-Italic.otf             [0m[01;31msans.zip[0m
 [0m[32m3628[0m:In tackling machine learning (and computer [0m[1m[31mscience[0m in general) we face some deep philosophical questions. Questions like, “What does it mean to learn?” and, “Can a computer learn?” and, “How do you define simplicity?” and, “Why does Occam’s Razor...
 [0m[32m3924[0m:The graph is among the most common data structures in computer [0m[1m[31mscience[0m, and it’s unsurprising that a staggeringly large amount of time has been dedicated to developing algorithms on graphs. Indeed, many problems in areas ranging from sociology,...
 [0m[32m4180[0m:Problem: Prove that generalized versions of Mario Brothers, Metroid, Donkey Kong, Pokemon, and Legend of Zelda are NP-hard. Solution: http://arxiv.org/abs/1203.1895v1 Discussion: Three researchers (including Erik Demaine, a computer [0m[1m[31mscience[0m...
-[?2004h[0;32m✔[0;0m [0;33m~/pr/abuseofnotation.github.io[
+[?2004h[0;32m✔[0;0m [0;33m~/pr/abuseofnotation.github.io[0;0m [[0;35mmaster[0;0m|[0;34m✚ 327[0;0m[0;0m] 
+[0;37m17:29[0;0m $ rg science *[K[K*[K.&[K*philosophy
+[?2004l[0m[35m_posts/microblog/philosophy/2023-03-09-good-theories.md[0m
+[0m[32m5[0m:tags: [0m[1m[31mscience philosophy[0m
+
+[0m[35m_posts/microblog/philosophy/2022-08-09-science-philosophy-math.md[0m
+[0m[32m16[0m:So [0m[1m[31mscience is mathematics + a little philosophy[0m. This came because I learned that when writing “Principia Mathematica”, Newton was influenced by two books - “Principia Philosophiæ” by Rene Descartes, from which he took the subject matter (and the name) and “The Elements” by Euclid, from which he took the method of reasoning.
+[?2004h[0;32m✔[0;0m [0;33m~/pr/abuseofnotation.github.io[0;0m [[0;35mmaster[0;0m|[0;34m✚ 327[0;0m[0;0m] 
+[0;37m17:29[0;0m $ 
+[?2004l[?2004h[0;32m✔[0;0m [0;33m~/pr/abuseofnotation.github.io[0;0m [[0;35mmaster[0;0m|[0;34m✚ 327[0;0m[0;0m] 
+[0;37m10:47[0;0m $ 
+[?2004l[?2004h[0;32m✔[0;0m [0;33m~/pr/abuseofnotation.github.io[0;0m [[0;35mmaster[0;0m|[0;34m✚ 327[0;0m[0;0m] 
+[0;37m10:47[0;0m $ 
+[?2004l[?2004h[0;32m✔[0;0m [0;33m~/pr/abuseofnotation.github.io[0;0m [[0;35mmaster[0;0m|[0;34m✚ 327[0;0m[0;0m] 
+[0;37m10:47[0;0m $ rg science.*philosophy[K[C[C[C[C[C[C[C[Cls[K[K[Kvim /logs[K[K[K[K[K[K[Km /[K~/.[Klog/
+daily-jobs.log     feed-generate.log  
+[0;32m✔[0;0m [0;33m~/pr/abuseofnotation.github.io[0;0m [[0;35mmaster[0;0m|[0;34m✚ 327[0;0m[0;0m] 
+[0;37m10:47[0;0m $ vim ~/log/daily-jobs.log 
+[?2004l[?1049h[22;0;0t[?1h=[H[2J]11;?[?2004h[?u[c[?25h[?25l(B[m[H[2J[>4;2m[?1004h[?25h[?25l[93m     1 (B[mWhile Newton seemed to draw off the veil from some of the m[93m       (B[mysteries of nature, he showed at the same time the imperfec[93m       (B[mtions of the mechanical philosophy, so agreeable to the nat[93m       (B[mural vanity and curiosity of men; and thereby restored her [93m       (B[multimate secrets to that obscurity, in which they ever did [93m       (B[mand ever will remain. https://abuseofnotation.github.io/tim[93m       (B[me/09/[K
+[93m     2 (B[mWarning: skip unknown form field: and thereby restored her [93m       (B[multimate secrets to [K
+[93m     3 (B[mWarning: that obscurity, in which they ever did and ever wi[93m       (B[mll remain.[K
+[93m     4 (B[m[K
+[93m     5 (B[mWarning: https://abuseofnotation.github.io/time/09/[K
+[93m     6 (B[m  % Total    % Received % Xferd  Average Speed   Time    Ti[93m       (B[mme     Time  Current[K
+[93m     7 (B[m                                 Dload  Upload   Total   Sp[93m       (B[ment    Left  Speed[K
+[93m     8 (B[m[38;5;81m^M(B[m  0     0    0     0    0     0      0      0 --:--:-- --[93m       (B[m:--:-- --:--:--     0{"id":"111069074851199231","created_at[93m       (B[m":"2023-09-15T12:06:24.521Z","in_reply_to_id":null,"in_repl[93m       (B[my_to_account_id":null,"sensitive":false,"spoiler_text":"","[93m       (B[mvisibility":"public","language":"en","uri":"https://aethy.c[93m       (B[mom/users/abuseofnotation/statuses/111069074851199231","url"[93m       (B[m:"https://aethy.com/@abuseofnotation/111069074851199231","r[93m       (B[meplies_count":0,"reblogs_count":0,"favourites_count":0,"edi[93m       (B[mted_at":null,"favourited":false,"reblogged":false,"muted":f[93m       (B[malse,"bookmarked":false,"pinned":false,"local_only":false,"[93m       (B[mcontent":"\u003cp\u003eWhile Newton seemed to draw off the [93m       (B[mveil from some of the mysteries of nature, he showed at the[93m       (B[m same time the imperfections of the mechanical philosophy, [93m       (B[mso agreeable to the natural vanity and curiosity of men\u00[93m       (B[m3c/p\u003e","filtered":[],"reblog":null,"application":{"nam[93m       (B[me":"bash","website":null},"account":{"id":"1098224822440872[93m       (B[m71","username":"abuseofnotation","acct":"abuseofnotation","[34;64H[94m@@@
+(B[0;1;7m~/log/daily-jobs.log                            1,1            Top]112[2 q]112[2 q[?1002h[?1006h[1;8H[?25h[?25l[37;56H(B[mG         [1;8H[?25h[?25l[37;56H [H[93m809386 (B[mWarning: skip unknown form field: they allow us to make (so[93m       (B[mmetimes incorrect [K
+[93m809387 (B[mWarning: but useful) predictions about our world. -- [K
+[93m809388 (B[mWarning: https://abuseofnotation.github.io/time/06/index.ht[93m       (B[mml[56X
+[93m809389 (B[m  % Total    % Received % Xferd  Average Speed   Time    Ti[93m       (B[mme     Time  Current
+[93m809390 (B[m                                 Dload  Upload   Total   Sp[93m       (B[ment    Left  Speed 
+[93m809391 (B[m[38;5;81m^M(B[m  0     0    0     0    0     0      0      0 --:--:-- --[93m       (B[m:--:-- --:--:--     0[38;5;81m^M(B[m  0     0    0     0    0     0[4C [93m       (B[m 0      0 --:--:--  0:00:01 --:--:--     0[38;5;81m^M(B[m  0     0    0 [93m       (B[m    0    0     0      0      0 --:--:--  0:00:02 --:--:--[C [93m       (B[m   0[38;5;81m^M(B[m  0     0    0     0    0     0      0      0 --:--:-[93m       (B[m-  0:00:03 --:--:--     0[38;5;81m^M(B[m  0     0    0     0    0     0 [93m       (B[m     0      0 --:--:--  0:00:04 --:--:--     0[38;5;81m^M(B[m  0     0  [93m       (B[m  0     0    0     0      0      0 --:--:--  0:00:05 --:--:[93m       (B[m--     0[38;5;81m^M(B[m  0     0    0     0    0     0      0      0 --:[93m       (B[m--:--  0:00:06 --:--:--     0[38;5;81m^M(B[m  0     0    0     0    0   [93m       (B[m  0      0      0 --:--:--  0:00:07 --:--:--     0[38;5;81m^M(B[m  0    [93m       (B[m 0    0     0    0     0      0      0 --:--:--  0:00:08 --[93m       (B[m:--:--     0[38;5;81m^M(B[m  0     0    0     0    0     0      0      0[93m       (B[m --:--:--  0:00:09 --:--:--     0[38;5;81m^M(B[m  0     0    0     0    [93m       (B[m0     0      0      0 --:--:--  0:00:09 --:--:--     0[K
+[93m809392 (B[mcurl: (35) Recv failure: Connection reset by peer[K
+[93m809393 (B[m/home/bobby/bin/daily-jobs: line 7: node: command not found
+[93m809394 (B[mAlready up to date.[K
+[93m809395 (B[m[main 1f57e28] stuff[38X
+[93m809396 (B[m 1 file changed, 215 insertions(+)[K
+[93m809397 (B[mTo github.com:abuseofnotation/static-feed-aggregator.git  
+[93m809398 (B[m   2b999a5..1f57e28  main -> main[K
+[94m~[K
+~[K
+~[K[35;49H(B[0;1;7m809398,1       Bot[31;8H[?25h[?25l[37;56H(B[mgk[31;8H[?25h[?25l[37;56H  [35;54H(B[0;1;7m7[30;8H[?25h[?25l[37;56H(B[mgk[30;8H[?25h[?25l[37;56H  [35;54H(B[0;1;7m6[29;8H[?25h[?25l[37;56H(B[mgk[29;8H[?25h[?25l[37;56H  [28;8H[46m[(B[mmain 1f57e28[46m][35;54H(B[0;1;7m5[28;8H[?25h[?25l[37;56H(B[mgk[28;8H[?25h[?25l[37;56H  [28;8H[main 1f57e28][35;54H(B[0;1;7m4[27;8H[?25h[?25l[37;56H(B[mgk[27;8H[?25h[?25l[37;56H  [35;54H(B[0;1;7m3[26;8H[?25h[?25l[37;56H(B[mgk[26;8H[?25h[?25l[37;56H  [35;54H(B[0;1;7m2[25;8H[?25h[?25l[37;56H(B[mw[25;8H[?25h[?25l[37;56H [35;56H(B[0;1;7m5[25;12H[?25h[?25l[37;56H(B[mw[25;12H[?25h[?25l[37;56H [25;14H[46m((B[m35[46m)[35;56H(B[0;1;7m7[25;14H[?25h[?25l[37;56H(B[mw[25;14H[?25h[?25l[37;56H [25;14H(35)[35;56H(B[0;1;7m8[25;15H[?25h[?25l[37;56H(B[mw[25;15H[?25h[?25l[37;56H [25;14H[46m((B[m35[46m)[35;56H(B[0;1;7m10[25;17H[?25h[?25l[37;56H(B[mw[25;17H[?25h[?25l[37;56H [25;14H(35)[35;57H(B[0;1;7m2[25;19H[?25h[?25l[37;56H(B[mw[25;19H[?25h[?25l[37;56H [A[A(B[0;1;7m7[25;24H[?25h[?25l[37;56H(B[mw[25;24H[?25h[?25l[37;56H [35;56H(B[0;1;7m24[25;31H[?25h[?25l[37;56H(B[mw[25;31H[?25h[?25l[37;56H [A[A(B[0;1;7m6[25;33H[?25h[?25l[37;56H(B[mw[25;33H[?25h[?25l[37;56H [35;56H(B[0;1;7m37[25;44H[?25h[?25l[37;56H(B[mw[25;44H[?25h[?25l[37;56H [35;56H(B[0;1;7m43[25;50H[?25h[?25l[37;56H(B[mw[25;50H[?25h[?25l[37;56H [A[A(B[0;1;7m6[25;53H[?25h[?25l[37;56H(B[mw[25;53H[?25h[?25l[37;56H [35;54H(B[0;1;7m3,1 [26;8H[?25h[?25l[37;56H(B[mw[26;8H[?25h[?25l[37;56H [35;56H(B[0;1;7m2[26;9H[?25h[?25l[37;56H(B[mw[26;9H[?25h[?25l[37;56H [35;56H(B[0;1;7m6[26;13H[?25h[?25l[37;56H(B[mw[26;13H[?25h[?25l[37;56H [35;56H(B[0;1;7m7[26;14H[?25h[?25l[37;56H(B[mw[26;14H[?25h[?25l[37;56H [35;56H(B[0;1;7m12[26;19H[?25h[?25l[37;56H(B[mw[26;19H[?25h[?25l[37;56H [A[A(B[0;1;7m3[26;20H[?25h[?25l[37;56H(B[mw[26;20H[?25h[?25l[37;56H [A[A(B[0;1;7m6[26;23H[?25h[?25l[37;56H(B[mw[26;23H[?25h[?25l[37;56H [A[A(B[0;1;7m7[26;24H[?25h[?25l[37;56H(B[mw[26;24H[?25h[?25l[37;56H [35;56H(B[0;1;7m22[26;29H[?25h[?25l[37;56H(B[mw[26;29H[?25h[?25l[37;56H [A[A(B[0;1;7m3[26;30H[?25h[?25l[37;56H(B[mw[26;30H[?25h[?25l[37;56H [A[A(B[0;1;7m7[26;34H[?25h[?25l[37;56H(B[mw[26;34H[?25h[?25l[37;56H [A[A(B[0;1;7m9[26;36H[?25h[?25l[37;56H(B[mw[26;36H[?25h[?25l[37;56H [35;56H(B[0;1;7m34[26;41H[?25h[?25l[37;56H(B[mw[26;41H[?25h[?25l[37;56H [A[A(B[0;1;7m5[26;42H[?25h[?25l[37;56H(B[mw[26;42H[?25h[?25l[37;56H [A[A(B[0;1;7m7[26;44H[?25h[?25l[37;56H(B[mw[26;44H[?25h[?25l[37;56H [35;56H(B[0;1;7m41[26;48H[?25h[?25l[37;56H(B[mw[26;48H[?25h[?25l[37;56H [A[A(B[0;1;7m3[26;50H[?25h[?25l[37;56H(B[mw[26;50H[?25h[?25l[37;56H [35;56H(B[0;1;7m51[9A[?25h[?25l[37;56H(B[mw[26;58H[?25h[?25l[37;56H [A[A(B[0;1;7m5[H[?25h[?25l[37;56H(B[mw[25;50H[?25h[?25l[37;56H [A[A(B[0;1;7m6[25;53H[?25h[?25l[37;56H(B[mw[25;53H[?25h[?25l[37;56H [35;54H(B[0;1;7m3,1 [26;8H[?25h[?25l[37;56H(B[mw[26;8H[?25h[?25l[37;56H [35;56H(B[0;1;7m2[26;9H[?25h[?25l[37;56H(B[mw[26;9H[?25h[?25l[37;56H [35;56H(B[0;1;7m6[26;13H[?25h[?25l[37;56H(B[mw[26;13H[?25h[?25l[37;56H [35;56H(B[0;1;7m7[26;14H[?25h[?25l[37;56H(B[mw[26;14H[?25h[?25l[37;56H [35;56H(B[0;1;7m12[26;19H[?25h[?25l[37;56H(B[mw[26;19H[?25h[?25l[37;56H [A[A(B[0;1;7m3[26;20H[?25h[?25l[37;56H(B[mw[26;20H[?25h[?25l[37;56H [A[A(B[0;1;7m6[26;23H[?25h[?25l[37;56H(B[mw[26;23H[?25h[?25l[37;56H [A[A(B[0;1;7m7[26;24H[?25h[?25l[37;56H(B[mw[26;24H[?25h[?25l[37;56H [35;56H(B[0;1;7m22[26;29H[?25h[?25l[37;56H(B[mw[26;29H[?25h[?25l[37;56H [A[A(B[0;1;7m3[26;30H[?25h[?25l[37;56H(B[mw[26;30H[?25h[?25l[37;56H [A[A(B[0;1;7m7[26;34H[?25h[?25l[37;56H(B[mw[26;34H[?25h[?25l[37;56H [A[A(B[0;1;7m9[26;36H[?25h[?25l[37;56H(B[mw[26;36H[?25h[?25l[37;56H [35;56H(B[0;1;7m34[26;41H[?25h[?25l[37;56H(B[mw[26;41H[?25h[?25l[37;56H [A[A(B[0;1;7m5[26;42H[?25h[?25l[37;56H(B[mw[26;42H[?25h[?25l[37;56H [A[A(B[0;1;7m7[26;44H[?25h[?25l[37;56H(B[mw[26;44H[?25h[?25l[37;56H [35;56H(B[0;1;7m41[26;48H[?25h[?25l[37;56H(B[mw[26;48H[?25h[?25l[37;56H [A[A(B[0;1;7m3[26;50H[?25h[?25l[37;56H(B[mw[26;50H[?25h[?25l[37;56H [35;56H(B[0;1;7m51[9A[?25h[?25l[37;56H(B[mw[26;58H[?25h[?25l[37;56H [A[A(B[0;1;7m5[26;62H[?25h[?25l[37;56H(B[mb[26;62H[?25h[?25l[37;56H [A[A(B[0;1;7m1[9A[?25h[?25l[37;56H(B[mb[26;58H[?25h[?25l[37;56H [35;56H(B[0;1;7m43[26;50H[?25h[?25l[37;56H(B[mb[26;50H[?25h[?25l[37;56H [A[A(B[0;1;7m1[26;48H[?25h[?25l[37;56H(B[mb[26;48H[?25h[?25l[37;56H [35;56H(B[0;1;7m37[26;44H[?25h[?25l[37;56H(B[mb[26;44H[?25h[?25l[37;56H [A[A(B[0;1;7m5[26;42H[?25h[?25l[37;56H(B[mb[26;42H[?25h[?25l[37;56H [A[A(B[0;1;7m4[26;41H[?25h[?25l[37;56H(B[mb[26;41H[?25h[?25l[37;56H [35;56H(B[0;1;7m29[26;36H[?25h[?25l[37;56H(B[mb[26;36H[?25h[?25l[37;56H [A[A(B[0;1;7m7[26;34H[?25h[?25l[37;56H(B[mw[26;34H[?25h[?25l[37;56H [A[A(B[0;1;7m9[26;36H[?25h[?25l[37;56H(B[mw[26;36H[?25h[?25l[37;56H [35;56H(B[0;1;7m34[26;41H[?25h[?25l[37;56H(B[mw[26;41H[?25h[?25l[37;56H [A[A(B[0;1;7m5[26;42H[?25h[?25l[37;56H(B[mw[26;42H[?25h[?25l[37;56H [A[A(B[0;1;7m7[26;44H[?25h[?25l[37;56H(B[m*[26;44H[?25h[?25l[10B/\<node\>                                                         
+                                                     [K[A[?25h[?25l[38;5;224msearch hit BOTTOM, continuing at TOP[1;34r[H(B[m[31M[r[H[93m803970 (B[mf=\"https://abuseofnotation.github.io\" target=\"_blank\" r[93m       (B[mel=\"nofollow noopener noreferrer\" translate=\"no\"\u003e\[93m       (B[mu003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003[93m       (B[me\u003cspan class=\"\"\u003eabuseofnotation.github.io\u003c[93m       (B[m/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\[93m       (B[mu003e\u003c/a\u003e\u003c/p\u003e\u003cp\u003eThree bash sc[93m       (B[mripts in a trenchcoat - check here for the code: \u003ca hr[93m       (B[mef=\"https://github.com/abuseofnotation/bin\" target=\"_bla[93m       (B[mnk\" rel=\"nofollow noopener noreferrer\" translate=\"no\"\[93m       (B[mu003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/spa[93m       (B[mn\u003e\u003cspan class=\"\"\u003egithub.com/abuseofnotatio[93m       (B[mn/bin\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\[93m       (B[mu003c/span\u003e\u003c/a\u003e \u003c/p\u003e\u003cp\u003eI[93m       (B[m was created by  \u003ca href=\"https://mathstodon.xyz/@abu[93m       (B[mseofnotation\" target=\"_blank\" rel=\"nofollow noopener no[93m       (B[mreferrer\" translate=\"no\"\u003e\u003cspan class=\"invisib[93m       (B[mle\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"ellip[93m       (B[msis\"\u003emathstodon.xyz/@abuseofnotatio\u003c/span\u003e\[93m       (B[mu003cspan class=\"invisible\"\u003en\u003c/span\u003e\u003c[93m       (B[m/a\u003e - contact them if you have a problem with what am [93m       (B[mI tooting.\u003c/p\u003e","url":"https://aethy.com/@abuseof[93m       (B[mnotation","uri":"https://aethy.com/users/abuseofnotation","[93m       (B[mavatar":"https://cdn.aethy.com/accounts/avatars/109/822/482[93m       (B[m/244/087/271/original/6e631f4bf31f9e62.png","avatar_static"[93m       (B[m:"https://cdn.aethy.com/accounts/avatars/109/822/482/244/08[93m       (B[m7/271/original/6e631f4bf31f9e62.png","header":"https://cdn.[93m       (B[maethy.com/accounts/headers/109/822/482/244/087/271/original[93m       (B[m/e24303dbc12b65b5.png","header_static":"https://cdn.aethy.c[93m       (B[mom/accounts/headers/109/822/482/244/087/271/original/e24303[93m       (B[mdbc12b65b5.png","followers_count":12,"following_count":2,"s[93m       (B[mtatuses_count":494,"last_status_at":"2024-12-15","noindex":[93m       (B[mfalse,"emojis":[],"roles":[],"fields":[]},"media_attachment[93m       (B[ms":[],"mentions":[],"tags":[],"emojis":[],"reactions":[],"c[93m       (B[mard":null,"poll":null}/home/bobby/bin/daily-jobs: line 7: [30m[103mn[35;51H(B[0;1;7m3970,3841-3835  [34;66H[?25h[?25l[37;56H(B[m^[[34;66H[?25h[?25l[37;56H  [34;66H[?25h[?25l[37;56HG[34;66H[?25h[?25l[37;56H [1;3H[93m9386 (B[mWarning: skip unknown form field: they allow us to make (so[93m       (B[mmetimes incorrect [K
+[93m809387 (B[mWarning: but useful) predictions about our world. -- [K
+[93m809388 (B[mWarning: https://abuseofnotation.github.io/time/06/index.ht[93m       (B[mml[K
+[93m809389 (B[m  % Total    % Received % Xferd  Average Speed   Time    Ti[93m       (B[mme     Time  Current[K
+[93m809390 (B[m                                 Dload  Upload   Total   Sp[93m       (B[ment    Left  Speed[K
+[93m809391 (B[m[38;5;81m^M(B[m  0     0    0     0    0     0      0      0 --:--:-- --[93m       (B[m:--:-- --:--:--     0[38;5;81m^M(B[m  0     0    0     0    0     0     [93m       (B[m 0      0 --:--:--  0:00:01 --:--:--     0[38;5;81m^M(B[m  0     0    0 [93m       (B[m    0    0     0      0      0 --:--:--  0:00:02 --:--:--  [93m       (B[m   0[38;5;81m^M(B[m  0     0    0     0    0     0      0      0 --:--:-[93m       (B[m-  0:00:03 --:--:--     0[38;5;81m^M(B[m  0     0    0     0    0     0 [93m       (B[m     0      0 --:--:--  0:00:04 --:--:--     0[38;5;81m^M(B[m  0     0  [93m       (B[m  0     0    0     0      0      0 --:--:--  0:00:05 --:--:[93m       (B[m--     0[38;5;81m^M(B[m  0     0    0     0    0     0      0      0 --:[93m       (B[m--:--  0:00:06 --:--:--     0[38;5;81m^M(B[m  0     0    0     0    0   [93m       (B[m  0      0      0 --:--:--  0:00:07 --:--:--     0[38;5;81m^M(B[m  0    [93m       (B[m 0    0     0    0     0      0      0 --:--:--  0:00:08 --[93m       (B[m:--:--     0[38;5;81m^M(B[m  0     0    0     0    0     0      0      0[93m       (B[m --:--:--  0:00:09 --:--:--     0[38;5;81m^M(B[m  0     0    0     0    [93m       (B[m0     0      0      0 --:--:--  0:00:09 --:--:--     0[K
+[93m809392 (B[mcurl: (35) Recv failure: Connection reset by peer[K
+[93m809393 (B[m/home/bobby/bin/daily-jobs: line 7: [30m[103mnode(B[m: command not found
+[93m809394 (B[mAlready up to date.[K
+[93m809395 (B[m[main 1f57e28] stuff[K
+[93m809396 (B[m 1 file changed, 215 insertions(+)[K
+[93m809397 (B[mTo github.com:abuseofnotation/static-feed-aggregator.git[K
+[93m809398 (B[m   2b999a5..1f57e28  main -> main[K
+[94m~[K
+~[K
+~[K[35;51H(B[0;1;7m9398,33      Bot[31;40H[?25h[?25l[37;56H(B[mn[31;40H[?25h[?25l[5B/\<node\>                           [37;56H [A[?25h/p\u003e","url":"https://aethy.com/@abuseof[93m       (B[mnotation","uri":"https://aethy.com/users/abuseofnotation","[93m       (B[mavatar":"https://cdn.aethy.com/accounts/avatars/109/822/482[93m       (B[m/244/087/271/original/6e631f4bf31f9e62.png","avatar_static"[93m       (B[m:"https://cdn.aethy.com/accounts/avatars/109/822/482/244/08[93m       (B[m7/271/original/6e631f4bf31f9e62.png","header":"https://cdn.[93m       (B[maethy.com/accounts/headers/109/822/482/244/087/271/original[93m       (B[m/e24303dbc12b65b5.png","header_static":"https://cdn.aethy.c[93m       (B[mom/accounts/headers/109/822/482/244/087/271/original/e24303[93m       (B[mdbc12b65b5.png","followers_count":12,"following_count":2,"s[93m       (B[mtatuses_count":494,"last_status_at":"2024-12-15","noindex":[93m       (B[mfalse,"emojis":[],"roles":[],"fields":[]},"media_attachment[93m       (B[ms":[],"mentions":[],"tags":[],"emojis":[],"reactions":[],"c[93m       (B[mard":null,"poll":null}/home/bobby/bin/daily-jobs: line 7: [30m[103mn[35;51H(B[0;1;7m3970,3841-3835  [34;66H[?25h[?25l[37;56H(B[mn[34;66H[?25h[?25l
+
+/\<node\>                           [37;56H [A[?25h[?25l[37;48H[?/??][1;3H[93m4006 (B[m mode change 100644 => 100755 node_modules/bellajs/tea.yaml
+[93m804007 (B[m mode change 100644 => 100755 node_modules/cross-fetch/CHAN[93m       (B[mGELOG.md[K
+[93m804008 (B[m mode change 100644 => 100755 node_modules/cross-fetch/LICE[93m       (B[mNSE[K
+[93m804009 (B[m mode change 100644 => 100755 node_modules/cross-fetch/READ[93m       (B[mME.md[K
+[93m804010 (B[m mode change 100644 => 100755 node_modules/cross-fetch/dist[93m       (B[m/browser-polyfill.js[K
+[93m804011 (B[m mode change 100644 => 100755 node_modules/cross-fetch/dist[93m       (B[m/browser-ponyfill.js[K
+[93m804012 (B[m mode change 100644 => 100755 node_modules/cross-fetch/dist[93m       (B[m/cross-fetch.js[K
+[93m804013 (B[m mode change 100644 => 100755 node_modules/cross-fetch/dist[93m       (B[m/cross-fetch.js.map[K
+[93m804014 (B[m mode change 100644 => 100755 node_modules/cross-fetch/dist[93m       (B[m/[30m[103mnode(B[m-polyfill.js[K
+[93m804015 (B[m mode change 100644 => 100755 node_modules/cross-fetch/dist[93m       (B[m/[30m[103mnode(B[m-ponyfill.js[K
+[93m804016 (B[m mode change 100644 => 100755 node_modules/cross-fetch/dist[93m       (B[m/react-native-polyfill.js[K
+[93m804017 (B[m mode change 100644 => 100755 node_modules/cross-fetch/dist[93m       (B[m/react-native-ponyfill.js[K
+[93m804018 (B[m mode change 100644 => 100755 node_modules/cross-fetch/inde[93m       (B[mx.d.ts[K
+[93m804019 (B[m mode change 100644 => 100755 node_modules/cross-fetch/pack[93m       (B[mage.json[K
+[93m804020 (B[m mode change 100644 => 100755 node_modules/cross-fetch/poly[93m       (B[mfill/package.json[K
+[93m804021 (B[m mode change 100644 => 100755 node_modules/fast-xml-parser/[93m       (B[mCHANGELOG.md[K
+[93m804022 (B[m mode change 100644 => 100755 node_modules/fast-xml-parser/[93m       (B[mLICENSE[K
+[93m804023 (B[m mode change 100644 => 100755 node_modules/fast-xml-parser/[34;64H[94m@@@[35;51H(B[0;1;7m4014,61      99%[17;9H[?25h[?25l[37;56H(B[mG[17;9H[?25h[?25l[37;56H [1;3H[93m9386 (B[mWarning: skip unknown form field: they allow us to make (so[93m       (B[mmetimes incorrect [K
+[93m809387 (B[mWarning: but useful) predictions about our world. --[4;3H[93m9388 (B[mWarning: https://abuseofnotation.github.io/time/06/index.ht[93m       (B[mml [6;3H[93m9389 (B[m  % Total    % Received % Xferd  Average Speed   Time    Ti[93m       (B[mme     Time  Current[8;3H[93m9390 (B[m                                 Dload  Upload   Total   Sp[93m       (B[ment    Left  Speed  [10;3H[93m9391 (B[m[38;5;81m^M(B[m  0     0    0     0    0     0      0      0 --:--:-- --[93m       (B[m:--:-- --:--:--     0[38;5;81m^M(B[m  0     0    0     0    0     0[4C [93m       (B[m 0      0 --:--:--  0:00:01 --:--:--     0[38;5;81m^M(B[m  0     0    0 [93m       (B[m    0    0     0      0      0 --:--:--  0:00:02 --:--:--[C [93m       (B[m   0[38;5;81m^M(B[m  0     0    0     0    0     0      0      0 --:--:-[93m       (B[m-  0:00:03 --:--:--     0[38;5;81m^M(B[m  0     0    0     0    0     0 [93m       (B[m     0      0 --:--:--  0:00:04 --:--:--     0[38;5;81m^M(B[m  0     0  [93m       (B[m  0     0    0     0      0      0 --:--:--  0:00:05 --:--:[93m       (B[m--     0[38;5;81m^M(B[m  0     0    0     0    0     0      0      0 --:[93m       (B[m--:--  0:00:06 --:--:--     0[38;5;81m^M(B[m  0     0    0     0    0[C[C [93m       (B[m  0      0      0 --:--:--  0:00:07 --:--:--     0[38;5;81m^M(B[m  0    [93m       (B[m 0    0     0    0     0      0      0 --:--:--  0:00:08 --[93m       (B[m:--:--     0[38;5;81m^M(B[m  0     0    0     0    0     0      0      0[93m       (B[m --:--:--  0:00:09 --:--:--     0[38;5;81m^M(B[m  0     0    0     0[3C [93m       (B[m0     0      0      0 --:--:--  0:00:09 --:--:--     0[K
+[93m809392 (B[mcurl: (35) Recv failure: Connection reset by peer[26;3H[93m9393 (B[m/home/bobby/bin/daily-jobs: line 7: [30m[103mnode(B[m: command not found
+[93m809394 (B[mAlready up to date.[28;3H[93m9395 (B[m[main 1f57e28] stuff[K
+[93m809396 (B[m 1 file changed, 215 insertions(+)[30;3H[93m9397 (B[mTo github.com:abuseofnotation/static-feed-aggregator.git[K
+[93m809398 (B[m   2b999a5..1f57e28  main -> main
+[94m~[K
+~[K
+~[K[35;51H(B[0;1;7m9398,33      Bot[31;40H[?25h[?25l[37;56H(B[m:[31;40H[?25h[?25l[5B[9X[37;48H[9X[A:]112[2 q[?25h[?25lq[?25h[?25l[36;1H[?25h[?25l]112[2 q[?25h[?25l
+]112[2 q[?1002l[?1006l(B[m[?25h[?1l>[>4;0m[?1049l[23;0;0t[?2004l[?1004l[?25h[?2004h[0;32m✔[0;0m [0;33m~/pr/abuseofnotation.github.io[0;0m [[0;35mmaster[0;0m|[0;34m✚ 327[0;0m[0;0m] 
+[0;37m16:29[0;0m $ vim ~/.b[Kb[K[Kbin/di[Kaily-jobs 
+[?2004l[?1049h[22;0;0t[?1h=[H[2J]11;?[?2004h[?u[c[?25h[?25l(B[m[H[2J[>4;2m[93m  1 (B[m#!/usr/bin/env bash[K
+[93m  2 (B[m# web-random-page abuseofnotation.github.io/ | web-random-para[93m    (B[mgraph | toot[K
+[93m  3 (B[m[K
+[93m  4 (B[mweb-random-paragraph-from-page abuseofnotation.github.io/ | to[93m    (B[mot[K
+[93m  5 (B[m[K
+[93m  6 (B[mcd /home/bobby/pr/static-feed-aggregator[K
+[93m  7 (B[mcat feed-sites | node index.js > feeds.md[K
+[93m  8 (B[mgit push-stuff[K
+[93m  9 (B[m[K
+[93m 10 (B[m[K
+[94m~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+(B[0;1;7m~/bin/daily-jobs                                1,1            All]112[2 q]112[2 q[?1002h[?1006h[1;5H[?25h[?25l[?1004h[?25h[?25l[37;56H(B[m/         [1;5H[?25h[?25l[35B[K
+[J[A/]112[2 q[?25h[?25ln[?25h[?25l[1;14H(B[0;7mn(B[m/e[30m[103mn[2;13Hn(B[mdom-page abuseof[30m[103mn(B[motatio[30m[103mn(B[m.github.io/ | web-ra[30m[103mn[7C(B[ma[93m [5;11H(B[m[30m[103mn(B[mdom-paragraph-from-page abuseof[30m[103mn(B[motatio[30m[103mn[15C(B[mo[93m [9;22H(B[m[30m[103mn(B[mode i[30m[103mn[35;52H(B[0;1;7m0[36;3H[?25h[?25l(B[mo[?25h[?25l[1;14Hn/en[2;13Hndom-page abuseof(B[0;7mno(B[mtation.github.io/ | web-ran[7Ca[93m [5;11H(B[mndom-paragraph-from-page abuseof[30m[103mno(B[mtation[15Co[93m [9;23H(B[m[30m[103mo(B[mde in[35;49H(B[0;1;7m2,26[36;4H[?25h[?25l(B[md[?25h[?25l[2;30Hno[34Ca[93m [5;43H(B[mno[21Co[93m [9;22H(B[0;7mnod[35;49H(B[0;1;7m7,18[36;5H[?25h[?25l(B[me[?25h[?25l[33A[93m 
+
+
+ [9;25H(B[0;7me[36;6H[?25h[?25l[36;1H[?25h[?25l]112[2 q[?25h[?25l[37;49H(B[m[1/1][34A[93m 
+
+
+ [9;22H(B[m[30m[103mnode[?25h[?25l[37;56H(B[mn[9;22H[?25h[?25l[37;49H     [C[C [A[?25h[?25l[38;5;224msearch hit BOTTOM, continuing at TOP[36;1H(B[m/node                               [37;49H[1/1][9;22H[?25h[?25l[37;56Hn[9;22H[?25h[?25l[37;49H     [C[C [A[?25h[?25l[38;5;224msearch hit BOTTOM, continuing at TOP[36;1H(B[m/node                               [37;49H[1/1][9;22H[?25h[?25l[37;56Hn[9;22H[?25h[?25l[37;49H     [C[C [A[?25h[?25l[38;5;224msearch hit BOTTOM, continuing at TOP[36;1H(B[m/node                               [37;49H[1/1][9;22H[?25h[?25l[37;56Hn[9;22H[?25h[?25l[37;49H     [C[C [A[?25h[?25l[38;5;224msearch hit BOTTOM, continuing at TOP[36;1H(B[m/node                               [37;49H[1/1][9;22H[?25h[?25l[37;56Hn[9;22H[?25h[?25l[37;49H     [C[C [A[?25h[?25l[38;5;224msearch hit BOTTOM, continuing at TOP[36;1H(B[m/node                               [37;49H[1/1][9;22H[?25h[?25l[37;56Hn[9;22H[?25h[?25l[37;49H     [C[C [A[?25h[?25l[38;5;224msearch hit BOTTOM, continuing at TOP[36;1H(B[m/node                               [37;49H[1/1][9;22H[?25h[?25l[37;56Hn[9;22H[?25h[?25l[37;49H     [C[C [A[?25h[?25l[38;5;224msearch hit BOTTOM, continuing at TOP[36;1H(B[m/node                               [37;49H[1/1][9;22H[?25h[?25l[37;56Hn[9;22H[?25h[?25l[37;49H     [C[C [A[?25h[?25l[38;5;224msearch hit BOTTOM, continuing at TOP[36;1H(B[m/node                               [37;49H[1/1][9;22H[?25h[?25l[37;56Hn[9;22H[?25h[?25l[37;49H     [C[C [A[?25h[?25l[38;5;224msearch hit BOTTOM, continuing at TOP[36;1H(B[m/node                               [37;49H[1/1][9;22H[?25h[?25l[37;56Hn[9;22H[?25h[?25l[37;49H     [C[C [A[?25h[?25l[38;5;224msearch hit BOTTOM, continuing at TOP[36;1H(B[m/node                               [37;49H[1/1][9;22H[?25h[?25l[37;56Hn[9;22H[?25h[?25l[37;49H     [C[C [A[?25h[?25l[38;5;224msearch hit BOTTOM, continuing at TOP[36;1H(B[m/node                               [37;49H[1/1][9;22H[?25h[?25l[37;56Hn[9;22H[?25h[?25l[37;49H     [C[C [A[?25h[?25l[38;5;224msearch hit BOTTOM, continuing at TOP[36;1H(B[m/node                               [37;49H[1/1][9;22H[?25h[?25l[37;56Hn[9;22H[?25h[?25l[37;49H     [C[C [A[?25h[?25l[38;5;224msearch hit BOTTOM, continuing at TOP[36;1H(B[m/node                               [37;49H[1/1][9;22H[?25h[?25l[37;56Hn[9;22H[?25h[?25l[37;49H     [C[C [A[?25h[?25l[38;5;224msearch hit BOTTOM, continuing at TOP[36;1H(B[m/node                               [37;49H[1/1][9;22H[?25h[?25l[37;56Hn[9;22H[?25h[?25l[37;49H     [C[C [A[?25h[?25l[38;5;224msearch hit BOTTOM, continuing at TOP[36;1H(B[m/node                               [37;49H[1/1][9;22H[?25h[?25l[37;56Hn[9;22H[?25h[?25l[37;49H     [C[C [A[?25h[?25l[38;5;224msearch hit BOTTOM, continuing at TOP[36;1H(B[m/node                               [37;49H[1/1][9;22H[?25h[?25l[37;56Hn[9;22H[?25h[?25l[37;49H     [C[C [A[?25h[?25l[38;5;224msearch hit BOTTOM, continuing at TOP[36;1H(B[m/node                               [37;49H[1/1][9;22H[?25h[?25l[37;56Hn[9;22H[?25h[?25l[37;49H     [C[C [A[?25h[?25l[38;5;224msearch hit BOTTOM, continuing at TOP[36;1H(B[m/node                               [37;49H[1/1][9;22H[?25h[?25l[37;56Hn[9;22H[?25h[?25l[37;49H     [C[C [A[?25h[?25l[38;5;224msearch hit BOTTOM, continuing at TOP[36;1H(B[m/node                               [37;49H[1/1][9;22H[?25h[?25l[37;56Hgk[9;22H[?25h[?25l[37;56H  [35;49H(B[0;1;7m6[8;22H[?25h[?25l[37;56H(B[mgk[8;22H[?25h[?25l[37;56H  [35;49H(B[0;1;7m5,0-1[7;5H[?25h[?25l[37;56H(B[mgk[7;5H[?25h[?25l[37;56H  [35;49H(B[0;1;7m4,64 [6;6H[?25h[?25l[37;56H(B[mgk[6;6H[?25h[?25l[37;56H  [35;51H(B[0;1;7m18[5;22H[?25h[?25l[37;56H(B[mgk[5;22H[?25h[?25l[37;56H  [35;49H(B[0;1;7m3,0-1[4;5H[?25h[?25l[37;56H(B[mgj[4;5H[?25h[?25l[37;56H  [35;49H(B[0;1;7m4,18 [5;22H[?25h[?25l[37;56H(B[mb[5;22H[?25h[?25l[37;56H [35;52H(B[0;1;7m2[5;16H[?25h[?25l[37;56H(B[mb[5;16H[?25h[?25l[37;56H [35;52H(B[0;1;7m1[5;15H[?25h[?25l[37;56H(B[mb[5;15H[?25h[?25l[37;56H [35;51H(B[0;1;7m5 [5;9H[?25h[?25l[37;56H(B[mb[5;9H[?25h[?25l[37;56H [35;51H(B[0;1;7m4[5;8H[?25h[?25l[37;56H(B[mb[5;8H[?25h[?25l[37;56H [35;51H(B[0;1;7m1[5;5H[?25h[?25l[37;56H(B[mm[5;5H[?25h[?25l[37;57H^[[5;5H[?25h[?25l[37;56H   [5;5H[?25h[?25l[37;56Hn[5;5H[?25h[?25l[37;49H     [C[C [A[?25h[?25l[37;49H[1/1][35;49H(B[0;1;7m7,18[9;22H[?25h[?25l[37;56H(B[mn[9;22H[?25h[?25l[37;49H     [C[C [A[?25h[?25l[38;5;224msearch hit BOTTOM, continuing at TOP[36;1H(B[m/node                               [37;49H[1/1][9;22H[?25h[?25l[37;56H^Z[9;22H[?25h[?25l[37;56H  [9;22H[?25h[?25l[28B]112[2 q[?1002l[?1006l(B[m[?25h[?1l>[>4;0m[?1049l[23;0;0t[?2004l[?1004l[?25h
+[1]+  Stopped                 vim ~/bin/daily-jobs
+[?2004h[0;31m✘-TSTP[0;0m [0;33m~/pr/abuseofnotation.github.io[0;0m [[0;35mmaster[0;0m|[0;34m✚ 327[0;0m[0;0m] 
+[0;37m16:30[0;0m $ whoch[K[K[Kich node
+[?2004l/home/bobby/.nvm/versions/node/v16.15.0/bin/node
+[?2004h[0;32m✔[0;0m [0;33m~/pr/abuseofnotation.github.io[0;0m [[0;35mmaster[0;0m|[0;34m✚ 327[0;0m[0;0m] 
+[0;37m16:30[0;0m $ ~/no[K[K
+.agda/              .fonts/             pr/
+archive/            .ghc/               .profile
+.bash-git-prompt/   .ghci               programs/
+bin/                .gitconfig          Public/
+.BitwigStudio/      .gnupg/             .screengrabs/
+Bitwig Studio/      .gphoto/            .selected_editor
+.bundle/            .idris/             snap/
+.cabal/             iphone/             .ssh/
+.cache/             .local/             .stack/
+Calibre Library/    .log/               Templates/
+.config/            log/                temp.md
+.cups/              .mozilla/           .thunderbird/
+Desktop/            Music/              .tmux.conf
+Documents/          .node_repl_history  Videos/
+.dotnet/            .npm/               .vimrc
+Downloads/          .nvm/               .vscode/
+.emacs.d/           Pictures/           
+.fltk/              .pki/               
+[0;32m✔[0;0m [0;33m~/pr/abuseofnotation.github.io[0;0m [[0;35mmaster[0;0m|[0;34m✚ 327[0;0m[0;0m] 
+[0;37m16:30[0;0m $ ~/[K[Kls
+[?2004l[0m[01;32mblog.html[0m             [01;32mcv.pdf[0m              [01;32mpattern.html[0m
+[01;32mblogroll.md[0m           [01;32mdictionary.txt[0m      [34;42m_posts[0m
+[34;42mbookmarks[0m             [01;32mepigrams.md[0m         [01;32mREADME.md[0m
+[01;32mbuild-feed[0m            [01;32mfeed-aggregator.md[0m  [34;42mscratchpads[0m
+[01;32mbuild-jekyll-tags.hs[0m  [01;32mfeed-sites[0m          [01;32mshorts.html[0m
+[01;32m_config.yml[0m           [01;32mGemfile[0m             [34;42m_site[0m
+[01;32mconsulting.md[0m         [01;32mGemfile.lock[0m        [01;32mspecimen.pdf[0m
+[01;32mcustom-style.css[0m      [34;42mimages[0m              [01;32mstyle.css[0m
+[01;32mcv-bobby.md[0m           [01;32mindex.html[0m          [34;42mtags[0m
+[01;32mcv-bobby.pdf[0m          [34;42m_layouts[0m            [01;32mtags.html[0m
+[01;32mc_v.md[0m                [01;32mlogo.svg[0m            [34;42mtemp[0m
+[01;32mcv.md[0m                 [34;42mmell[0m                [34;42mtest[0m
+[01;32mc_v.pdf[0m               [01;32mmell.css[0m
+[?2004h[0;32m✔[0;0m [0;33m~/pr/abuseofnotation.github.io[0;0m [[0;35mmaster[0;0m|[0;34m✚ 327[0;0m[0;0m] 
+[0;37m16:30[0;0m $ which now[Kde
+[?2004l/home/bobby/.nvm/versions/node/v16.15.0/bin/node
+[?2004h[0;32m✔[0;0m [0;33m~/pr/abuseofnotation.github.io[0;0m [[0;35mmaster[0;0m|[0;34m✚ 327[0;0m[0;0m] 
+[0;37m16:30[0;0m $ which node[K[K[K[K[K[K[K[K[K[K~/m[Kno[K[Kbin/note 
+blog.html             .gitignore
+blogroll.md           images/
+bookmarks/            index.html
+build-feed            _layouts/
+build-jekyll-tags.hs  logo.svg
+_config.yml           mell/
+consulting.md         mell.css
+custom-style.css      pattern.html
+cv-bobby.md           _posts/
+cv-bobby.pdf          README.md
+c_v.md                scratchpads/
+cv.md                 shorts.html
+c_v.pdf               _site/
+cv.pdf                specimen.pdf
+dictionary.txt        .stack-work/
+epigrams.md           style.css
+feed-aggregator.md    tags/
+feed-sites            tags.html
+Gemfile               temp/
+Gemfile.lock          test/
+.git/                 
+[0;32m✔[0;0m [0;33m~/pr/abuseofnotation.github.io[0;0m [[0;35mmaster[0;0m|[0;34m✚ 327[0;0m[0;0m] 
+[0;37m16:30[0;0m $ ~/bin/note 
+blog.html             .gitignore
+blogroll.md           images/
+bookmarks/            index.html
+build-feed            _layouts/
+build-jekyll-tags.hs  logo.svg
+_config.yml           mell/
+consulting.md         mell.css
+custom-style.css      pattern.html
+cv-bobby.md           _posts/
+cv-bobby.pdf          README.md
+c_v.md                scratchpads/
+cv.md                 shorts.html
+c_v.pdf               _site/
+cv.pdf                specimen.pdf
+dictionary.txt        .stack-work/
+epigrams.md           style.css
+feed-aggregator.md    tags/
+feed-sites            tags.html
+Gemfile               temp/
+Gemfile.lock          test/
+.git/                 
+[0;32m✔[0;0m [0;33m~/pr/abuseofnotation.github.io[0;0m [[0;35mmaster[0;0m|[0;34m✚ 327[0;0m[0;0m] 
+[0;37m16:30[0;0m $ ~/bin/note [K[K[K[Kd[Kode[1P/bin/node
+[?2004lbash: /bin/node: No such file or directory
+[?2004h[0;31m✘-127[0;0m [0;33m~/pr/abuseofnotation.github.io[0;0m [[0;35mmaster[0;0m|[0;34m✚ 327[0;0m[0;0m] 
+[0;37m16:30[0;0m $ /bin/node[K[K[K[K
+Display all 2485 possibilities? (y or n)
+[0;31m✘-127[0;0m [0;33m~/pr/abuseofnotation.github.io[0;0m [[0;35mmaster[0;0m|[0;34m✚ 327[0;0m[0;0m] 
+[0;37m16:30[0;0m $ /bin/node[K[K[K[K[K[K[K[K[K~/which node[C[C[C[C[C[C[C[Cls[Kwhich node
+[?2004l/home/bobby/.nvm/versions/node/v16.15.0/bin/node
+[?2004h[0;32m✔[0;0m [0;33m~/pr/abuseofnotation.github.io[0;0m [[0;35mmaster[0;0m|[0;34m✚ 327[0;0m[0;0m] 
+[0;37m16:31[0;0m $ ;[Kls
+[?2004l[0m[01;32mblog.html[0m             [01;32mcv.pdf[0m              [01;32mpattern.html[0m
+[01;32mblogroll.md[0m           [01;32mdictionary.txt[0m      [34;42m_posts[0m
+[34;42mbookmarks[0m             [01;32mepigrams.md[0m         [01;32mREADME.md[0m
+[01;32mbuild-feed[0m            [01;32mfeed-aggregator.md[0m  [34;42mscratchpads[0m
+[01;32mbuild-jekyll-tags.hs[0m  [01;32mfeed-sites[0m          [01;32mshorts.html[0m
+[01;32m_config.yml[0m           [01;32mGemfile[0m             [34;42m_site[0m
+[01;32mconsulting.md[0m         [01;32mGemfile.lock[0m        [01;32mspecimen.pdf[0m
+[01;32mcustom-style.css[0m      [34;42mimages[0m              [01;32mstyle.css[0m
+[01;32mcv-bobby.md[0m           [01;32mindex.html[0m          [34;42mtags[0m
+[01;32mcv-bobby.pdf[0m          [34;42m_layouts[0m            [01;32mtags.html[0m
+[01;32mc_v.md[0m                [01;32mlogo.svg[0m            [34;42mtemp[0m
+[01;32mcv.md[0m                 [34;42mmell[0m                [34;42mtest[0m
+[01;32mc_v.pdf[0m               [01;32mmell.css[0m
+[?2004h[0;32m✔[0;0m [0;33m~/pr/abuseofnotation.github.io[0;0m [[0;35mmaster[0;0m|[0;34m✚ 327[0;0m[0;0m] 
+[0;37m16:31[0;0m $ vim ~/.d[K[Kdaily[K[K[K[K[K[K[K[K[K[K[Kvim d[K~?.[K[K./[K/[K[K/dai[K[K[K.da[K[K[Kbin/daily-jobs 
+[?2004l[?1049h[22;0;0t[?1h=[H[2J]11;?[?2004h[?u[c[?25h[?25l(B[m[H[2J[35BE325: ATTENTION[K
+[JFound a swap file by the name "~/.local/state/nvim/swap//%home%bo[35;37r[35;1H[M[r[34;1H                                                                  
+
+
+[J[36;66Hb[10;37r[10;1H[24M[r[13;1Hby%bin%daily-jobs.swp"[K
+          owned by: bobby   dated: Wed Dec 18 16:30:02 2024[K
+         file name: ~bobby/bin/daily-jobs[K
+          modified: no[K
+         user name: bobby   host name: bobby-OptiPlex-790[K
+        process ID: 953973 (STILL RUNNING)[K
+While opening file "/home/bobby/bin/daily-jobs"[K
+             dated: Thu Dec 12 15:31:04 2024[K
+[K
+(1) Another program may be editing the same file.  If this is the 
+case,[K
+    be careful not to end up with two different instances of the s
+ame[K
+    file when making changes.  Quit, or continue with caution.[K
+(2) An edit session for this file crashed.[K
+    If this is the case, use ":recover" or "vim -r /home/bobby/bin
+/daily-jobs"[K
+    to recover the changes (see ":help recovery").[K
+    If you did this already, delete the swap file "/home/bobby/.lo
+cal/state/nvim/swap//%home%bobby%bin%daily-jobs.swp"[K
+    to avoid this message.[K
+[K
+Swap file "~/.local/state/nvim/swap//%home%bobby%bin%daily-jobs.sw
+p" already exists![K
+[O]pen Read-Only, (E)dit anyway, (R)ecover, (Q)uit, (A)bort:[K]112[2 q[?25h[?25l[>4;2m[?1004h[?25h[?25l[37;1H[60X[27A                                                                  
+                                                                  
+                                                                  
+                                                                  
+                                                                  
+                                                                  
+                                                                  
+                                                                  
+                                                                  
+                                                                  
+                                                                  
+                                                                  
+                                                                  
+                                                                  
+                                                                  
+                                                                  
+                                                                  
+                                                                  
+                                                                  
+                                                                  
+                                                                  
+                                                                  
+                                                                  
+                                                                  
+                                                                  
+                                                                  [?1002h[?1006h[37;61H[?25h[?25l[37;1H]112[2 q[?1002l[?1006l(B[m[?25h[?1l>[>4;0m[?1049l[23;0;0t[?2004l[?1004l[?25h[?2004h[0;31m✘-1[0;0m [0;33m~/pr/abuseofnotation.github.io[0;0m [[0;35mmaster[0;0m|[0;34m✚ 327[0;0m[0;0m] 
+[0;37m16:31[0;0m $ fg
+[?2004lvim ~/bin/daily-jobs
+[?1049h[22;0;0t[?1h=[H[2J]11;?[?2004h[?u[c[?25h[?25l[?1004h[?25h[?25l[?1002h[?1006h[8;37;66t[r(B[m[H[2J[93m  1 (B[m#!/usr/bin/env bash
+[93m  2 (B[m# web-random-page abuseofnotation.github.io/ | web-random-para[93m    (B[mgraph | toot
+[93m  3 
+  4 (B[mweb-random-paragraph-from-page abuseofnotation.github.io/ | to[93m    (B[mot
+[93m  5 
+  6 (B[mcd /home/bobby/pr/static-feed-aggregator
+[93m  7 (B[mcat feed-sites | [30m[103mnode(B[m index.js > feeds.md
+[93m  8 (B[mgit push-stuff
+[93m  9 
+ 10 
+(B[m[94m~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+(B[0;1;7m~/bin/daily-jobs                                7,18           All(B[m
+[K
+[J[9;22H[?25h[?25l]112[2 q]112[2 q[?25h[?2                   
+                                                                  
+                                                                  
+                                                                  
+                                                                  
+                                                                  
+                                                                  
+                                                                  [?1002h[?1006h[37;61H[?25h[?25l[37;1H]112[2 q[?1002l[?1006l(B[m[?25h[?1l>[>4;0m[?1049l[23;0;0t[?2004l[?1004l[?25h[?2004h[0;31m✘-1[0;0m [0;33m~/pr/abuseofnotation.github.io[0;0m [[0;35mmaster[0;0m|[0;34m✚ 327[0;0m[0;0m] 
+[0;37m16:31[0;0m $ fg
+[?2004lvim ~/bin/daily-jobs
+[?1049h[22;0;0t[?1h=[H[2J]11;?[?2004h[?u[c[?25h[?25l[?1004h[?25h[?25l[?1002h[?1006h[8;37;66t[r(B[m[H[2J[93m  1 (B[m#!/usr/bin/env bash
+[93m  2 (B[m# web-random-page abuseofnotation.github.io/ | web-random-para[93m    (B[mgraph | toot
+[93m  3 
+  4 (B[mweb-random-paragraph-from-page abuseofnotation.github.io/ | to[93m    (B[mot
+[93m  5 
+  6 (B[mcd /home/bobby/pr/static-feed-aggregator
+[93m  7 (B[mcat feed-sites | [30m[103mnode(B[m index.js > feeds.md
+[93m  8 (B[mgit push-stuff
+[93m  9 
+ 10 
+(B[m[94m~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+(B[0;1;7m~/bin/daily-jobs                                7,18           All(B[m
+[K
+[J[9;22H[?25h[?25l]112[2 q]112[2 q[?25h[?25l[>4;2m[37;56Hgk[9;22H[?25h[?25l[37;56H  [35;49H(B[0;1;7m6[8;22H[?25h[?25l[37;56H(B[mgj[8;22H[?25h[?25l[37;56H  [35;49H(B[0;1;7m7[9;22H[?25h[?25l[37;56H(B[mi[9;22H[?25h[?25l[37;56H ]112[6 q[9;22H[?25h[?25l[28B(B[0;1m-- INSERT --[?25h[?25l[9;22H[?25h[?25l(B[m [30m[103mnode(B[m index.js > feeds.md[35;18H(B[0;1;7m[+][31C9[9;23H[?25h[?25l(B[mj[37;56Hj[9;23H[?25h[?25l[37;56H [9;23H[30m[103mn(B[m[28B[12X]112[2 q[9;23H[?25h[?25l[35;52H(B[0;1;7m8[9;22H[?25h[?25l[37;56H(B[m<20>[9;22H[?25h[?25l[37;56H    [9;22H[?25h[?25l[37;56H"+p[9;22H[?25h[?25l[37;56H   [10;5H/home/bobby/.nvm/versions/[30m[103mnode(B[m/v16.15.0/bin/[30m[103mnode[11;5H(B[mgit push-stuff
+
+[93m 11 (B[m[K[35;49H(B[0;1;7m8,1 [10;5H[?25h[?25l[26B(B[m"~/bin/daily-jobs"[?25h[?25l[C11L, 312B written(B[0;1;7m[35;18H   [10;5H[?25h[?25l[37;56H(B[mD[10;5H[?25h[?25l[37;56H ]112[4 q[10;5H[?25h[?25l[37;56Hd$[10;5H[?25h[?25l[37;56H  [10;5H[48X[35;18H(B[0;1;7m[+][30C0-1]112[2 q[10;5H[?25h[?25l[37;56H(B[mgk[10;5H[?25h[?25l[37;56H  [35;49H(B[0;1;7m7,1  [9;5H[?25h[?25l[37;56H(B[mw[9;5H[?25h[?25l[37;56H [35;51H(B[0;1;7m5[9;9H[?25h[?25l[37;56H(B[mw[9;9H[?25h[?25l[37;56H [35;51H(B[0;1;7m9[9;13H[?25h[?25l[37;56H(B[mw[9;13H[?25h[?25l[37;56H [35;51H(B[0;1;7m10[9;14H[?25h[?25l[37;56H(B[mw[9;14H[?25h[?25l[37;56H [35;52H(B[0;1;7m6[9;20H[?25h[?25l[37;56H(B[mw[9;20H[?25h[?25l[37;56H [35;52H(B[0;1;7m9[9;23H[?25h[?25l[37;56H(B[mi[9;23H[?25h[?25l[37;56H ]112[6 q[9;23H[?25h[?25l[28B(B[0;1m-- INSERT --[?25h[?25l[9;23H[?25h[?25l(B[m[24X[10;7H[30m[103mnode(B[m index.js > feeds.md[11;5H[14X
+git push-stuff
+
+[93m 12 (B[m[K[35;49H(B[0;1;7m8,3 [10;7H[?25h[?25l(B[m[24X
+[30m[103mnode(B[m index.js > feeds.md[12;5H[14X
+git push-stuff
+
+[93m 13 (B[m[K[35;49H(B[0;1;7m9[11;7H[?25h[?25l(B[mj[37;56Hj[11;7H[?25h[?25l[37;56H [11;7H[30m[103mn(B[m[26B[12X]112[2 q[11;7H[?25h[?25l[25B[36X[35;51H(B[0;1;7m2[11;6H[?25h[?25l[37;56H(B[mgk[11;6H[?25h[?25l[37;56H  [35;49H(B[0;1;7m8,0-1[10;5H[?25h[?25l[37;56H(B[mp[10;5H[?25h[?25l[37;56H [10;5H/home/bobby/.nvm/versions/[30m[103mnode(B[m/v16.15.0/bin/[30m[103mnode[35;51H(B[0;1;7m48 [10;52H[?25h[?25l[26B(B[m"~/bin/daily-jobs"[?25h[?25l[C13L, 316B written(B[0;1;7m[35;18H   [10;52H[?25h[?25l[37;56H(B[mgj[10;52H[?25h[?25l[37;56H  [35;49H(B[0;1;7m9,26[11;30H[?25h[?25l[37;56H(B[mI[11;30H[?25h[?25l[37;56H ]112[6 q[11;30H[?25h[?25l[26B(B[0;1m-- INSERT --[?25h[?25l[35;51H(B[0;1;7m3 [11;7H[?25h[?25l(B[mode index.js > feeds.md [35;18H(B[0;1;7m[+][11;7H[?25h[?25l(B[mde index.js > feeds.md [23D[?25h[?25le index.js > feeds.md [22D[?25h[?25l index.js > feeds.md [21D[?25h[?25l[36;20H[17X
+[12X[11;7H[?25h[?25l[36;20H13L, 312B written[?25h[?25l(B[0;1;7m[35;18H   [36;37H[?25h[?25l
+(B[0;1m-- INSERT --[11;7H[?25h[?25l(B[mindex.js > feeds.md  [35;18H(B[0;1;7m[+][30C1[11;5H[?25h[?25l[10;54H(B[mindex.js > fe[93m    (B[meds.md[14X[12;2H[93m 9[13;3H0[14;3H1[15;3H2[35;49H(B[0;1;7m8,49[25A[?25h[?25l(B[m[36;20H[17X
+[12X[10;53H[?25h[?25l[36;20H12L, 309B written[?25h[?25l(B[0;1;7m[35;18H   [36;37H[?25h[?25l
+(B[0;1m-- INSERT --[10;53H[?25h[?25l(B[m[27B[12X]112[2 q[10;53H[?25h[?25l[26B[36X[35;52H(B[0;1;7m8[10;52H[?25h[?25l[37;56H(B[mgk[10;52H[?25h[?25l[37;56H  [35;49H(B[0;1;7m7,1[9;22H[?25h[?25l[37;56H(B[mw[9;22H[?25h[?25l[37;56H [35;49H(B[0;1;7m8,1 [10;5H[?25h[?25l[37;56H(B[mb[10;5H[?25h[?25l[37;56H [35;49H(B[0;1;7m7,16[9;20H[?25h[?25l[37;56H(B[mb[9;20H[?25h[?25l[37;56H [35;52H(B[0;1;7m0[9;14H[?25h[?25l[37;56H(B[mb[9;14H[?25h[?25l[37;56H [35;51H(B[0;1;7m9 [9;13H[?25h[?25l[37;56H(B[mb[9;13H[?25h[?25l[37;56H [35;51H(B[0;1;7m5[9;9H[?25h[?25l[37;56H(B[mb[9;9H[?25h[?25l[37;56H [35;51H(B[0;1;7m1[9;5H[?25h[?25l[37;56H(B[mb[9;5H[?25h[?25l[37;56H [35;49H(B[0;1;7m6,31[8;35H[?25h[?25l[37;56H(B[mb[8;35H[?25h[?25l[37;56H [35;52H(B[0;1;7m0[8;34H[?25h[?25l[37;56H(B[mb[8;34H[?25h[?25l[37;56H [35;51H(B[0;1;7m26[8;30H[?25h[?25l[37;56H(B[mb[8;30H[?25h[?25l[37;56H [35;52H(B[0;1;7m5[8;29H[?25h[?25l[37;56H(B[mb[8;29H[?25h[?25l[37;56H [35;51H(B[0;1;7m19[8;23H[?25h[?25l[37;56H(B[mb[8;23H[?25h[?25l[37;56H [35;52H(B[0;1;7m8[8;22H[?25h[?25l[37;56H(B[mb[8;22H[?25h[?25l[37;56H [35;52H(B[0;1;7m6[8;20H[?25h[?25l[37;56H(B[mgj[8;20H[?25h[?25l[37;56H  [35;49H(B[0;1;7m7[9;20H[?25h[?25l[37;56H(B[mgj[9;20H[?25h[?25l[37;56H  [35;49H(B[0;1;7m8[10;20H[?25h[?25l[37;56H(B[mgj[10;20H[?25h[?25l[37;56H  [35;51H(B[0;1;7m68[11;10H[?25h[?25l[37;56H(B[mgj[11;10H[?25h[?25l[37;56H  [35;49H(B[0;1;7m9,0-1[12;5H[?25h[?25l[37;56H(B[mgk[12;5H[?25h[?25l[37;56H  [35;49H(B[0;1;7m8,68 [11;10H[?25h[?25l[37;56H(B[m:[11;10H[?25h[?25l[37;56H [A:]112[2 q[?25h[?25lw[?25h[?25lq[?25h[?25l[36;1H   ]112[2 q[11;10H[?25h[?25l[37;56Hgj[11;10H[?25h[?25l[37;56H  [35;49H(B[0;1;7m9,0-1[12;5H[?25h[?25l[37;56H(B[md[12;5H[?25h[?25l]112[4 q[?25h[?25l[37;57Hd[12;5H[?25h[?25l[37;56H  [12;5Hgit push-stuff[13;5H[14X
+
+[94m~[K[35;18H(B[0;1;7m[+][30C14 ]112[2 q[12;18H[?25h[?25l[24B(B[m"~/bin/daily-jobs"[?25h[?25l[C11L, 308B written(B[0;1;7m[35;18H   [12;18H[?25h[?25l[37;56H(B[mI[12;18H[?25h[?25l[37;56H ]112[6 q[12;18H[?25h[?25l[25B(B[0;1m-- INSERT --[?25h[?25l[35;52H(B[0;1;7m [12;5H[?25h[?25l(B[m[25B[12X]112[2 q[12;5H[?25h[?25l[24B[36X[12;5H[?25h[?25l[37;56HO[12;5H[?25h[?25l[37;56H ]112[6 q[12;5H[?25h[?25l[25B(B[0;1m-- INSERT --[?25h[?25l(B[m[12;5H[14X
+git push-stuff
+
+[93m 12 (B[m[K[35;18H(B[0;1;7m[+][12;5H[?25h[?25l(B[m[25B[12X]112[2 q[12;5H[?25h[?25l[35;51H(B[0;1;7m0-1[12;5H[?25h[?25l[37;56H(B[m:[12;5H[?25h[?25l[37;56H [A:]112[2 q[?25h[?25lw[?25h[?25lq[?25h[?25l[36;1H[?25h[?25l"~/bin/daily-jobs"]112[2 q[?25h[?25l[C12L, 309B written[?25h[?25l
+]112[2 q[?1002l[?1006l(B[m[?25h[?1l>[>4;0m[?1049l[23;0;0t[?2004l[?1004
