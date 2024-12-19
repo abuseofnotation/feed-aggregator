@@ -1,4 +1,20 @@
 
+[Plutocracy, Masculinity, and the Psychology of Fascism](https://crookedtimber.org/2024/12/19/plutocracy-masculinity-and-the-psychology-of-fascism/)
+---
+
+Crooked Timber --- 12/19/2024
+
+Now that the U.S. faces the return of a fascist President to power, we must consider the connections among plutocracy, misogyny, and fascism. In 2016, many pundits attributed Trump’s election to the rightward shift of white working-class voters in...
+
+
+[A New Sequence!](https://aperiodical.com/2024/12/a-new-sequence/)
+---
+
+The Aperiodical --- 12/18/2024
+
+Or The Novice’s Guide To Achieving Mathematical Immortality This is a guest post from Barney Maunder-Taylor. A great way to achieve mathematical immortality is to solve an outstanding open question, like determining if \( \pi+e \) is rational or...
+
+
 [Information is Physical?](https://blog.computationalcomplexity.org/feeds/376845296399143352/comments/default)
 ---
 
@@ -223,14 +239,6 @@ The Aperiodical --- 11/29/2024
 This is a guest post by David Benjamin. In this article we will explore continued fractions, which are of the form \( a_{0}+\frac{1}{a_{1}+\frac{1}{a_{2}+\frac{1}{a_{3}+\dots}}} \) and are often written as \( [a_{0}; a_{1}, a_{2}, a_{3},… ]\). The...
 
 
-[Double Maths First Thing: Issue C](https://aperiodical.com/2024/11/double-maths-first-thing-issue-c/)
----
-
-The Aperiodical --- 11/27/2024
-
-Double Maths First Thing is guaranteed Christmas-free. Humbug! Hello! My name is Colin and I am a mathematician on a mission to find and spread mathematical joy. This week’s interesting bit of analysis (and please don’t tell Dave Gale I did some...
-
-
 [TikTok in Romania](https://crookedtimber.org/2024/11/26/tiktok-in-romania/)
 ---
 
@@ -389,14 +397,6 @@ October EditionI had a tough choice for my final favorite theorem from the decad
 Crooked Timber --- 11/13/2024
 
 After Trump’s second election victory, lots of Americans are talking about emigrating, most commonly to Canada. This happens with every rightwing election win[1], but nothing ever comes of it. With the real prospect of indefinite Trumpist rule, the...
-
-
-[Occasional Paper: Four Hidden Species of Portuguese man-o’-war](https://crookedtimber.org/2024/11/11/occasional-paper-four-hidden-species-of-portuguese-man-o-war/)
----
-
-Crooked Timber --- 11/11/2024
-
-There’s been a a certain amount of negativity floating around lately. So, let’s talk about a toxic, venomous freak of nature and the parasite that afflicts it. Biology warning, this gets slightly squicky. Let’s start with the toxic, venomous freak...
 
 
 [Steven Rudich (1961-2024)](https://blog.computationalcomplexity.org/feeds/3718689777174333726/comments/default)
