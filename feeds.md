@@ -1,4 +1,12 @@
 
+[Questions on the Future of Feminism from my Book Tour](https://crookedtimber.org/2024/12/19/questions-on-the-future-of-feminism-from-my-book-tour/)
+---
+
+Crooked Timber --- 12/19/2024
+
+I knew when my most recent book was assigned an end-of-October publication date that I would spend much of my book tour processing the election and its aftermath. As the title suggests, Faux Feminism: Why We Fall for White Feminism and How We Can...
+
+
 [Plutocracy, Masculinity, and the Psychology of Fascism](https://crookedtimber.org/2024/12/19/plutocracy-masculinity-and-the-psychology-of-fascism/)
 ---
 
@@ -389,14 +397,6 @@ Our ETCS-based but category-free course now reaches the theory of ordinals, a.k.
 Computational Complexity --- 11/14/2024
 
 October EditionI had a tough choice for my final favorite theorem from the decade 2015-2024. Runners up include Pseudodeterministic Primes and Hardness of Partial MCSP. But instead in memory of the recently departed Steven Rudich, this month's...
-
-
-[Moving to Canada (not)](https://crookedtimber.org/2024/11/13/moving-to-canada-not/)
----
-
-Crooked Timber --- 11/13/2024
-
-After Trump’s second election victory, lots of Americans are talking about emigrating, most commonly to Canada. This happens with every rightwing election win[1], but nothing ever comes of it. With the real prospect of indefinite Trumpist rule, the...
 
 
 [Steven Rudich (1961-2024)](https://blog.computationalcomplexity.org/feeds/3718689777174333726/comments/default)
