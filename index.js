@@ -7,7 +7,7 @@ import readline from 'readline';
 const sites = []
 
 const descriptionCharacterCount = 1000
-const articlesCount = 20000
+const articlesCount = 100
 
 
 const print = (a) => {
