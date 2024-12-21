@@ -1,4 +1,12 @@
 
+[Random Permutations (Part 14)](https://golem.ph.utexas.edu/category/2024/12/the_cycle_length_lemma.html)
+---
+
+The n-Category Café --- 12/21/2024
+
+More detail on the Cycle Length Lemma, a basic result in the theory of random permutations.  We prove a categorified version of this result, which is an equivalence of groupoids, and then derive the original version by taking groupoid cardinalities.
+
+
 [On “Privilege”](https://crookedtimber.org/2024/12/20/on-privilege/)
 ---
 
@@ -69,14 +77,6 @@ If you’ve got a mathematical friend you need to buy a Christmas gift for but h
 The Aperiodical --- 12/18/2024
 
 Double Maths First Thing is the biscotti to your Wednesday morning coffee Hello! My name is Colin and I am a mathematician on a mission to spread joy and delight in maths. This week’s links I have a difficult relationship with AI. I wrote about it...
-
-
-[Random Permutations (Part 14)](https://golem.ph.utexas.edu/category/2024/12/the_cycle_length_lemma.html)
----
-
-The n-Category Café --- 12/18/2024
-
-More detail on the Cycle Length Lemma, a basic result in the theory of random permutations.  We prove a categorified version of this result, which is an equivalence of groupoids, and then derive the original version by taking groupoid cardinalities.
 
 
 [Random Thoughts on AI (Human Generated)](https://blog.computationalcomplexity.org/feeds/4675632694499721534/comments/default)
