@@ -1,4 +1,12 @@
 
+[Sunday photoblogging: squirrel](https://crookedtimber.org/2024/12/22/sunday-photoblogging-squirrel/)
+---
+
+Crooked Timber --- 12/22/2024
+
+
+
+
 [Random Permutations (Part 14)](https://golem.ph.utexas.edu/category/2024/12/the_cycle_length_lemma.html)
 ---
 
@@ -373,14 +381,6 @@ In my last post (see here) I invited you to work on the following question:Find 
 Blog - Logic Matters --- 11/19/2024
 
 I thought I should take a look at the just-published book by Noson Yanofsky, Monoidal Category Theory: Unifying Concepts in Mathematics, Physics, and Computing (MIT Press, 2024). Yanofsky is on a proselytizing mission. He wants to persuade us that,...
-
-
-[Trump’s dictatorship is a fait accompli](https://crookedtimber.org/2024/11/19/trumps-dictatorship-is-a-fait-accompli/)
----
-
-Crooked Timber --- 11/19/2024
-
-A few weeks ago, I drew up a flowchart to estimate the probability that Trump would establish a dictatorship in the US, which looked, at the time, like an even money bet. We don’t need to speculate any more. Trump has announced the dictatorship,...
 
 
 [Teacher](http://abuseofnotation.github.io/teacher-joke/)
