@@ -1,4 +1,20 @@
 
+[Random Thoughts on AI (Human Generated)](https://blog.computationalcomplexity.org/feeds/4675632694499721534/comments/default)
+---
+
+Computational Complexity --- 12/23/2024
+
+(I wrote this post without any AI help. OH- maybe not- I used spellcheck. Does that count? Lance claims he proofread it and found some typos to correct without any AI help.) Random Thought on AII saw a great talk on AI recently by Bill Regli, who...
+
+
+[Complexity Year in Review](https://blog.computationalcomplexity.org/feeds/385077908305240116/comments/default)
+---
+
+Computational Complexity --- 12/23/2024
+
+Back in the day (circa 1989) we studied locally random reductions which would lead to all those exciting interactive proof results. Somehow locally random reductions got rebranded as locally correctable codes and this year's result of the year...
+
+
 [Sunday photoblogging: squirrel](https://crookedtimber.org/2024/12/22/sunday-photoblogging-squirrel/)
 ---
 
@@ -85,14 +101,6 @@ If you’ve got a mathematical friend you need to buy a Christmas gift for but h
 The Aperiodical --- 12/18/2024
 
 Double Maths First Thing is the biscotti to your Wednesday morning coffee Hello! My name is Colin and I am a mathematician on a mission to spread joy and delight in maths. This week’s links I have a difficult relationship with AI. I wrote about it...
-
-
-[Random Thoughts on AI (Human Generated)](https://blog.computationalcomplexity.org/feeds/4675632694499721534/comments/default)
----
-
-Computational Complexity --- 12/17/2024
-
-(I wrote this post without any AI help. OH- maybe not- I used spellcheck. Does that count? Lance claims he proofread it and found some typos to correct without any AI help.) Random Thought on AII saw a great talk on AI recently by Bill Regli, who...
 
 
 [Exciting new maths of 2024](https://aperiodical.com/2024/12/exciting-new-maths-of-2024/)
@@ -709,14 +717,6 @@ September EditionWho thought the algorithm behind machine learning would have co
 Computational Complexity --- 9/26/2024
 
 I often do LeetCode problems for fun. This site mainly provides short coding problems for students and others to train for the kinds of question that come up in technical job interviews. I use the site to keep up my programming skills and it often...
-
-
-[I thought I knew what  pizza was...](https://blog.computationalcomplexity.org/feeds/6476692104331014359/comments/default)
----
-
-Computational Complexity --- 9/23/2024
-
-On Page 75 of The Existential Theory of the Reals as a Complexity Class: A Compendiumby Marcus Schaefer, Jean Cardinal, Tillmann Mitzow(see here for the paper) I came across the following definition:a pizza is a mass distribution (measure) on \(...
 
 
 [Dynamic Programming Fail](https://www.jeremykun.com/shortform/2024-09-12-1502/)
