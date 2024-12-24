@@ -1,4 +1,20 @@
 
+[A Christmas card](https://www.logicmatters.net/2024/12/24/a-christmas-card-13/)
+---
+
+Blog - Logic Matters --- 12/24/2024
+
+What the Donkey Saw No room in the inn, of course,And not that much in the stable,What with the shepherds, Magi, Mary,Joseph, the heavenly host —Not to mention the babyUsing our manger as a cot.You couldn’t have squeezed another cherub inFor love...
+
+
+[Plutocrats and Authoritarian Leaders: Like Flies to Flypaper](https://crookedtimber.org/2024/12/24/plutocrats-and-authoritarian-leaders-like-flies-to-flypaper/)
+---
+
+Crooked Timber --- 12/24/2024
+
+Curtis Yarvin, darling authoritarian ideologue of many tech billionaires, is back in the news, along with his deep links to J.D. Vance, via Peter Thiel. It’s no secret that plutocrats tend to be off-the-charts economic libertarians, with extreme...
+
+
 [Random Thoughts on AI (Human Generated)](https://blog.computationalcomplexity.org/feeds/4675632694499721534/comments/default)
 ---
 
@@ -335,14 +351,6 @@ Blog - Logic Matters --- 11/24/2024
 I was really saddened to learn yesterday of the death last month of Arnie Koslow at the age of 91. I got to know Arnie well when I returned to Cambridge where he was a regular summer visitor for quite a few years. He became a warm friend and we...
 
 
-[Sunday photoblogging: Handy Mini-Market](https://crookedtimber.org/2024/11/24/sunday-photoblogging-handy-mini-market/)
----
-
-Crooked Timber --- 11/24/2024
-
-
-
-
 [Axiomatic Set Theory 9: The Axiom of Choice](https://golem.ph.utexas.edu/category/2024/11/axiomatic_set_theory_9_the_axi.html)
 ---
 
@@ -607,14 +615,6 @@ Computational Complexity --- 10/21/2024
 I quote Lance's blog post (here) about Computing and the Nobelsa) On Wednesday October 9th half of the Chemistry Nobel was awarded to computer scientists Demis Hassabis and John Jumper for the protein-folding prediction algorithm AlphaFold, which I...
 
 
-[TfE: The Problem with Bayes / Solmonoff](https://deontologistics.co/2024/10/18/tfe-the-problem-with-bayes-solmonoff/)
----
-
-DEONTOLOGISTICS --- 10/18/2024
-
-Here’s a recent thread musing about problems with Bayesian conceptions of general intelligence and the more specific variants based on Solmonoff induction, such as AIXI. I’ve been thinking about these issues a lot recently, in tandem with the...
-
-
 [Computing and the Nobels](https://blog.computationalcomplexity.org/feeds/2262393408828805749/comments/default)
 ---
 
@@ -685,14 +685,6 @@ Finally, here’s the last book in my ‘must-revisit’ stack! — Kenneth Kune
 Computational Complexity --- 10/6/2024
 
 (Thanks to James De Santis for pointing the article that inspired this post on Post. The article is pointed to in this post.) What is Emil Post known for? I know of him for the following: a) Post's Problem: Show that there is an r.e. set A that is...
-
-
-[On de Swart’s Philosophical and Mathematical Logic](https://www.logicmatters.net/2024/10/05/on-de-swart/)
----
-
-Blog - Logic Matters --- 10/5/2024
-
-I have mixed feelings about Harrie de Swart’s Philosophical and Mathematical Logic (Springer, 2018). For this long book really is a strange mish-mash, supposedly aimed at philosophers. There are chapters (not very good) on e.g. the philosophy of...
 
 
 [Progress on R(5). Will there be more?](https://blog.computationalcomplexity.org/feeds/3119974858044789011/comments/default)
@@ -797,4 +789,12 @@ I’ve been upstreaming a bit of my compiler work to the MLIR project. Yesterday
 Math ∩ Programming --- 7/31/2024
 
 In this living document, I will list all production systems I’m aware of that use fully homomorphic encryption (FHE). For background on FHE, see my overview of the field. If you have any information about production FHE systems not in this list, or...
+
+
+[Ben Recht on Meehl's Philosophical Psychology](https://www.jeremykun.com/shortform/2024-07-27-1149/)
+---
+
+Math ∩ Programming --- 7/27/2024
+
+Ben Recht, a computer science professor at UC Berkeley, recently wrapped up a 3-month series of blog posts on Paul Meehl’s “Philosophical Psychology.” Recht has a table of contents for his blog series. It loosely tracks a set of lectures that Meehl...
 
