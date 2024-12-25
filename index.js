@@ -61,7 +61,6 @@ rl.on('close', () => {
         .join('\n')
       )
       .then(console.log)
-      .then(() => process.exit(1))
 });
 
 rl.on('error', (err) => {

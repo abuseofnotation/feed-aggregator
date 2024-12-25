@@ -17,7 +17,7 @@
       - name: Install dependencies
         run: npm install
       - name: Build feeds
-        run: cat feed-sites | node index.js 
+        run: cat feed-sites | node index.js > feeds.md
       - uses: stefanzweifel/git-auto-commit-action@v5
 
 
