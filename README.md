@@ -1,4 +1,4 @@
-# static-feed-aggregator
+# feed-aggregator
 
 Have a static website that uses an engine that supports Markdown? With this script, makes it very easy for you to add a page that shows the newest posts from your favourite websites, using RSS.
 
@@ -37,6 +37,4 @@ If you want to run the same page as the demo, you use the Github action that is 
 2. Edit the `feed-sites` file and add the list of feeds you want to follow (remember, those should be URL's of feeds, not websites).
 3. Head over to the `feeds.md` file to see content from those sites (the page will be updated every day).
 
-# Demo
-
-# [Read](/feeds).
+# [Read](/feeds.md)
