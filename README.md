@@ -33,7 +33,7 @@ You would also probably want to schedule this job to run regularly, for example 
 ## Using Github actions
 
 If you want to run the same page as the demo, you use the Github action that is set up for this project:
-1. Fork this Github repo.
+1. Fork this Github repo by following this link: https://github.com/abuseofnotation/feed-aggregator/generate 
 2. Edit the `feed-sites` file and add the list of feeds you want to follow (remember, those should be URL's of feeds, not websites).
 3. Head over to the `feeds.md` file to see content from those sites (the page will be updated every day).
 
