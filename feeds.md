@@ -1,4 +1,12 @@
 
+[A Puzzle about a Calculator](https://aperiodical.com/2024/12/a-puzzle-about-a-calculator/)
+---
+
+The Aperiodical --- 12/28/2024
+
+It’s now been a year since I took over the puzzle column at New Scientist and turned it into the BrainTwisters column. By way of celebration, I thought I’d write up an interesting bit of maths behind one of the puzzles, which I made a note of at...
+
+
 [Double Maths First Thing: Issue 10](https://aperiodical.com/2024/12/double-maths-first-thing-issue-10/)
 ---
 
@@ -245,14 +253,6 @@ The next issue of the Carnival of Mathematics, rounding up blog posts from the m
 Computational Complexity --- 12/6/2024
 
 Now in one place all of my sixty favorite theorems from the six decades of computational complexity (1965-2024).2015-2024Graph Isomorphism (Babai)Sensitivity (Huang)Quantum Provers (Ji-Natarajan-Vidick-Wright-Yuen)Dichotomy (Bulatov, Zhuk)Algebraic...
-
-
-[Mathematical Objects: An object with Tai-Danae Bradley](https://aperiodical.com/2024/12/mathematical-objects-an-object/)
----
-
-The Aperiodical --- 12/6/2024
-
-A conversation about mathematics inspired by … an object. Presented by Katie Steckles and Peter Rowlett, with special guest Tai-Danae Bradley. Katie mentions Peter’s The unplanned impact of mathematics, free to read at Nature.
 
 
 [In defense of a minimum referee ratio](https://crookedtimber.org/2024/12/05/in-defense-of-a-minimum-referee-ratio/)
