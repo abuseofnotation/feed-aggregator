@@ -1,4 +1,28 @@
 
+[Angry white men](https://crookedtimber.org/2024/12/30/angry-white-men/)
+---
+
+Crooked Timber --- 12/30/2024
+
+I’ve avoided post-mortems on the US election disaster for two reasons. First, they are useless as a guide to the future. The next US election, if there is one [1], will be a referendum on the Trump regime. Campaign strategies that might have gained...
+
+
+[Sunday (delayed) photoblogging: West Kirby](https://crookedtimber.org/2024/12/30/sunday-delayed-photoblogging-west-kirby/)
+---
+
+Crooked Timber --- 12/30/2024
+
+
+
+
+[The Moral Development Index](https://crookedtimber.org/2024/12/30/the-moral-development-index/)
+---
+
+Crooked Timber --- 12/30/2024
+
+Cabo Verde is not a rich country. To have an idea, the minimum wage is €130 a month and a meal in a restaurant costs around €10. The IMF classifies Cabo Verde as a developing country. Development has long ceased to be defined in exclusively...
+
+
 [A Puzzle about a Calculator](https://aperiodical.com/2024/12/a-puzzle-about-a-calculator/)
 ---
 
@@ -311,36 +335,12 @@ Crooked Timber --- 11/30/2024
 I posted this piece in RenewEconomy a couple of months ago. It didn’t convince the commenters then, and I don’t expect it to be any different here, but I’m putting it on the record anyway. AI won’t use as much electricity as we are told, and it’s...
 
 
-[TikTok in Romania](https://crookedtimber.org/2024/11/26/tiktok-in-romania/)
----
-
-Crooked Timber --- 11/26/2024
-
-Ownership and control of social media platforms is a first-order concern for both domestic politics and international conflict. The most important battleground in the Russia-Ukraine war is elections in NATO member states. And there, Russia is...
-
-
 [We Will All Write Like AI](https://blog.computationalcomplexity.org/feeds/548168391123928103/comments/default)
 ---
 
 Computational Complexity --- 11/25/2024
 
 Will our writing all converge to a generic AI style? Let's take a quick detour into LaTeX. Back in the late '80s, before LaTeX was the standard, there was TeX—a system with no default formatting, which meant everyone had their own unique style for...
-
-
-[Can businesses flourish in a world with a cap on personal wealth?](https://crookedtimber.org/2024/11/24/can-businesses-flourish-in-a-world-with-a-cap-on-personal-wealth/)
----
-
-Crooked Timber --- 11/24/2024
-
-by Rutger Claassen and Ingrid Robeyns Let’s establish an upper limit on the personal wealth any individual can possess. This is the core principle behind ‘limitarianism’. Limitarianism represents one of the more radical proposals in the debate on...
-
-
-[Taiwan and Romania join a very special club](https://crookedtimber.org/2024/11/24/taiwan-and-romania-join-a-very-special-club/)
----
-
-Crooked Timber --- 11/24/2024
-
-So in the last three years or so — since COVID, basically — Romania and Taiwan have both joined a very special club of countries. There are not a lot of countries in this club. If you’re very generous, you could include perhaps a dozen or so. But...
 
 
 [Arnie Koslow, 1933–2024](https://www.logicmatters.net/2024/11/24/arnie-koslow-1933-2024/)
