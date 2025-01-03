@@ -1,4 +1,12 @@
 
+[My Drunken Theorem](https://blog.computationalcomplexity.org/feeds/7769482737390183934/comments/default)
+---
+
+Computational Complexity --- 1/2/2025
+
+Bill's SIGACT Open Problems Column remembering Luca Trevisan is out. I chose the problem of whether Promise-ZPP in P implies Promise-BPP in P, an extension of an earlier theorem by Luca and his co-authors, which showed that Promise-RP in P implies...
+
+
 [In 2025, let’s make resistance more effective](https://crookedtimber.org/2025/01/01/in-2025-lets-make-resistance-more-effective/)
 ---
 
@@ -725,14 +733,6 @@ September EditionWho thought the algorithm behind machine learning would have co
 Fractal Kitty --- 10/1/2024
 
 It’s mathober! I will be updating this page with my sketches (in procreate and code for this year. Procreate sketches: (not all will be done this month – they take longer): P5js sketches: The code is on my codepen collection here.
-
-
-[LeetCode and AI](https://blog.computationalcomplexity.org/feeds/2502491932873778983/comments/default)
----
-
-Computational Complexity --- 9/26/2024
-
-I often do LeetCode problems for fun. This site mainly provides short coding problems for students and others to train for the kinds of question that come up in technical job interviews. I use the site to keep up my programming skills and it often...
 
 
 [Dynamic Programming Fail](https://www.jeremykun.com/shortform/2024-09-12-1502/)
