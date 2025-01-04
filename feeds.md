@@ -1,4 +1,12 @@
 
+[Introducing Category Theory, 2nd edn](https://www.logicmatters.net/2025/01/03/introducing-category-theory-2nd-edn/)
+---
+
+Blog - Logic Matters --- 1/3/2025
+
+I have just put online a draft of all but the last chapter of a second edition of Introducing Category Theory. I hope to have this completed and paperback-ready in February or March. In the meantime, I have “unpublished” the first edition (so that...
+
+
 [My Drunken Theorem](https://blog.computationalcomplexity.org/feeds/7769482737390183934/comments/default)
 ---
 
@@ -669,14 +677,6 @@ I’ve been wanting to reflect of the past 2 years and 2 months I spent not work
 Math ∩ Programming --- 10/15/2024
 
 Kristin Lauter and her colleagues at Facebook research recently announced a project to benchmark attacks against LWE. The announcement was on the post-quanum crypto mailing list. They state: “Our approach is motivated by the need to study more...
-
-
-[Categorial progress …](https://www.logicmatters.net/2024/10/15/categorial-progress/)
----
-
-Blog - Logic Matters --- 10/15/2024
-
-I paperbacked my gentle introductory notes on category theory sooner than ideally I would have wished. But with routine-but-major heart surgery scheduled unexpectedly early, I thought I should at least get a beta version of the book out while I...
 
 
 [A Trip Down Memory Lane: Desc comp, Constant Round Sorting, Division Breakthrough, Derandomization.](https://blog.computationalcomplexity.org/feeds/4020901370592877578/comments/default)
