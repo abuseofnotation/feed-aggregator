@@ -1,10 +1,34 @@
 
+[Epiphanies from Tape Measures](https://www.jeremykun.com/shortform/2025-01-04-1011/)
+---
+
+Math ∩ Programming --- 1/4/2025
+
+The Hyperfixed Podcast had a lovely episode recently about tape measures. It started from “why does my tape measure seem to always be off a little bit” and went all the way to the inherent limitations of physical measurement at small scales. In...
+
+
+[Carnival of Maths 235](https://aperiodical.com/2025/01/carnival-of-maths-235/)
+---
+
+The Aperiodical --- 1/4/2025
+
+The next issue of the Carnival of Mathematics, rounding up blog posts from the month of December 2024, is now online at John D Cook’s Blog. The Carnival rounds up maths blog posts from all over the internet, including some from our own Aperiodical....
+
+
 [Introducing Category Theory, 2nd edn](https://www.logicmatters.net/2025/01/03/introducing-category-theory-2nd-edn/)
 ---
 
 Blog - Logic Matters --- 1/3/2025
 
 I have just put online a draft of all but the last chapter of a second edition of Introducing Category Theory. I hope to have this completed and paperback-ready in February or March. In the meantime, I have “unpublished” the first edition (so that...
+
+
+[Fully Homomorphic Encryption and the Public](https://www.jeremykun.com/fhe-and-the-public/)
+---
+
+Math ∩ Programming --- 1/3/2025
+
+In this living document, I will document reactions to uses of homomorphic encryption by members of the public. By “member of the public,” I mean people who may be technical, but are not directly involved in the development or deployment of...
 
 
 [My Drunken Theorem](https://blog.computationalcomplexity.org/feeds/7769482737390183934/comments/default)
@@ -213,14 +237,6 @@ If you’ve got a mathematical friend you need to buy a Christmas gift for but h
 The Aperiodical --- 12/18/2024
 
 Double Maths First Thing is the biscotti to your Wednesday morning coffee Hello! My name is Colin and I am a mathematician on a mission to spread joy and delight in maths. This week’s links I have a difficult relationship with AI. I wrote about it...
-
-
-[Exciting new maths of 2024](https://aperiodical.com/2024/12/exciting-new-maths-of-2024/)
----
-
-The Aperiodical --- 12/17/2024
-
-Over at the Finite Group, members (including me and Katie) have been discussing what in maths news has excited us this year. Here’s a summary. Brayden Casella and fellow authors claimed that there exists a non-terminating game of...
 
 
 [Moon](https://ciechanow.ski/moon/)
@@ -781,20 +797,4 @@ I coded a generative zine to bring to XOXO 2024. It is different every time it l
 Fractal Kitty --- 8/20/2024
 
 I made Curve, a coloring book, to bring to XOXO 2024 this week. If you’d like to print/play: See the Pen Curve Zine by Sophia (fractal kitty) (she/her) (@fractalkitty) on CodePen.
-
-
-[Infinite-time computable analogues of the universal algorithm, Generalized Computability Theory Workshop, Spain, August 2024](https://jdh.hamkins.org/infinite-time-computable-analogues-of-the-universal-algorithm-gct2024-spain/)
----
-
-Joel David Hamkins --- 8/18/2024
-
-This will be a talk at the Generalized Computability Theory workshop in Castro Urdiales, Spain, a beautiful setting on the sea near Bilbao, 19-23 August 2024. Abstract. I shall present infinite-time computable analogues of the universal algorithm,...
-
-
-[Can you trust LLMs with books? Perplexity vs Chat GPT vs Iain McGilchrist](http://proses.id/can-llms-help-me-read-books/)
----
-
-Proses.ID --- 8/13/2024
-
-I was listening to this interview of Iain McGilchrist. He was explaining how the mechanistic metaphors that we often use in our daily lives could…
 
