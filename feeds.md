@@ -1,4 +1,20 @@
 
+[The Betty White Award for 2024](https://blog.computationalcomplexity.org/feeds/7027869544685438453/comments/default)
+---
+
+Computational Complexity --- 1/5/2025
+
+In Jan of 2023 I estabalished the Betty White Award, see here which is given to people who died late in the prior year and hence won't be in the those who we lost in year X articles. I also gave out a few from prior years. Here are past winners,...
+
+
+[Sunday photoblogging: Ravenna in Droitwich](https://crookedtimber.org/2025/01/05/sunday-photoblogging-ravenna-in-droitwich/)
+---
+
+Crooked Timber --- 1/5/2025
+
+A curious one, this. We were looking through some old postcards (from the 1930s) and came across one with a picture of this church interior. Where’s that? Well, it turns out that it is just off the motorway on our journey between Bristol and...
+
+
 [Epiphanies from Tape Measures](https://www.jeremykun.com/shortform/2025-01-04-1011/)
 ---
 
@@ -349,14 +365,6 @@ The Eighth International Conference on Applied Category Theory (https://easychai
 Blog - Logic Matters --- 12/3/2024
 
 Some brief comments on Chapters 2 to 4 of Yanofsky’s book, firstly on the main sections of those chapters. In Chapter 2, categories are defined, we meet lots of examples, and then different kinds of arrows are defined, along with subcategories and...
-
-
-[Sunday photoblogging: the beach at Porth Selau](https://crookedtimber.org/2024/12/01/sunday-photoblogging-the-beach-at-porth-selau/)
----
-
-Crooked Timber --- 12/1/2024
-
-From back when I was shooting film sometimes:
 
 
 [Conway's Trick for Divisibility. Asking its complexity is an odd question.](https://blog.computationalcomplexity.org/feeds/8496575347919285566/comments/default)
@@ -725,14 +733,6 @@ This will be a talk at the UW Madison Logic Seminar on 22 October 2024. Abstract
 Computational Complexity --- 10/6/2024
 
 (Thanks to James De Santis for pointing the article that inspired this post on Post. The article is pointed to in this post.) What is Emil Post known for? I know of him for the following: a) Post's Problem: Show that there is an r.e. set A that is...
-
-
-[Progress on R(5). Will there be more?](https://blog.computationalcomplexity.org/feeds/3119974858044789011/comments/default)
----
-
-Computational Complexity --- 10/3/2024
-
-(I had a post a while back requesting people to submit open problems in Luca Trevisan's honor with deadline Oct 1. I am extending that to Oct 14, but that is a HARD deadline. See my original post which I have updated, here.)And now back to our...
 
 
 [Favorite Theorems: Gradient Descent](https://blog.computationalcomplexity.org/feeds/2090441422971695167/comments/default)
