@@ -1,4 +1,28 @@
 
+[Small categorial update](https://www.logicmatters.net/2025/01/10/small-categorial-update/)
+---
+
+Blog - Logic Matters --- 1/10/2025
+
+There’s now a new version of the category theory notes online, still missing the last chapter. It is four pages longer though, because I’ve added a section on conditional arrows in a topos (to go alongside conjunction and disjunction), and so been...
+
+
+[The Human Podcast: 10 questions in 10 minutes](https://jdh.hamkins.org/the-human-podcast-10-questions-in-10-minutes/)
+---
+
+Joel David Hamkins --- 1/10/2025
+
+I had an enjoyable little discussion with Joe Murray of The Human Podcast, part of his new series, called 10 questions in 10 minutes, in which he asks his interview subjects for short answers to ten quick questions on their … Continue reading →
+
+
+[Reasons for pessimism in Europe](https://crookedtimber.org/2025/01/10/reasons-for-pessimism-in-europe/)
+---
+
+Crooked Timber --- 1/10/2025
+
+Those of us who live in Europe have reason to be very pessimistic about the next four years. The state that Europeans have relied upon as their security guarantee is now in the hands of the nationalist extreme right and the information space is...
+
+
 [Trump and Greenland: What’s Going On?](https://crookedtimber.org/2025/01/09/trump-and-greenland-whats-going-on/)
 ---
 
@@ -63,6 +87,14 @@ The Aperiodical --- 1/4/2025
 The next issue of the Carnival of Mathematics, rounding up blog posts from the month of December 2024, is now online at John D Cook’s Blog. The Carnival rounds up maths blog posts from all over the internet, including some from our own Aperiodical....
 
 
+[Introducing Category Theory, 2nd edn](https://www.logicmatters.net/2025/01/03/introducing-category-theory-2nd-edn/)
+---
+
+Blog - Logic Matters --- 1/3/2025
+
+I have just put online a draft of all but the last chapter of a second edition of Introducing Category Theory. I hope to have this completed and paperback-ready in February or March. In the meantime, I have “unpublished” the first edition (so that...
+
+
 [Fully Homomorphic Encryption and the Public](https://www.jeremykun.com/fhe-and-the-public/)
 ---
 
@@ -101,6 +133,14 @@ Double Maths First Thing is like a tall, dark stranger with some coal and some w
 The Aperiodical --- 1/1/2025
 
 There seem to be a lot of numerical coincidences bouncing around concerning the new year 2025. For example, it’s a square number: \( 2025 = 45^2 \). The last square year was \(44^2 = 1936\), and the next will be \(46^2=2116\). The other one you...
+
+
+[Vermeer revisited](https://www.logicmatters.net/2024/12/31/vermeer-revisited/)
+---
+
+Blog - Logic Matters --- 12/31/2024
+
+Let me share (almost!) one of my Christmas presents with you. Of the books I have enjoyed most during this past year, three are books on art. I have already really warmly recommended here the wonderful catalogue for the still-current exhibition Van...
 
 
 [Particularly mathematical New Years Honours 2025](https://aperiodical.com/2024/12/particularly-mathematical-new-years-honours-2025/)
@@ -149,6 +189,14 @@ It’s now been a year since I took over the puzzle column at New Scientist and 
 The Aperiodical --- 12/25/2024
 
 Because there’s really no excuse for ho-ho-ho-CAH-TOA Hello! My name is Colin and I am a mathematician on a mission to spread mathematical joy and delight, without recourse to magical reindeer. Somewhat embarrassingly, I’ve shown up for class...
+
+
+[A Christmas card](https://www.logicmatters.net/2024/12/24/a-christmas-card-13/)
+---
+
+Blog - Logic Matters --- 12/24/2024
+
+What the Donkey Saw No room in the inn, of course,And not that much in the stable,What with the shepherds, Magi, Mary,Joseph, the heavenly host —Not to mention the babyUsing our manger as a cot.You couldn’t have squeezed another cherub inFor love...
 
 
 [Plutocrats and Authoritarian Leaders: Like Flies to Flypaper](https://crookedtimber.org/2024/12/24/plutocrats-and-authoritarian-leaders-like-flies-to-flypaper/)
@@ -207,6 +255,14 @@ The Aperiodical --- 12/20/2024
 A conversation about mathematics inspired by Lewis Carroll’s Game of Logic. Presented by Katie Steckles and Peter Rowlett.
 
 
+[A categorial end in sight](https://www.logicmatters.net/2024/12/19/a-categorial-end-in-sight/)
+---
+
+Blog - Logic Matters --- 12/19/2024
+
+I haven’t been posting regular updates about work on the revised version of Introducing Category Theory, not because there’s been no progress, but because there has been little of wider interest to report. But the end is at last in sight. I have...
+
+
 [Questions on the Future of Feminism from my Book Tour](https://crookedtimber.org/2024/12/19/questions-on-the-future-of-feminism-from-my-book-tour/)
 ---
 
@@ -253,6 +309,14 @@ If you’ve got a mathematical friend you need to buy a Christmas gift for but h
 Bartosz Ciechanowski --- 12/17/2024
 
 In the vastness of empty space surrounding Earth, the Moon is our closest celestial neighbor. Its face, periodically filled with light and devoured by darkness, has an ever-changing, but dependable presence in our skies. In this article, we’ll...
+
+
+[Not in Florence](https://www.logicmatters.net/2024/12/15/not-in-florence/)
+---
+
+Blog - Logic Matters --- 12/15/2024
+
+Back in the day, not so long ago, we went a number of times to Florence just before Christmas. The best time to go, with the city returned to the Florentines, with so few tourists, the shops festive, and the restaurants relaxed and pleased to see...
 
 
 [Sunday photoblogging: Robin](https://crookedtimber.org/2024/12/15/sunday-photoblogging-robin-2/)
@@ -311,14 +375,6 @@ Computational Complexity --- 12/8/2024
 In Lance's last post (see here) he listed his favorite theorems from 1965 to 2024.There are roughly 60 Theorems. I mostly agree with his choices and omissions. I will point out where I don't. I could make a comment on every single entry; however,...
 
 
-[Sunday photoblogging: Colston Hall (now renamed as the Bristol Beacon)](https://crookedtimber.org/2024/12/08/sunday-photoblogging-colston-hall-now-renamed-as-the-bristol-beacon/)
----
-
-Crooked Timber --- 12/8/2024
-
-
-
-
 [Favorite Theorems: The Complete List](https://blog.computationalcomplexity.org/feeds/8713688788112685900/comments/default)
 ---
 
@@ -333,6 +389,14 @@ Now in one place all of my sixty favorite theorems from the six decades of compu
 The n-Category Café --- 12/4/2024
 
 The Eighth International Conference on Applied Category Theory (https://easychair.org/cfp/ACT2025) will take place at the University of Florida on June 2-6, 2025. The conference will be preceded by the Adjoint School on May 26-30, 2025. This...
+
+
+[Yanofsky, Monoidal Category Theory — 3](https://www.logicmatters.net/2024/12/03/yanofsky-monoidal-category-theory-3/)
+---
+
+Blog - Logic Matters --- 12/3/2024
+
+Some brief comments on Chapters 2 to 4 of Yanofsky’s book, firstly on the main sections of those chapters. In Chapter 2, categories are defined, we meet lots of examples, and then different kinds of arrows are defined, along with subcategories and...
 
 
 [Conway's Trick for Divisibility. Asking its complexity is an odd question.](https://blog.computationalcomplexity.org/feeds/8496575347919285566/comments/default)
@@ -359,6 +423,14 @@ Computational Complexity --- 11/25/2024
 Will our writing all converge to a generic AI style? Let's take a quick detour into LaTeX. Back in the late '80s, before LaTeX was the standard, there was TeX—a system with no default formatting, which meant everyone had their own unique style for...
 
 
+[Arnie Koslow, 1933–2024](https://www.logicmatters.net/2024/11/24/arnie-koslow-1933-2024/)
+---
+
+Blog - Logic Matters --- 11/24/2024
+
+I was really saddened to learn yesterday of the death last month of Arnie Koslow at the age of 91. I got to know Arnie well when I returned to Cambridge where he was a regular summer visitor for quite a few years. He became a warm friend and we...
+
+
 [Axiomatic Set Theory 9: The Axiom of Choice](https://golem.ph.utexas.edu/category/2024/11/axiomatic_set_theory_9_the_axi.html)
 ---
 
@@ -383,6 +455,14 @@ The n-Category Café --- 11/22/2024
 Want to work on applied category theory?  Apply to the Adjoint School before December 1, 2024!
 
 
+[Yanofsky, Monoidal Category Theory — 2](https://www.logicmatters.net/2024/11/21/yanofsky-monoidal-category-theory-2/)
+---
+
+Blog - Logic Matters --- 11/21/2024
+
+I’ll offer some more comments over the next blog post or two on Chapters 1 to 4 of Monoidal Category Theory, the chapters which comprise Yanofsky’s introductory course on core category theory, before we reach the monoidal delights. Chapter 1, after...
+
+
 [Walking Ripples](https://www.fractalkitty.com/walking-ripples/)
 ---
 
@@ -397,6 +477,14 @@ Over the last week I have been drawing circles along paths and then shading them
 Computational Complexity --- 11/20/2024
 
 In my last post (see here) I invited you to work on the following question:Find a \(d\) such that--There is a 2-coloring of \(R^d\) with no mono unit square.--For all 2-colorings of \(R^{d+1}\) there is a mono unit square. Actually I should have...
+
+
+[Yanofsky, Monoidal Category Theory — 1](https://www.logicmatters.net/2024/11/19/yanofsky-monoidal-category-theory-1/)
+---
+
+Blog - Logic Matters --- 11/19/2024
+
+I thought I should take a look at the just-published book by Noson Yanofsky, Monoidal Category Theory: Unifying Concepts in Mathematics, Physics, and Computing (MIT Press, 2024). Yanofsky is on a proselytizing mission. He wants to persuade us that,...
 
 
 [Teacher](http://abuseofnotation.github.io/teacher-joke/)
@@ -709,92 +797,4 @@ In my recent overview of homomorphic encryption, I underemphasized the importanc
 Math ∩ Programming --- 9/2/2024
 
 In my recent overview of homomorphic encryption, I underemphasized the importance of data layout when working with arithmetic (SIMD-style) homomorphic encryption schemes. In the FHE world, the name given to data layout strategies is called...
-
-
-[randomness – a generative zine](https://www.fractalkitty.com/randomness-a-generative-zine/)
----
-
-Fractal Kitty --- 8/21/2024
-
-I coded a generative zine to bring to XOXO 2024. It is different every time it loads with a sampling of p5.js sketches. Each zine has hundreds of thousands to millions of generated shapes and points using random numbers. The github is here (the...
-
-
-[Curve](https://www.fractalkitty.com/curve/)
----
-
-Fractal Kitty --- 8/20/2024
-
-I made Curve, a coloring book, to bring to XOXO 2024 this week. If you’d like to print/play: See the Pen Curve Zine by Sophia (fractal kitty) (she/her) (@fractalkitty) on CodePen.
-
-
-[Infinite-time computable analogues of the universal algorithm, Generalized Computability Theory Workshop, Spain, August 2024](https://jdh.hamkins.org/infinite-time-computable-analogues-of-the-universal-algorithm-gct2024-spain/)
----
-
-Joel David Hamkins --- 8/18/2024
-
-This will be a talk at the Generalized Computability Theory workshop in Castro Urdiales, Spain, a beautiful setting on the sea near Bilbao, 19-23 August 2024. Abstract. I shall present infinite-time computable analogues of the universal algorithm,...
-
-
-[Can you trust LLMs with books? Perplexity vs Chat GPT vs Iain McGilchrist](http://proses.id/can-llms-help-me-read-books/)
----
-
-Proses.ID --- 8/13/2024
-
-I was listening to this interview of Iain McGilchrist. He was explaining how the mechanistic metaphors that we often use in our daily lives could…
-
-
-[Waiting for God(b)ot](http://proses.id/god-b-ot/)
----
-
-Proses.ID --- 8/10/2024
-
-Story 1: Who plans better? You or LLM? I was watching this interview on Machine Learning Street Talk where Prof Subbarao Kambhapati argued that LLMs…
-
-
-[Webmentions and POSSE improvements](https://www.jeremykun.com/shortform/2024-08-07-1414/)
----
-
-Math ∩ Programming --- 8/7/2024
-
-This blog now accepts webmentions. I used webmention.io and webmention.js for live rendering. You can see an example at the end of my old Bezier Curves post. After my initial experiments with POSSE, I’ve made a few improvements to the system. Now...
-
-
-[MLIR — Defining Patterns with PDLL](https://www.jeremykun.com/2024/08/04/mlir-pdll/)
----
-
-Math ∩ Programming --- 8/4/2024
-
-Table of Contents In this article I’ll show how to use PDLL, a tool for defining MLIR patterns, which itself is built with MLIR. PDLL is intended to be a replacement for defining patterns in tablegen, though there are few public examples of its...
-
-
-[Polynomial dialect and mlir-opt tutorial upstreamed](https://www.jeremykun.com/shortform/2024-08-02-1551/)
----
-
-Math ∩ Programming --- 8/2/2024
-
-I’ve been upstreaming a bit of my compiler work to the MLIR project. Yesterday, I merged in a tutorial on mlir-opt, the main debugging tool for running passes on MLIR code. This is roughly the upstreamable parts of my first MLIR tutorial entry,...
-
-
-[Fully Homomorphic Encryption in Production Systems](https://www.jeremykun.com/fhe-in-production/)
----
-
-Math ∩ Programming --- 7/31/2024
-
-In this living document, I will list all production systems I’m aware of that use fully homomorphic encryption (FHE). For background on FHE, see my overview of the field. If you have any information about production FHE systems not in this list, or...
-
-
-[Ben Recht on Meehl's Philosophical Psychology](https://www.jeremykun.com/shortform/2024-07-27-1149/)
----
-
-Math ∩ Programming --- 7/27/2024
-
-Ben Recht, a computer science professor at UC Berkeley, recently wrapped up a 3-month series of blog posts on Paul Meehl’s “Philosophical Psychology.” Recht has a table of contents for his blog series. It loosely tracks a set of lectures that Meehl...
-
-
-[Research, retrieve, and use. Find stuff on the internet for fun](http://proses.id/holdem-retriever/)
----
-
-Proses.ID --- 7/26/2024
-
-I’m having a little celebration moment right now for my information detective skill. Allow me to share it with you. Earlier this week I saw…
 
