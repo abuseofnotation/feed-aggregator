@@ -1,4 +1,12 @@
 
+[Aperiodical News Roundup – November & December 2024](https://aperiodical.com/2025/01/aperiodical-news-roundup-november-december-2024/)
+---
+
+The Aperiodical --- 1/11/2025
+
+Here’s a round-up of some news stories from the last two months of 2024, (mostly) not otherwise covered here on the Aperiodical. Maths Research At the start of December, John Carlos Baez shared on Mathstodon that the moving sofa problem may have...
+
+
 [Small categorial update](https://www.logicmatters.net/2025/01/10/small-categorial-update/)
 ---
 
@@ -293,14 +301,6 @@ Or The Novice’s Guide To Achieving Mathematical Immortality This is a guest po
 Computational Complexity --- 12/18/2024
 
 I've heard a few times recently the phrase "Information only exists in a physical state". It come from the quantum computing world where they claim quantum changes the game when it comes to representing information.As one who has spent his career...
-
-
-[Last-minute Mathematical Gifts](https://aperiodical.com/2024/12/last-minute-mathematical-gifts/)
----
-
-The Aperiodical --- 12/18/2024
-
-If you’ve got a mathematical friend you need to buy a Christmas gift for but have left it too late, here’s some suggestions for what you could get them, drawn from things our friends are doing (that don’t need you to wait for something to arrive in...
 
 
 [Moon](https://ciechanow.ski/moon/)
