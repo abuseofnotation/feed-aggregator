@@ -1,4 +1,20 @@
 
+[Random Thought on AI from someone in the REAL WORLD](https://blog.computationalcomplexity.org/feeds/2984182986940037631/comments/default)
+---
+
+Computational Complexity --- 1/12/2025
+
+Guest Post from Nick Sovich. -----------------------------------------------------------------------------Bill Gasarch recently blogged on RANDOM THOUGHTS ON AI here . He is in the realm of theory. I am in the realm of applications so I asked if I...
+
+
+[Sunday photoblogging: Sion Road (house reflections)](https://crookedtimber.org/2025/01/12/sunday-photoblogging-sion-road-house-reflections/)
+---
+
+Crooked Timber --- 1/12/2025
+
+
+
+
 [Aperiodical News Roundup – November & December 2024](https://aperiodical.com/2025/01/aperiodical-news-roundup-november-december-2024/)
 ---
 
@@ -357,14 +373,6 @@ Saying that being cis-gender – i.e. having a gender identity that corresponds 
 Computational Complexity --- 12/11/2024
 
 We use grades to evaluate students and motivate them to learn. That works as long as grades remain a reasonably good measure of how well the student understands the material in a class. But Goodhart's law, "When a measure becomes a target, it...
-
-
-[The limits of number-crunching: Hannah Ritchie’s Not the End of the World](https://crookedtimber.org/2024/12/09/the-limits-of-number-crunching-hannah-ritchies-not-the-end-of-the-world/)
----
-
-Crooked Timber --- 12/9/2024
-
-A few weeks ago, seven political philosophers at my department, who regularly meet to discuss issues related to sustainable futures, met to discuss Hannah Ritchie’s book Not the End of the World. That book quickly appeared on the bestseller’s...
 
 
 [My comments on Lance's Favorite Theorems](https://blog.computationalcomplexity.org/feeds/7083845773500318354/comments/default)
@@ -749,14 +757,6 @@ This will be a talk for the (In)determinacy in Mathematics conference at the Nat
 Joel David Hamkins --- 10/14/2024
 
 This will be a talk at the UW Madison Logic Seminar on 22 October 2024. Abstract. The principle of covering reflection holds of a cardinal κ if for every structure B in a countable first-order language there is a structure … Continue reading →
-
-
-[Emil Post Anticipated (more than anticipated) Godel and Turing](https://blog.computationalcomplexity.org/feeds/8836223629403060537/comments/default)
----
-
-Computational Complexity --- 10/6/2024
-
-(Thanks to James De Santis for pointing the article that inspired this post on Post. The article is pointed to in this post.) What is Emil Post known for? I know of him for the following: a) Post's Problem: Show that there is an r.e. set A that is...
 
 
 [mathober 2024 sketches](https://www.fractalkitty.com/mathober-2024-sketches-2/)
