@@ -1,4 +1,12 @@
 
+[Hibernating, hallucinating, Haydn](https://www.logicmatters.net/2025/01/14/hibernating-hallucinating-haydn/)
+---
+
+Blog - Logic Matters --- 1/14/2025
+
+It has been very wintry. At least by Cambridge standards. So up late, early to retire. Hardly leaving the house for a few days. Hibernating. Mrs Logic Matters has wonderful bread and other goodies to show for it. I seem to have been staring at...
+
+
 [Random Thought on AI from someone in the REAL WORLD](https://blog.computationalcomplexity.org/feeds/2984182986940037631/comments/default)
 ---
 
@@ -485,14 +493,6 @@ Over the last week I have been drawing circles along paths and then shading them
 Computational Complexity --- 11/20/2024
 
 In my last post (see here) I invited you to work on the following question:Find a \(d\) such that--There is a 2-coloring of \(R^d\) with no mono unit square.--For all 2-colorings of \(R^{d+1}\) there is a mono unit square. Actually I should have...
-
-
-[Yanofsky, Monoidal Category Theory — 1](https://www.logicmatters.net/2024/11/19/yanofsky-monoidal-category-theory-1/)
----
-
-Blog - Logic Matters --- 11/19/2024
-
-I thought I should take a look at the just-published book by Noson Yanofsky, Monoidal Category Theory: Unifying Concepts in Mathematics, Physics, and Computing (MIT Press, 2024). Yanofsky is on a proselytizing mission. He wants to persuade us that,...
 
 
 [Teacher](http://abuseofnotation.github.io/teacher-joke/)
