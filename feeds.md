@@ -1,4 +1,28 @@
 
+[The Dual Concept of Injection](https://golem.ph.utexas.edu/category/2025/01/the_dual_concept_of_injection.html)
+---
+
+The n-Category Café --- 1/15/2025
+
+There's more than one reasonable answer to the question "what is the dual concept of injection?"
+
+
+["Our Days Are Numbered"](https://blog.computationalcomplexity.org/feeds/8802116424214301757/comments/default)
+---
+
+Computational Complexity --- 1/15/2025
+
+Slide in Lev Reyzin's JMM talk "Problems in AI and ML for Mathematicians" Reyzin is paraphrasing Telgarsky. Posted with permission.Last week I attended the Joint Mathematics Meeting in Seattle with a theme ofWe Decide Our Future: Mathematics in the...
+
+
+[Double Maths First Thing: Issue 13](https://aperiodical.com/2025/01/double-maths-first-thing-issue-13/)
+---
+
+The Aperiodical --- 1/15/2025
+
+DMFT is significantly less perplexing than HMRC Hello! My name is Colin and I am a mathematician on a mission to spread mathematical joy. This week, I’ve made another contribution to the OEIS (currently in review) about the excellent puzzle #23...
+
+
 [Hibernating, hallucinating, Haydn](https://www.logicmatters.net/2025/01/14/hibernating-hallucinating-haydn/)
 ---
 
@@ -309,14 +333,6 @@ I knew when my most recent book was assigned an end-of-October publication date
 Crooked Timber --- 12/19/2024
 
 Now that the U.S. faces the return of a fascist President to power, we must consider the connections among plutocracy, misogyny, and fascism. In 2016, many pundits attributed Trump’s election to the rightward shift of white working-class voters in...
-
-
-[A New Sequence!](https://aperiodical.com/2024/12/a-new-sequence/)
----
-
-The Aperiodical --- 12/18/2024
-
-Or The Novice’s Guide To Achieving Mathematical Immortality This is a guest post from Barney Maunder-Taylor. A great way to achieve mathematical immortality is to solve an outstanding open question, like determining if \( \pi+e \) is rational or...
 
 
 [Information is Physical?](https://blog.computationalcomplexity.org/feeds/376845296399143352/comments/default)
@@ -663,28 +679,12 @@ The n-Category Café --- 10/30/2024
 Brief remarks on Thurston's paper "Shapes of polyhedra and triangulations of the sphere".
 
 
-[Axiomatic Set Theory 5: Relations](https://golem.ph.utexas.edu/category/2024/10/axiomatic_set_theory_5_relatio.html)
----
-
-The n-Category Café --- 10/26/2024
-
-In Week 5 of my ETCS-based set theory course, I explained how to specify subsets and functions by formulas.
-
-
 [Family Feud vs Pointless](https://blog.computationalcomplexity.org/feeds/1754230509585422143/comments/default)
 ---
 
 Computational Complexity --- 10/23/2024
 
 Every now and then I feel like doing a Gasarchian post. This is one of those weeks. I'm going to look at the mathematics behind the American game show Family Feud and the British Pointless. I caught a glimpse of Pointless while I was in Oxford over...
-
-
-[Fall Jobs Post 2024](https://blog.computationalcomplexity.org/feeds/1081777910302234097/comments/default)
----
-
-Computational Complexity --- 10/22/2024
-
-In the fall, I write a jobs post predicting the upcoming CS faculty job market and giving suggestions and links. In the spring I used to crowdsource a list of where everyone got jobs but have since outsourced the crowdsource to Grigory...
 
 
 [Octoberfest 2024](https://golem.ph.utexas.edu/category/2024/10/octoberfest_2024.html)
