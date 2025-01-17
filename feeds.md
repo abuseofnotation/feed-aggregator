@@ -1,4 +1,12 @@
 
+[Should economists know their own history](https://crookedtimber.org/2025/01/16/53614/)
+---
+
+Crooked Timber --- 1/16/2025
+
+There’s been a recent fuss in various media arising from a tweet from economist Ben Golub regarding astonishment that economists haven’t “worked through” Smith and Marx. English professor Alex Moskowitz chimed in with a claim that economics can’t...
+
+
 [The Dual Concept of Injection](https://golem.ph.utexas.edu/category/2025/01/the_dual_concept_of_injection.html)
 ---
 
@@ -381,14 +389,6 @@ My Oxford student Emma Palmer and I have been thinking about worldly cardinals a
 The n-Category Café --- 12/13/2024
 
 About an early theory in which Mercury and Venus orbit the Sun, while the other planets orbit the Earth.
-
-
-[Cis Privilege is Real](https://crookedtimber.org/2024/12/11/cis-privilege-is-real/)
----
-
-Crooked Timber --- 12/11/2024
-
-Saying that being cis-gender – i.e. having a gender identity that corresponds with the sex/gender one was assigned at birth – comes with privileges need not mean erasing the lived experiences, real challenges, and specific struggles of cis-gendered...
 
 
 [It's Time to Stop Using Grades](https://blog.computationalcomplexity.org/feeds/2892592681671926359/comments/default)
