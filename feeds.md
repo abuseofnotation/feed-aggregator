@@ -1,4 +1,20 @@
 
+[Sunday photoblogging: Los Angeles – Union Station](https://crookedtimber.org/2025/01/19/sunday-photoblogging-los-angeles-union-station/)
+---
+
+Crooked Timber --- 1/19/2025
+
+
+
+
+[Presidential Quiz!](https://blog.computationalcomplexity.org/feeds/5872565282485947923/comments/default)
+---
+
+Computational Complexity --- 1/19/2025
+
+I made up a quiz about the American Presidents here.  It has 40 questions. In the modern electronic age you can probably look up most or even all of the answers. So what to do about that?1) The quiz is not for money or credits or anything, so if...
+
+
 [A Song About Computing Sheaf Cohomology with Cech Covers](https://rin.io/cech-covers/)
 ---
 
@@ -391,14 +407,6 @@ Blog - Logic Matters --- 12/15/2024
 Back in the day, not so long ago, we went a number of times to Florence just before Christmas. The best time to go, with the city returned to the Florentines, with so few tourists, the shops festive, and the restaurants relaxed and pleased to see...
 
 
-[Sunday photoblogging: Robin](https://crookedtimber.org/2024/12/15/sunday-photoblogging-robin-2/)
----
-
-Crooked Timber --- 12/15/2024
-
-I’d not taken a picture with a “real camera” since October 22nd, which is my longest such hiatus since 2007. So yesterday, I decided to step out and start again.
-
-
 [Every worldly cardinal admits a Gödel-Bernays structure](https://jdh.hamkins.org/every-worldly-cardinal-admits-a-godel-bernays-structure/)
 ---
 
@@ -757,14 +765,6 @@ I’ve been wanting to reflect of the past 2 years and 2 months I spent not work
 Math ∩ Programming --- 10/15/2024
 
 Kristin Lauter and her colleagues at Facebook research recently announced a project to benchmark attacks against LWE. The announcement was on the post-quanum crypto mailing list. They state: “Our approach is motivated by the need to study more...
-
-
-[A Trip Down Memory Lane: Desc comp, Constant Round Sorting, Division Breakthrough, Derandomization.](https://blog.computationalcomplexity.org/feeds/4020901370592877578/comments/default)
----
-
-Computational Complexity --- 10/14/2024
-
-I came across (by accident) the link to all of the BEATCS complexity columns from 1987 to the 2016. See HERE. (If you know a link to a more recent webpage then email me or make a comment. There is a link to all of the issues of BEATCS here;...
 
 
 [Determinateness of truth does not come for free from determinateness of objects, Singapore, November 2024](https://jdh.hamkins.org/determinateness-of-truth-does-not-come-for-free-from-determinateness-of-objects-singapore-november-2024/)
