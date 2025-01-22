@@ -1,4 +1,44 @@
 
+[The covering reflection principle – Oberwolfach January 2025](https://jdh.hamkins.org/the-covering-reflection-principle-oberwolfach-january-2025/)
+---
+
+Joel David Hamkins --- 1/21/2025
+
+This was a talk I gave at the Set Theory Workshop at the Mathematisches Forschungsinstitut in Oberwolfach, Germany, 12-17 January 2025. Abstract. The principle of covering reflection holds of a cardinal κ if for every structure B in a countable …...
+
+
+[On Institutional Voice and witnessing Truth; On the Yale Report](https://crookedtimber.org/2025/01/21/on-institutional-voice-and-witnessing-truth-on-the-yale-report/)
+---
+
+Crooked Timber --- 1/21/2025
+
+Recently I learned that at Yale University a “Report of the Committee on Institutional Voice” was published a few months ago. The committee was chaired by professors “Della Rocca & Rodríguez” and so hereafter, I refer to the report as “Della...
+
+
+[Open thread on Trump](https://crookedtimber.org/2025/01/21/open-thread-on-trump/)
+---
+
+Crooked Timber --- 1/21/2025
+
+I’ve already said all I plan to (for now) about what’s happening in the US. But if others want to discuss it, here’s an open thread.
+
+
+[Ravenna’s submerged crypt](https://crookedtimber.org/2025/01/21/ravennas-submerged-crypt/)
+---
+
+Crooked Timber --- 1/21/2025
+
+Inspired by Chris’s recent photo-blogging post, I thought I’d share a less well known little gem about (the original) Ravenna: not a byzantine church interior full of mosaics, but the submerged crypt of an early medieval Church (the Basilica of San...
+
+
+[Presidential Quiz!](https://blog.computationalcomplexity.org/feeds/5872565282485947923/comments/default)
+---
+
+Computational Complexity --- 1/21/2025
+
+I made up a quiz about the American Presidents here.  It has 40 questions. In the modern electronic age you can probably look up most or even all of the answers. So what to do about that?1) The quiz is not for money or credits or anything, so if...
+
+
 [Sunday photoblogging: Los Angeles – Union Station](https://crookedtimber.org/2025/01/19/sunday-photoblogging-los-angeles-union-station/)
 ---
 
@@ -7,20 +47,12 @@ Crooked Timber --- 1/19/2025
 
 
 
-[Presidential Quiz!](https://blog.computationalcomplexity.org/feeds/5872565282485947923/comments/default)
----
-
-Computational Complexity --- 1/19/2025
-
-I made up a quiz about the American Presidents here.  It has 40 questions. In the modern electronic age you can probably look up most or even all of the answers. So what to do about that?1) The quiz is not for money or credits or anything, so if...
-
-
 [A Song About Computing Sheaf Cohomology with Cech Covers](https://rin.io/cech-covers/)
 ---
 
 Good Fibrations --- 1/17/2025
 
-Cech Covers I wrote this song with my old beloved room mate Christian Gorski in my last year of grad school while I was wrapping up my thesis.
+Cech Covers (click the link to listen to us). I wrote this song with my beloved old room mate Christian Gorski in my last year of grad school while I was wrapping up my thesis. For weeks, I was doing nothing but computing etale sheaf cohomologies...
 
 
 [The Crystalline Period Map](https://rin.io/crystalline-period/)
@@ -343,14 +375,6 @@ The n-Category Café --- 12/21/2024
 More detail on the Cycle Length Lemma, a basic result in the theory of random permutations.  We prove a categorified version of this result, which is an equivalence of groupoids, and then derive the original version by taking groupoid cardinalities.
 
 
-[On “Privilege”](https://crookedtimber.org/2024/12/20/on-privilege/)
----
-
-Crooked Timber --- 12/20/2024
-
-A post I wrote last week sparked a lively debate, and one strand of that debate was whether it is appropriate to use the term “privilege” (“cis privilege” in particular) to describe the phenomena I was talking about. I identified mainly two...
-
-
 [Mathematical Objects: Universe of cake](https://aperiodical.com/2024/12/mathematical-objects-universe-of-cake/)
 ---
 
@@ -365,22 +389,6 @@ A conversation about mathematics inspired by Lewis Carroll’s Game of Logic. Pr
 Blog - Logic Matters --- 12/19/2024
 
 I haven’t been posting regular updates about work on the revised version of Introducing Category Theory, not because there’s been no progress, but because there has been little of wider interest to report. But the end is at last in sight. I have...
-
-
-[Questions on the Future of Feminism from my Book Tour](https://crookedtimber.org/2024/12/19/questions-on-the-future-of-feminism-from-my-book-tour/)
----
-
-Crooked Timber --- 12/19/2024
-
-I knew when my most recent book was assigned an end-of-October publication date that I would spend much of my book tour processing the election and its aftermath. As the title suggests, Faux Feminism: Why We Fall for White Feminism and How We Can...
-
-
-[Plutocracy, Masculinity, and the Psychology of Fascism](https://crookedtimber.org/2024/12/19/plutocracy-masculinity-and-the-psychology-of-fascism/)
----
-
-Crooked Timber --- 12/19/2024
-
-Now that the U.S. faces the return of a fascist President to power, we must consider the connections among plutocracy, misogyny, and fascism. In 2016, many pundits attributed Trump’s election to the rightward shift of white working-class voters in...
 
 
 [Information is Physical?](https://blog.computationalcomplexity.org/feeds/376845296399143352/comments/default)
@@ -789,12 +797,4 @@ This will be a talk at the UW Madison Logic Seminar on 22 October 2024. Abstract
 Fractal Kitty --- 10/1/2024
 
 It’s mathober! I will be updating this page with my sketches (in procreate and code for this year. Procreate sketches: (not all will be done this month – they take longer): P5js sketches: The code is on my codepen collection here.
-
-
-[Dynamic Programming Fail](https://www.jeremykun.com/shortform/2024-09-12-1502/)
----
-
-Math ∩ Programming --- 9/12/2024
-
-This is a story about a failure to apply dynamic programming to a woodworking project. I’ve been building a shed in my backyard, and for one section I decided to build the floor by laying 2x4 planks side by side. I didn’t feel the need to join them...
 
