@@ -1,4 +1,28 @@
 
+[Comagnitude 1](https://golem.ph.utexas.edu/category/2025/01/comagnitude_1.html)
+---
+
+The n-Category Café --- 1/22/2025
+
+Warming up to a dual concept to magnitude, with an aside on a new connection between magnitude and entropy.
+
+
+[The Fighting Temeraire](https://blog.computationalcomplexity.org/feeds/449868624404423350/comments/default)
+---
+
+Computational Complexity --- 1/22/2025
+
+What does an 1838 painting tell us about technological change?A colleague and I decided to see how well LLMs could teach us a topic we knew nothing about. We picked the Romanticism art movement. I asked ChatGPT to tutor me on the topic for an hour....
+
+
+[Double Maths First Thing: Issue 14](https://aperiodical.com/2025/01/double-maths-first-thing-issue-14/)
+---
+
+The Aperiodical --- 1/22/2025
+
+DMFT probably needs wider margins. Hello! My name is Colin and I am a mathematician on a mission to spread the joy and delight in how everything fits together. Straight into the links this week! A mini-theme: going back in time My link collection...
+
+
 [The covering reflection principle – Oberwolfach January 2025](https://jdh.hamkins.org/the-covering-reflection-principle-oberwolfach-january-2025/)
 ---
 
@@ -375,14 +399,6 @@ The n-Category Café --- 12/21/2024
 More detail on the Cycle Length Lemma, a basic result in the theory of random permutations.  We prove a categorified version of this result, which is an equivalence of groupoids, and then derive the original version by taking groupoid cardinalities.
 
 
-[Mathematical Objects: Universe of cake](https://aperiodical.com/2024/12/mathematical-objects-universe-of-cake/)
----
-
-The Aperiodical --- 12/20/2024
-
-A conversation about mathematics inspired by Lewis Carroll’s Game of Logic. Presented by Katie Steckles and Peter Rowlett.
-
-
 [A categorial end in sight](https://www.logicmatters.net/2024/12/19/a-categorial-end-in-sight/)
 ---
 
@@ -727,14 +743,6 @@ Computational Complexity --- 10/23/2024
 Every now and then I feel like doing a Gasarchian post. This is one of those weeks. I'm going to look at the mathematics behind the American game show Family Feud and the British Pointless. I caught a glimpse of Pointless while I was in Oxford over...
 
 
-[Octoberfest 2024](https://golem.ph.utexas.edu/category/2024/10/octoberfest_2024.html)
----
-
-The n-Category Café --- 10/22/2024
-
-The Octoberfest is a noble tradition in category theory: a low-key, friendly conference for researchers to share their work and thoughts. This year it's on Saturday October 26th and Sunday October 27th. It's being run by Rick Blute out...
-
-
 [Contrast an Episode of Columbo with the recent Nobel Prizes](https://blog.computationalcomplexity.org/feeds/4615396500476574416/comments/default)
 ---
 
@@ -749,14 +757,6 @@ I quote Lance's blog post (here) about Computing and the Nobelsa) On Wednesday O
 DEONTOLOGISTICS --- 10/18/2024
 
 Here’s a recent thread musing about problems with Bayesian conceptions of general intelligence and the more specific variants based on Solmonoff induction, such as AIXI. I’ve been thinking about these issues a lot recently, in tandem with the...
-
-
-[Computing and the Nobels](https://blog.computationalcomplexity.org/feeds/2262393408828805749/comments/default)
----
-
-Computational Complexity --- 10/16/2024
-
-Herb SimonHerbert Simon while a political scientist in the 1940s at my institution, the Illinois Institute of Technology, developed the theory of bounded rationality, realizing that people did not always make the most rational decisions because of...
 
 
 [This job checks all the boxes, but…](http://proses.id/perfectjob/)
