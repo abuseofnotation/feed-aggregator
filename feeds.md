@@ -1,4 +1,12 @@
 
+[Pavel Haas Quartet and Boris Giltburg](https://www.logicmatters.net/2025/01/25/pavel-haas-quartet-and-boris-giltburg/)
+---
+
+Blog - Logic Matters --- 1/25/2025
+
+The Pavel Haas Quartet were in Cambridge last night, playing selections from Dvořák’s ‘Cypresses’, Martinů’s fifth string quartet, and then (with Boris Giltburg) Brahms’s third piano quartet. The Martinů in particular was just stupendous. (They...
+
+
 [Comagnitude 1](https://golem.ph.utexas.edu/category/2025/01/comagnitude_1.html)
 ---
 
@@ -541,14 +549,6 @@ The final chapter of this course on secretly-categorical set theory.
 The n-Category Café --- 11/22/2024
 
 Want to work on applied category theory?  Apply to the Adjoint School before December 1, 2024!
-
-
-[Yanofsky, Monoidal Category Theory — 2](https://www.logicmatters.net/2024/11/21/yanofsky-monoidal-category-theory-2/)
----
-
-Blog - Logic Matters --- 11/21/2024
-
-I’ll offer some more comments over the next blog post or two on Chapters 1 to 4 of Monoidal Category Theory, the chapters which comprise Yanofsky’s introductory course on core category theory, before we reach the monoidal delights. Chapter 1, after...
 
 
 [Walking Ripples](https://www.fractalkitty.com/walking-ripples/)
