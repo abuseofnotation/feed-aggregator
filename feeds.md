@@ -1,4 +1,28 @@
 
+[People who live through two square years](https://blog.computationalcomplexity.org/feeds/4221253671668008872/comments/default)
+---
+
+Computational Complexity --- 1/26/2025
+
+44*44=1936.45*45=2025. This year!46*46= 2116.Since my fake birthday is Oct 1, 1960 (I do not reveal my real birthday to try to prevent ID theft), which is past 1936, and I won't live to 2116 unless Quantum-AI finds a way to put my brain in a a vat,...
+
+
+[Lawvere Archives new website](https://www.logicmatters.net/2025/01/26/lawvere-archives-new-website/)
+---
+
+Blog - Logic Matters --- 1/26/2025
+
+In case you missed the announcement on the categories mailing list: Bill’s family is happy to announce that the Lawvere Archives websiteis launched! Click here: https://lawverearchives.com/ We ask you to explore, send us your ideas, and if possible...
+
+
+[Sunday photoblogging: car reflection](https://crookedtimber.org/2025/01/26/sunday-photoblogging-car-reflection/)
+---
+
+Crooked Timber --- 1/26/2025
+
+
+
+
 [Pavel Haas Quartet and Boris Giltburg](https://www.logicmatters.net/2025/01/25/pavel-haas-quartet-and-boris-giltburg/)
 ---
 
@@ -391,14 +415,6 @@ Computational Complexity --- 12/23/2024
 Back in the day (circa 1989) we studied locally random reductions which would lead to all those exciting interactive proof results. Somehow locally random reductions got rebranded as locally correctable codes and this year's result of the year...
 
 
-[Sunday photoblogging: squirrel](https://crookedtimber.org/2024/12/22/sunday-photoblogging-squirrel/)
----
-
-Crooked Timber --- 12/22/2024
-
-
-
-
 [Random Permutations (Part 14)](https://golem.ph.utexas.edu/category/2024/12/the_cycle_length_lemma.html)
 ---
 
@@ -517,14 +533,6 @@ This will be a talk for the Notre Dame Logic Seminar, 3 December 2024, 2:00pm, 1
 Computational Complexity --- 11/25/2024
 
 Will our writing all converge to a generic AI style? Let's take a quick detour into LaTeX. Back in the late '80s, before LaTeX was the standard, there was TeX—a system with no default formatting, which meant everyone had their own unique style for...
-
-
-[Arnie Koslow, 1933–2024](https://www.logicmatters.net/2024/11/24/arnie-koslow-1933-2024/)
----
-
-Blog - Logic Matters --- 11/24/2024
-
-I was really saddened to learn yesterday of the death last month of Arnie Koslow at the age of 91. I got to know Arnie well when I returned to Cambridge where he was a regular summer visitor for quite a few years. He became a warm friend and we...
 
 
 [Axiomatic Set Theory 9: The Axiom of Choice](https://golem.ph.utexas.edu/category/2024/11/axiomatic_set_theory_9_the_axi.html)
@@ -741,14 +749,6 @@ Brief remarks on Thurston's paper "Shapes of polyhedra and triangulations of the
 Computational Complexity --- 10/23/2024
 
 Every now and then I feel like doing a Gasarchian post. This is one of those weeks. I'm going to look at the mathematics behind the American game show Family Feud and the British Pointless. I caught a glimpse of Pointless while I was in Oxford over...
-
-
-[Contrast an Episode of Columbo with the recent Nobel Prizes](https://blog.computationalcomplexity.org/feeds/4615396500476574416/comments/default)
----
-
-Computational Complexity --- 10/21/2024
-
-I quote Lance's blog post (here) about Computing and the Nobelsa) On Wednesday October 9th half of the Chemistry Nobel was awarded to computer scientists Demis Hassabis and John Jumper for the protein-folding prediction algorithm AlphaFold, which I...
 
 
 [TfE: The Problem with Bayes / Solmonoff](https://deontologistics.co/2024/10/18/tfe-the-problem-with-bayes-solmonoff/)
