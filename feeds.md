@@ -2,9 +2,25 @@
 [People who live through two square years](https://blog.computationalcomplexity.org/feeds/4221253671668008872/comments/default)
 ---
 
-Computational Complexity --- 1/26/2025
+Computational Complexity --- 1/27/2025
 
 44*44=1936.45*45=2025. This year!46*46= 2116.Since my fake birthday is Oct 1, 1960 (I do not reveal my real birthday to try to prevent ID theft), which is past 1936, and I won't live to 2116 unless Quantum-AI finds a way to put my brain in a a vat,...
+
+
+[Wyrm Beans](https://www.fractalkitty.com/w/)
+---
+
+Fractal Kitty --- 1/27/2025
+
+Do you ever look at knitted items and liken them to dragon scales? - I do.  So when I decided to make generative textured hats it made sense to call them Wyrm Beans.Just as we can have generative pixel colors on a screen, we can have generative...
+
+
+[Australia bans U16s from social media. Or does it?](https://crookedtimber.org/2025/01/27/australia-bans-u16s-from-social-media-or-does-it/)
+---
+
+Crooked Timber --- 1/27/2025
+
+The Australian parliament has legislated what’s commonly described as as “social media ban” for people under 16. More precisely, it will require selected social media platforms to implement (unspecified) age verification technology for people...
 
 
 [Lawvere Archives new website](https://www.logicmatters.net/2025/01/26/lawvere-archives-new-website/)
@@ -389,14 +405,6 @@ Because there’s really no excuse for ho-ho-ho-CAH-TOA Hello! My name is Colin 
 Blog - Logic Matters --- 12/24/2024
 
 What the Donkey Saw No room in the inn, of course,And not that much in the stable,What with the shepherds, Magi, Mary,Joseph, the heavenly host —Not to mention the babyUsing our manger as a cot.You couldn’t have squeezed another cherub inFor love...
-
-
-[Plutocrats and Authoritarian Leaders: Like Flies to Flypaper](https://crookedtimber.org/2024/12/24/plutocrats-and-authoritarian-leaders-like-flies-to-flypaper/)
----
-
-Crooked Timber --- 12/24/2024
-
-Curtis Yarvin, darling authoritarian ideologue of many tech billionaires, is back in the news, along with his deep links to J.D. Vance, via Peter Thiel. It’s no secret that plutocrats tend to be off-the-charts economic libertarians, with extreme...
 
 
 [Random Thoughts on AI (Human Generated)](https://blog.computationalcomplexity.org/feeds/4675632694499721534/comments/default)
@@ -789,12 +797,4 @@ This will be a talk for the (In)determinacy in Mathematics conference at the Nat
 Joel David Hamkins --- 10/14/2024
 
 This will be a talk at the UW Madison Logic Seminar on 22 October 2024. Abstract. The principle of covering reflection holds of a cardinal κ if for every structure B in a countable first-order language there is a structure … Continue reading →
-
-
-[mathober 2024 sketches](https://www.fractalkitty.com/mathober-2024-sketches-2/)
----
-
-Fractal Kitty --- 10/1/2024
-
-It’s mathober! I will be updating this page with my sketches (in procreate and code for this year. Procreate sketches: (not all will be done this month – they take longer): P5js sketches: The code is on my codepen collection here.
 
