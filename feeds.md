@@ -1,4 +1,20 @@
 
+[On Skolem’s paradox and the transitive submodel theorem, Rust Belt Workshop in the Philosophy of Logic, Language, and Mathematics, February 2025](https://jdh.hamkins.org/on-skolems-paradox-and-the-transitive-submodel-theorem-rust-belt-workshop-ohio-feb-2025/)
+---
+
+Joel David Hamkins --- 1/28/2025
+
+This will be a talk for the Rust Belt Workshop in the Philosophy of Logic, Language, and Mathematics, held at Ohio State University in Columbus, Ohio, February 8-9, 2025, University Hall (230 N Oval Mall, Columbus, OH) Room 386B. Abstract. …...
+
+
+[The Bernoulli Numbers Come from a Shift Operator](https://rin.io/faulhaber-shift/)
+---
+
+Good Fibrations --- 1/28/2025
+
+
+
+
 [People who live through two square years](https://blog.computationalcomplexity.org/feeds/4221253671668008872/comments/default)
 ---
 
@@ -781,20 +797,4 @@ I’ve been wanting to reflect of the past 2 years and 2 months I spent not work
 Math ∩ Programming --- 10/15/2024
 
 Kristin Lauter and her colleagues at Facebook research recently announced a project to benchmark attacks against LWE. The announcement was on the post-quanum crypto mailing list. They state: “Our approach is motivated by the need to study more...
-
-
-[Determinateness of truth does not come for free from determinateness of objects, Singapore, November 2024](https://jdh.hamkins.org/determinateness-of-truth-does-not-come-for-free-from-determinateness-of-objects-singapore-november-2024/)
----
-
-Joel David Hamkins --- 10/14/2024
-
-This will be a talk for the (In)determinacy in Mathematics conference at the National University of Singapore, 20-22 November 2024 Abstract. I shall discuss the question whether we may regard determinateness of truth as flowing from determinateness...
-
-
-[The covering reflection theorem, Madison Logic Seminar, October 2024](https://jdh.hamkins.org/the-covering-reflection-theorem-madison-logic-seminar-october-2024/)
----
-
-Joel David Hamkins --- 10/14/2024
-
-This will be a talk at the UW Madison Logic Seminar on 22 October 2024. Abstract. The principle of covering reflection holds of a cardinal κ if for every structure B in a countable first-order language there is a structure … Continue reading →
 
