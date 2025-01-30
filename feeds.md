@@ -1,4 +1,44 @@
 
+[Comagnitude 1](https://golem.ph.utexas.edu/category/2025/01/comagnitude_1.html)
+---
+
+The n-Category Café --- 1/29/2025
+
+Warming up to a dual concept to magnitude, with an aside on a new connection between magnitude and entropy.
+
+
+[Comagnitude 2](https://golem.ph.utexas.edu/category/2025/01/comagnitude_2.html)
+---
+
+The n-Category Café --- 1/29/2025
+
+Thinking about the cardinality of limits leads to a new numerical invariant of set-valued functors.
+
+
+[Lautemann's Beautiful Proof](https://blog.computationalcomplexity.org/feeds/1033138880036669085/comments/default)
+---
+
+Computational Complexity --- 1/29/2025
+
+In writing the drunken theorem post, I realized I never wrote a post on Lautemann's amazing proof that BPP is contained in \(\Sigma^p_2\), the second level of the polynomial-time hierarchy.Clemens Lautemann, who passed away in 2005 at the too young...
+
+
+[Double Maths First Thing: Issue 15](https://aperiodical.com/2025/01/double-maths-first-thing-issue-15/)
+---
+
+The Aperiodical --- 1/29/2025
+
+Double Maths First Thing is powered by genuine, artisanal intelligence Hello! My name is Colin and I am a mathematician on a mission to spread joy and delight in maths, and to encourage people to take pride in the maths they do. Straight into it...
+
+
+[The death of the hope of progress and the fear of being left behind](https://crookedtimber.org/2025/01/29/the-death-of-the-hope-of-progress-and-the-fear-of-being-left-behind/)
+---
+
+Crooked Timber --- 1/29/2025
+
+At some indeterminate point in the fairly recent past, citizens and leaders of most liberal democracies probably looked forward to a condition to be realized in the imaginable future that we can, for the sake of a convenient label, call Universal...
+
+
 [On Skolem’s paradox and the transitive submodel theorem, Rust Belt Workshop in the Philosophy of Logic, Language, and Mathematics, February 2025](https://jdh.hamkins.org/on-skolems-paradox-and-the-transitive-submodel-theorem-rust-belt-workshop-ohio-feb-2025/)
 ---
 
@@ -39,36 +79,12 @@ Crooked Timber --- 1/27/2025
 The Australian parliament has legislated what’s commonly described as as “social media ban” for people under 16. More precisely, it will require selected social media platforms to implement (unspecified) age verification technology for people...
 
 
-[Lawvere Archives new website](https://www.logicmatters.net/2025/01/26/lawvere-archives-new-website/)
----
-
-Blog - Logic Matters --- 1/26/2025
-
-In case you missed the announcement on the categories mailing list: Bill’s family is happy to announce that the Lawvere Archives websiteis launched! Click here: https://lawverearchives.com/ We ask you to explore, send us your ideas, and if possible...
-
-
 [Sunday photoblogging: car reflection](https://crookedtimber.org/2025/01/26/sunday-photoblogging-car-reflection/)
 ---
 
 Crooked Timber --- 1/26/2025
 
 
-
-
-[Pavel Haas Quartet and Boris Giltburg](https://www.logicmatters.net/2025/01/25/pavel-haas-quartet-and-boris-giltburg/)
----
-
-Blog - Logic Matters --- 1/25/2025
-
-The Pavel Haas Quartet were in Cambridge last night, playing selections from Dvořák’s ‘Cypresses’, Martinů’s fifth string quartet, and then (with Boris Giltburg) Brahms’s third piano quartet. The Martinů in particular was just stupendous. (They...
-
-
-[Comagnitude 1](https://golem.ph.utexas.edu/category/2025/01/comagnitude_1.html)
----
-
-The n-Category Café --- 1/22/2025
-
-Warming up to a dual concept to magnitude, with an aside on a new connection between magnitude and entropy.
 
 
 [The Fighting Temeraire](https://blog.computationalcomplexity.org/feeds/449868624404423350/comments/default)
@@ -191,14 +207,6 @@ The Aperiodical --- 1/15/2025
 DMFT is significantly less perplexing than HMRC Hello! My name is Colin and I am a mathematician on a mission to spread mathematical joy. This week, I’ve made another contribution to the OEIS (currently in review) about the excellent puzzle #23...
 
 
-[Hibernating, hallucinating, Haydn](https://www.logicmatters.net/2025/01/14/hibernating-hallucinating-haydn/)
----
-
-Blog - Logic Matters --- 1/14/2025
-
-It has been very wintry. At least by Cambridge standards. So up late, early to retire. Hardly leaving the house for a few days. Hibernating. Mrs Logic Matters has wonderful bread and other goodies to show for it. I seem to have been staring at...
-
-
 [Random Thought on AI from someone in the REAL WORLD](https://blog.computationalcomplexity.org/feeds/2984182986940037631/comments/default)
 ---
 
@@ -221,14 +229,6 @@ Crooked Timber --- 1/12/2025
 The Aperiodical --- 1/11/2025
 
 Here’s a round-up of some news stories from the last two months of 2024, (mostly) not otherwise covered here on the Aperiodical. Maths Research At the start of December, John Carlos Baez shared on Mathstodon that the moving sofa problem may have...
-
-
-[Small categorial update](https://www.logicmatters.net/2025/01/10/small-categorial-update/)
----
-
-Blog - Logic Matters --- 1/10/2025
-
-There’s now a new version of the category theory notes online, still missing the last chapter. It is four pages longer though, because I’ve added a section on conditional arrows in a topos (to go alongside conjunction and disjunction), and so been...
 
 
 [The Human Podcast: 10 questions in 10 minutes](https://jdh.hamkins.org/the-human-podcast-10-questions-in-10-minutes/)
@@ -311,14 +311,6 @@ The Aperiodical --- 1/4/2025
 The next issue of the Carnival of Mathematics, rounding up blog posts from the month of December 2024, is now online at John D Cook’s Blog. The Carnival rounds up maths blog posts from all over the internet, including some from our own Aperiodical....
 
 
-[Introducing Category Theory, 2nd edn](https://www.logicmatters.net/2025/01/03/introducing-category-theory-2nd-edn/)
----
-
-Blog - Logic Matters --- 1/3/2025
-
-I have just put online a draft of all but the last chapter of a second edition of Introducing Category Theory. I hope to have this completed and paperback-ready in February or March. In the meantime, I have “unpublished” the first edition (so that...
-
-
 [Fully Homomorphic Encryption and the Public](https://www.jeremykun.com/fhe-and-the-public/)
 ---
 
@@ -359,14 +351,6 @@ The Aperiodical --- 1/1/2025
 There seem to be a lot of numerical coincidences bouncing around concerning the new year 2025. For example, it’s a square number: \( 2025 = 45^2 \). The last square year was \(44^2 = 1936\), and the next will be \(46^2=2116\). The other one you...
 
 
-[Vermeer revisited](https://www.logicmatters.net/2024/12/31/vermeer-revisited/)
----
-
-Blog - Logic Matters --- 12/31/2024
-
-Let me share (almost!) one of my Christmas presents with you. Of the books I have enjoyed most during this past year, three are books on art. I have already really warmly recommended here the wonderful catalogue for the still-current exhibition Van...
-
-
 [Particularly mathematical New Years Honours 2025](https://aperiodical.com/2024/12/particularly-mathematical-new-years-honours-2025/)
 ---
 
@@ -391,36 +375,12 @@ Crooked Timber --- 12/30/2024
 
 
 
-[The Moral Development Index](https://crookedtimber.org/2024/12/30/the-moral-development-index/)
----
-
-Crooked Timber --- 12/30/2024
-
-Cabo Verde is not a rich country. To have an idea, the minimum wage is €130 a month and a meal in a restaurant costs around €10. The IMF classifies Cabo Verde as a developing country. Development has long ceased to be defined in exclusively...
-
-
 [A Puzzle about a Calculator](https://aperiodical.com/2024/12/a-puzzle-about-a-calculator/)
 ---
 
 The Aperiodical --- 12/28/2024
 
 It’s now been a year since I took over the puzzle column at New Scientist and turned it into the BrainTwisters column. By way of celebration, I thought I’d write up an interesting bit of maths behind one of the puzzles, which I made a note of at...
-
-
-[Double Maths First Thing: Issue 10](https://aperiodical.com/2024/12/double-maths-first-thing-issue-10/)
----
-
-The Aperiodical --- 12/25/2024
-
-Because there’s really no excuse for ho-ho-ho-CAH-TOA Hello! My name is Colin and I am a mathematician on a mission to spread mathematical joy and delight, without recourse to magical reindeer. Somewhat embarrassingly, I’ve shown up for class...
-
-
-[A Christmas card](https://www.logicmatters.net/2024/12/24/a-christmas-card-13/)
----
-
-Blog - Logic Matters --- 12/24/2024
-
-What the Donkey Saw No room in the inn, of course,And not that much in the stable,What with the shepherds, Magi, Mary,Joseph, the heavenly host —Not to mention the babyUsing our manger as a cot.You couldn’t have squeezed another cherub inFor love...
 
 
 [Random Thoughts on AI (Human Generated)](https://blog.computationalcomplexity.org/feeds/4675632694499721534/comments/default)
@@ -447,14 +407,6 @@ The n-Category Café --- 12/21/2024
 More detail on the Cycle Length Lemma, a basic result in the theory of random permutations.  We prove a categorified version of this result, which is an equivalence of groupoids, and then derive the original version by taking groupoid cardinalities.
 
 
-[A categorial end in sight](https://www.logicmatters.net/2024/12/19/a-categorial-end-in-sight/)
----
-
-Blog - Logic Matters --- 12/19/2024
-
-I haven’t been posting regular updates about work on the revised version of Introducing Category Theory, not because there’s been no progress, but because there has been little of wider interest to report. But the end is at last in sight. I have...
-
-
 [Information is Physical?](https://blog.computationalcomplexity.org/feeds/376845296399143352/comments/default)
 ---
 
@@ -469,14 +421,6 @@ I've heard a few times recently the phrase "Information only exists in a physica
 Bartosz Ciechanowski --- 12/17/2024
 
 In the vastness of empty space surrounding Earth, the Moon is our closest celestial neighbor. Its face, periodically filled with light and devoured by darkness, has an ever-changing, but dependable presence in our skies. In this article, we’ll...
-
-
-[Not in Florence](https://www.logicmatters.net/2024/12/15/not-in-florence/)
----
-
-Blog - Logic Matters --- 12/15/2024
-
-Back in the day, not so long ago, we went a number of times to Florence just before Christmas. The best time to go, with the city returned to the Florentines, with so few tourists, the shops festive, and the restaurants relaxed and pleased to see...
 
 
 [Every worldly cardinal admits a Gödel-Bernays structure](https://jdh.hamkins.org/every-worldly-cardinal-admits-a-godel-bernays-structure/)
@@ -525,14 +469,6 @@ Now in one place all of my sixty favorite theorems from the six decades of compu
 The n-Category Café --- 12/4/2024
 
 The Eighth International Conference on Applied Category Theory (https://easychair.org/cfp/ACT2025) will take place at the University of Florida on June 2-6, 2025. The conference will be preceded by the Adjoint School on May 26-30, 2025. This...
-
-
-[Yanofsky, Monoidal Category Theory — 3](https://www.logicmatters.net/2024/12/03/yanofsky-monoidal-category-theory-3/)
----
-
-Blog - Logic Matters --- 12/3/2024
-
-Some brief comments on Chapters 2 to 4 of Yanofsky’s book, firstly on the main sections of those chapters. In Chapter 2, categories are defined, we meet lots of examples, and then different kinds of arrows are defined, along with subcategories and...
 
 
 [Conway's Trick for Divisibility. Asking its complexity is an odd question.](https://blog.computationalcomplexity.org/feeds/8496575347919285566/comments/default)
@@ -759,22 +695,6 @@ The n-Category Café --- 10/30/2024
 What do triangulations of the 2-sphere have to do with complexified 10-dimensional Minkowski spacetime?
 
 
-[Triangulations of the Sphere (Part 1)](https://golem.ph.utexas.edu/category/2024/10/triangulations_of_the_sphere.html)
----
-
-The n-Category Café --- 10/30/2024
-
-Brief remarks on Thurston's paper "Shapes of polyhedra and triangulations of the sphere".
-
-
-[Family Feud vs Pointless](https://blog.computationalcomplexity.org/feeds/1754230509585422143/comments/default)
----
-
-Computational Complexity --- 10/23/2024
-
-Every now and then I feel like doing a Gasarchian post. This is one of those weeks. I'm going to look at the mathematics behind the American game show Family Feud and the British Pointless. I caught a glimpse of Pointless while I was in Oxford over...
-
-
 [TfE: The Problem with Bayes / Solmonoff](https://deontologistics.co/2024/10/18/tfe-the-problem-with-bayes-solmonoff/)
 ---
 
@@ -797,4 +717,84 @@ I’ve been wanting to reflect of the past 2 years and 2 months I spent not work
 Math ∩ Programming --- 10/15/2024
 
 Kristin Lauter and her colleagues at Facebook research recently announced a project to benchmark attacks against LWE. The announcement was on the post-quanum crypto mailing list. They state: “Our approach is motivated by the need to study more...
+
+
+[Determinateness of truth does not come for free from determinateness of objects, Singapore, November 2024](https://jdh.hamkins.org/determinateness-of-truth-does-not-come-for-free-from-determinateness-of-objects-singapore-november-2024/)
+---
+
+Joel David Hamkins --- 10/14/2024
+
+This will be a talk for the (In)determinacy in Mathematics conference at the National University of Singapore, 20-22 November 2024 Abstract. I shall discuss the question whether we may regard determinateness of truth as flowing from determinateness...
+
+
+[The covering reflection theorem, Madison Logic Seminar, October 2024](https://jdh.hamkins.org/the-covering-reflection-theorem-madison-logic-seminar-october-2024/)
+---
+
+Joel David Hamkins --- 10/14/2024
+
+This will be a talk at the UW Madison Logic Seminar on 22 October 2024. Abstract. The principle of covering reflection holds of a cardinal κ if for every structure B in a countable first-order language there is a structure … Continue reading →
+
+
+[mathober 2024 sketches](https://www.fractalkitty.com/mathober-2024-sketches-2/)
+---
+
+Fractal Kitty --- 10/1/2024
+
+It’s mathober! I will be updating this page with my sketches (in procreate and code for this year. Procreate sketches: (not all will be done this month – they take longer): P5js sketches: The code is on my codepen collection here.
+
+
+[Dynamic Programming Fail](https://www.jeremykun.com/shortform/2024-09-12-1502/)
+---
+
+Math ∩ Programming --- 9/12/2024
+
+This is a story about a failure to apply dynamic programming to a woodworking project. I’ve been building a shed in my backyard, and for one section I decided to build the floor by laying 2x4 planks side by side. I didn’t feel the need to join them...
+
+
+[Mathober 2024](https://www.fractalkitty.com/mathober-2024/)
+---
+
+Fractal Kitty --- 9/10/2024
+
+Mathober is just around the corner, and I can’t wait to see everyone’s creative take on this year’s prompts! If you’ve never participated before, now’s the perfect time to jump in! The goal of Mathober is simple: have fun, learn, grow, and play...
+
+
+[Packing Matrix-Vector Multiplication in Fully Homomorphic Encryption](https://www.jeremykun.com/2024/09/06/packing-matrix-vector-multiplication-in-fhe/)
+---
+
+Math ∩ Programming --- 9/7/2024
+
+In my recent overview of homomorphic encryption, I underemphasized the importance of data layout when working with arithmetic (SIMD-style) homomorphic encryption schemes. In the FHE world, the name given to data layout strategies is called...
+
+
+[Shift Networks](https://www.jeremykun.com/2024/09/02/shift-networks/)
+---
+
+Math ∩ Programming --- 9/2/2024
+
+In my recent overview of homomorphic encryption, I underemphasized the importance of data layout when working with arithmetic (SIMD-style) homomorphic encryption schemes. In the FHE world, the name given to data layout strategies is called...
+
+
+[randomness – a generative zine](https://www.fractalkitty.com/randomness-a-generative-zine/)
+---
+
+Fractal Kitty --- 8/21/2024
+
+I coded a generative zine to bring to XOXO 2024. It is different every time it loads with a sampling of p5.js sketches. Each zine has hundreds of thousands to millions of generated shapes and points using random numbers. The github is here (the...
+
+
+[Curve](https://www.fractalkitty.com/curve/)
+---
+
+Fractal Kitty --- 8/20/2024
+
+I made Curve, a coloring book, to bring to XOXO 2024 this week. If you’d like to print/play: See the Pen Curve Zine by Sophia (fractal kitty) (she/her) (@fractalkitty) on CodePen.
+
+
+[Infinite-time computable analogues of the universal algorithm, Generalized Computability Theory Workshop, Spain, August 2024](https://jdh.hamkins.org/infinite-time-computable-analogues-of-the-universal-algorithm-gct2024-spain/)
+---
+
+Joel David Hamkins --- 8/18/2024
+
+This will be a talk at the Generalized Computability Theory workshop in Castro Urdiales, Spain, a beautiful setting on the sea near Bilbao, 19-23 August 2024. Abstract. I shall present infinite-time computable analogues of the universal algorithm,...
 
