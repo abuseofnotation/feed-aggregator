@@ -1,10 +1,26 @@
 
-[The NSF From the Inside](https://blog.computationalcomplexity.org/feeds/1049693798272999635/comments/default)
+[The Situation at the NSF](https://blog.computationalcomplexity.org/feeds/67017343972492085/comments/default)
 ---
 
-Computational Complexity --- 1/30/2025
+Computational Complexity --- 1/31/2025
 
 The National Science Foundation is one of the agencies most affected by the various executive orders issued by the Trump administration. As a critical funder of research in theoretical computer science, and science and engineering more broadly, the...
+
+
+[A Ripple of Ripples](https://www.fractalkitty.com/a-ripple-of-ripples/)
+---
+
+Fractal Kitty --- 1/31/2025
+
+One thing I love about math and art is the conversations and iterations that flow from their patterns and beauty. After posting Walking Ripples, I have enjoyed seeing how the simplicity of shading circles propagates in conversation, art, and...
+
+
+[Will big data lift the veil of ignorance?](https://crookedtimber.org/2025/01/31/will-big-data-lift-the-veil-of-ignorance/)
+---
+
+Crooked Timber --- 1/31/2025
+
+(Hi all, wonderful to become part of this great blog! But now, directly on to some content!) Imagine that you have a toothache, and a visit at the dentist reveals that a major operation is needed. You phone your health insurance. You listen to the...
 
 
 [Comagnitude 2](https://golem.ph.utexas.edu/category/2025/01/comagnitude_2.html)
@@ -399,14 +415,6 @@ Computational Complexity --- 1/2/2025
 Bill's SIGACT Open Problems Column remembering Luca Trevisan is out. I chose the problem of whether Promise-ZPP in P implies Promise-BPP in P, an extension of an earlier theorem by Luca and his co-authors, which showed that Promise-RP in P implies...
 
 
-[In 2025, let’s make resistance more effective](https://crookedtimber.org/2025/01/01/in-2025-lets-make-resistance-more-effective/)
----
-
-Crooked Timber --- 1/1/2025
-
-Here’s a virtual toast to your flourishing in 2025. But more so than any other year, our wishes should not just be from person to person, but rather wishes for societies – and the society of societies, global humanity. I haven’t felt so gloomy...
-
-
 [Double Maths First Thing: Issue 11](https://aperiodical.com/2025/01/double-maths-first-thing-issue-11/)
 ---
 
@@ -789,12 +797,4 @@ Here’s a recent thread musing about problems with Bayesian conceptions of gene
 Proses.ID --- 10/16/2024
 
 I’ve been wanting to reflect of the past 2 years and 2 months I spent not working, but it never felt urgent or important (to…
-
-
-[LWE Attack Benchmarking Project](https://www.jeremykun.com/shortform/2024-10-15-1543/)
----
-
-Math ∩ Programming --- 10/15/2024
-
-Kristin Lauter and her colleagues at Facebook research recently announced a project to benchmark attacks against LWE. The announcement was on the post-quanum crypto mailing list. They state: “Our approach is motivated by the need to study more...
 
