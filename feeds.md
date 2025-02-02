@@ -1,4 +1,28 @@
 
+[The dispensable nation](https://crookedtimber.org/2025/02/01/the-dispensable-nation/)
+---
+
+Crooked Timber --- 2/1/2025
+
+“The cemeteries are full of indispensable people.” In one form or another, this observation has been made many times over the last century or more. What is true of people is true of nations. In the past 25 years or so it was often claimed (and ,...
+
+
+[Magnitude, Enriched Categories, and LLMs](https://www.math3ma.com/blog/magnitude-enriched-categories-and-llms)
+---
+
+Math3ma --- 2/1/2025
+
+It's hard for me to believe, but Math3ma is TEN YEARS old today. My first entry was published on February 1, 2015 and is entitled "A Math Blog? Say What?" As evident from that post, I was very unsure about creating this website. At the time,...
+
+
+[Fibonacci and a Feat of Memory](https://aperiodical.com/2025/02/fibonacci-and-a-feat-of-memory/)
+---
+
+The Aperiodical --- 2/1/2025
+
+This is a guest post by Chris Taylor. I recently read “The Warlock Effect” by Jeremy Dyson and Andy Nyman (read it – it’s good). It’s a work of fiction about a stage magician who uses his skills to combat a threat to UK national security – not...
+
+
 [The Situation at the NSF](https://blog.computationalcomplexity.org/feeds/67017343972492085/comments/default)
 ---
 
@@ -367,14 +391,6 @@ Computational Complexity --- 1/7/2025
 In Jan of 2023 I estabalished the Betty White Award, see here which is given to people who died late in the prior year and hence won't be in the those who we lost in year X articles. I also gave out a few from prior years. Here are past winners,...
 
 
-[Sunday photoblogging: Ravenna in Droitwich](https://crookedtimber.org/2025/01/05/sunday-photoblogging-ravenna-in-droitwich/)
----
-
-Crooked Timber --- 1/5/2025
-
-A curious one, this. We were looking through some old postcards (from the 1930s) and came across one with a picture of this church interior. Where’s that? Well, it turns out that it is just off the motorway on our journey between Bristol and...
-
-
 [Epiphanies from Tape Measures](https://www.jeremykun.com/shortform/2025-01-04-1011/)
 ---
 
@@ -437,14 +453,6 @@ There seem to be a lot of numerical coincidences bouncing around concerning the 
 Blog - Logic Matters --- 12/31/2024
 
 Let me share (almost!) one of my Christmas presents with you. Of the books I have enjoyed most during this past year, three are books on art. I have already really warmly recommended here the wonderful catalogue for the still-current exhibition Van...
-
-
-[Particularly mathematical New Years Honours 2025](https://aperiodical.com/2024/12/particularly-mathematical-new-years-honours-2025/)
----
-
-The Aperiodical --- 12/31/2024
-
-The UK Government have announced the latest list of honours, and we’ve taken a look for the particularly mathematical entries. Here is the selection for this year – if you spot any more, let us know in the comments and we’ll add to the list. Get...
 
 
 [A Christmas card](https://www.logicmatters.net/2024/12/24/a-christmas-card-13/)
@@ -789,12 +797,4 @@ What do triangulations of the 2-sphere have to do with complexified 10-dimension
 DEONTOLOGISTICS --- 10/18/2024
 
 Here’s a recent thread musing about problems with Bayesian conceptions of general intelligence and the more specific variants based on Solmonoff induction, such as AIXI. I’ve been thinking about these issues a lot recently, in tandem with the...
-
-
-[This job checks all the boxes, but…](http://proses.id/perfectjob/)
----
-
-Proses.ID --- 10/16/2024
-
-I’ve been wanting to reflect of the past 2 years and 2 months I spent not working, but it never felt urgent or important (to…
 
