@@ -1,4 +1,52 @@
 
+[Backing Up US Federal Databases](https://golem.ph.utexas.edu/category/2025/02/backing_up_us_federal_database.html)
+---
+
+The n-Category Café --- 2/2/2025
+
+If you want to help save US federal web pages and databases, here are some things to do.
+
+
+[The Situation at the NSF](https://blog.computationalcomplexity.org/feeds/67017343972492085/comments/default)
+---
+
+Computational Complexity --- 2/2/2025
+
+The National Science Foundation is one of the agencies most affected by the various executive orders issued by the Trump administration. As a critical funder of research in theoretical computer science, and science and engineering more broadly, the...
+
+
+[Math-ffirmations](https://www.fractalkitty.com/math-ffirmations/)
+---
+
+Fractal Kitty --- 2/2/2025
+
+Find balance through symmetry.$$f(x) = f(-x)$$Approximation improves with experience.$$e^x = \sum_{n=0}^{\infty} \frac{x^n}{n!} = 1 + x + \frac{x^2}{2!} + \frac{x^3}{3!} + \cdots$$ To untangle is to meditate.$$\huge{\bigcirc}$$Be...
+
+
+[Sunday photo(meta)blogging](https://crookedtimber.org/2025/02/02/sunday-photometablogging/)
+---
+
+Crooked Timber --- 2/2/2025
+
+One of my Sunday routines is usually to post a photo here. Sometimes that’s easy, since I’ve taken something in the past few days, and sometimes that involves trawling through my archive to select something, sometimes from years ago. One problem...
+
+
+[There is an exit](https://crookedtimber.org/2025/02/02/there-is-an-exit/)
+---
+
+Crooked Timber --- 2/2/2025
+
+Last week, I finished reading an advance copy of Cory Doctorow’s Picks and Shovels. No spoilers about plot specifics, but the novel has a lot to say about two things. First, how Silicon Valley used to be a place where exit was possible and a good...
+
+
+[Magnitude, Enriched Categories, and LLMs](https://www.math3ma.com/blog/magnitude-enriched-categories-and-llms)
+---
+
+Math3ma --- 2/2/2025
+
+It's hard for me to believe, but Math3ma is TEN YEARS old today. My first entry was published on February 1, 2015 and is entitled "A Math Blog? Say What?" As evident from that post, I was very unsure about creating this website. At the time,...
+
+
 [The dispensable nation](https://crookedtimber.org/2025/02/01/the-dispensable-nation/)
 ---
 
@@ -7,28 +55,12 @@ Crooked Timber --- 2/1/2025
 “The cemeteries are full of indispensable people.” In one form or another, this observation has been made many times over the last century or more. What is true of people is true of nations. In the past 25 years or so it was often claimed (and ,...
 
 
-[Magnitude, Enriched Categories, and LLMs](https://www.math3ma.com/blog/magnitude-enriched-categories-and-llms)
----
-
-Math3ma --- 2/1/2025
-
-It's hard for me to believe, but Math3ma is TEN YEARS old today. My first entry was published on February 1, 2015 and is entitled "A Math Blog? Say What?" As evident from that post, I was very unsure about creating this website. At the time,...
-
-
 [Fibonacci and a Feat of Memory](https://aperiodical.com/2025/02/fibonacci-and-a-feat-of-memory/)
 ---
 
 The Aperiodical --- 2/1/2025
 
 This is a guest post by Chris Taylor. I recently read “The Warlock Effect” by Jeremy Dyson and Andy Nyman (read it – it’s good). It’s a work of fiction about a stage magician who uses his skills to combat a threat to UK national security – not...
-
-
-[The Situation at the NSF](https://blog.computationalcomplexity.org/feeds/67017343972492085/comments/default)
----
-
-Computational Complexity --- 1/31/2025
-
-The National Science Foundation is one of the agencies most affected by the various executive orders issued by the Trump administration. As a critical funder of research in theoretical computer science, and science and engineering more broadly, the...
 
 
 [A Ripple of Ripples](https://www.fractalkitty.com/a-ripple-of-ripples/)
@@ -341,22 +373,6 @@ There’s now a new version of the category theory notes online, still missing t
 Joel David Hamkins --- 1/10/2025
 
 I had an enjoyable little discussion with Joe Murray of The Human Podcast, part of his new series, called 10 questions in 10 minutes, in which he asks his interview subjects for short answers to ten quick questions on their … Continue reading →
-
-
-[Reasons for pessimism in Europe](https://crookedtimber.org/2025/01/10/reasons-for-pessimism-in-europe/)
----
-
-Crooked Timber --- 1/10/2025
-
-Those of us who live in Europe have reason to be very pessimistic about the next four years. The state that Europeans have relied upon as their security guarantee is now in the hands of the nationalist extreme right and the information space is...
-
-
-[Trump and Greenland: What’s Going On?](https://crookedtimber.org/2025/01/09/trump-and-greenland-whats-going-on/)
----
-
-Crooked Timber --- 1/9/2025
-
-Commentators in Europe are understandably agog about Trump’s rumblings that the US might somehow, possibly, annex Greenland at some point in the future. One would think asking Greenlanders how they see their future might have been a better idea....
 
 
 [When DO Names Change? When SHOULD Names Change?](https://blog.computationalcomplexity.org/feeds/3475515642280301325/comments/default)
@@ -751,14 +767,6 @@ The n-Category Café --- 11/2/2024
 You can now apply for the 2025 Summer Research Associate program at the Topos Institute!  The deadline to apply is January 17, 2025.
 
 
-[Axiomatic Set Theory 6: Gluing](https://golem.ph.utexas.edu/category/2024/10/axiomatic_set_theory_6_gluing.html)
----
-
-The n-Category Café --- 11/1/2024
-
-Quotients, disjoint unions, families of sets, and the Cantor-Bernstein theorem.
-
-
 [Carnival of Mathematics #233](https://www.jeremykun.com/2022/11/01/carnival-of-mathematics-233/)
 ---
 
@@ -789,12 +797,4 @@ Junior/Senior lunch in 80°F ChicagoLast summer I attended the Complexity Confer
 The n-Category Café --- 10/30/2024
 
 What do triangulations of the 2-sphere have to do with complexified 10-dimensional Minkowski spacetime?
-
-
-[TfE: The Problem with Bayes / Solmonoff](https://deontologistics.co/2024/10/18/tfe-the-problem-with-bayes-solmonoff/)
----
-
-DEONTOLOGISTICS --- 10/18/2024
-
-Here’s a recent thread musing about problems with Bayesian conceptions of general intelligence and the more specific variants based on Solmonoff induction, such as AIXI. I’ve been thinking about these issues a lot recently, in tandem with the...
 
