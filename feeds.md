@@ -1,4 +1,28 @@
 
+[ICT again, but also Mozart, Brauß and Pires again](https://www.logicmatters.net/2025/02/03/ict-again-but-also-mozart-braus-and-pires-again/)
+---
+
+Blog - Logic Matters --- 2/3/2025
+
+I have updated Introducing Category Theory to version 2.4: download here. As well as many minor corrections, there is a restored §18.4 on ‘naming’ arrows, and a new §18.5 touching on Lawvere’s fixed point theorem (at least giving a clear proof)....
+
+
+[Adam’s Heart Surgery Team: Expertise and Dickheadery](https://crookedtimber.org/2025/02/03/adams-heart-surgery-team-expertise-and-dickheadery/)
+---
+
+Crooked Timber --- 2/3/2025
+
+If, like me, you follow Ones and Tooze, you will know that Adam recently had heart surgery. It was a big deal. Luckily, America has some of the best surgeons in the world, to whom only a small handful of Americans have access – but Adam Tooze is...
+
+
+[The M in the PMC](https://crookedtimber.org/2025/02/03/the-m-in-the-pmc/)
+---
+
+Crooked Timber --- 2/3/2025
+
+The other day I received an email from what might be one the few colleagues still checking into Twitter (most seem to have moved to Bluesky, as have I). The email was just a link with the subject title Did you see? I hadn’t. Gosh, I wrote in...
+
+
 [Backing Up US Federal Databases](https://golem.ph.utexas.edu/category/2025/02/backing_up_us_federal_database.html)
 ---
 
@@ -287,14 +311,6 @@ Good Fibrations --- 1/17/2025
 This drawing is an old drawing I made when I was preparing for my qualifying exam in my second year of grad school at Northwestern. It is the crystalline period map. The tower to the left is the “Lubin-Tate” tower, the deeper it goes the more level...
 
 
-[Should economists know their own history](https://crookedtimber.org/2025/01/16/53614/)
----
-
-Crooked Timber --- 1/16/2025
-
-There’s been a recent fuss in various media arising from a tweet from economist Ben Golub regarding astonishment that economists haven’t “worked through” Smith and Marx. English professor Alex Moskowitz chimed in with a claim that economics can’t...
-
-
 [Fuck Perfectionism](https://rin.io/fuck-perfectionism/)
 ---
 
@@ -341,14 +357,6 @@ It has been very wintry. At least by Cambridge standards. So up late, early to r
 Computational Complexity --- 1/12/2025
 
 Guest Post from Nick Sovich. -----------------------------------------------------------------------------Bill Gasarch recently blogged on RANDOM THOUGHTS ON AI here . He is in the realm of theory. I am in the realm of applications so I asked if I...
-
-
-[Sunday photoblogging: Sion Road (house reflections)](https://crookedtimber.org/2025/01/12/sunday-photoblogging-sion-road-house-reflections/)
----
-
-Crooked Timber --- 1/12/2025
-
-
 
 
 [Aperiodical News Roundup – November & December 2024](https://aperiodical.com/2025/01/aperiodical-news-roundup-november-december-2024/)
@@ -581,14 +589,6 @@ Now in one place all of my sixty favorite theorems from the six decades of compu
 The n-Category Café --- 12/4/2024
 
 The Eighth International Conference on Applied Category Theory (https://easychair.org/cfp/ACT2025) will take place at the University of Florida on June 2-6, 2025. The conference will be preceded by the Adjoint School on May 26-30, 2025. This...
-
-
-[Yanofsky, Monoidal Category Theory — 3](https://www.logicmatters.net/2024/12/03/yanofsky-monoidal-category-theory-3/)
----
-
-Blog - Logic Matters --- 12/3/2024
-
-Some brief comments on Chapters 2 to 4 of Yanofsky’s book, firstly on the main sections of those chapters. In Chapter 2, categories are defined, we meet lots of examples, and then different kinds of arrows are defined, along with subcategories and...
 
 
 [Conway's Trick for Divisibility. Asking its complexity is an odd question.](https://blog.computationalcomplexity.org/feeds/8496575347919285566/comments/default)
