@@ -1,4 +1,28 @@
 
+[A Characterization of Standard Borel Spaces](https://golem.ph.utexas.edu/category/2025/02/universal_characterization_of.html)
+---
+
+The n-Category Café --- 2/4/2025
+
+There's a universal characterization of standard Borel spaces!
+
+
+[Carnival of Maths 236](https://aperiodical.com/2025/02/carnival-of-maths-236/)
+---
+
+The Aperiodical --- 2/4/2025
+
+The next issue of the Carnival of Mathematics, rounding up blog posts from the month of January 2025, is now online at Puzzle Zapper. The Carnival rounds up maths blog posts from all over the internet, including some from our own Aperiodical. See...
+
+
+[Corruption, Tariffs, and US Renewal](https://crookedtimber.org/2025/02/04/53701/)
+---
+
+Crooked Timber --- 2/4/2025
+
+One good side-effect of contemporary politics is that a more sober look at the merits and demerits of the US Founders’ legacy is possible again. (Of course, here at CrookedTimber we pride ourselves on our sobriety in such matters; it helps many of...
+
+
 [ICT again, but also Mozart, Brauß and Pires again](https://www.logicmatters.net/2025/02/03/ict-again-but-also-mozart-braus-and-pires-again/)
 ---
 
@@ -287,14 +311,6 @@ Computational Complexity --- 1/21/2025
 I made up a quiz about the American Presidents here.  It has 40 questions. In the modern electronic age you can probably look up most or even all of the answers. So what to do about that?1) The quiz is not for money or credits or anything, so if...
 
 
-[Sunday photoblogging: Los Angeles – Union Station](https://crookedtimber.org/2025/01/19/sunday-photoblogging-los-angeles-union-station/)
----
-
-Crooked Timber --- 1/19/2025
-
-
-
-
 [A Song About Computing Sheaf Cohomology with Cech Covers](https://rin.io/cech-covers/)
 ---
 
@@ -461,14 +477,6 @@ Bill's SIGACT Open Problems Column remembering Luca Trevisan is out. I chose th
 The Aperiodical --- 1/1/2025
 
 Double Maths First Thing is like a tall, dark stranger with some coal and some whisky Hello! My name is Colin and I am a mathematician on a mission to spread mathematical joy into 2025 and beyond. I note that 1/1/2025 is the first day since...
-
-
-[Numerical coincidences for 2025](https://aperiodical.com/2025/01/numerical-coincidences-for-2025/)
----
-
-The Aperiodical --- 1/1/2025
-
-There seem to be a lot of numerical coincidences bouncing around concerning the new year 2025. For example, it’s a square number: \( 2025 = 45^2 \). The last square year was \(44^2 = 1936\), and the next will be \(46^2=2116\). The other one you...
 
 
 [Vermeer revisited](https://www.logicmatters.net/2024/12/31/vermeer-revisited/)
@@ -789,12 +797,4 @@ This article will explain how the blog is organized at a technical level, and sh
 Computational Complexity --- 10/30/2024
 
 Junior/Senior lunch in 80°F ChicagoLast summer I attended the Complexity Conference in Ann Arbor for the first time in eight years largely because it was within driving distance. So with FOCS in Chicago this year I didn't have much of an excuse to...
-
-
-[Triangulations of the Sphere (Part 2)](https://golem.ph.utexas.edu/category/2024/10/thurston_on_triangulations_of.html)
----
-
-The n-Category Café --- 10/30/2024
-
-What do triangulations of the 2-sphere have to do with complexified 10-dimensional Minkowski spacetime?
 
