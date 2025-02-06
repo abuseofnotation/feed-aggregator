@@ -1,4 +1,20 @@
 
+[Michael Burawoy has died](https://crookedtimber.org/2025/02/05/michael-burawoy-has-died/)
+---
+
+Crooked Timber --- 2/5/2025
+
+The eminent sociologist Michael Burawoy died on Monday, after being hit by a car while walking near near his home. I’ve found a couple of tributes: this from Marta Soler Gallart which tells a story I didn’t know but surprises me not in the least,...
+
+
+[Double Maths First Thing: Issue 16](https://aperiodical.com/2025/02/double-maths-first-thing-issue-16/)
+---
+
+The Aperiodical --- 2/5/2025
+
+DMFT appreciates you greatly. Yes, you specifically. Hello! My name is Colin and I am a mathematician on a mission to spread joy and delight in maths. Links! I recently enjoyed Allen Downey’s article on the inspection paradox — it links to an...
+
+
 [A Characterization of Standard Borel Spaces](https://golem.ph.utexas.edu/category/2025/02/universal_characterization_of.html)
 ---
 
@@ -295,14 +311,6 @@ Crooked Timber --- 1/21/2025
 I’ve already said all I plan to (for now) about what’s happening in the US. But if others want to discuss it, here’s an open thread.
 
 
-[Ravenna’s submerged crypt](https://crookedtimber.org/2025/01/21/ravennas-submerged-crypt/)
----
-
-Crooked Timber --- 1/21/2025
-
-Inspired by Chris’s recent photo-blogging post, I thought I’d share a less well known little gem about (the original) Ravenna: not a byzantine church interior full of mosaics, but the submerged crypt of an early medieval Church (the Basilica of San...
-
-
 [Presidential Quiz!](https://blog.computationalcomplexity.org/feeds/5872565282485947923/comments/default)
 ---
 
@@ -469,14 +477,6 @@ In this living document, I will document reactions to uses of homomorphic encryp
 Computational Complexity --- 1/2/2025
 
 Bill's SIGACT Open Problems Column remembering Luca Trevisan is out. I chose the problem of whether Promise-ZPP in P implies Promise-BPP in P, an extension of an earlier theorem by Luca and his co-authors, which showed that Promise-RP in P implies...
-
-
-[Double Maths First Thing: Issue 11](https://aperiodical.com/2025/01/double-maths-first-thing-issue-11/)
----
-
-The Aperiodical --- 1/1/2025
-
-Double Maths First Thing is like a tall, dark stranger with some coal and some whisky Hello! My name is Colin and I am a mathematician on a mission to spread mathematical joy into 2025 and beyond. I note that 1/1/2025 is the first day since...
 
 
 [Vermeer revisited](https://www.logicmatters.net/2024/12/31/vermeer-revisited/)
