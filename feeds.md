@@ -44,7 +44,7 @@ One good side-effect of contemporary politics is that a more sober look at the m
 
 Blog - Logic Matters --- 2/3/2025
 
-I have updated Introducing Category Theory to version 2.4: download here. As well as many minor corrections, there is a restored §18.4 on ‘naming’ arrows, and a new §18.5 touching on Lawvere’s fixed point theorem (at least giving a clear proof)....
+I have updated Introducing Category Theory to version 2.5: download here. As well as many minor corrections, including an improved proofs of a couple of theorems, there is a restored §18.4 on ‘naming’ arrows, and a new §18.5 touching on Lawvere’s...
 
 
 [Adam’s Heart Surgery Team: Expertise and Dickheadery](https://crookedtimber.org/2025/02/03/adams-heart-surgery-team-expertise-and-dickheadery/)
