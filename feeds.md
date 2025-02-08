@@ -1,4 +1,20 @@
 
+[On Undermining the Administrative State](https://crookedtimber.org/2025/02/07/on-undermining-the-administrative-state/)
+---
+
+Crooked Timber --- 2/7/2025
+
+Anyone that has read chunks of Marx’s Capital will know that he often explicitly and not trivially implicitly draws on data and evidence gathered and published in reports by select committees of the British Parliament. Most of these reports he...
+
+
+[Explainable Linear Programs](https://www.jeremykun.com/shortform/2025-02-06-2124/)
+---
+
+Math ∩ Programming --- 2/7/2025
+
+Back in 2020, when I worked in the supply chain side of Google, I had a fun and impactful side project related to human-level explanations of linear programs. A linear program is a mathematical model that defines some number of variables, linear...
+
+
 [Michael Burawoy has died](https://crookedtimber.org/2025/02/05/michael-burawoy-has-died/)
 ---
 
@@ -301,14 +317,6 @@ This was a talk I gave at the Set Theory Workshop at the Mathematisches Forschun
 Crooked Timber --- 1/21/2025
 
 Recently I learned that at Yale University a “Report of the Committee on Institutional Voice” was published a few months ago. The committee was chaired by professors “Della Rocca & Rodríguez” and so hereafter, I refer to the report as “Della...
-
-
-[Open thread on Trump](https://crookedtimber.org/2025/01/21/open-thread-on-trump/)
----
-
-Crooked Timber --- 1/21/2025
-
-I’ve already said all I plan to (for now) about what’s happening in the US. But if others want to discuss it, here’s an open thread.
 
 
 [Presidential Quiz!](https://blog.computationalcomplexity.org/feeds/5872565282485947923/comments/default)
@@ -789,12 +797,4 @@ Welcome to the 233rd Carnival of Mathematics! Who can forget 233, the 6th Fibona
 Math ∩ Programming --- 10/31/2024
 
 This article will explain how the blog is organized at a technical level, and show how I implemented various IndieWeb features. Table of Contents: Motivation Structure and Deployment Static search index Running scripts via GitHub Actions Social...
-
-
-[FOCS 2024](https://blog.computationalcomplexity.org/feeds/6899071394032056203/comments/default)
----
-
-Computational Complexity --- 10/30/2024
-
-Junior/Senior lunch in 80°F ChicagoLast summer I attended the Complexity Conference in Ann Arbor for the first time in eight years largely because it was within driving distance. So with FOCS in Chicago this year I didn't have much of an excuse to...
 
