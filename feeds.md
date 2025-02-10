@@ -1,4 +1,44 @@
 
+[How to dispense with Trump’s US](https://crookedtimber.org/2025/02/10/how-to-dispense-with-trumps-us/)
+---
+
+Crooked Timber --- 2/10/2025
+
+This is a follow-up to my previous post on the end of US democracy and its implications. I argued that there is no choice but to dispense with the idea of the US as the central actor in a democratic and stable world system [1]Here I will discuss...
+
+
+[The business end of the university](https://crookedtimber.org/2025/02/09/the-business-end-of-the-university/)
+---
+
+Crooked Timber --- 2/9/2025
+
+Around a decade ago when I was fairly new to my academic job, I made an uncharacteristically politic decision to attend the annual Politics Dinner, which each year featured a lecture from an Australian politician. That year it was my (then) least...
+
+
+[Does Lance dislike Ramsey Theory Because he's colorblind?](https://blog.computationalcomplexity.org/feeds/3160507717658905820/comments/default)
+---
+
+Computational Complexity --- 2/9/2025
+
+BILL: Lance, my wife asked if you dislike Ramsey Theory because you are colorblind.LANCE: (laughs) It's why I don't like Ramsey Theory talks--impossible for me to follow. But I don't actually dislike Ramsey theory. I just don't like it as much as...
+
+
+[Don’t miss a superb La Traviata](https://www.logicmatters.net/2025/02/09/dont-miss-a-superb-la-traviata/)
+---
+
+Blog - Logic Matters --- 2/9/2025
+
+The La Traviata broadcast from the Royal Opera House last night was wonderful — and Lisette Oropesa as Violetta was simply stunning. You can catch the performance on BBC Radio for a month. Don’t miss the chance. The post Don’t miss a superb La...
+
+
+[Sunday photoblogging: Buchanan’s Wharf](https://crookedtimber.org/2025/02/09/sunday-photoblogging-buchanans-wharf/)
+---
+
+Crooked Timber --- 2/9/2025
+
+
+
+
 [On Undermining the Administrative State](https://crookedtimber.org/2025/02/07/on-undermining-the-administrative-state/)
 ---
 
@@ -255,28 +295,12 @@ Fractal Kitty --- 1/27/2025
 Do you ever look at knitted items and liken them to dragon scales? - I do.  So when I decided to make generative textured hats it made sense to call them Wyrm Beans.Just as we can have generative pixel colors on a screen, we can have generative...
 
 
-[Australia bans U16s from social media. Or does it?](https://crookedtimber.org/2025/01/27/australia-bans-u16s-from-social-media-or-does-it/)
----
-
-Crooked Timber --- 1/27/2025
-
-The Australian parliament has legislated what’s commonly described as as “social media ban” for people under 16. More precisely, it will require selected social media platforms to implement (unspecified) age verification technology for people...
-
-
 [Lawvere Archives new website](https://www.logicmatters.net/2025/01/26/lawvere-archives-new-website/)
 ---
 
 Blog - Logic Matters --- 1/26/2025
 
 In case you missed the announcement on the categories mailing list: Bill’s family is happy to announce that the Lawvere Archives websiteis launched! Click here: https://lawverearchives.com/ We ask you to explore, send us your ideas, and if possible...
-
-
-[Sunday photoblogging: car reflection](https://crookedtimber.org/2025/01/26/sunday-photoblogging-car-reflection/)
----
-
-Crooked Timber --- 1/26/2025
-
-
 
 
 [Pavel Haas Quartet and Boris Giltburg](https://www.logicmatters.net/2025/01/25/pavel-haas-quartet-and-boris-giltburg/)
@@ -309,14 +333,6 @@ DMFT probably needs wider margins. Hello! My name is Colin and I am a mathematic
 Joel David Hamkins --- 1/21/2025
 
 This was a talk I gave at the Set Theory Workshop at the Mathematisches Forschungsinstitut in Oberwolfach, Germany, 12-17 January 2025. Abstract. The principle of covering reflection holds of a cardinal κ if for every structure B in a countable …...
-
-
-[On Institutional Voice and witnessing Truth; On the Yale Report](https://crookedtimber.org/2025/01/21/on-institutional-voice-and-witnessing-truth-on-the-yale-report/)
----
-
-Crooked Timber --- 1/21/2025
-
-Recently I learned that at Yale University a “Report of the Committee on Institutional Voice” was published a few months ago. The committee was chaired by professors “Della Rocca & Rodríguez” and so hereafter, I refer to the report as “Della...
 
 
 [Presidential Quiz!](https://blog.computationalcomplexity.org/feeds/5872565282485947923/comments/default)
@@ -551,14 +567,6 @@ Bartosz Ciechanowski --- 12/17/2024
 In the vastness of empty space surrounding Earth, the Moon is our closest celestial neighbor. Its face, periodically filled with light and devoured by darkness, has an ever-changing, but dependable presence in our skies. In this article, we’ll...
 
 
-[Not in Florence](https://www.logicmatters.net/2024/12/15/not-in-florence/)
----
-
-Blog - Logic Matters --- 12/15/2024
-
-Back in the day, not so long ago, we went a number of times to Florence just before Christmas. The best time to go, with the city returned to the Florentines, with so few tourists, the shops festive, and the restaurants relaxed and pleased to see...
-
-
 [Every worldly cardinal admits a Gödel-Bernays structure](https://jdh.hamkins.org/every-worldly-cardinal-admits-a-godel-bernays-structure/)
 ---
 
@@ -789,12 +797,4 @@ You can now apply for the 2025 Summer Research Associate program at the Topos In
 Math ∩ Programming --- 11/1/2024
 
 Welcome to the 233rd Carnival of Mathematics! Who can forget 233, the 6th Fibonacci prime? Hey, not all numbers are interesting. Don’t ask me about the smallest positive uninteresting number. You can’t make it interesting with your feeble mind...
-
-
-[How This Blog Does IndieWeb](https://www.jeremykun.com/2024/10/30/how-this-blog-does-indieweb/)
----
-
-Math ∩ Programming --- 10/31/2024
-
-This article will explain how the blog is organized at a technical level, and show how I implemented various IndieWeb features. Table of Contents: Motivation Structure and Deployment Static search index Running scripts via GitHub Actions Social...
 
