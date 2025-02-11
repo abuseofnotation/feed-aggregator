@@ -1,4 +1,28 @@
 
+[A Characterization of Standard Borel Spaces](https://golem.ph.utexas.edu/category/2025/02/universal_characterization_of.html)
+---
+
+The n-Category Café --- 2/10/2025
+
+There's a universal characterization of standard Borel spaces!
+
+
+[Anyone know of an approachable proof of the Caratheodory-Fejer theorem?](https://www.jeremykun.com/shortform/2025-02-09-1947/)
+---
+
+Math ∩ Programming --- 2/10/2025
+
+A colleague of mine recently lent a hand implementing a polynomial approximation routine I could port to our compiler, though it wasn’t the method I was expecting. As I had written about previously, I was studying the Remez algorithm and...
+
+
+[Does Lance dislike Ramsey Theory Because he's colorblind?](https://blog.computationalcomplexity.org/feeds/3160507717658905820/comments/default)
+---
+
+Computational Complexity --- 2/10/2025
+
+BILL: Lance, my wife asked if you dislike Ramsey Theory because you are colorblind.LANCE: (laughs) It's why I don't like Ramsey Theory talks--impossible for me to follow. But I don't actually dislike Ramsey theory. I just don't like it as much as...
+
+
 [How to dispense with Trump’s US](https://crookedtimber.org/2025/02/10/how-to-dispense-with-trumps-us/)
 ---
 
@@ -7,20 +31,20 @@ Crooked Timber --- 2/10/2025
 This is a follow-up to my previous post on the end of US democracy and its implications. I argued that there is no choice but to dispense with the idea of the US as the central actor in a democratic and stable world system [1]Here I will discuss...
 
 
+[Philosophy beefs](http://abuseofnotation.github.io/philosophy-beefs/)
+---
+
+Abuse of Notation --- 2/10/2025
+
+This is a list of varioust arguments, quarrels, disagreements i.e. “beefs” that philosophers have had with one another. Heraclitus vs. Parmenides (5th century BCE) Beef: A clash between Heraclitus’s belief in constant change and Parmenides’s...
+
+
 [The business end of the university](https://crookedtimber.org/2025/02/09/the-business-end-of-the-university/)
 ---
 
 Crooked Timber --- 2/9/2025
 
 Around a decade ago when I was fairly new to my academic job, I made an uncharacteristically politic decision to attend the annual Politics Dinner, which each year featured a lecture from an Australian politician. That year it was my (then) least...
-
-
-[Does Lance dislike Ramsey Theory Because he's colorblind?](https://blog.computationalcomplexity.org/feeds/3160507717658905820/comments/default)
----
-
-Computational Complexity --- 2/9/2025
-
-BILL: Lance, my wife asked if you dislike Ramsey Theory because you are colorblind.LANCE: (laughs) It's why I don't like Ramsey Theory talks--impossible for me to follow. But I don't actually dislike Ramsey theory. I just don't like it as much as...
 
 
 [Don’t miss a superb La Traviata](https://www.logicmatters.net/2025/02/09/dont-miss-a-superb-la-traviata/)
@@ -69,14 +93,6 @@ The eminent sociologist Michael Burawoy died on Monday, after being hit by a car
 The Aperiodical --- 2/5/2025
 
 DMFT appreciates you greatly. Yes, you specifically. Hello! My name is Colin and I am a mathematician on a mission to spread joy and delight in maths. Links! I recently enjoyed Allen Downey’s article on the inspection paradox — it links to an...
-
-
-[A Characterization of Standard Borel Spaces](https://golem.ph.utexas.edu/category/2025/02/universal_characterization_of.html)
----
-
-The n-Category Café --- 2/4/2025
-
-There's a universal characterization of standard Borel spaces!
 
 
 [Carnival of Maths 236](https://aperiodical.com/2025/02/carnival-of-maths-236/)
@@ -781,20 +797,4 @@ How can you get a regular icosahedron using Thurston's method?
 Computational Complexity --- 11/5/2024
 
 (Lance posted on the search for Mersenne primes in 2006 after a new one was discovered. I will comment on his post later. ADDED LATER- You Tube Video by Matt Parker on the new prime, here)A Mersenne Prime is a prime of the form \(2^n-1\) where n is...
-
-
-[Summer Research at the Topos Institute](https://golem.ph.utexas.edu/category/2024/11/topos_institute_summer_researc.html)
----
-
-The n-Category Café --- 11/2/2024
-
-You can now apply for the 2025 Summer Research Associate program at the Topos Institute!  The deadline to apply is January 17, 2025.
-
-
-[Carnival of Mathematics #233](https://www.jeremykun.com/2022/11/01/carnival-of-mathematics-233/)
----
-
-Math ∩ Programming --- 11/1/2024
-
-Welcome to the 233rd Carnival of Mathematics! Who can forget 233, the 6th Fibonacci prime? Hey, not all numbers are interesting. Don’t ask me about the smallest positive uninteresting number. You can’t make it interesting with your feeble mind...
 
