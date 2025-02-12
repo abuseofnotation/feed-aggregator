@@ -1,4 +1,12 @@
 
+[StreamOf.me](https://www.fractalkitty.com/streamof-me/)
+---
+
+Fractal Kitty --- 2/11/2025
+
+On winter solstice I had my personal "new-year" and I started an experimental journal of self. My motivation was to see if my experiences and awareness change through the type of journaling that I do. Will tallying the days that I glimpse the moon,...
+
+
 [A Characterization of Standard Borel Spaces](https://golem.ph.utexas.edu/category/2025/02/universal_characterization_of.html)
 ---
 
@@ -789,12 +797,4 @@ It feels eerie as pretty much everyone seemingly avoided talking about the elect
 The n-Category Café --- 11/6/2024
 
 How can you get a regular icosahedron using Thurston's method?
-
-
-[A new Mersenne Prime Has Been Found. When will we find the next one?](https://blog.computationalcomplexity.org/feeds/573646624396308694/comments/default)
----
-
-Computational Complexity --- 11/5/2024
-
-(Lance posted on the search for Mersenne primes in 2006 after a new one was discovered. I will comment on his post later. ADDED LATER- You Tube Video by Matt Parker on the new prime, here)A Mersenne Prime is a prime of the form \(2^n-1\) where n is...
 
