@@ -1,4 +1,20 @@
 
+[Research Then and Now](https://blog.computationalcomplexity.org/feeds/2992176952230529361/comments/default)
+---
+
+Computational Complexity --- 2/12/2025
+
+A student asked me if complexity research was easier when I was a student. Interesting question. Let's compare research now versus the late 80's.The big advantage today is technology. Just a small sampling below.Information: Google, Wikipedia,...
+
+
+[Double Maths First Thing: Issue 17](https://aperiodical.com/2025/02/double-maths-first-thing-issue-17/)
+---
+
+The Aperiodical --- 2/12/2025
+
+Double Maths First Thing is checking its email far too often Hello! My name is Colin and I am a mathematician on a mission to spread mathematical joy and delight. We had a family trip to the Science Museum in London at the weekend. I’ve written...
+
+
 [StreamOf.me](https://www.fractalkitty.com/streamof-me/)
 ---
 
@@ -495,14 +511,6 @@ Math ∩ Programming --- 1/4/2025
 The Hyperfixed Podcast had a lovely episode recently about tape measures. It started from “why does my tape measure seem to always be off a little bit” and went all the way to the inherent limitations of physical measurement at small scales. In...
 
 
-[Carnival of Maths 235](https://aperiodical.com/2025/01/carnival-of-maths-235/)
----
-
-The Aperiodical --- 1/4/2025
-
-The next issue of the Carnival of Mathematics, rounding up blog posts from the month of December 2024, is now online at John D Cook’s Blog. The Carnival rounds up maths blog posts from all over the internet, including some from our own Aperiodical....
-
-
 [Introducing Category Theory, 2nd edn](https://www.logicmatters.net/2025/01/03/introducing-category-theory-2nd-edn/)
 ---
 
@@ -789,12 +797,4 @@ Defining N, Z, Q and R in the Elementary Theory of the Category of Sets.
 Computational Complexity --- 11/7/2024
 
 It feels eerie as pretty much everyone seemingly avoided talking about the election. But Trump back in the White House will likely have a profound effect on US Colleges and Universities. Trump is no fan of universities and his vice-president once...
-
-
-[The Icosahedron as a Thurston Polyhedron](https://golem.ph.utexas.edu/category/2024/11/the_icosahedron_as_a_thurston.html)
----
-
-The n-Category Café --- 11/6/2024
-
-How can you get a regular icosahedron using Thurston's method?
 
