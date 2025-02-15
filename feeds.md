@@ -1,4 +1,12 @@
 
+[Mysteries of Cut and Paste Invariants and Duality: zeta(-1), zeta(2) and SL_2Z](https://rin.io/SL2Z/)
+---
+
+Good Fibrations --- 2/14/2025
+
+Here’s something enticing and strange: the euler characteristic \( \chi(SL_2(\mathbb{Z})) = \zeta(-1), \) and the tamagawa measure of \( \mu(SL_2(\mathbb{Z})\backslash SL_2(\mathbb{R}) = \zeta(2)\). That is, these apriori unrelated invariants of \(...
+
+
 [Research Then and Now](https://blog.computationalcomplexity.org/feeds/2992176952230529361/comments/default)
 ---
 
@@ -789,12 +797,4 @@ Complexity theorist Steven Rudich passed away on October 29 at the age of 63. Hi
 The n-Category Café --- 11/8/2024
 
 Defining N, Z, Q and R in the Elementary Theory of the Category of Sets.
-
-
-[Higher Education Under Trump](https://blog.computationalcomplexity.org/feeds/6955995954501607175/comments/default)
----
-
-Computational Complexity --- 11/7/2024
-
-It feels eerie as pretty much everyone seemingly avoided talking about the election. But Trump back in the White House will likely have a profound effect on US Colleges and Universities. Trump is no fan of universities and his vice-president once...
 
