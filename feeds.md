@@ -1,4 +1,36 @@
 
+[Big Breakthrough in the exciting world of sum-free sets!](https://blog.computationalcomplexity.org/feeds/4896415070121325368/comments/default)
+---
+
+Computational Complexity --- 2/16/2025
+
+Let \([n]\) be the set \(\{1,\ldots,n\}\). (This is standard.)Let X be a set of integers. \(X\) is sum-free if there is NO \(x,y,z\in X\) such that \(x+y=z\). (Note that \(x=y\) is allowed.) Lets try to find a large sum-free set of \([n]\). One...
+
+
+[Sandy Jencks has died.](https://crookedtimber.org/2025/02/16/sandy-jencks-has-died/)
+---
+
+Crooked Timber --- 2/16/2025
+
+I received the email about Sandy on early on Saturday morning in the middle of a five hour visit to the Emergency Room, at a point at which it was not clear everything was going to be ok (don’t worry, it was). Still, and although his friends have...
+
+
+[Sunday photoblogging: bikes at Tate Modern](https://crookedtimber.org/2025/02/16/sunday-photoblogging-bikes-at-tate-modern/)
+---
+
+Crooked Timber --- 2/16/2025
+
+
+
+
+[Small is beautiful – and other thoughts about university governance](https://crookedtimber.org/2025/02/16/small-is-beautiful-and-other-thoughts-about-university-governance/)
+---
+
+Crooked Timber --- 2/16/2025
+
+If one had to choose one reason for why things are not going well in academic life, the managerial, top-down style of governance that reigns in many universities would be a top candidate (with budget cuts as a close competitor). But what is a...
+
+
 [Mysteries of Cut and Paste Invariants and Duality: zeta(-1), zeta(2) and SL_2Z](https://rin.io/SL2Z/)
 ---
 
@@ -263,22 +295,6 @@ The Aperiodical --- 1/30/2025
 Can humans say their largest prime number before they find the next one? After the discovery of the new Mersenne Prime, a community project aims to find out! What is going on? There’s a lot to love about prime numbers. They’re unruly, and hard to...
 
 
-[On the End of Nato: a European perspective](https://crookedtimber.org/2025/01/30/on-the-end-of-nato-a-european-perspective/)
----
-
-Crooked Timber --- 1/30/2025
-
-Politics has returned to Europe’s wealthy protectorates, which, after the phone-call on Jan. 20, 2025, between the then-President-elect and the Danish prime minister, suddenly find themselves faced with an open-ended era of shakedowns by its...
-
-
-[Welcoming Hannah and Lisa](https://crookedtimber.org/2025/01/30/welcoming-hannah-and-lisa/)
----
-
-Crooked Timber --- 1/30/2025
-
-Crooked Timber has survived more than 20 years by continuously refreshing our group. Members have left because they have said what they want to say, or just because life happens, and others have joined to add to the conversation. Today, we are...
-
-
 [Comagnitude 1](https://golem.ph.utexas.edu/category/2025/01/comagnitude_1.html)
 ---
 
@@ -301,14 +317,6 @@ In writing the drunken theorem post, I realized I never wrote a post on Lauteman
 The Aperiodical --- 1/29/2025
 
 Double Maths First Thing is powered by genuine, artisanal intelligence Hello! My name is Colin and I am a mathematician on a mission to spread joy and delight in maths, and to encourage people to take pride in the maths they do. Straight into it...
-
-
-[The death of the hope of progress and the fear of being left behind](https://crookedtimber.org/2025/01/29/the-death-of-the-hope-of-progress-and-the-fear-of-being-left-behind/)
----
-
-Crooked Timber --- 1/29/2025
-
-At some indeterminate point in the fairly recent past, citizens and leaders of most liberal democracies probably looked forward to a condition to be realized in the imaginable future that we can, for the sake of a convenient label, call Universal...
 
 
 [On Skolem’s paradox and the transitive submodel theorem, Rust Belt Workshop in the Philosophy of Logic, Language, and Mathematics, February 2025](https://jdh.hamkins.org/on-skolems-paradox-and-the-transitive-submodel-theorem-rust-belt-workshop-ohio-feb-2025/)
@@ -789,12 +797,4 @@ October EditionI had a tough choice for my final favorite theorem from the decad
 Computational Complexity --- 11/11/2024
 
 Complexity theorist Steven Rudich passed away on October 29 at the age of 63. His works on Natural Proofs and Program Obfuscation were both highly influential. Russell Impagliazzo had a great result with him on showing that one-way permutations...
-
-
-[Axiomatic Set Theory 7: Number Systems](https://golem.ph.utexas.edu/category/2024/11/axiomatic_set_theory_7_number.html)
----
-
-The n-Category Café --- 11/8/2024
-
-Defining N, Z, Q and R in the Elementary Theory of the Category of Sets.
 
