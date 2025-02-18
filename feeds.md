@@ -1,4 +1,20 @@
 
+[Category Theorists in AI](https://golem.ph.utexas.edu/category/2025/02/category_theorists_in_ai.html)
+---
+
+The n-Category Café --- 2/17/2025
+
+Who are the applied category theorists working on AI, and what are they doing?
+
+
+[On Elite Education and the Rise of Maga](https://crookedtimber.org/2025/02/17/53748/)
+---
+
+Crooked Timber --- 2/17/2025
+
+Today’s post focuses on the contribution of elite higher education to the rise of Trump. This may seem in bad taste because it is also clearly targeted by MAGA, and so our impulse is to circle the wagons. But if you wish to develop a defensive...
+
+
 [Big Breakthrough in the exciting world of sum-free sets!](https://blog.computationalcomplexity.org/feeds/4896415070121325368/comments/default)
 ---
 
@@ -269,14 +285,6 @@ This is a guest post by Chris Taylor. I recently read “The Warlock Effect” b
 Fractal Kitty --- 1/31/2025
 
 One thing I love about math and art is the conversations and iterations that flow from their patterns and beauty. After posting Walking Ripples, I have enjoyed seeing how the simplicity of shading circles propagates in conversation, art, and...
-
-
-[Will big data lift the veil of ignorance?](https://crookedtimber.org/2025/01/31/will-big-data-lift-the-veil-of-ignorance/)
----
-
-Crooked Timber --- 1/31/2025
-
-(Hi all, wonderful to become part of this great blog! But now, directly on to some content!) Imagine that you have a toothache, and a visit at the dentist reveals that a major operation is needed. You phone your health insurance. You listen to the...
 
 
 [Comagnitude 2](https://golem.ph.utexas.edu/category/2025/01/comagnitude_2.html)
@@ -701,14 +709,6 @@ The penultimate week of this axiomatic set theory course, based on Lawvere's Ele
 The n-Category Café --- 11/22/2024
 
 The final chapter of this course on secretly-categorical set theory.
-
-
-[Adjoint School 2025](https://golem.ph.utexas.edu/category/2024/10/adjoint_school_2025.html)
----
-
-The n-Category Café --- 11/22/2024
-
-Want to work on applied category theory?  Apply to the Adjoint School before December 1, 2024!
 
 
 [Walking Ripples](https://www.fractalkitty.com/walking-ripples/)
