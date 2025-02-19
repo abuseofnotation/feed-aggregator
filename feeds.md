@@ -1,8 +1,24 @@
 
+[Big Breakthrough in the exciting world of sum-free sets!](https://blog.computationalcomplexity.org/feeds/4896415070121325368/comments/default)
+---
+
+Computational Complexity --- 2/18/2025
+
+Let \([n]\) be the set \(\{1,\ldots,n\}\). (This is standard.)Let X be a set of integers. \(X\) is sum-free if there is NO \(x,y,z\in X\) such that \(x+y=z\). (Note that \(x=y\) is allowed.) Lets try to find a large sum-free set of \([n]\). One...
+
+
+[Two stories from a USAID career](https://crookedtimber.org/2025/02/18/notes-from-a-usaid-career/)
+---
+
+Crooked Timber --- 2/18/2025
+
+“They get the one starving kid in Sudan that isn’t going to have a USAID bottle, and they make everything DOGE has done about the starving kid in Sudan.” — a White House official. I’ve been a USAID contractor for most of the last 20 years. Not a...
+
+
 [Category Theorists in AI](https://golem.ph.utexas.edu/category/2025/02/category_theorists_in_ai.html)
 ---
 
-The n-Category Café --- 2/17/2025
+The n-Category Café --- 2/18/2025
 
 Who are the applied category theorists working on AI, and what are they doing?
 
@@ -13,14 +29,6 @@ Who are the applied category theorists working on AI, and what are they doing?
 Crooked Timber --- 2/17/2025
 
 Today’s post focuses on the contribution of elite higher education to the rise of Trump. This may seem in bad taste because it is also clearly targeted by MAGA, and so our impulse is to circle the wagons. But if you wish to develop a defensive...
-
-
-[Big Breakthrough in the exciting world of sum-free sets!](https://blog.computationalcomplexity.org/feeds/4896415070121325368/comments/default)
----
-
-Computational Complexity --- 2/16/2025
-
-Let \([n]\) be the set \(\{1,\ldots,n\}\). (This is standard.)Let X be a set of integers. \(X\) is sum-free if there is NO \(x,y,z\in X\) such that \(x+y=z\). (Note that \(x=y\) is allowed.) Lets try to find a large sum-free set of \([n]\). One...
 
 
 [Sandy Jencks has died.](https://crookedtimber.org/2025/02/16/sandy-jencks-has-died/)
@@ -47,7 +55,7 @@ Crooked Timber --- 2/16/2025
 If one had to choose one reason for why things are not going well in academic life, the managerial, top-down style of governance that reigns in many universities would be a top candidate (with budget cuts as a close competitor). But what is a...
 
 
-[Mysteries of Cut and Paste Invariants and Duality: zeta(-1), zeta(2) and SL_2Z](https://rin.io/SL2Z/)
+[Cut and Paste Invariants and Duality: zeta(-1), zeta(2) and SL_2Z](https://rin.io/SL2Z/)
 ---
 
 Good Fibrations --- 2/14/2025
@@ -261,14 +269,6 @@ Last week, I finished reading an advance copy of Cory Doctorow’s Picks and Sho
 Math3ma --- 2/2/2025
 
 It's hard for me to believe, but Math3ma is TEN YEARS old today. My first entry was published on February 1, 2015 and is entitled "A Math Blog? Say What?" As evident from that post, I was very unsure about creating this website. At the time,...
-
-
-[The dispensable nation](https://crookedtimber.org/2025/02/01/the-dispensable-nation/)
----
-
-Crooked Timber --- 2/1/2025
-
-“The cemeteries are full of indispensable people.” In one form or another, this observation has been made many times over the last century or more. What is true of people is true of nations. In the past 25 years or so it was often claimed (and ,...
 
 
 [Fibonacci and a Feat of Memory](https://aperiodical.com/2025/02/fibonacci-and-a-feat-of-memory/)
