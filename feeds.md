@@ -1,4 +1,20 @@
 
+[Tomorrow and Yesterday](https://blog.computationalcomplexity.org/feeds/1621602064619337137/comments/default)
+---
+
+Computational Complexity --- 2/19/2025
+
+I recently completed Tomorrow, and Tomorrow, and Tomorrow by Gabrielle Zevin, a book recommended by many including the City of Chicago. The novel covers the decades long journey of two game developers, Sadie and Sam, and how their lives interact...
+
+
+[Double Maths First Thing: Issue 18](https://aperiodical.com/2025/02/double-maths-first-thing-issue-18/)
+---
+
+The Aperiodical --- 2/19/2025
+
+Double Maths First Thing is not quite mathematically relegated yet Hello! My name is Colin and I am a mathematician on a mission to spread the love and joy in maths. My personal maths highlight of the week was well-actually-ing a Guardian Knowledge...
+
+
 [Big Breakthrough in the exciting world of sum-free sets!](https://blog.computationalcomplexity.org/feeds/4896415070121325368/comments/default)
 ---
 
@@ -503,14 +519,6 @@ Computational Complexity --- 1/8/2025
 BILL: Good news for Jimmy Carter! He won The Betty White Award! (see here).LANCE: That's not good news. He had to die to get it.BILL: Call it a mixed bag. Good news for me, in that I have a famous person for The Betty White award. And I later...
 
 
-[Double Maths First Thing, Issue 12](https://aperiodical.com/2025/01/double-maths-first-thing-issue-12/)
----
-
-The Aperiodical --- 1/8/2025
-
-Double Maths First Thing is being written in the dark Hello! My name is Colin and I am a mathematician on a mission to spread mathematical joy and delight. However, at de moment, delights aren’t working; we’re in a power cut and I’m hoping my...
-
-
 [I'll be at the JMM](https://www.jeremykun.com/shortform/2025-01-07-1747/)
 ---
 
@@ -789,12 +797,4 @@ Our ETCS-based but category-free course now reaches the theory of ordinals, a.k.
 Computational Complexity --- 11/14/2024
 
 October EditionI had a tough choice for my final favorite theorem from the decade 2015-2024. Runners up include Pseudodeterministic Primes and Hardness of Partial MCSP. But instead in memory of the recently departed Steven Rudich, this month's...
-
-
-[Steven Rudich (1961-2024)](https://blog.computationalcomplexity.org/feeds/3718689777174333726/comments/default)
----
-
-Computational Complexity --- 11/11/2024
-
-Complexity theorist Steven Rudich passed away on October 29 at the age of 63. His works on Natural Proofs and Program Obfuscation were both highly influential. Russell Impagliazzo had a great result with him on showing that one-way permutations...
 
