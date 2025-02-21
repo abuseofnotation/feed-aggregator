@@ -1,4 +1,28 @@
 
+[The UK government’s bar to citizenship for refugees](https://crookedtimber.org/2025/02/20/the-uk-governments-bar-to-citizenship-for-refugees/)
+---
+
+Crooked Timber --- 2/20/2025
+
+The UK has recently introduced (via “guidance” rather than legislation) a permanent ban on naturalisation for people who arrive in the UK via “dangerous journeys”. The power used to block their applications is the Home Secretary’s discretion to...
+
+
+[Category Theorists in AI](https://golem.ph.utexas.edu/category/2025/02/category_theorists_in_ai.html)
+---
+
+The n-Category Café --- 2/20/2025
+
+Who are the applied category theorists working on AI, and what are they doing?
+
+
+[To kill an art](http://abuseofnotation.github.io/kill-art/)
+---
+
+Abuse of Notation --- 2/20/2025
+
+To kill an art, create a way to perform the utilitarian aspect of it in a way that is formulaic and efficient i.e. artless. (The art is not really dead, it is just understood by a very small amount of people (mostly other creators).) The art of...
+
+
 [Tomorrow and Yesterday](https://blog.computationalcomplexity.org/feeds/1621602064619337137/comments/default)
 ---
 
@@ -29,14 +53,6 @@ Let \([n]\) be the set \(\{1,\ldots,n\}\). (This is standard.)Let X be a set of 
 Crooked Timber --- 2/18/2025
 
 “They get the one starving kid in Sudan that isn’t going to have a USAID bottle, and they make everything DOGE has done about the starving kid in Sudan.” — a White House official. I’ve been a USAID contractor for most of the last 20 years. Not a...
-
-
-[Category Theorists in AI](https://golem.ph.utexas.edu/category/2025/02/category_theorists_in_ai.html)
----
-
-The n-Category Café --- 2/18/2025
-
-Who are the applied category theorists working on AI, and what are they doing?
 
 
 [On Elite Education and the Rise of Maga](https://crookedtimber.org/2025/02/17/53748/)
@@ -71,7 +87,7 @@ Crooked Timber --- 2/16/2025
 If one had to choose one reason for why things are not going well in academic life, the managerial, top-down style of governance that reigns in many universities would be a top candidate (with budget cuts as a close competitor). But what is a...
 
 
-[Cut and Paste Invariants and Duality: zeta(-1), zeta(2) and SL_2Z](https://rin.io/SL2Z/)
+[Cut and Paste Invariants and Duality: A Motivating Example Via zeta(-1), zeta(2) and SL_2Z](https://rin.io/SL2Z/)
 ---
 
 Good Fibrations --- 2/14/2025
@@ -93,6 +109,22 @@ A student asked me if complexity research was easier when I was a student. Inter
 The Aperiodical --- 2/12/2025
 
 Double Maths First Thing is checking its email far too often Hello! My name is Colin and I am a mathematician on a mission to spread mathematical joy and delight. We had a family trip to the Science Museum in London at the weekend. I’ve written...
+
+
+[The things you fear](http://abuseofnotation.github.io/fear/)
+---
+
+Abuse of Notation --- 2/12/2025
+
+The things you fear would happen are already happening. The only way to make them seize is to stop fearing.
+
+
+[The Hand](http://abuseofnotation.github.io/the-hand/)
+---
+
+Abuse of Notation --- 2/12/2025
+
+title: The hand cluches layout: microblog category: microblog tags: zen — The hand clutches so hard, that it does not realize it is not holding anything.
 
 
 [StreamOf.me](https://www.fractalkitty.com/streamof-me/)
@@ -269,14 +301,6 @@ Find balance through symmetry.$$f(x) = f(-x)$$Approximation improves with experi
 Crooked Timber --- 2/2/2025
 
 One of my Sunday routines is usually to post a photo here. Sometimes that’s easy, since I’ve taken something in the past few days, and sometimes that involves trawling through my archive to select something, sometimes from years ago. One problem...
-
-
-[There is an exit](https://crookedtimber.org/2025/02/02/there-is-an-exit/)
----
-
-Crooked Timber --- 2/2/2025
-
-Last week, I finished reading an advance copy of Cory Doctorow’s Picks and Shovels. No spoilers about plot specifics, but the novel has a lot to say about two things. First, how Silicon Valley used to be a place where exit was possible and a good...
 
 
 [Magnitude, Enriched Categories, and LLMs](https://www.math3ma.com/blog/magnitude-enriched-categories-and-llms)
@@ -773,28 +797,4 @@ There is an ability I call unity of thought, for a lack of a better word, which 
 Math ∩ Programming --- 11/15/2024
 
 In my little corner of the FHE world, things have been steadily heating up. For those who don’t know, my main work project right now is HEIR (Homomorphic Encryption Intermediate Representation), a compiler toolchain for fully homomorphic encryption...
-
-
-[Attention spans for math and stories](https://www.jeremykun.com/2019/03/26/attention-spans-for-math-and-stories/)
----
-
-Math ∩ Programming --- 11/15/2024
-
-Editor’s note: This essay was originally published in 2019. I have made minor edits in this republishing. There was a MathOverflow thread about mathematically interesting games for 5–6 year olds. A lot of the discussion revolved around how young...
-
-
-[Axiomatic Set Theory 8: Well Ordered Sets](https://golem.ph.utexas.edu/category/2024/11/axiomatic_set_theory_8_well_or.html)
----
-
-The n-Category Café --- 11/15/2024
-
-Our ETCS-based but category-free course now reaches the theory of ordinals, a.k.a. well ordered sets.
-
-
-[Favorite Theorems: Learning from Natural Proofs](https://blog.computationalcomplexity.org/feeds/4616327811486075928/comments/default)
----
-
-Computational Complexity --- 11/14/2024
-
-October EditionI had a tough choice for my final favorite theorem from the decade 2015-2024. Runners up include Pseudodeterministic Primes and Hardness of Partial MCSP. But instead in memory of the recently departed Steven Rudich, this month's...
 
