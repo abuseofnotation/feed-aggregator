@@ -1,4 +1,12 @@
 
+[A slightly belated celebration of President’s Day](https://crookedtimber.org/2025/02/21/a-slightly-belated-celebration-of-presidents-day/)
+---
+
+Crooked Timber --- 2/21/2025
+
+“America is rock and roll.” — Alfred Howard Did some of you find it hard to feel the love for President’s Day this year? Well, remember: the reason it exists is because we Americans, as a nation, couldn’t choose between Washington’s Birthday and...
+
+
 [The UK government’s bar to citizenship for refugees](https://crookedtimber.org/2025/02/20/the-uk-governments-bar-to-citizenship-for-refugees/)
 ---
 
@@ -293,14 +301,6 @@ The National Science Foundation is one of the agencies most affected by the vari
 Fractal Kitty --- 2/2/2025
 
 Find balance through symmetry.$$f(x) = f(-x)$$Approximation improves with experience.$$e^x = \sum_{n=0}^{\infty} \frac{x^n}{n!} = 1 + x + \frac{x^2}{2!} + \frac{x^3}{3!} + \cdots$$ To untangle is to meditate.$$\huge{\bigcirc}$$Be...
-
-
-[Sunday photo(meta)blogging](https://crookedtimber.org/2025/02/02/sunday-photometablogging/)
----
-
-Crooked Timber --- 2/2/2025
-
-One of my Sunday routines is usually to post a photo here. Sometimes that’s easy, since I’ve taken something in the past few days, and sometimes that involves trawling through my archive to select something, sometimes from years ago. One problem...
 
 
 [Magnitude, Enriched Categories, and LLMs](https://www.math3ma.com/blog/magnitude-enriched-categories-and-llms)
