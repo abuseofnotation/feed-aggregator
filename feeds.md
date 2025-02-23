@@ -191,14 +191,6 @@ Crooked Timber --- 2/9/2025
 Around a decade ago when I was fairly new to my academic job, I made an uncharacteristically politic decision to attend the annual Politics Dinner, which each year featured a lecture from an Australian politician. That year it was my (then) least...
 
 
-[Don’t miss a superb La Traviata](https://www.logicmatters.net/2025/02/09/dont-miss-a-superb-la-traviata/)
----
-
-Blog - Logic Matters --- 2/9/2025
-
-The La Traviata broadcast from the Royal Opera House last night was wonderful — and Lisette Oropesa as Violetta was simply stunning. You can catch the performance on BBC Radio for a month. Don’t miss the chance. The post Don’t miss a superb La...
-
-
 [Sunday photoblogging: Buchanan’s Wharf](https://crookedtimber.org/2025/02/09/sunday-photoblogging-buchanans-wharf/)
 ---
 
@@ -253,14 +245,6 @@ The next issue of the Carnival of Mathematics, rounding up blog posts from the m
 Crooked Timber --- 2/4/2025
 
 One good side-effect of contemporary politics is that a more sober look at the merits and demerits of the US Founders’ legacy is possible again. (Of course, here at CrookedTimber we pride ourselves on our sobriety in such matters; it helps many of...
-
-
-[ICT again, but also Mozart, Brauß and Pires again](https://www.logicmatters.net/2025/02/03/ict-again-but-also-mozart-braus-and-pires-again/)
----
-
-Blog - Logic Matters --- 2/3/2025
-
-I have updated Introducing Category Theory to version 2.5: download here. As well as many minor corrections, including an improved proofs of a couple of theorems, there is a restored §18.4 on ‘naming’ arrows, and a new §18.5 touching on Lawvere’s...
 
 
 [Adam’s Heart Surgery Team: Expertise and Dickheadery](https://crookedtimber.org/2025/02/03/adams-heart-surgery-team-expertise-and-dickheadery/)
@@ -399,22 +383,6 @@ Fractal Kitty --- 1/27/2025
 Do you ever look at knitted items and liken them to dragon scales? - I do.  So when I decided to make generative textured hats it made sense to call them Wyrm Beans.Just as we can have generative pixel colors on a screen, we can have generative...
 
 
-[Lawvere Archives new website](https://www.logicmatters.net/2025/01/26/lawvere-archives-new-website/)
----
-
-Blog - Logic Matters --- 1/26/2025
-
-In case you missed the announcement on the categories mailing list: Bill’s family is happy to announce that the Lawvere Archives websiteis launched! Click here: https://lawverearchives.com/ We ask you to explore, send us your ideas, and if possible...
-
-
-[Pavel Haas Quartet and Boris Giltburg](https://www.logicmatters.net/2025/01/25/pavel-haas-quartet-and-boris-giltburg/)
----
-
-Blog - Logic Matters --- 1/25/2025
-
-The Pavel Haas Quartet were in Cambridge last night, playing selections from Dvořák’s ‘Cypresses’, Martinů’s fifth string quartet, and then (with Boris Giltburg) Brahms’s third piano quartet. The Martinů in particular was just stupendous. (They...
-
-
 [The Fighting Temeraire](https://blog.computationalcomplexity.org/feeds/449868624404423350/comments/default)
 ---
 
@@ -495,14 +463,6 @@ The Aperiodical --- 1/15/2025
 DMFT is significantly less perplexing than HMRC Hello! My name is Colin and I am a mathematician on a mission to spread mathematical joy. This week, I’ve made another contribution to the OEIS (currently in review) about the excellent puzzle #23...
 
 
-[Hibernating, hallucinating, Haydn](https://www.logicmatters.net/2025/01/14/hibernating-hallucinating-haydn/)
----
-
-Blog - Logic Matters --- 1/14/2025
-
-It has been very wintry. At least by Cambridge standards. So up late, early to retire. Hardly leaving the house for a few days. Hibernating. Mrs Logic Matters has wonderful bread and other goodies to show for it. I seem to have been staring at...
-
-
 [Random Thought on AI from someone in the REAL WORLD](https://blog.computationalcomplexity.org/feeds/2984182986940037631/comments/default)
 ---
 
@@ -517,14 +477,6 @@ Guest Post from Nick Sovich. --------------------------------------------------
 The Aperiodical --- 1/11/2025
 
 Here’s a round-up of some news stories from the last two months of 2024, (mostly) not otherwise covered here on the Aperiodical. Maths Research At the start of December, John Carlos Baez shared on Mathstodon that the moving sofa problem may have...
-
-
-[Small categorial update](https://www.logicmatters.net/2025/01/10/small-categorial-update/)
----
-
-Blog - Logic Matters --- 1/10/2025
-
-There’s now a new version of the category theory notes online, still missing the last chapter. It is four pages longer though, because I’ve added a section on conditional arrows in a topos (to go alongside conjunction and disjunction), and so been...
 
 
 [The Human Podcast: 10 questions in 10 minutes](https://jdh.hamkins.org/the-human-podcast-10-questions-in-10-minutes/)
@@ -567,14 +519,6 @@ Math ∩ Programming --- 1/4/2025
 The Hyperfixed Podcast had a lovely episode recently about tape measures. It started from “why does my tape measure seem to always be off a little bit” and went all the way to the inherent limitations of physical measurement at small scales. In...
 
 
-[Introducing Category Theory, 2nd edn](https://www.logicmatters.net/2025/01/03/introducing-category-theory-2nd-edn/)
----
-
-Blog - Logic Matters --- 1/3/2025
-
-I have just put online a draft of all but the last chapter of a second edition of Introducing Category Theory. I hope to have this completed and paperback-ready in February or March. In the meantime, I have “unpublished” the first edition (so that...
-
-
 [Fully Homomorphic Encryption and the Public](https://www.jeremykun.com/fhe-and-the-public/)
 ---
 
@@ -589,22 +533,6 @@ In this living document, I will document reactions to uses of homomorphic encryp
 Computational Complexity --- 1/2/2025
 
 Bill's SIGACT Open Problems Column remembering Luca Trevisan is out. I chose the problem of whether Promise-ZPP in P implies Promise-BPP in P, an extension of an earlier theorem by Luca and his co-authors, which showed that Promise-RP in P implies...
-
-
-[Vermeer revisited](https://www.logicmatters.net/2024/12/31/vermeer-revisited/)
----
-
-Blog - Logic Matters --- 12/31/2024
-
-Let me share (almost!) one of my Christmas presents with you. Of the books I have enjoyed most during this past year, three are books on art. I have already really warmly recommended here the wonderful catalogue for the still-current exhibition Van...
-
-
-[A Christmas card](https://www.logicmatters.net/2024/12/24/a-christmas-card-13/)
----
-
-Blog - Logic Matters --- 12/24/2024
-
-What the Donkey Saw No room in the inn, of course,And not that much in the stable,What with the shepherds, Magi, Mary,Joseph, the heavenly host —Not to mention the babyUsing our manger as a cot.You couldn’t have squeezed another cherub inFor love...
 
 
 [Random Thoughts on AI (Human Generated)](https://blog.computationalcomplexity.org/feeds/4675632694499721534/comments/default)
@@ -629,14 +557,6 @@ Back in the day (circa 1989) we studied locally random reductions which would le
 The n-Category Café --- 12/21/2024
 
 More detail on the Cycle Length Lemma, a basic result in the theory of random permutations.  We prove a categorified version of this result, which is an equivalence of groupoids, and then derive the original version by taking groupoid cardinalities.
-
-
-[A categorial end in sight](https://www.logicmatters.net/2024/12/19/a-categorial-end-in-sight/)
----
-
-Blog - Logic Matters --- 12/19/2024
-
-I haven’t been posting regular updates about work on the revised version of Introducing Category Theory, not because there’s been no progress, but because there has been little of wider interest to report. But the end is at last in sight. I have...
 
 
 [Information is Physical?](https://blog.computationalcomplexity.org/feeds/376845296399143352/comments/default)
@@ -797,4 +717,84 @@ There is an ability I call unity of thought, for a lack of a better word, which 
 Math ∩ Programming --- 11/15/2024
 
 In my little corner of the FHE world, things have been steadily heating up. For those who don’t know, my main work project right now is HEIR (Homomorphic Encryption Intermediate Representation), a compiler toolchain for fully homomorphic encryption...
+
+
+[Attention spans for math and stories](https://www.jeremykun.com/2019/03/26/attention-spans-for-math-and-stories/)
+---
+
+Math ∩ Programming --- 11/15/2024
+
+Editor’s note: This essay was originally published in 2019. I have made minor edits in this republishing. There was a MathOverflow thread about mathematically interesting games for 5–6 year olds. A lot of the discussion revolved around how young...
+
+
+[Axiomatic Set Theory 8: Well Ordered Sets](https://golem.ph.utexas.edu/category/2024/11/axiomatic_set_theory_8_well_or.html)
+---
+
+The n-Category Café --- 11/15/2024
+
+Our ETCS-based but category-free course now reaches the theory of ordinals, a.k.a. well ordered sets.
+
+
+[Favorite Theorems: Learning from Natural Proofs](https://blog.computationalcomplexity.org/feeds/4616327811486075928/comments/default)
+---
+
+Computational Complexity --- 11/14/2024
+
+October EditionI had a tough choice for my final favorite theorem from the decade 2015-2024. Runners up include Pseudodeterministic Primes and Hardness of Partial MCSP. But instead in memory of the recently departed Steven Rudich, this month's...
+
+
+[Axiomatic Set Theory 7: Number Systems](https://golem.ph.utexas.edu/category/2024/11/axiomatic_set_theory_7_number.html)
+---
+
+The n-Category Café --- 11/8/2024
+
+Defining N, Z, Q and R in the Elementary Theory of the Category of Sets.
+
+
+[The Icosahedron as a Thurston Polyhedron](https://golem.ph.utexas.edu/category/2024/11/the_icosahedron_as_a_thurston.html)
+---
+
+The n-Category Café --- 11/6/2024
+
+How can you get a regular icosahedron using Thurston's method?
+
+
+[Summer Research at the Topos Institute](https://golem.ph.utexas.edu/category/2024/11/topos_institute_summer_researc.html)
+---
+
+The n-Category Café --- 11/2/2024
+
+You can now apply for the 2025 Summer Research Associate program at the Topos Institute!  The deadline to apply is January 17, 2025.
+
+
+[Carnival of Mathematics #233](https://www.jeremykun.com/2022/11/01/carnival-of-mathematics-233/)
+---
+
+Math ∩ Programming --- 11/1/2024
+
+Welcome to the 233rd Carnival of Mathematics! Who can forget 233, the 6th Fibonacci prime? Hey, not all numbers are interesting. Don’t ask me about the smallest positive uninteresting number. You can’t make it interesting with your feeble mind...
+
+
+[How This Blog Does IndieWeb](https://www.jeremykun.com/2024/10/30/how-this-blog-does-indieweb/)
+---
+
+Math ∩ Programming --- 10/31/2024
+
+This article will explain how the blog is organized at a technical level, and show how I implemented various IndieWeb features. Table of Contents: Motivation Structure and Deployment Static search index Running scripts via GitHub Actions Social...
+
+
+[TfE: The Problem with Bayes / Solmonoff](https://deontologistics.co/2024/10/18/tfe-the-problem-with-bayes-solmonoff/)
+---
+
+DEONTOLOGISTICS --- 10/18/2024
+
+Here’s a recent thread musing about problems with Bayesian conceptions of general intelligence and the more specific variants based on Solmonoff induction, such as AIXI. I’ve been thinking about these issues a lot recently, in tandem with the...
+
+
+[This job checks all the boxes, but…](http://proses.id/perfectjob/)
+---
+
+Proses.ID --- 10/16/2024
+
+I’ve been wanting to reflect of the past 2 years and 2 months I spent not working, but it never felt urgent or important (to…
 
