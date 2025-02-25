@@ -1,4 +1,20 @@
 
+[Strangers in an Uber](https://crookedtimber.org/2025/02/25/strangers-in-an-uber/)
+---
+
+Crooked Timber --- 2/25/2025
+
+40 years ago today the Daily Mail carried a front page picture of police officers carrying me away from a Miners Strike rally in Whitehall. I mightn’t have known, but a friend of my sister’s told her, having recognized me, with glee, when her dad...
+
+
+[Why my department hopes I do not die this spring](https://blog.computationalcomplexity.org/feeds/7315413993215323542/comments/default)
+---
+
+Computational Complexity --- 2/24/2025
+
+Alice is scheduled to teach X in the Spring.Then Alice CAN'T! (illness, death, or some other reason)What is the department to do?1) If it's an undergraduate class then likely there are other people who are QUALIFIED. Perhaps a grad student, perhaps...
+
+
 [Potential Functions and the Magnitude of Functors 1](https://golem.ph.utexas.edu/category/2025/02/potential_functions_and_the_ma.html)
 ---
 
@@ -140,7 +156,7 @@ If one had to choose one reason for why things are not going well in academic li
 
 Good Fibrations --- 2/14/2025
 
-Here’s something enticing and strange: the euler characteristic \( \chi(SL_2(\mathbb{Z})) = \zeta(-1), \) and the tamagawa measure of \( \mu(SL_2(\mathbb{Z})\backslash SL_2(\mathbb{R}) = \zeta(2)\). That is, these apriori unrelated invariants of \(...
+Here’s something enticing and strange: there are two “cut and paste” invariants of the same group which are equal to dual zeta values! the euler characteristic \( \chi(SL_2(\mathbb{Z})) = \zeta(-1), \) and the tamagawa measure of \(...
 
 
 [Research Then and Now](https://blog.computationalcomplexity.org/feeds/2992176952230529361/comments/default)
@@ -261,14 +277,6 @@ Anyone that has read chunks of Marx’s Capital will know that he often explici
 Math ∩ Programming --- 2/7/2025
 
 Back in 2020, when I worked in the supply chain side of Google, I had a fun and impactful side project related to human-level explanations of linear programs. A linear program is a mathematical model that defines some number of variables, linear...
-
-
-[Michael Burawoy has died](https://crookedtimber.org/2025/02/05/michael-burawoy-has-died/)
----
-
-Crooked Timber --- 2/5/2025
-
-The eminent sociologist Michael Burawoy died on Monday, after being hit by a car while walking near near his home. I’ve found a couple of tributes: this from Marta Soler Gallart which tells a story I didn’t know but surprises me not in the least,...
 
 
 [Double Maths First Thing: Issue 16](https://aperiodical.com/2025/02/double-maths-first-thing-issue-16/)
@@ -789,12 +797,4 @@ Teacher (grumpy): “How did everyone on the class came to know this, and you ar
 Computational Complexity --- 11/17/2024
 
 In this post I give a question for you to think about. My next post will have the answer and the proof. 1) The following are known and I have a set of slides about it herea) For all 2-colorings of \(R^2\) there exists two points an inch apart that...
-
-
-[Society](http://abuseofnotation.github.io/our-society/)
----
-
-Abuse of Notation --- 11/17/2024
-
-Society in which you step over homeless folks on your way to pointlessly click and type on the computer all day, is deeply fucked up. And you have to be veeery brainwashed to not realize that. Society where everyone’s main activity is to do a “job”...
 
