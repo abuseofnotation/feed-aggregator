@@ -1,4 +1,20 @@
 
+[Category Theorists in AI](https://golem.ph.utexas.edu/category/2025/02/category_theorists_in_ai.html)
+---
+
+The n-Category Café --- 2/25/2025
+
+Who are the applied category theorists working on AI, and what are they doing?
+
+
+[Dispensing with the tech bros](https://crookedtimber.org/2025/02/25/dispensing-with-the-tech-bros/)
+---
+
+Crooked Timber --- 2/25/2025
+
+As I type this, Trump is threatening tariffs on anyone who challenges the interests of America’s technology oligarchs, all of whom are now paying obeisance at this court. Technology is the US biggest weapon against the free world of which it was...
+
+
 [Strangers in an Uber](https://crookedtimber.org/2025/02/25/strangers-in-an-uber/)
 ---
 
@@ -69,14 +85,6 @@ Crooked Timber --- 2/21/2025
 Crooked Timber --- 2/20/2025
 
 The UK has recently introduced (via “guidance” rather than legislation) a permanent ban on naturalisation for people who arrive in the UK via “dangerous journeys”. The power used to block their applications is the Home Secretary’s discretion to...
-
-
-[Category Theorists in AI](https://golem.ph.utexas.edu/category/2025/02/category_theorists_in_ai.html)
----
-
-The n-Category Café --- 2/20/2025
-
-Who are the applied category theorists working on AI, and what are they doing?
 
 
 [To kill an art](http://abuseofnotation.github.io/kill-art/)
@@ -261,14 +269,6 @@ The La Traviata broadcast from the Royal Opera House last night was wonderful �
 Crooked Timber --- 2/9/2025
 
 
-
-
-[On Undermining the Administrative State](https://crookedtimber.org/2025/02/07/on-undermining-the-administrative-state/)
----
-
-Crooked Timber --- 2/7/2025
-
-Anyone that has read chunks of Marx’s Capital will know that he often explicitly and not trivially implicitly draws on data and evidence gathered and published in reports by select committees of the British Parliament. Most of these reports he...
 
 
 [Explainable Linear Programs](https://www.jeremykun.com/shortform/2025-02-06-2124/)
