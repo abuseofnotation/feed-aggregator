@@ -1,8 +1,40 @@
 
+[Potential Functions and the Magnitude of Functors 1](https://golem.ph.utexas.edu/category/2025/02/potential_functions_and_the_ma.html)
+---
+
+The n-Category Café --- 2/26/2025
+
+PDE methods in magnitude, looked at categorically.
+
+
+[Potential Functions and the Magnitude of Functors 2](https://golem.ph.utexas.edu/category/2025/02/potential_functions_and_the_ma_1.html)
+---
+
+The n-Category Café --- 2/26/2025
+
+Potential functions from a functorial perspective.
+
+
+[You Need Much Less Memory than Time](https://blog.computationalcomplexity.org/feeds/3222385872113044921/comments/default)
+---
+
+Computational Complexity --- 2/26/2025
+
+Just as I was complaining that we haven't seen many surprising breakthroughs in complexity recently, we get an earthquake of a result to start the year, showing that all algorithms can be simulated using considerable less memory than the time of...
+
+
+[Double Maths First Thing: Issue 19](https://aperiodical.com/2025/02/double-maths-first-thing-issue-19/)
+---
+
+The Aperiodical --- 2/26/2025
+
+Double Maths First Thing got nerdsniped by the Parker Square Hello! My name is Colin and I am a mathematician on a mission to spread the joy and delight in doing maths for its own sake. For example, I coded up a trammel in Geogebra after...
+
+
 [Category Theorists in AI](https://golem.ph.utexas.edu/category/2025/02/category_theorists_in_ai.html)
 ---
 
-The n-Category Café --- 2/25/2025
+The n-Category Café --- 2/26/2025
 
 Who are the applied category theorists working on AI, and what are they doing?
 
@@ -29,14 +61,6 @@ Crooked Timber --- 2/25/2025
 Computational Complexity --- 2/24/2025
 
 Alice is scheduled to teach X in the Spring.Then Alice CAN'T! (illness, death, or some other reason)What is the department to do?1) If it's an undergraduate class then likely there are other people who are QUALIFIED. Perhaps a grad student, perhaps...
-
-
-[Potential Functions and the Magnitude of Functors 1](https://golem.ph.utexas.edu/category/2025/02/potential_functions_and_the_ma.html)
----
-
-The n-Category Café --- 2/23/2025
-
-PDE methods in magnitude, looked at categorically.
 
 
 [The German elections – a view from below](https://crookedtimber.org/2025/02/23/the-german-elections-a-view-from-below/)
@@ -535,14 +559,6 @@ Computational Complexity --- 1/12/2025
 Guest Post from Nick Sovich. -----------------------------------------------------------------------------Bill Gasarch recently blogged on RANDOM THOUGHTS ON AI here . He is in the realm of theory. I am in the realm of applications so I asked if I...
 
 
-[Aperiodical News Roundup – November & December 2024](https://aperiodical.com/2025/01/aperiodical-news-roundup-november-december-2024/)
----
-
-The Aperiodical --- 1/11/2025
-
-Here’s a round-up of some news stories from the last two months of 2024, (mostly) not otherwise covered here on the Aperiodical. Maths Research At the start of December, John Carlos Baez shared on Mathstodon that the moving sofa problem may have...
-
-
 [Small categorial update](https://www.logicmatters.net/2025/01/10/small-categorial-update/)
 ---
 
@@ -781,20 +797,4 @@ Over the last week I have been drawing circles along paths and then shading them
 Computational Complexity --- 11/20/2024
 
 In my last post (see here) I invited you to work on the following question:Find a \(d\) such that--There is a 2-coloring of \(R^d\) with no mono unit square.--For all 2-colorings of \(R^{d+1}\) there is a mono unit square. Actually I should have...
-
-
-[Teacher](http://abuseofnotation.github.io/teacher-joke/)
----
-
-Abuse of Notation --- 11/18/2024
-
-Teacher (grumpy): “How did everyone on the class came to know this, and you are the only one who is still clueless?” Me (entusiastically): “Interesting question! In fact I myself have been wondering the same thing?”
-
-
-[For what d is the following true: for all 2-colorings of \(R^d\) there is a mono unit square (Asking the Question)](https://blog.computationalcomplexity.org/feeds/1377651336998386832/comments/default)
----
-
-Computational Complexity --- 11/17/2024
-
-In this post I give a question for you to think about. My next post will have the answer and the proof. 1) The following are known and I have a set of slides about it herea) For all 2-colorings of \(R^2\) there exists two points an inch apart that...
 
