@@ -1,4 +1,20 @@
 
+[ICT once again](https://www.logicmatters.net/2025/02/27/ict-once-again/)
+---
+
+Blog - Logic Matters --- 2/27/2025
+
+At least Zeno’s arrow got ever-closer to its target. But the newly posted version 2.6 of Introducing Category Theory has two chapters fewer than version 2.5 … I’m not really going backwards. In the last three weeks, there have been distractions,...
+
+
+[Review: The Big Bang of Numbers by Manil Suri](https://aperiodical.com/2025/02/review-the-big-bang-of-numbers-by-manil-suri/)
+---
+
+The Aperiodical --- 2/27/2025
+
+This is a review of the book The Big Bang of Numbers by Manil Suri. We were kindly sent a copy of the book to look at, and Ashleigh Ratcliffe shares her thoughts. In this book, Suri sets out to build the whole of modern mathematics from its...
+
+
 [Potential Functions and the Magnitude of Functors 1](https://golem.ph.utexas.edu/category/2025/02/potential_functions_and_the_ma.html)
 ---
 
@@ -535,14 +551,6 @@ Computational Complexity --- 1/15/2025
 Slide in Lev Reyzin's JMM talk "Problems in AI and ML for Mathematicians" Reyzin is paraphrasing Telgarsky. Posted with permission.Last week I attended the Joint Mathematics Meeting in Seattle with a theme ofWe Decide Our Future: Mathematics in the...
 
 
-[Double Maths First Thing: Issue 13](https://aperiodical.com/2025/01/double-maths-first-thing-issue-13/)
----
-
-The Aperiodical --- 1/15/2025
-
-DMFT is significantly less perplexing than HMRC Hello! My name is Colin and I am a mathematician on a mission to spread mathematical joy. This week, I’ve made another contribution to the OEIS (currently in review) about the excellent puzzle #23...
-
-
 [Hibernating, hallucinating, Haydn](https://www.logicmatters.net/2025/01/14/hibernating-hallucinating-haydn/)
 ---
 
@@ -669,14 +677,6 @@ Back in the day (circa 1989) we studied locally random reductions which would le
 The n-Category Café --- 12/21/2024
 
 More detail on the Cycle Length Lemma, a basic result in the theory of random permutations.  We prove a categorified version of this result, which is an equivalence of groupoids, and then derive the original version by taking groupoid cardinalities.
-
-
-[A categorial end in sight](https://www.logicmatters.net/2024/12/19/a-categorial-end-in-sight/)
----
-
-Blog - Logic Matters --- 12/19/2024
-
-I haven’t been posting regular updates about work on the revised version of Introducing Category Theory, not because there’s been no progress, but because there has been little of wider interest to report. But the end is at last in sight. I have...
 
 
 [Information is Physical?](https://blog.computationalcomplexity.org/feeds/376845296399143352/comments/default)
