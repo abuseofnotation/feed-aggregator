@@ -1,4 +1,12 @@
 
+[No Other Land (filmreview)](https://crookedtimber.org/2025/02/28/no-other-land-filmreview/)
+---
+
+Crooked Timber --- 2/28/2025
+
+Two months ago, I saw No Other Land in a large movie theatre in Brussels. No Other Land is a documentary made by a team of two Palestinians and two Israeli. We follow their reporting on the years-long destruction of Masafer Yatta, a village on the...
+
+
 [ICT once again](https://www.logicmatters.net/2025/02/27/ict-once-again/)
 ---
 
@@ -301,14 +309,6 @@ Around a decade ago when I was fairly new to my academic job, I made an uncharac
 Blog - Logic Matters --- 2/9/2025
 
 The La Traviata broadcast from the Royal Opera House last night was wonderful — and Lisette Oropesa as Violetta was simply stunning. You can catch the performance on BBC Radio for a month. Don’t miss the chance. The post Don’t miss a superb La...
-
-
-[Sunday photoblogging: Buchanan’s Wharf](https://crookedtimber.org/2025/02/09/sunday-photoblogging-buchanans-wharf/)
----
-
-Crooked Timber --- 2/9/2025
-
-
 
 
 [Explainable Linear Programs](https://www.jeremykun.com/shortform/2025-02-06-2124/)
