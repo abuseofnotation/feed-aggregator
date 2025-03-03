@@ -1,4 +1,20 @@
 
+[Karp recently turned 90 but there was no conference to celebrate that. Which numbers do we use and why?](https://blog.computationalcomplexity.org/feeds/7296866488806687160/comments/default)
+---
+
+Computational Complexity --- 3/2/2025
+
+Karp turned 90 in January of 2025. I searched to see if there is a 90th Birthday Conference for him. I did not find one (is there one?). For which years do we have celebratory birthday conferences?Here are some conferences in honor of 60th...
+
+
+[Sunday photoblogging: another cormorant](https://crookedtimber.org/2025/03/02/sunday-photoblogging-another-cormorant/)
+---
+
+Crooked Timber --- 3/2/2025
+
+I’ve not been out taking pictures, so here’s another cormorant from the sequence I shot a few days ago.
+
+
 [No Other Land (filmreview)](https://crookedtimber.org/2025/02/28/no-other-land-filmreview/)
 ---
 
@@ -293,14 +309,6 @@ This is a follow-up to my previous post on the end of US democracy and its impli
 Abuse of Notation --- 2/10/2025
 
 This is a list of varioust arguments, quarrels, disagreements i.e. “beefs” that philosophers have had with one another. Heraclitus vs. Parmenides (5th century BCE) Beef: A clash between Heraclitus’s belief in constant change and Parmenides’s...
-
-
-[The business end of the university](https://crookedtimber.org/2025/02/09/the-business-end-of-the-university/)
----
-
-Crooked Timber --- 2/9/2025
-
-Around a decade ago when I was fairly new to my academic job, I made an uncharacteristically politic decision to attend the annual Politics Dinner, which each year featured a lecture from an Australian politician. That year it was my (then) least...
 
 
 [Don’t miss a superb La Traviata](https://www.logicmatters.net/2025/02/09/dont-miss-a-superb-la-traviata/)
@@ -789,12 +797,4 @@ The final chapter of this course on secretly-categorical set theory.
 Fractal Kitty --- 11/21/2024
 
 Over the last week I have been drawing circles along paths and then shading them with 2 colors using random numbers to determine their radii. For example, the one on this card was drawn with 10 evenly spaced circles along a line using the random...
-
-
-[For what d is the following true: For all 2-colorings of \(R^d\) has a mono unit square (Answering(?) the Question)](https://blog.computationalcomplexity.org/feeds/1063926689542502638/comments/default)
----
-
-Computational Complexity --- 11/20/2024
-
-In my last post (see here) I invited you to work on the following question:Find a \(d\) such that--There is a 2-coloring of \(R^d\) with no mono unit square.--For all 2-colorings of \(R^{d+1}\) there is a mono unit square. Actually I should have...
 
