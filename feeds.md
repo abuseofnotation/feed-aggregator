@@ -2,9 +2,17 @@
 [Karp recently turned 90 but there was no conference to celebrate that. Which numbers do we use and why?](https://blog.computationalcomplexity.org/feeds/7296866488806687160/comments/default)
 ---
 
-Computational Complexity --- 3/2/2025
+Computational Complexity --- 3/3/2025
 
 Karp turned 90 in January of 2025. I searched to see if there is a 90th Birthday Conference for him. I did not find one (is there one?). For which years do we have celebratory birthday conferences?Here are some conferences in honor of 60th...
+
+
+[Aperiodical News Roundup – Jan & Feb 2025](https://aperiodical.com/2025/03/aperiodical-news-roundup-jan-feb-2025/)
+---
+
+The Aperiodical --- 3/3/2025
+
+Here’s a round-up of a few news items from the last couple of months not otherwise covered on the site. Ingrid Daubechies has been awarded the US National Medal of Science, “for her pioneering work on signal processing”. Applications are now open...
 
 
 [Sunday photoblogging: another cormorant](https://crookedtimber.org/2025/03/02/sunday-photoblogging-another-cormorant/)
@@ -493,14 +501,6 @@ The Pavel Haas Quartet were in Cambridge last night, playing selections from Dvo
 Computational Complexity --- 1/22/2025
 
 What does an 1838 painting tell us about technological change?A colleague and I decided to see how well LLMs could teach us a topic we knew nothing about. We picked the Romanticism art movement. I asked ChatGPT to tutor me on the topic for an hour....
-
-
-[Double Maths First Thing: Issue 14](https://aperiodical.com/2025/01/double-maths-first-thing-issue-14/)
----
-
-The Aperiodical --- 1/22/2025
-
-DMFT probably needs wider margins. Hello! My name is Colin and I am a mathematician on a mission to spread the joy and delight in how everything fits together. Straight into the links this week! A mini-theme: going back in time My link collection...
 
 
 [The covering reflection principle – Oberwolfach January 2025](https://jdh.hamkins.org/the-covering-reflection-principle-oberwolfach-january-2025/)
