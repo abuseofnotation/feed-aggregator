@@ -1,4 +1,20 @@
 
+[How Good are Permutation Represesentations?](https://golem.ph.utexas.edu/category/2025/03/how_good_are_permutation_repre.html)
+---
+
+The n-Category Café --- 3/5/2025
+
+Is the map from the Burnside ring to the representation ring of a finite group usually surjective, or usually not?
+
+
+[Carnival of Maths 237](https://aperiodical.com/2025/03/carnival-of-maths-237/)
+---
+
+The Aperiodical --- 3/4/2025
+
+The next issue of the Carnival of Mathematics, rounding up blog posts from the month of February 2025, is now online at Flying Colours Maths. The Carnival rounds up maths blog posts from all over the internet, including some from our...
+
+
 [Karp recently turned 90 but there was no conference to celebrate that. Which numbers do we use and why?](https://blog.computationalcomplexity.org/feeds/7296866488806687160/comments/default)
 ---
 
@@ -439,14 +455,6 @@ Computational Complexity --- 1/29/2025
 In writing the drunken theorem post, I realized I never wrote a post on Lautemann's amazing proof that BPP is contained in \(\Sigma^p_2\), the second level of the polynomial-time hierarchy.Clemens Lautemann, who passed away in 2005 at the too young...
 
 
-[Double Maths First Thing: Issue 15](https://aperiodical.com/2025/01/double-maths-first-thing-issue-15/)
----
-
-The Aperiodical --- 1/29/2025
-
-Double Maths First Thing is powered by genuine, artisanal intelligence Hello! My name is Colin and I am a mathematician on a mission to spread joy and delight in maths, and to encourage people to take pride in the maths they do. Straight into it...
-
-
 [On Skolem’s paradox and the transitive submodel theorem, Rust Belt Workshop in the Philosophy of Logic, Language, and Mathematics, February 2025](https://jdh.hamkins.org/on-skolems-paradox-and-the-transitive-submodel-theorem-rust-belt-workshop-ohio-feb-2025/)
 ---
 
@@ -789,12 +797,4 @@ The penultimate week of this axiomatic set theory course, based on Lawvere's Ele
 The n-Category Café --- 11/22/2024
 
 The final chapter of this course on secretly-categorical set theory.
-
-
-[Walking Ripples](https://www.fractalkitty.com/walking-ripples/)
----
-
-Fractal Kitty --- 11/21/2024
-
-Over the last week I have been drawing circles along paths and then shading them with 2 colors using random numbers to determine their radii. For example, the one on this card was drawn with 10 evenly spaced circles along a line using the random...
 
