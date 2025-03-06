@@ -7,6 +7,38 @@ The n-Category Café --- 3/5/2025
 Is the map from the Burnside ring to the representation ring of a finite group usually surjective, or usually not?
 
 
+[Taking a Stand](https://blog.computationalcomplexity.org/feeds/3248940628189492103/comments/default)
+---
+
+Computational Complexity --- 3/5/2025
+
+On February 20th we got the news from the National Science Foundation Algorithms Foundations Team that long-time NSF program director Tracy Kimbrel, was leaving the NSF, and not by choice.Along with many others in part-time status at NSF, my...
+
+
+[Double Maths First Thing: Issue 1A](https://aperiodical.com/2025/03/double-maths-first-thing-issue-1a/)
+---
+
+The Aperiodical --- 3/5/2025
+
+DMFT is six months old! It’ll probably be walking soon. Hello! My name is Colin and I am a mathematician on a mission to spread joy and delight in doing maths, for any reason or for none. I have taken on a slightly silly, but at the same time...
+
+
+[Agda](http://abuseofnotation.github.io/agda/)
+---
+
+Abuse of Notation --- 3/5/2025
+
+At the Agda headquaters: “OK, guys, so our user pool consists only of folks who already know Haskell and Emacs Is there a way to narrow it down more?” “I got it, what if we allow unicode, so they also have to also know Latex ?” “Brilliant!”
+
+
+[I don’t want to lose the human in me](http://abuseofnotation.github.io/lose-the-human/)
+---
+
+Abuse of Notation --- 3/5/2025
+
+I don’t want to lose the human in me, I don’t want to have to see the world through their ways. I don’t want to have to feel through their point of view, To be locked inside it like an alien in a space suit. I don’t have to lose the human in me....
+
+
 [Carnival of Maths 237](https://aperiodical.com/2025/03/carnival-of-maths-237/)
 ---
 
@@ -431,14 +463,6 @@ The n-Category Café --- 1/30/2025
 Thinking about the cardinality of limits leads to a new numerical invariant of set-valued functors.
 
 
-[Humans Have Now Said Over 80,000 Digits of the New Mersenne Prime](https://aperiodical.com/2025/01/humans-have-now-said-over-80000-digits-of-the-new-mersenne-prime/)
----
-
-The Aperiodical --- 1/30/2025
-
-Can humans say their largest prime number before they find the next one? After the discovery of the new Mersenne Prime, a community project aims to find out! What is going on? There’s a lot to love about prime numbers. They’re unruly, and hard to...
-
-
 [Comagnitude 1](https://golem.ph.utexas.edu/category/2025/01/comagnitude_1.html)
 ---
 
@@ -773,28 +797,4 @@ Computational Complexity --- 12/1/2024
 Joel David Hamkins --- 12/1/2024
 
 This will be a talk for the Notre Dame Logic Seminar, 3 December 2024, 2:00pm, 125 Hayes-Healey. Abstract. I shall give an account of the theory of computable surreal numbers, proving that these form a real-closed field. Which real numbers …...
-
-
-[We Will All Write Like AI](https://blog.computationalcomplexity.org/feeds/548168391123928103/comments/default)
----
-
-Computational Complexity --- 11/25/2024
-
-Will our writing all converge to a generic AI style? Let's take a quick detour into LaTeX. Back in the late '80s, before LaTeX was the standard, there was TeX—a system with no default formatting, which meant everyone had their own unique style for...
-
-
-[Axiomatic Set Theory 9: The Axiom of Choice](https://golem.ph.utexas.edu/category/2024/11/axiomatic_set_theory_9_the_axi.html)
----
-
-The n-Category Café --- 11/22/2024
-
-The penultimate week of this axiomatic set theory course, based on Lawvere's Elementary Theory of the Category of Sets.
-
-
-[Axiomatic Set Theory 10: Cardinal Arithmetic](https://golem.ph.utexas.edu/category/2024/11/axiomatic_set_theory_10_cardin.html)
----
-
-The n-Category Café --- 11/22/2024
-
-The final chapter of this course on secretly-categorical set theory.
 
