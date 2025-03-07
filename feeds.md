@@ -1,4 +1,20 @@
 
+[Introduction to modal model theory, Panglobal Algebra and Logic Seminar, Boulder, March 2025](https://jdh.hamkins.org/introduction-to-modal-model-theory-panglobal-algebra-and-logic-seminar-boulder-march-2025/)
+---
+
+Joel David Hamkins --- 3/6/2025
+
+This will be a talk for the Panglobal Algebra and Logic seminar at the University of Colorado Boulder, March 12, 2025, 3:30pm MDT Abstract. I shall introduce and describe the subject of modal model theory, in which one studies a … Continue reading →
+
+
+[2025 William Reinhardt Memorial Lecture, Boulder](https://jdh.hamkins.org/2025-william-reinhardt-memorial-lecture-boulder/)
+---
+
+Joel David Hamkins --- 3/6/2025
+
+I am honored to be giving the 2025 William Reinhardt Memorial Lecture at the University of Colorado Boulder, March 11, 2025. How we might have taken the Continuum Hypothesis as a fundamental axiom, necessary for mathematics Abstract. I shall...
+
+
 [How Good are Permutation Represesentations?](https://golem.ph.utexas.edu/category/2025/03/how_good_are_permutation_repre.html)
 ---
 
@@ -781,20 +797,4 @@ Now in one place all of my sixty favorite theorems from the six decades of compu
 The n-Category Café --- 12/4/2024
 
 The Eighth International Conference on Applied Category Theory (https://easychair.org/cfp/ACT2025) will take place at the University of Florida on June 2-6, 2025. The conference will be preceded by the Adjoint School on May 26-30, 2025. This...
-
-
-[Conway's Trick for Divisibility. Asking its complexity is an odd question.](https://blog.computationalcomplexity.org/feeds/8496575347919285566/comments/default)
----
-
-Computational Complexity --- 12/1/2024
-
-(I got this material from a nice article by Arthur Benjamin here.) Conway suggested the following trick to determine if a number is divisible by each of the following: 2,3,5,7,11,17,19,31Note that\( 152=2^3\times 19\) \(153 =3^2 \times...
-
-
-[The computable surreal numbers, Notre Dame Logic Seminar, December 2024](https://jdh.hamkins.org/the-computable-surreal-numbers-notre-dame-logic-seminar-december-2024/)
----
-
-Joel David Hamkins --- 12/1/2024
-
-This will be a talk for the Notre Dame Logic Seminar, 3 December 2024, 2:00pm, 125 Hayes-Healey. Abstract. I shall give an account of the theory of computable surreal numbers, proving that these form a real-closed field. Which real numbers …...
 
