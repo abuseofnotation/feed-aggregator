@@ -1,4 +1,20 @@
 
+[Visual Insights](https://golem.ph.utexas.edu/category/2025/03/visual_insights.html)
+---
+
+The n-Category Café --- 3/7/2025
+
+I'm giving a talk next Friday, March 14th, at 9 am Pacific Daylight time here in California. You're all invited! (Note that Daylight Savings Time starts March 9th, so do your calculations carefully if you do them before then.)...
+
+
+[Hallucinations](https://www.logicmatters.net/2025/03/07/hallucinations/)
+---
+
+Blog - Logic Matters --- 3/7/2025
+
+I had written a few paragraphs here sounding off about some published “continental philosophy” style meanderings about the philosophy of mathematics (which, as typical, show no real knowledge of mathematics) when I checked and discovered that the...
+
+
 [Introduction to modal model theory, Panglobal Algebra and Logic Seminar, Boulder, March 2025](https://jdh.hamkins.org/introduction-to-modal-model-theory-panglobal-algebra-and-logic-seminar-boulder-march-2025/)
 ---
 
@@ -703,14 +719,6 @@ Blog - Logic Matters --- 12/31/2024
 Let me share (almost!) one of my Christmas presents with you. Of the books I have enjoyed most during this past year, three are books on art. I have already really warmly recommended here the wonderful catalogue for the still-current exhibition Van...
 
 
-[A Christmas card](https://www.logicmatters.net/2024/12/24/a-christmas-card-13/)
----
-
-Blog - Logic Matters --- 12/24/2024
-
-What the Donkey Saw No room in the inn, of course,And not that much in the stable,What with the shepherds, Magi, Mary,Joseph, the heavenly host —Not to mention the babyUsing our manger as a cot.You couldn’t have squeezed another cherub inFor love...
-
-
 [Random Thoughts on AI (Human Generated)](https://blog.computationalcomplexity.org/feeds/4675632694499721534/comments/default)
 ---
 
@@ -789,12 +797,4 @@ In Lance's last post (see here) he listed his favorite theorems from 1965 to 202
 Computational Complexity --- 12/6/2024
 
 Now in one place all of my sixty favorite theorems from the six decades of computational complexity (1965-2024).2015-2024Graph Isomorphism (Babai)Sensitivity (Huang)Quantum Provers (Ji-Natarajan-Vidick-Wright-Yuen)Dichotomy (Bulatov, Zhuk)Algebraic...
-
-
-[ACT 2025](https://golem.ph.utexas.edu/category/2024/12/act_2025.html)
----
-
-The n-Category Café --- 12/4/2024
-
-The Eighth International Conference on Applied Category Theory (https://easychair.org/cfp/ACT2025) will take place at the University of Florida on June 2-6, 2025. The conference will be preceded by the Adjoint School on May 26-30, 2025. This...
 
