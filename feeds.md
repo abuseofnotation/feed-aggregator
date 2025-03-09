@@ -1,4 +1,20 @@
 
+[USAID:  My next-to-last project](https://crookedtimber.org/2025/03/08/usaid-my-next-to-last-project/)
+---
+
+Crooked Timber --- 3/8/2025
+
+A couple of weeks back, I wrote a post about some of the work that USAID did. Now I’d like to drill down a bit and talk about some of the work that I personally did for USAID. This runs a bit long, because this sort of thing is all about context....
+
+
+[International Women’s Day](https://crookedtimber.org/2025/03/08/international-womens-day-2/)
+---
+
+Crooked Timber --- 3/8/2025
+
+The Guardian reports on marches and protests across the globe to celebrate International Women’s Day. Three cheers for all feminists who took to the streets today to remind us that women’s rights should never be taken for granted; in fact, as The...
+
+
 [Visual Insights](https://golem.ph.utexas.edu/category/2025/03/visual_insights.html)
 ---
 
@@ -20,7 +36,7 @@ I had written a few paragraphs here sounding off about some published “contine
 
 Joel David Hamkins --- 3/6/2025
 
-This will be a talk for the Panglobal Algebra and Logic seminar at the University of Colorado Boulder, March 12, 2025, 3:30pm MDT Abstract. I shall introduce and describe the subject of modal model theory, in which one studies a … Continue reading →
+This will be a talk for the Panglobal Algebra and Logic seminar at the University of Colorado Boulder, March 12, 2025, 3:30pm MDT The talk will be available live on Zoom. Contact the organizers for access. Abstract. I shall introduce … Continue...
 
 
 [2025 William Reinhardt Memorial Lecture, Boulder](https://jdh.hamkins.org/2025-william-reinhardt-memorial-lecture-boulder/)
@@ -303,14 +319,6 @@ Crooked Timber --- 2/16/2025
 
 
 
-[Small is beautiful – and other thoughts about university governance](https://crookedtimber.org/2025/02/16/small-is-beautiful-and-other-thoughts-about-university-governance/)
----
-
-Crooked Timber --- 2/16/2025
-
-If one had to choose one reason for why things are not going well in academic life, the managerial, top-down style of governance that reigns in many universities would be a top candidate (with budget cuts as a close competitor). But what is a...
-
-
 [Cut and Paste Invariants and Duality: A Motivating Example Via zeta(-1), zeta(2) and SL_2Z](https://rin.io/SL2Z/)
 ---
 
@@ -381,14 +389,6 @@ A colleague of mine recently lent a hand implementing a polynomial approximation
 Computational Complexity --- 2/10/2025
 
 BILL: Lance, my wife asked if you dislike Ramsey Theory because you are colorblind.LANCE: (laughs) It's why I don't like Ramsey Theory talks--impossible for me to follow. But I don't actually dislike Ramsey theory. I just don't like it as much as...
-
-
-[How to dispense with Trump’s US](https://crookedtimber.org/2025/02/10/how-to-dispense-with-trumps-us/)
----
-
-Crooked Timber --- 2/10/2025
-
-This is a follow-up to my previous post on the end of US democracy and its implications. I argued that there is no choice but to dispense with the idea of the US as the central actor in a democratic and stable world system [1]Here I will discuss...
 
 
 [Philosophy beefs](http://abuseofnotation.github.io/philosophy-beefs/)
