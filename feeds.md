@@ -1,4 +1,20 @@
 
+[Numbers that look prime but aren't](https://blog.computationalcomplexity.org/feeds/6685230593919051850/comments/default)
+---
+
+Computational Complexity --- 3/9/2025
+
+A long time ago I made up the question (are questions ever really made up?)What is the least number that looks prime but isn't?It was not quite a joke in that it has an answer despite being non-rigorous.My answer is 91:Dividing by 2,3,5,11 have...
+
+
+[Sunday photoblogging: Accidental Pollock](https://crookedtimber.org/2025/03/09/sunday-photoblogging-accidental-pollock/)
+---
+
+Crooked Timber --- 3/9/2025
+
+
+
+
 [USAID:  My next-to-last project](https://crookedtimber.org/2025/03/08/usaid-my-next-to-last-project/)
 ---
 
@@ -309,14 +325,6 @@ Today’s post focuses on the contribution of elite higher education to the rise
 Crooked Timber --- 2/16/2025
 
 I received the email about Sandy on early on Saturday morning in the middle of a five hour visit to the Emergency Room, at a point at which it was not clear everything was going to be ok (don’t worry, it was). Still, and although his friends have...
-
-
-[Sunday photoblogging: bikes at Tate Modern](https://crookedtimber.org/2025/02/16/sunday-photoblogging-bikes-at-tate-modern/)
----
-
-Crooked Timber --- 2/16/2025
-
-
 
 
 [Cut and Paste Invariants and Duality: A Motivating Example Via zeta(-1), zeta(2) and SL_2Z](https://rin.io/SL2Z/)
@@ -789,12 +797,4 @@ We use grades to evaluate students and motivate them to learn. That works as lon
 Computational Complexity --- 12/8/2024
 
 In Lance's last post (see here) he listed his favorite theorems from 1965 to 2024.There are roughly 60 Theorems. I mostly agree with his choices and omissions. I will point out where I don't. I could make a comment on every single entry; however,...
-
-
-[Favorite Theorems: The Complete List](https://blog.computationalcomplexity.org/feeds/8713688788112685900/comments/default)
----
-
-Computational Complexity --- 12/6/2024
-
-Now in one place all of my sixty favorite theorems from the six decades of computational complexity (1965-2024).2015-2024Graph Isomorphism (Babai)Sensitivity (Huang)Quantum Provers (Ji-Natarajan-Vidick-Wright-Yuen)Dichotomy (Bulatov, Zhuk)Algebraic...
 
