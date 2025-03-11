@@ -1,4 +1,12 @@
 
+[Schubert, extraordinarily](https://www.logicmatters.net/2025/03/10/schubert-extraordinarily/)
+---
+
+Blog - Logic Matters --- 3/10/2025
+
+The post Schubert, extraordinarily appeared first on Logic Matters.
+
+
 [Numbers that look prime but aren't](https://blog.computationalcomplexity.org/feeds/6685230593919051850/comments/default)
 ---
 
@@ -717,14 +725,6 @@ In this living document, I will document reactions to uses of homomorphic encryp
 Computational Complexity --- 1/2/2025
 
 Bill's SIGACT Open Problems Column remembering Luca Trevisan is out. I chose the problem of whether Promise-ZPP in P implies Promise-BPP in P, an extension of an earlier theorem by Luca and his co-authors, which showed that Promise-RP in P implies...
-
-
-[Vermeer revisited](https://www.logicmatters.net/2024/12/31/vermeer-revisited/)
----
-
-Blog - Logic Matters --- 12/31/2024
-
-Let me share (almost!) one of my Christmas presents with you. Of the books I have enjoyed most during this past year, three are books on art. I have already really warmly recommended here the wonderful catalogue for the still-current exhibition Van...
 
 
 [Random Thoughts on AI (Human Generated)](https://blog.computationalcomplexity.org/feeds/4675632694499721534/comments/default)
