@@ -1,4 +1,36 @@
 
+[The ethics of collaborations between academia and commercial parties](https://crookedtimber.org/2025/03/12/the-ethics-of-collaborations-between-academia-and-commercial-parties/)
+---
+
+Crooked Timber --- 3/12/2025
+
+A while ago, ALLEA (the alliance of European science academies) published a statement on ethical problems in collaborations between academia and commercial parties.* With this post, I want to draw attention to this topic (my impression was that it...
+
+
+[Covid and Complexity](https://blog.computationalcomplexity.org/feeds/6265617460302554635/comments/default)
+---
+
+Computational Complexity --- 3/12/2025
+
+As we hit five years from when the world shut down, lots of discussions on how Covid has changed society. What about academia and computer science?It's a challenging question to ask as Covid is not the only major change in the last five years....
+
+
+[Category Theory 2025](https://golem.ph.utexas.edu/category/2025/03/category_theory_2025.html)
+---
+
+The n-Category Café --- 3/12/2025
+
+CT2025 conference announcement.
+
+
+[Double Maths First Thing: Issue 1B](https://aperiodical.com/2025/03/double-maths-first-thing-issue-1b/)
+---
+
+The Aperiodical --- 3/12/2025
+
+Double Maths First Thing thinks ISO8601’s great Hello! My name is Colin and I am a mathematician on a mission to spread mathematical joy — I almost misspelt “mathematical” as “mayhem”, so let’s have a bit of that, too. I spent much of the weekend...
+
+
 [Schubert, extraordinarily](https://www.logicmatters.net/2025/03/10/schubert-extraordinarily/)
 ---
 
@@ -327,14 +359,6 @@ Crooked Timber --- 2/17/2025
 Today’s post focuses on the contribution of elite higher education to the rise of Trump. This may seem in bad taste because it is also clearly targeted by MAGA, and so our impulse is to circle the wagons. But if you wish to develop a defensive...
 
 
-[Sandy Jencks has died.](https://crookedtimber.org/2025/02/16/sandy-jencks-has-died/)
----
-
-Crooked Timber --- 2/16/2025
-
-I received the email about Sandy on early on Saturday morning in the middle of a five hour visit to the Emergency Room, at a point at which it was not clear everything was going to be ok (don’t worry, it was). Still, and although his friends have...
-
-
 [Cut and Paste Invariants and Duality: A Motivating Example Via zeta(-1), zeta(2) and SL_2Z](https://rin.io/SL2Z/)
 ---
 
@@ -485,14 +509,6 @@ Find balance through symmetry.$$f(x) = f(-x)$$Approximation improves with experi
 Math3ma --- 2/2/2025
 
 It's hard for me to believe, but Math3ma is TEN YEARS old today. My first entry was published on February 1, 2015 and is entitled "A Math Blog? Say What?" As evident from that post, I was very unsure about creating this website. At the time,...
-
-
-[Fibonacci and a Feat of Memory](https://aperiodical.com/2025/02/fibonacci-and-a-feat-of-memory/)
----
-
-The Aperiodical --- 2/1/2025
-
-This is a guest post by Chris Taylor. I recently read “The Warlock Effect” by Jeremy Dyson and Andy Nyman (read it – it’s good). It’s a work of fiction about a stage magician who uses his skills to combat a threat to UK national security – not...
 
 
 [A Ripple of Ripples](https://www.fractalkitty.com/a-ripple-of-ripples/)
@@ -781,20 +797,4 @@ My Oxford student Emma Palmer and I have been thinking about worldly cardinals a
 The n-Category Café --- 12/13/2024
 
 About an early theory in which Mercury and Venus orbit the Sun, while the other planets orbit the Earth.
-
-
-[It's Time to Stop Using Grades](https://blog.computationalcomplexity.org/feeds/2892592681671926359/comments/default)
----
-
-Computational Complexity --- 12/11/2024
-
-We use grades to evaluate students and motivate them to learn. That works as long as grades remain a reasonably good measure of how well the student understands the material in a class. But Goodhart's law, "When a measure becomes a target, it...
-
-
-[My comments on Lance's Favorite Theorems](https://blog.computationalcomplexity.org/feeds/7083845773500318354/comments/default)
----
-
-Computational Complexity --- 12/8/2024
-
-In Lance's last post (see here) he listed his favorite theorems from 1965 to 2024.There are roughly 60 Theorems. I mostly agree with his choices and omissions. I will point out where I don't. I could make a comment on every single entry; however,...
 
