@@ -1,4 +1,12 @@
 
+[Unbundling and Abundance](https://crookedtimber.org/2025/03/13/unbundling-and-abundance/)
+---
+
+Crooked Timber --- 3/13/2025
+
+Every time I start writing something about The Situation, it seems pointless. Both the media environment and the world itself seem to be spinning out of control. The bubble of Boomer Realism has been popped. The weirdness which has been bubbling...
+
+
 [The ethics of collaborations between academia and commercial parties](https://crookedtimber.org/2025/03/12/the-ethics-of-collaborations-between-academia-and-commercial-parties/)
 ---
 
@@ -349,14 +357,6 @@ Let \([n]\) be the set \(\{1,\ldots,n\}\). (This is standard.)Let X be a set of 
 Crooked Timber --- 2/18/2025
 
 “They get the one starving kid in Sudan that isn’t going to have a USAID bottle, and they make everything DOGE has done about the starving kid in Sudan.” — a White House official. I’ve been a USAID contractor for most of the last 20 years. Not a...
-
-
-[On Elite Education and the Rise of Maga](https://crookedtimber.org/2025/02/17/53748/)
----
-
-Crooked Timber --- 2/17/2025
-
-Today’s post focuses on the contribution of elite higher education to the rise of Trump. This may seem in bad taste because it is also clearly targeted by MAGA, and so our impulse is to circle the wagons. But if you wish to develop a defensive...
 
 
 [Cut and Paste Invariants and Duality: A Motivating Example Via zeta(-1), zeta(2) and SL_2Z](https://rin.io/SL2Z/)
