@@ -1,4 +1,20 @@
 
+[Occasional paper:  The interesting home life of the Blue-Ringed Octopus](https://crookedtimber.org/2025/03/14/occasional-paper-the-interesting-home-life-of-the-blue-ringed-octopus/)
+---
+
+Crooked Timber --- 3/14/2025
+
+The blue-ringed octopus! An elegant little creature, native to the southwest Pacific, particularly the waters around Australia. Pretty to look at… but mostly famous for being very, very venomous. The blue-ring’s bite is deadly. A single sharp nip...
+
+
+[Numbers that look prime but aren't](https://blog.computationalcomplexity.org/feeds/6685230593919051850/comments/default)
+---
+
+Computational Complexity --- 3/14/2025
+
+A long time ago I made up the question (are questions ever really made up?)What is the least number that looks prime but isn't?It was not quite a joke in that it has an answer despite being non-rigorous.My answer is 91:Dividing by 2,3,5,11 have...
+
+
 [Unbundling and Abundance](https://crookedtimber.org/2025/03/13/unbundling-and-abundance/)
 ---
 
@@ -45,14 +61,6 @@ Double Maths First Thing thinks ISO8601’s great Hello! My name is Colin and I 
 Blog - Logic Matters --- 3/10/2025
 
 The post Schubert, extraordinarily appeared first on Logic Matters.
-
-
-[Numbers that look prime but aren't](https://blog.computationalcomplexity.org/feeds/6685230593919051850/comments/default)
----
-
-Computational Complexity --- 3/9/2025
-
-A long time ago I made up the question (are questions ever really made up?)What is the least number that looks prime but isn't?It was not quite a joke in that it has an answer despite being non-rigorous.My answer is 91:Dividing by 2,3,5,11 have...
 
 
 [Sunday photoblogging: Accidental Pollock](https://crookedtimber.org/2025/03/09/sunday-photoblogging-accidental-pollock/)
@@ -349,14 +357,6 @@ Double Maths First Thing is not quite mathematically relegated yet Hello! My nam
 Computational Complexity --- 2/18/2025
 
 Let \([n]\) be the set \(\{1,\ldots,n\}\). (This is standard.)Let X be a set of integers. \(X\) is sum-free if there is NO \(x,y,z\in X\) such that \(x+y=z\). (Note that \(x=y\) is allowed.) Lets try to find a large sum-free set of \([n]\). One...
-
-
-[Two stories from a USAID career](https://crookedtimber.org/2025/02/18/notes-from-a-usaid-career/)
----
-
-Crooked Timber --- 2/18/2025
-
-“They get the one starving kid in Sudan that isn’t going to have a USAID bottle, and they make everything DOGE has done about the starving kid in Sudan.” — a White House official. I’ve been a USAID contractor for most of the last 20 years. Not a...
 
 
 [Cut and Paste Invariants and Duality: A Motivating Example Via zeta(-1), zeta(2) and SL_2Z](https://rin.io/SL2Z/)
