@@ -1,4 +1,20 @@
 
+[My Post-Covid Post](https://blog.computationalcomplexity.org/feeds/7381834712026210764/comments/default)
+---
+
+Computational Complexity --- 3/16/2025
+
+I had been meaning to write a post-COVID post for a while, buta) Are we finally post COVID? (I think so)b) Are the long term affects of COVID (society not health) known yet?However, Lance wrote a post-COVID post (see here) which inspired me to do...
+
+
+[Sunday photoblogging: the iron bridge at Ironbridge](https://crookedtimber.org/2025/03/16/sunday-photoblogging-the-iron-bridge-at-ironbridge/)
+---
+
+Crooked Timber --- 3/16/2025
+
+At the cutting edge of world history and industrial progress back when it was built in 1799, but now Ironbridge and nearby Coalbrookdale are bucolic backwaters where you struggle to get a decent phone signal.
+
+
 [Occasional paper:  The interesting home life of the Blue-Ringed Octopus](https://crookedtimber.org/2025/03/14/occasional-paper-the-interesting-home-life-of-the-blue-ringed-octopus/)
 ---
 
@@ -317,14 +333,6 @@ Quick quiz. Suppose you read a headline in the online version of the Wall Street
 Crooked Timber --- 2/21/2025
 
 “America is rock and roll.” — Alfred Howard Did some of you find it hard to feel the love for President’s Day this year? Well, remember: the reason it exists is because we Americans, as a nation, couldn’t choose between Washington’s Birthday and...
-
-
-[The UK government’s bar to citizenship for refugees](https://crookedtimber.org/2025/02/20/the-uk-governments-bar-to-citizenship-for-refugees/)
----
-
-Crooked Timber --- 2/20/2025
-
-The UK has recently introduced (via “guidance” rather than legislation) a permanent ban on naturalisation for people who arrive in the UK via “dangerous journeys”. The power used to block their applications is the Home Secretary’s discretion to...
 
 
 [To kill an art](http://abuseofnotation.github.io/kill-art/)
@@ -789,12 +797,4 @@ In the vastness of empty space surrounding Earth, the Moon is our closest celest
 Joel David Hamkins --- 12/13/2024
 
 My Oxford student Emma Palmer and I have been thinking about worldly cardinals and Gödel-Bernays GBC set theory, and we recently came to a new realization. Namely, what I realized is that every worldly cardinal $\kappa$ admits a Gödel-Bernays...
-
-
-[Martianus Capella](https://golem.ph.utexas.edu/category/2024/12/martianus_capella.html)
----
-
-The n-Category Café --- 12/13/2024
-
-About an early theory in which Mercury and Venus orbit the Sun, while the other planets orbit the Earth.
 
