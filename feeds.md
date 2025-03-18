@@ -1,8 +1,24 @@
 
+[The Four Realities We Live In: Ursula Franklin’s Framework](http://proses.id/four-realities/)
+---
+
+Proses.ID --- 3/17/2025
+
+What is reality? It might seem like a straightforward question, but Ursula Franklin, a pioneering thinker in technology and society, saw it as layered and…
+
+
+[A curious tendency among Western philosophers?](https://crookedtimber.org/2025/03/17/a-curious-tendency-among-western-philosophers/)
+---
+
+Crooked Timber --- 3/17/2025
+
+Here are two groups of Western philosophers. We’ll call them Group A and Group B. Here’s Group A: Plato, Epicurus, Plotinus, Aquinas, Duns Scotus, Francis Bacon, Hobbes, Locke, Spinoza, Newton, Leibniz, David Hume, Herbert Spencer, John Stuart...
+
+
 [My Post-Covid Post](https://blog.computationalcomplexity.org/feeds/7381834712026210764/comments/default)
 ---
 
-Computational Complexity --- 3/16/2025
+Computational Complexity --- 3/17/2025
 
 I had been meaning to write a post-COVID post for a while, buta) Are we finally post COVID? (I think so)b) Are the long term affects of COVID (society not health) known yet?However, Lance wrote a post-COVID post (see here) which inspired me to do...
 
@@ -325,14 +341,6 @@ Crooked Timber --- 2/23/2025
 Crooked Timber --- 2/23/2025
 
 Quick quiz. Suppose you read a headline in the online version of the Wall Street Journal (or NY Times etc) stating that, from now on, US Treasury bonds would be redeemed in crypto. Would your response be (i) That’s absurd. Either it’s April Fools...
-
-
-[A slightly belated celebration of President’s Day](https://crookedtimber.org/2025/02/21/a-slightly-belated-celebration-of-presidents-day/)
----
-
-Crooked Timber --- 2/21/2025
-
-“America is rock and roll.” — Alfred Howard Did some of you find it hard to feel the love for President’s Day this year? Well, remember: the reason it exists is because we Americans, as a nation, couldn’t choose between Washington’s Birthday and...
 
 
 [To kill an art](http://abuseofnotation.github.io/kill-art/)
@@ -789,12 +797,4 @@ I've heard a few times recently the phrase "Information only exists in a physica
 Bartosz Ciechanowski --- 12/17/2024
 
 In the vastness of empty space surrounding Earth, the Moon is our closest celestial neighbor. Its face, periodically filled with light and devoured by darkness, has an ever-changing, but dependable presence in our skies. In this article, we’ll...
-
-
-[Every worldly cardinal admits a Gödel-Bernays structure](https://jdh.hamkins.org/every-worldly-cardinal-admits-a-godel-bernays-structure/)
----
-
-Joel David Hamkins --- 12/13/2024
-
-My Oxford student Emma Palmer and I have been thinking about worldly cardinals and Gödel-Bernays GBC set theory, and we recently came to a new realization. Namely, what I realized is that every worldly cardinal $\kappa$ admits a Gödel-Bernays...
 
