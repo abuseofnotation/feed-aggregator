@@ -1,4 +1,28 @@
 
+[A Failure to Communicate](https://blog.computationalcomplexity.org/feeds/6613992115547186330/comments/default)
+---
+
+Computational Complexity --- 3/19/2025
+
+With care you can explain major ideas and results in computational complexity to the general public, like the P v NP problem, zero-knowledge proofs, the PCP theorem and Shor's factoring algorithms in a way that a curious non-scientist can find...
+
+
+[Double Maths First Thing, Issue 1C](https://aperiodical.com/2025/03/double-maths-first-thing-issue-1c/)
+---
+
+The Aperiodical --- 3/19/2025
+
+Double Maths First Thing cannot currently take your call. Please leave a message after the beep. Beep. Hello! My name is Colin and I am a mathematician on a mission to spread mathematical joy and delight. This week, I am mainly swearing at Scroggs...
+
+
+[Dispensing with US universities, whether we want to or not](https://crookedtimber.org/2025/03/19/53881/)
+---
+
+Crooked Timber --- 3/19/2025
+
+It’s been evident since Trump’s inauguration that the US, as we knew it, is over. I’ve been looking at some of the US-centred organisations and economic dependencies that will need to be rebuilt. But I hadn’t given much thought to the university...
+
+
 [The Four Realities We Live In: Ursula Franklin’s Framework](http://proses.id/four-realities/)
 ---
 
@@ -335,14 +359,6 @@ Crooked Timber --- 2/23/2025
 
 
 
-[Dispensing with the US-centric financial system](https://crookedtimber.org/2025/02/23/dispensing-with-the-us-centric-financial-system/)
----
-
-Crooked Timber --- 2/23/2025
-
-Quick quiz. Suppose you read a headline in the online version of the Wall Street Journal (or NY Times etc) stating that, from now on, US Treasury bonds would be redeemed in crypto. Would your response be (i) That’s absurd. Either it’s April Fools...
-
-
 [To kill an art](http://abuseofnotation.github.io/kill-art/)
 ---
 
@@ -477,14 +493,6 @@ Back in 2020, when I worked in the supply chain side of Google, I had a fun and 
 The Aperiodical --- 2/5/2025
 
 DMFT appreciates you greatly. Yes, you specifically. Hello! My name is Colin and I am a mathematician on a mission to spread joy and delight in maths. Links! I recently enjoyed Allen Downey’s article on the inspection paradox — it links to an...
-
-
-[Carnival of Maths 236](https://aperiodical.com/2025/02/carnival-of-maths-236/)
----
-
-The Aperiodical --- 2/4/2025
-
-The next issue of the Carnival of Mathematics, rounding up blog posts from the month of January 2025, is now online at Puzzle Zapper. The Carnival rounds up maths blog posts from all over the internet, including some from our own Aperiodical. See...
 
 
 [ICT again, but also Mozart, Brauß and Pires again](https://www.logicmatters.net/2025/02/03/ict-again-but-also-mozart-braus-and-pires-again/)
@@ -789,12 +797,4 @@ More detail on the Cycle Length Lemma, a basic result in the theory of random pe
 Computational Complexity --- 12/18/2024
 
 I've heard a few times recently the phrase "Information only exists in a physical state". It come from the quantum computing world where they claim quantum changes the game when it comes to representing information.As one who has spent his career...
-
-
-[Moon](https://ciechanow.ski/moon/)
----
-
-Bartosz Ciechanowski --- 12/17/2024
-
-In the vastness of empty space surrounding Earth, the Moon is our closest celestial neighbor. Its face, periodically filled with light and devoured by darkness, has an ever-changing, but dependable presence in our skies. In this article, we’ll...
 
