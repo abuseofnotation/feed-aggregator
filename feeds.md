@@ -1,4 +1,20 @@
 
+[Visual Insights (Part 2)](https://golem.ph.utexas.edu/category/2025/03/visual_insights_part_2.html)
+---
+
+The n-Category Café --- 3/20/2025
+
+A talk about some striking mathematical images.
+
+
+[Visual Insights (Part 1)](https://golem.ph.utexas.edu/category/2025/03/visual_insights.html)
+---
+
+The n-Category Café --- 3/20/2025
+
+I'm giving a talk next Friday, March 14th, at 9 am Pacific Daylight time here in California. You're all invited! (Note that Daylight Savings Time starts March 9th, so do your calculations carefully if you do them before then.)...
+
+
 [A Failure to Communicate](https://blog.computationalcomplexity.org/feeds/6613992115547186330/comments/default)
 ---
 
@@ -141,14 +157,6 @@ A couple of weeks back, I wrote a post about some of the work that USAID did. No
 Crooked Timber --- 3/8/2025
 
 The Guardian reports on marches and protests across the globe to celebrate International Women’s Day. Three cheers for all feminists who took to the streets today to remind us that women’s rights should never be taken for granted; in fact, as The...
-
-
-[Visual Insights](https://golem.ph.utexas.edu/category/2025/03/visual_insights.html)
----
-
-The n-Category Café --- 3/7/2025
-
-I'm giving a talk next Friday, March 14th, at 9 am Pacific Daylight time here in California. You're all invited! (Note that Daylight Savings Time starts March 9th, so do your calculations carefully if you do them before then.)...
 
 
 [Hallucinations](https://www.logicmatters.net/2025/03/07/hallucinations/)
@@ -789,12 +797,4 @@ Back in the day (circa 1989) we studied locally random reductions which would le
 The n-Category Café --- 12/21/2024
 
 More detail on the Cycle Length Lemma, a basic result in the theory of random permutations.  We prove a categorified version of this result, which is an equivalence of groupoids, and then derive the original version by taking groupoid cardinalities.
-
-
-[Information is Physical?](https://blog.computationalcomplexity.org/feeds/376845296399143352/comments/default)
----
-
-Computational Complexity --- 12/18/2024
-
-I've heard a few times recently the phrase "Information only exists in a physical state". It come from the quantum computing world where they claim quantum changes the game when it comes to representing information.As one who has spent his career...
 
