@@ -1,4 +1,20 @@
 
+[Does Lance dislike Ramsey Theory Because he's colorblind?](https://blog.computationalcomplexity.org/feeds/3160507717658905820/comments/default)
+---
+
+Computational Complexity --- 3/22/2025
+
+BILL: Lance, my wife asked if you dislike Ramsey Theory because you are colorblind.LANCE: (laughs) It's why I don't like Ramsey Theory talks--impossible for me to follow. But I don't actually dislike Ramsey theory. I just don't like it as much as...
+
+
+[On the Predicament of the Richly Endowed University and Liberal Society](https://crookedtimber.org/2025/03/22/on-the-predicament-of-the-richly-endowed-university-and-liberal-society/)
+---
+
+Crooked Timber --- 3/22/2025
+
+Yesterday Columbia University gave in to blackmail by President Trump (see here the letter [HT: NYT]) in order to allow to begin negotiations over the recovery of $400 million in research funding. Its unsigned letter (here HT: Leiterreports) leaves...
+
+
 [Visual Insights (Part 2)](https://golem.ph.utexas.edu/category/2025/03/visual_insights_part_2.html)
 ---
 
@@ -359,14 +375,6 @@ Math ∩ Programming --- 2/23/2025
 My four-year-old son has declared 36 to be the best number. His reason: 36 is the only number (he knows of) that is both a square and a staircase number AND an up-and-down-staircase number. “Staircase numbers” are what he calls triangular numbers...
 
 
-[Sunday photoblogging: Cormorant in a tree](https://crookedtimber.org/2025/02/23/sunday-photoblogging-cormorant-in-a-tree/)
----
-
-Crooked Timber --- 2/23/2025
-
-
-
-
 [To kill an art](http://abuseofnotation.github.io/kill-art/)
 ---
 
@@ -461,14 +469,6 @@ There's a universal characterization of standard Borel spaces!
 Math ∩ Programming --- 2/10/2025
 
 A colleague of mine recently lent a hand implementing a polynomial approximation routine I could port to our compiler, though it wasn’t the method I was expecting. As I had written about previously, I was studying the Remez algorithm and...
-
-
-[Does Lance dislike Ramsey Theory Because he's colorblind?](https://blog.computationalcomplexity.org/feeds/3160507717658905820/comments/default)
----
-
-Computational Complexity --- 2/10/2025
-
-BILL: Lance, my wife asked if you dislike Ramsey Theory because you are colorblind.LANCE: (laughs) It's why I don't like Ramsey Theory talks--impossible for me to follow. But I don't actually dislike Ramsey theory. I just don't like it as much as...
 
 
 [Philosophy beefs](http://abuseofnotation.github.io/philosophy-beefs/)
