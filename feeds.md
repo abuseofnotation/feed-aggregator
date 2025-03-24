@@ -1,4 +1,20 @@
 
+[Indiana Jones’ Last Day of Work](https://crookedtimber.org/2025/03/24/indiana-jones-last-day-of-work/)
+---
+
+Crooked Timber --- 3/24/2025
+
+As universities worldwide face major cuts, especially to the humanities, this meme has been doing the rounds. So I thought I’d share my story about Indiana Jones’ last day of work, drawn in part from Indiana Jones and the Dial of Destiny. Indiana...
+
+
+[Sunday photoblogging: Versailles](https://crookedtimber.org/2025/03/23/sunday-photoblogging-versailles/)
+---
+
+Crooked Timber --- 3/23/2025
+
+
+
+
 [Does Lance dislike Ramsey Theory Because he's colorblind?](https://blog.computationalcomplexity.org/feeds/3160507717658905820/comments/default)
 ---
 
@@ -343,28 +359,12 @@ Crooked Timber --- 2/25/2025
 As I type this, Trump is threatening tariffs on anyone who challenges the interests of America’s technology oligarchs, all of whom are now paying obeisance at this court. Technology is the US biggest weapon against the free world of which it was...
 
 
-[Strangers in an Uber](https://crookedtimber.org/2025/02/25/strangers-in-an-uber/)
----
-
-Crooked Timber --- 2/25/2025
-
-40 years ago today the Daily Mail carried a front page picture of police officers carrying me away from a Miners Strike rally in Whitehall. I mightn’t have known, but a friend of my sister’s told her, having recognized me, with glee, when her dad...
-
-
 [Why my department hopes I do not die this spring](https://blog.computationalcomplexity.org/feeds/7315413993215323542/comments/default)
 ---
 
 Computational Complexity --- 2/24/2025
 
 Alice is scheduled to teach X in the Spring.Then Alice CAN'T! (illness, death, or some other reason)What is the department to do?1) If it's an undergraduate class then likely there are other people who are QUALIFIED. Perhaps a grad student, perhaps...
-
-
-[The German elections – a view from below](https://crookedtimber.org/2025/02/23/the-german-elections-a-view-from-below/)
----
-
-Crooked Timber --- 2/23/2025
-
-So – Germany has elected, and the results look grim: a huge shift the right, with large wins for a party, the AfD, parts of which have officially been declared anti-constitutional (but a ban does not seem on the horizon). I spent the first few...
 
 
 [My 4-year-old declares 36 the best number](https://www.jeremykun.com/shortform/2025-02-23-1057/)
