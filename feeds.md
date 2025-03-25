@@ -1,4 +1,12 @@
 
+[Recording lectures? Posting the Recordings? Using Slides?](https://blog.computationalcomplexity.org/feeds/866622299185239800/comments/default)
+---
+
+Computational Complexity --- 3/24/2025
+
+The issue of whether to record lectures or post slides or more generally how much material to give to the students is a new question (the last 20 years?) but I do have an anecdote from 1978.I was taking an applied math course on Mathematical...
+
+
 [Indiana Jones’ Last Day of Work](https://crookedtimber.org/2025/03/24/indiana-jones-last-day-of-work/)
 ---
 
@@ -773,14 +781,6 @@ In this living document, I will document reactions to uses of homomorphic encryp
 Computational Complexity --- 1/2/2025
 
 Bill's SIGACT Open Problems Column remembering Luca Trevisan is out. I chose the problem of whether Promise-ZPP in P implies Promise-BPP in P, an extension of an earlier theorem by Luca and his co-authors, which showed that Promise-RP in P implies...
-
-
-[Random Thoughts on AI (Human Generated)](https://blog.computationalcomplexity.org/feeds/4675632694499721534/comments/default)
----
-
-Computational Complexity --- 12/23/2024
-
-(I wrote this post without any AI help. OH- maybe not- I used spellcheck. Does that count? Lance claims he proofread it and found some typos to correct without any AI help.) Random Thought on AII saw a great talk on AI recently by Bill Regli, who...
 
 
 [Complexity Year in Review](https://blog.computationalcomplexity.org/feeds/385077908305240116/comments/default)
