@@ -1,4 +1,20 @@
 
+[Occasional paper:  The Suplex Bird](https://crookedtimber.org/2025/03/25/occasional-paper-the-suplex-bird/)
+---
+
+Crooked Timber --- 3/25/2025
+
+Today I’d like to talk about that delightful little companion of field and garden: the shrike. [copyright Rosemary Mosco, 2024, birdandmoon.com] If you know, you know. And if you don’t know… well, let’s talk about shrikes. Shrikes are a group of...
+
+
+[Time at the Recurse Center](https://www.fractalkitty.com/time-at-the-recurse-center/)
+---
+
+Fractal Kitty --- 3/25/2025
+
+In January, I kicked off a journey of reflection and growth at the Recurse Center (RC) – a retreat where you work at the edge of your abilities with wonderful peers to pair program, study with, and grow.  My goals in participating were to learn and...
+
+
 [Recording lectures? Posting the Recordings? Using Slides?](https://blog.computationalcomplexity.org/feeds/866622299185239800/comments/default)
 ---
 
@@ -357,14 +373,6 @@ Double Maths First Thing got nerdsniped by the Parker Square Hello! My name is C
 The n-Category Café --- 2/26/2025
 
 Who are the applied category theorists working on AI, and what are they doing?
-
-
-[Dispensing with the tech bros](https://crookedtimber.org/2025/02/25/dispensing-with-the-tech-bros/)
----
-
-Crooked Timber --- 2/25/2025
-
-As I type this, Trump is threatening tariffs on anyone who challenges the interests of America’s technology oligarchs, all of whom are now paying obeisance at this court. Technology is the US biggest weapon against the free world of which it was...
 
 
 [Why my department hopes I do not die this spring](https://blog.computationalcomplexity.org/feeds/7315413993215323542/comments/default)
@@ -789,12 +797,4 @@ Bill's SIGACT Open Problems Column remembering Luca Trevisan is out. I chose th
 Computational Complexity --- 12/23/2024
 
 Back in the day (circa 1989) we studied locally random reductions which would lead to all those exciting interactive proof results. Somehow locally random reductions got rebranded as locally correctable codes and this year's result of the year...
-
-
-[Random Permutations (Part 14)](https://golem.ph.utexas.edu/category/2024/12/the_cycle_length_lemma.html)
----
-
-The n-Category Café --- 12/21/2024
-
-More detail on the Cycle Length Lemma, a basic result in the theory of random permutations.  We prove a categorified version of this result, which is an equivalence of groupoids, and then derive the original version by taking groupoid cardinalities.
 
