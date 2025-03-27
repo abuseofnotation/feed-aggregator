@@ -1,4 +1,28 @@
 
+[5. Mathematics of the “I Ching”](https://aperiodical.com/2025/03/5-mathematics-of-the-i-ching/)
+---
+
+The Aperiodical --- 3/26/2025
+
+I’m aperiodically working my way through Martin Gardner’s cover images from Scientific American, the so-called Gardner’s Dozen, attempting to recreate these in the LaTeX drawing package TikZ. View the previous attempts. This time I chose January...
+
+
+[What Happened to MOOCS?](https://blog.computationalcomplexity.org/feeds/5061372608004855159/comments/default)
+---
+
+Computational Complexity --- 3/26/2025
+
+In 2012 I wrote a blog post about the growing influence of Massively Open Online Courses, or MOOCs.John Hennessey, president of Stanford, gave the CRA keynote address arguing that MOOCs will save universities. He puts the untenable costs of...
+
+
+[Double Maths First Thing: Issue 1D](https://aperiodical.com/2025/03/double-maths-first-thing-issue-1d/)
+---
+
+The Aperiodical --- 3/26/2025
+
+Double Maths First Thing just doesn’t know any more Hello! My name is Colin and I am a mathematician on a mission to spread delight and joy in doing maths for the sake of it. This week I have mainly been figuring out the mechanics of the Bokeh...
+
+
 [Occasional paper:  The Suplex Bird](https://crookedtimber.org/2025/03/25/occasional-paper-the-suplex-bird/)
 ---
 
@@ -439,14 +463,6 @@ Computational Complexity --- 2/12/2025
 A student asked me if complexity research was easier when I was a student. Interesting question. Let's compare research now versus the late 80's.The big advantage today is technology. Just a small sampling below.Information: Google, Wikipedia,...
 
 
-[Double Maths First Thing: Issue 17](https://aperiodical.com/2025/02/double-maths-first-thing-issue-17/)
----
-
-The Aperiodical --- 2/12/2025
-
-Double Maths First Thing is checking its email far too often Hello! My name is Colin and I am a mathematician on a mission to spread mathematical joy and delight. We had a family trip to the Science Museum in London at the weekend. I’ve written...
-
-
 [The things you fear](http://abuseofnotation.github.io/fear/)
 ---
 
@@ -509,14 +525,6 @@ The La Traviata broadcast from the Royal Opera House last night was wonderful �
 Math ∩ Programming --- 2/7/2025
 
 Back in 2020, when I worked in the supply chain side of Google, I had a fun and impactful side project related to human-level explanations of linear programs. A linear program is a mathematical model that defines some number of variables, linear...
-
-
-[Double Maths First Thing: Issue 16](https://aperiodical.com/2025/02/double-maths-first-thing-issue-16/)
----
-
-The Aperiodical --- 2/5/2025
-
-DMFT appreciates you greatly. Yes, you specifically. Hello! My name is Colin and I am a mathematician on a mission to spread joy and delight in maths. Links! I recently enjoyed Allen Downey’s article on the inspection paradox — it links to an...
 
 
 [ICT again, but also Mozart, Brauß and Pires again](https://www.logicmatters.net/2025/02/03/ict-again-but-also-mozart-braus-and-pires-again/)
@@ -789,12 +797,4 @@ In this living document, I will document reactions to uses of homomorphic encryp
 Computational Complexity --- 1/2/2025
 
 Bill's SIGACT Open Problems Column remembering Luca Trevisan is out. I chose the problem of whether Promise-ZPP in P implies Promise-BPP in P, an extension of an earlier theorem by Luca and his co-authors, which showed that Promise-RP in P implies...
-
-
-[Complexity Year in Review](https://blog.computationalcomplexity.org/feeds/385077908305240116/comments/default)
----
-
-Computational Complexity --- 12/23/2024
-
-Back in the day (circa 1989) we studied locally random reductions which would lead to all those exciting interactive proof results. Somehow locally random reductions got rebranded as locally correctable codes and this year's result of the year...
 
