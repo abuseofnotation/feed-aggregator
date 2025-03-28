@@ -1,4 +1,12 @@
 
+[The McGee Group](https://golem.ph.utexas.edu/category/2025/03/the_mcgee_group.html)
+---
+
+The n-Category Café --- 3/27/2025
+
+The McGee group is one of the two smallest groups with an outer automorphism that preserves conjugacy classes.   My route to understanding this fact was a long and winding one.
+
+
 [5. Mathematics of the “I Ching”](https://aperiodical.com/2025/03/5-mathematics-of-the-i-ching/)
 ---
 
@@ -789,12 +797,4 @@ I have just put online a draft of all but the last chapter of a second edition o
 Math ∩ Programming --- 1/3/2025
 
 In this living document, I will document reactions to uses of homomorphic encryption by members of the public. By “member of the public,” I mean people who may be technical, but are not directly involved in the development or deployment of...
-
-
-[My Drunken Theorem](https://blog.computationalcomplexity.org/feeds/7769482737390183934/comments/default)
----
-
-Computational Complexity --- 1/2/2025
-
-Bill's SIGACT Open Problems Column remembering Luca Trevisan is out. I chose the problem of whether Promise-ZPP in P implies Promise-BPP in P, an extension of an earlier theorem by Luca and his co-authors, which showed that Promise-RP in P implies...
 
