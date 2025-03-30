@@ -1,4 +1,20 @@
 
+[Survey's are done stupidly/A stupid question from a survey](https://blog.computationalcomplexity.org/feeds/6849194891852770632/comments/default)
+---
+
+Computational Complexity --- 3/29/2025
+
+I have often began taking a survey and quit in the middle. Why?1) It goes on to long. When I told the surveyors that he may get more people quitting for that reason so he should make it shorter he said, rather rudely, that he is an expert on...
+
+
+[Trump’s war on immigrants is the cancellation of free society](https://crookedtimber.org/2025/03/29/trumps-war-on-immigrants-is-the-cancellation-of-free-society/)
+---
+
+Crooked Timber --- 3/29/2025
+
+One of the things that’s becoming clear is the determination of the Trump administration to divide humans living in the United States into two groups (to whom Wilhoit’s Law applies), citizens and immigrants. Actually it is a bit more complicated...
+
+
 [The McGee Group](https://golem.ph.utexas.edu/category/2025/03/the_mcgee_group.html)
 ---
 
@@ -341,14 +357,6 @@ Here’s a round-up of a few news items from the last couple of months not other
 Crooked Timber --- 3/2/2025
 
 I’ve not been out taking pictures, so here’s another cormorant from the sequence I shot a few days ago.
-
-
-[No Other Land (filmreview)](https://crookedtimber.org/2025/02/28/no-other-land-filmreview/)
----
-
-Crooked Timber --- 2/28/2025
-
-Two months ago, I saw No Other Land in a large movie theatre in Brussels. No Other Land is a documentary made by a team of two Palestinians and two Israeli. We follow their reporting on the years-long destruction of Masafer Yatta, a village on the...
 
 
 [ICT once again](https://www.logicmatters.net/2025/02/27/ict-once-again/)
@@ -789,12 +797,4 @@ The Hyperfixed Podcast had a lovely episode recently about tape measures. It sta
 Blog - Logic Matters --- 1/3/2025
 
 I have just put online a draft of all but the last chapter of a second edition of Introducing Category Theory. I hope to have this completed and paperback-ready in February or March. In the meantime, I have “unpublished” the first edition (so that...
-
-
-[Fully Homomorphic Encryption and the Public](https://www.jeremykun.com/fhe-and-the-public/)
----
-
-Math ∩ Programming --- 1/3/2025
-
-In this living document, I will document reactions to uses of homomorphic encryption by members of the public. By “member of the public,” I mean people who may be technical, but are not directly involved in the development or deployment of...
 
