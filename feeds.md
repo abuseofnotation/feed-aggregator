@@ -1,4 +1,12 @@
 
+[Sunday photoblogging: Braunton Road](https://crookedtimber.org/2025/03/30/sunday-photoblogging-braunton-road/)
+---
+
+Crooked Timber --- 3/30/2025
+
+
+
+
 [Survey's are done stupidly/A stupid question from a survey](https://blog.computationalcomplexity.org/feeds/6849194891852770632/comments/default)
 ---
 
@@ -349,14 +357,6 @@ Karp turned 90 in January of 2025. I searched to see if there is a 90th Birthday
 The Aperiodical --- 3/3/2025
 
 Here’s a round-up of a few news items from the last couple of months not otherwise covered on the site. Ingrid Daubechies has been awarded the US National Medal of Science, “for her pioneering work on signal processing”. Applications are now open...
-
-
-[Sunday photoblogging: another cormorant](https://crookedtimber.org/2025/03/02/sunday-photoblogging-another-cormorant/)
----
-
-Crooked Timber --- 3/2/2025
-
-I’ve not been out taking pictures, so here’s another cormorant from the sequence I shot a few days ago.
 
 
 [ICT once again](https://www.logicmatters.net/2025/02/27/ict-once-again/)
