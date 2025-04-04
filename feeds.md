@@ -279,6 +279,14 @@ The Aperiodical --- 3/12/2025
 Double Maths First Thing thinks ISO8601’s great Hello! My name is Colin and I am a mathematician on a mission to spread mathematical joy — I almost misspelt “mathematical” as “mayhem”, so let’s have a bit of that, too. I spent much of the weekend...
 
 
+[Schubert, extraordinarily](https://www.logicmatters.net/2025/03/10/schubert-extraordinarily/)
+---
+
+Blog - Logic Matters --- 3/10/2025
+
+The post Schubert, extraordinarily appeared first on Logic Matters.
+
+
 [Why should I care? or why punks are correct and old wise philosophers are wrong](http://abuseofnotation.github.io/moral-law/)
 ---
 
@@ -301,6 +309,14 @@ Crooked Timber --- 3/9/2025
 Crooked Timber --- 3/8/2025
 
 A couple of weeks back, I wrote a post about some of the work that USAID did. Now I’d like to drill down a bit and talk about some of the work that I personally did for USAID. This runs a bit long, because this sort of thing is all about context....
+
+
+[Hallucinations](https://www.logicmatters.net/2025/03/07/hallucinations/)
+---
+
+Blog - Logic Matters --- 3/7/2025
+
+I had written a few paragraphs here sounding off about some published “continental philosophy” style meanderings about the philosophy of mathematics (which, as typical, show no real knowledge of mathematics) when I checked and discovered that the...
 
 
 [Introduction to modal model theory, Panglobal Algebra and Logic Seminar, Boulder, March 2025](https://jdh.hamkins.org/introduction-to-modal-model-theory-panglobal-algebra-and-logic-seminar-boulder-march-2025/)
@@ -381,6 +397,14 @@ Karp turned 90 in January of 2025. I searched to see if there is a 90th Birthday
 The Aperiodical --- 3/3/2025
 
 Here’s a round-up of a few news items from the last couple of months not otherwise covered on the site. Ingrid Daubechies has been awarded the US National Medal of Science, “for her pioneering work on signal processing”. Applications are now open...
+
+
+[ICT once again](https://www.logicmatters.net/2025/02/27/ict-once-again/)
+---
+
+Blog - Logic Matters --- 2/27/2025
+
+At least Zeno’s arrow got ever-closer to its target. But the newly posted version 2.6 of Introducing Category Theory has two chapters fewer than version 2.5 … I’m not really going backwards. In the last three weeks, there have been distractions,...
 
 
 [Review: The Big Bang of Numbers by Manil Suri](https://aperiodical.com/2025/02/review-the-big-bang-of-numbers-by-manil-suri/)
@@ -527,12 +551,28 @@ Abuse of Notation --- 2/10/2025
 This is a list of varioust arguments, quarrels, disagreements i.e. “beefs” that philosophers have had with one another. Heraclitus vs. Parmenides (5th century BCE) Beef: A clash between Heraclitus’s belief in constant change and Parmenides’s...
 
 
+[Don’t miss a superb La Traviata](https://www.logicmatters.net/2025/02/09/dont-miss-a-superb-la-traviata/)
+---
+
+Blog - Logic Matters --- 2/9/2025
+
+The La Traviata broadcast from the Royal Opera House last night was wonderful — and Lisette Oropesa as Violetta was simply stunning. You can catch the performance on BBC Radio for a month. Don’t miss the chance. The post Don’t miss a superb La...
+
+
 [Explainable Linear Programs](https://www.jeremykun.com/shortform/2025-02-06-2124/)
 ---
 
 Math ∩ Programming --- 2/7/2025
 
 Back in 2020, when I worked in the supply chain side of Google, I had a fun and impactful side project related to human-level explanations of linear programs. A linear program is a mathematical model that defines some number of variables, linear...
+
+
+[ICT again, but also Mozart, Brauß and Pires again](https://www.logicmatters.net/2025/02/03/ict-again-but-also-mozart-braus-and-pires-again/)
+---
+
+Blog - Logic Matters --- 2/3/2025
+
+I have updated Introducing Category Theory to version 2.5: download here. As well as many minor corrections, including an improved proofs of a couple of theorems, there is a restored §18.4 on ‘naming’ arrows, and a new §18.5 touching on Lawvere’s...
 
 
 [Backing Up US Federal Databases](https://golem.ph.utexas.edu/category/2025/02/backing_up_us_federal_database.html)
@@ -631,6 +671,22 @@ Fractal Kitty --- 1/27/2025
 Do you ever look at knitted items and liken them to dragon scales? - I do.  So when I decided to make generative textured hats it made sense to call them Wyrm Beans.Just as we can have generative pixel colors on a screen, we can have generative...
 
 
+[Lawvere Archives new website](https://www.logicmatters.net/2025/01/26/lawvere-archives-new-website/)
+---
+
+Blog - Logic Matters --- 1/26/2025
+
+In case you missed the announcement on the categories mailing list: Bill’s family is happy to announce that the Lawvere Archives websiteis launched! Click here: https://lawverearchives.com/ We ask you to explore, send us your ideas, and if possible...
+
+
+[Pavel Haas Quartet and Boris Giltburg](https://www.logicmatters.net/2025/01/25/pavel-haas-quartet-and-boris-giltburg/)
+---
+
+Blog - Logic Matters --- 1/25/2025
+
+The Pavel Haas Quartet were in Cambridge last night, playing selections from Dvořák’s ‘Cypresses’, Martinů’s fifth string quartet, and then (with Boris Giltburg) Brahms’s third piano quartet. The Martinů in particular was just stupendous. (They...
+
+
 [The Fighting Temeraire](https://blog.computationalcomplexity.org/feeds/449868624404423350/comments/default)
 ---
 
@@ -695,12 +751,28 @@ Computational Complexity --- 1/15/2025
 Slide in Lev Reyzin's JMM talk "Problems in AI and ML for Mathematicians" Reyzin is paraphrasing Telgarsky. Posted with permission.Last week I attended the Joint Mathematics Meeting in Seattle with a theme ofWe Decide Our Future: Mathematics in the...
 
 
+[Hibernating, hallucinating, Haydn](https://www.logicmatters.net/2025/01/14/hibernating-hallucinating-haydn/)
+---
+
+Blog - Logic Matters --- 1/14/2025
+
+It has been very wintry. At least by Cambridge standards. So up late, early to retire. Hardly leaving the house for a few days. Hibernating. Mrs Logic Matters has wonderful bread and other goodies to show for it. I seem to have been staring at...
+
+
 [Random Thought on AI from someone in the REAL WORLD](https://blog.computationalcomplexity.org/feeds/2984182986940037631/comments/default)
 ---
 
 Computational Complexity --- 1/12/2025
 
 Guest Post from Nick Sovich. -----------------------------------------------------------------------------Bill Gasarch recently blogged on RANDOM THOUGHTS ON AI here . He is in the realm of theory. I am in the realm of applications so I asked if I...
+
+
+[Small categorial update](https://www.logicmatters.net/2025/01/10/small-categorial-update/)
+---
+
+Blog - Logic Matters --- 1/10/2025
+
+There’s now a new version of the category theory notes online, still missing the last chapter. It is four pages longer though, because I’ve added a section on conditional arrows in a topos (to go alongside conjunction and disjunction), and so been...
 
 
 [The Human Podcast: 10 questions in 10 minutes](https://jdh.hamkins.org/the-human-podcast-10-questions-in-10-minutes/)
@@ -725,76 +797,4 @@ BILL: Good news for Jimmy Carter! He won The Betty White Award! (see here).LANCE
 Math ∩ Programming --- 1/8/2025
 
 I’ll be at the Joint Mathematics Meeting in Seattle (starting tomorrow). If you see me there, say hi! I will have a very light schedule, plenty of time for coffee chats. I’ll be attending many of the crypto sessions for the homomorphic encryption...
-
-
-[The Betty White Award for 2024](https://blog.computationalcomplexity.org/feeds/7027869544685438453/comments/default)
----
-
-Computational Complexity --- 1/7/2025
-
-In Jan of 2023 I estabalished the Betty White Award, see here which is given to people who died late in the prior year and hence won't be in the those who we lost in year X articles. I also gave out a few from prior years. Here are past winners,...
-
-
-[Epiphanies from Tape Measures](https://www.jeremykun.com/shortform/2025-01-04-1011/)
----
-
-Math ∩ Programming --- 1/4/2025
-
-The Hyperfixed Podcast had a lovely episode recently about tape measures. It started from “why does my tape measure seem to always be off a little bit” and went all the way to the inherent limitations of physical measurement at small scales. In...
-
-
-[Fully Homomorphic Encryption and the Public](https://www.jeremykun.com/fhe-and-the-public/)
----
-
-Math ∩ Programming --- 1/3/2025
-
-In this living document, I will document reactions to uses of homomorphic encryption by members of the public. By “member of the public,” I mean people who may be technical, but are not directly involved in the development or deployment of...
-
-
-[Random Permutations (Part 14)](https://golem.ph.utexas.edu/category/2024/12/the_cycle_length_lemma.html)
----
-
-The n-Category Café --- 12/21/2024
-
-More detail on the Cycle Length Lemma, a basic result in the theory of random permutations.  We prove a categorified version of this result, which is an equivalence of groupoids, and then derive the original version by taking groupoid cardinalities.
-
-
-[Moon](https://ciechanow.ski/moon/)
----
-
-Bartosz Ciechanowski --- 12/17/2024
-
-In the vastness of empty space surrounding Earth, the Moon is our closest celestial neighbor. Its face, periodically filled with light and devoured by darkness, has an ever-changing, but dependable presence in our skies. In this article, we’ll...
-
-
-[Every worldly cardinal admits a Gödel-Bernays structure](https://jdh.hamkins.org/every-worldly-cardinal-admits-a-godel-bernays-structure/)
----
-
-Joel David Hamkins --- 12/13/2024
-
-My Oxford student Emma Palmer and I have been thinking about worldly cardinals and Gödel-Bernays GBC set theory, and we recently came to a new realization. Namely, what I realized is that every worldly cardinal $\kappa$ admits a Gödel-Bernays...
-
-
-[Martianus Capella](https://golem.ph.utexas.edu/category/2024/12/martianus_capella.html)
----
-
-The n-Category Café --- 12/13/2024
-
-About an early theory in which Mercury and Venus orbit the Sun, while the other planets orbit the Earth.
-
-
-[The computable surreal numbers, Notre Dame Logic Seminar, December 2024](https://jdh.hamkins.org/the-computable-surreal-numbers-notre-dame-logic-seminar-december-2024/)
----
-
-Joel David Hamkins --- 12/1/2024
-
-This will be a talk for the Notre Dame Logic Seminar, 3 December 2024, 2:00pm, 125 Hayes-Healey. Abstract. I shall give an account of the theory of computable surreal numbers, proving that these form a real-closed field. Which real numbers …...
-
-
-[Walking Ripples](https://www.fractalkitty.com/walking-ripples/)
----
-
-Fractal Kitty --- 11/21/2024
-
-Over the last week I have been drawing circles along paths and then shading them with 2 colors using random numbers to determine their radii. For example, the one on this card was drawn with 10 evenly spaced circles along a line using the random...
 
