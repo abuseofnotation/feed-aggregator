@@ -1,4 +1,20 @@
 
+[Categorically, better late than never](https://www.logicmatters.net/2025/04/04/categorically-better-late-than-never/)
+---
+
+Blog - Logic Matters --- 4/4/2025
+
+So, at last, here is a full draft of Introducing Category Theory. All 49 chapters and 477 pages. I really didn’t set out to go on at such length. Honestly … In this latest version 2.7, Chapters 45–48 are very significantly improved. But the final...
+
+
+[238th Carnival of Mathematics](https://www.fractalkitty.com/238th-carnival-of-mathematic/)
+---
+
+Fractal Kitty --- 4/4/2025
+
+Wow! It's the 238th Carnival of Mathematics organized by Aperiodical. This has been a fun month with lots of submissions and lots of beautiful math art. To start let's jump into the number 238 itself.238 is: 2 × 7 × 17.the sum of the
+
+
 [Aperiodical News Roundup – March 2025](https://aperiodical.com/2025/04/aperiodical-news-roundup-march-2025/)
 ---
 
@@ -781,20 +797,4 @@ There’s now a new version of the category theory notes online, still missing t
 Joel David Hamkins --- 1/10/2025
 
 I had an enjoyable little discussion with Joe Murray of The Human Podcast, part of his new series, called 10 questions in 10 minutes, in which he asks his interview subjects for short answers to ten quick questions on their … Continue reading →
-
-
-[When DO Names Change? When SHOULD Names Change?](https://blog.computationalcomplexity.org/feeds/3475515642280301325/comments/default)
----
-
-Computational Complexity --- 1/8/2025
-
-BILL: Good news for Jimmy Carter! He won The Betty White Award! (see here).LANCE: That's not good news. He had to die to get it.BILL: Call it a mixed bag. Good news for me, in that I have a famous person for The Betty White award. And I later...
-
-
-[I'll be at the JMM](https://www.jeremykun.com/shortform/2025-01-07-1747/)
----
-
-Math ∩ Programming --- 1/8/2025
-
-I’ll be at the Joint Mathematics Meeting in Seattle (starting tomorrow). If you see me there, say hi! I will have a very light schedule, plenty of time for coffee chats. I’ll be attending many of the crypto sessions for the homomorphic encryption...
 
