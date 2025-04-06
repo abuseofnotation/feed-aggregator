@@ -1,4 +1,12 @@
 
+[Four handshakes from Trotsky](https://www.logicmatters.net/2025/04/05/four-handshakes-from-trotsky/)
+---
+
+Blog - Logic Matters --- 4/5/2025
+
+My good friend, the logician Thomas Forster, tells me that he once shared an office with Giovanna Corsi, who at one point shared an office with Jean van Heijenoort, who was Trotsky’s personal secretary in the 1930s ….  The post Four handshakes from...
+
+
 [Categorically, better late than never](https://www.logicmatters.net/2025/04/04/categorically-better-late-than-never/)
 ---
 
@@ -781,14 +789,6 @@ It has been very wintry. At least by Cambridge standards. So up late, early to r
 Computational Complexity --- 1/12/2025
 
 Guest Post from Nick Sovich. -----------------------------------------------------------------------------Bill Gasarch recently blogged on RANDOM THOUGHTS ON AI here . He is in the realm of theory. I am in the realm of applications so I asked if I...
-
-
-[Small categorial update](https://www.logicmatters.net/2025/01/10/small-categorial-update/)
----
-
-Blog - Logic Matters --- 1/10/2025
-
-There’s now a new version of the category theory notes online, still missing the last chapter. It is four pages longer though, because I’ve added a section on conditional arrows in a topos (to go alongside conjunction and disjunction), and so been...
 
 
 [The Human Podcast: 10 questions in 10 minutes](https://jdh.hamkins.org/the-human-podcast-10-questions-in-10-minutes/)
