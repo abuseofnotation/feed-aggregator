@@ -1,4 +1,28 @@
 
+[A potentialist conception of ultrafinitism, Columbia University, April 2025](https://jdh.hamkins.org/a-potentialist-conception-of-ultrafinitism-columbia-university-april-2025/)
+---
+
+Joel David Hamkins --- 4/6/2025
+
+This will be a talk for the conference on Ultrafinitism: Physics, Mathematics, and Philosophy at Columbia University in New York, April 11-13, 2025. Abstract. I shall argue in various respects that ultrafinitism is fruitfully understood from a...
+
+
+[The hierarchy of consistency strengths for membership in a computably enumerable set, Oxford Logic Seminar, May 2025](https://jdh.hamkins.org/the-hierarchy-of-consistency-strengths-for-membership-in-a-computably-enumerable-set-oxford-logic-seminar-may-2025/)
+---
+
+Joel David Hamkins --- 4/6/2025
+
+This will be a talk for the Logic Seminar at the Mathematical Institute of the University of Oxford, 29 May 2025 5pm Andrew Wiles Building. Abstract. For a given computably enumerable set $W$, consider the spectrum of assertions of the … Continue...
+
+
+[Sunday photoblogging: flamingos at Maguelone](https://crookedtimber.org/2025/04/06/sunday-photoblogging-flamingos-at-maguelone/)
+---
+
+Crooked Timber --- 4/6/2025
+
+
+
+
 [Four handshakes from Trotsky](https://www.logicmatters.net/2025/04/05/four-handshakes-from-trotsky/)
 ---
 
@@ -325,14 +349,6 @@ Last week I learned that Robert Paul Wolff, the philosopher who got interested i
 Crooked Timber --- 3/9/2025
 
 
-
-
-[USAID:  My next-to-last project](https://crookedtimber.org/2025/03/08/usaid-my-next-to-last-project/)
----
-
-Crooked Timber --- 3/8/2025
-
-A couple of weeks back, I wrote a post about some of the work that USAID did. Now I’d like to drill down a bit and talk about some of the work that I personally did for USAID. This runs a bit long, because this sort of thing is all about context....
 
 
 [Hallucinations](https://www.logicmatters.net/2025/03/07/hallucinations/)
@@ -781,20 +797,4 @@ Slide in Lev Reyzin's JMM talk "Problems in AI and ML for Mathematicians" Reyzin
 Blog - Logic Matters --- 1/14/2025
 
 It has been very wintry. At least by Cambridge standards. So up late, early to retire. Hardly leaving the house for a few days. Hibernating. Mrs Logic Matters has wonderful bread and other goodies to show for it. I seem to have been staring at...
-
-
-[Random Thought on AI from someone in the REAL WORLD](https://blog.computationalcomplexity.org/feeds/2984182986940037631/comments/default)
----
-
-Computational Complexity --- 1/12/2025
-
-Guest Post from Nick Sovich. -----------------------------------------------------------------------------Bill Gasarch recently blogged on RANDOM THOUGHTS ON AI here . He is in the realm of theory. I am in the realm of applications so I asked if I...
-
-
-[The Human Podcast: 10 questions in 10 minutes](https://jdh.hamkins.org/the-human-podcast-10-questions-in-10-minutes/)
----
-
-Joel David Hamkins --- 1/10/2025
-
-I had an enjoyable little discussion with Joe Murray of The Human Podcast, part of his new series, called 10 questions in 10 minutes, in which he asks his interview subjects for short answers to ten quick questions on their … Continue reading →
 
