@@ -1,4 +1,28 @@
 
+[Quantum Ellipsoids](https://golem.ph.utexas.edu/category/2025/04/quantum_ellipsoids.html)
+---
+
+The n-Category Café --- 4/7/2025
+
+Studying atomic nuclei forces us to quantize the concept of ellipsoid.
+
+
+[Trump’s Tariffs, McKinley, and the Bonapartist Executive](https://crookedtimber.org/2025/04/07/trumps-tariffs-mckinley-and-the-bonapartist-executive/)
+---
+
+Crooked Timber --- 4/7/2025
+
+With collapsing stock markets, retirement portfolios, and consumer confidence, there is an all-too-human tendency to focus on the economic effects of tariffs by their critics: they are a tax on consumption, they will raise inflation, reduce...
+
+
+[I was invited to a Nutrition conference. Why?](https://blog.computationalcomplexity.org/feeds/5627102157318768498/comments/default)
+---
+
+Computational Complexity --- 4/7/2025
+
+From November of 2024 to March of 2025 I have gotten email inviting me to speak at conferences and/or submit to journals in the following topics:NOT EVEN CLOSE TO MY FIELD:Addiction Medicine, Behavioral Health and Psychiatry.Looking forward to...
+
+
 [A potentialist conception of ultrafinitism, Columbia University, April 2025](https://jdh.hamkins.org/a-potentialist-conception-of-ultrafinitism-columbia-university-april-2025/)
 ---
 
@@ -45,6 +69,14 @@ So, at last, here is a full draft of Introducing Category Theory. All 49 chapter
 Fractal Kitty --- 4/4/2025
 
 Wow! It's the 238th Carnival of Mathematics organized by Aperiodical. This has been a fun month with lots of submissions and lots of beautiful math art. To start let's jump into the number 238 itself.238 is: 2 × 7 × 17.the sum of the
+
+
+[A small Haskell task](http://abuseofnotation.github.io/haskell-task/)
+---
+
+Abuse of Notation --- 4/3/2025
+
+Haskell is great. And I want more people to know it, so this is just a quick overview of it’s capabilities, and of code to solve a simple task I saw on Mastodon. The task is the following: Return a list of all combinations (i.e. order doesn’t...
 
 
 [Aperiodical News Roundup – March 2025](https://aperiodical.com/2025/04/aperiodical-news-roundup-march-2025/)
@@ -341,14 +373,6 @@ The post Schubert, extraordinarily appeared first on Logic Matters.
 Abuse of Notation --- 3/10/2025
 
 Last week I learned that Robert Paul Wolff, the philosopher who got interested in anarchism and marxism, died and I wanted to write something dedicated to him — this was the first reason I started writing this. The second one, was to finally finish...
-
-
-[Sunday photoblogging: Accidental Pollock](https://crookedtimber.org/2025/03/09/sunday-photoblogging-accidental-pollock/)
----
-
-Crooked Timber --- 3/9/2025
-
-
 
 
 [Hallucinations](https://www.logicmatters.net/2025/03/07/hallucinations/)
@@ -773,28 +797,4 @@ This drawing is an old drawing I made when I was preparing for my qualifying exa
 Good Fibrations --- 1/16/2025
 
 I have been working recently to counter the writers block that has formed insidiously from an unhealthy creeping perfectionism. In order to do this, I will post some old art and music which at the time I felt was “not good enough to share” or...
-
-
-[The Dual Concept of Injection](https://golem.ph.utexas.edu/category/2025/01/the_dual_concept_of_injection.html)
----
-
-The n-Category Café --- 1/15/2025
-
-There's more than one reasonable answer to the question "what is the dual concept of injection?"
-
-
-["Our Days Are Numbered"](https://blog.computationalcomplexity.org/feeds/8802116424214301757/comments/default)
----
-
-Computational Complexity --- 1/15/2025
-
-Slide in Lev Reyzin's JMM talk "Problems in AI and ML for Mathematicians" Reyzin is paraphrasing Telgarsky. Posted with permission.Last week I attended the Joint Mathematics Meeting in Seattle with a theme ofWe Decide Our Future: Mathematics in the...
-
-
-[Hibernating, hallucinating, Haydn](https://www.logicmatters.net/2025/01/14/hibernating-hallucinating-haydn/)
----
-
-Blog - Logic Matters --- 1/14/2025
-
-It has been very wintry. At least by Cambridge standards. So up late, early to retire. Hardly leaving the house for a few days. Hibernating. Mrs Logic Matters has wonderful bread and other goodies to show for it. I seem to have been staring at...
 
