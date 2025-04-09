@@ -2,7 +2,7 @@
 [Quantum Ellipsoids](https://golem.ph.utexas.edu/category/2025/04/quantum_ellipsoids.html)
 ---
 
-The n-Category Café --- 4/7/2025
+The n-Category Café --- 4/8/2025
 
 Studying atomic nuclei forces us to quantize the concept of ellipsoid.
 
@@ -76,7 +76,7 @@ Wow! It's the 238th Carnival of Mathematics organized by Aperiodical. This has b
 
 Abuse of Notation --- 4/3/2025
 
-Haskell is great. And I want more people to know it, so this is just a quick overview of it’s capabilities, and of code to solve a simple task I saw on Mastodon. The task is the following: Return a list of all combinations (i.e. order doesn’t...
+Haskell is great. And I want more people to know it, so this is just a quick overview of it’s capabilities, using the code to solve a simple task I saw on Mastodon. The task is the following: Return a list of all combinations (i.e. order doesn’t...
 
 
 [Aperiodical News Roundup – March 2025](https://aperiodical.com/2025/04/aperiodical-news-roundup-march-2025/)
