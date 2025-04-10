@@ -1,4 +1,36 @@
 
+[Why Can't We Break Cryptography?](https://blog.computationalcomplexity.org/feeds/6006806958350796296/comments/default)
+---
+
+Computational Complexity --- 4/9/2025
+
+In the recent Signalgate scandal, several senior Trump administration appointees used the Signal app on their phones to discuss an attack on the Houthis. People discussed the risk of the phones being compromised or human factors, such as adding a...
+
+
+[Updates: Categories and PHQ](https://www.logicmatters.net/2025/04/09/updates-categories-and-phq/)
+---
+
+Blog - Logic Matters --- 4/9/2025
+
+I am busily proof-reading the category theory notes for typos and thinkos and expositional stumbles (while thinking how to much improve the final chapter) I’ve done the first 25 chapters, i.e. up to the first Interlude, and you’ll find today’s...
+
+
+[Carnival of Maths 238](https://aperiodical.com/2025/04/carnival-of-maths-238/)
+---
+
+The Aperiodical --- 4/9/2025
+
+The next issue of the Carnival of Mathematics, rounding up blog posts from the month of March 2025, is now online at Fractal Kitty. The Carnival rounds up maths blog posts from all over the internet, including some from our own Aperiodical. See...
+
+
+[Double Maths First Thing: Issue 1F](https://aperiodical.com/2025/04/double-maths-first-thing-issue-1f/)
+---
+
+The Aperiodical --- 4/9/2025
+
+Double Maths First Thing only exports lost puffins Hello! My name is Colin and I am a mathematician on a mission to spread joy and delight, and to find excuses to do interesting maths. (If you could use an interesting mathematician — for the...
+
+
 [Quantum Ellipsoids](https://golem.ph.utexas.edu/category/2025/04/quantum_ellipsoids.html)
 ---
 
@@ -455,28 +487,12 @@ Computational Complexity --- 3/3/2025
 Karp turned 90 in January of 2025. I searched to see if there is a 90th Birthday Conference for him. I did not find one (is there one?). For which years do we have celebratory birthday conferences?Here are some conferences in honor of 60th...
 
 
-[Aperiodical News Roundup – Jan & Feb 2025](https://aperiodical.com/2025/03/aperiodical-news-roundup-jan-feb-2025/)
----
-
-The Aperiodical --- 3/3/2025
-
-Here’s a round-up of a few news items from the last couple of months not otherwise covered on the site. Ingrid Daubechies has been awarded the US National Medal of Science, “for her pioneering work on signal processing”. Applications are now open...
-
-
 [ICT once again](https://www.logicmatters.net/2025/02/27/ict-once-again/)
 ---
 
 Blog - Logic Matters --- 2/27/2025
 
 At least Zeno’s arrow got ever-closer to its target. But the newly posted version 2.6 of Introducing Category Theory has two chapters fewer than version 2.5 … I’m not really going backwards. In the last three weeks, there have been distractions,...
-
-
-[Review: The Big Bang of Numbers by Manil Suri](https://aperiodical.com/2025/02/review-the-big-bang-of-numbers-by-manil-suri/)
----
-
-The Aperiodical --- 2/27/2025
-
-This is a review of the book The Big Bang of Numbers by Manil Suri. We were kindly sent a copy of the book to look at, and Ashleigh Ratcliffe shares her thoughts. In this book, Suri sets out to build the whole of modern mathematics from its...
 
 
 [Potential Functions and the Magnitude of Functors 1](https://golem.ph.utexas.edu/category/2025/02/potential_functions_and_the_ma.html)
@@ -781,20 +797,4 @@ I made up a quiz about the American Presidents here.  It has 40 questions. In
 Good Fibrations --- 1/17/2025
 
 Cech Covers (click the link to listen to us). I wrote this song with my beloved old room mate Christian Gorski in my last year of grad school while I was wrapping up my thesis. For weeks, I was doing nothing but computing etale sheaf cohomologies...
-
-
-[The Crystalline Period Map](https://rin.io/crystalline-period/)
----
-
-Good Fibrations --- 1/17/2025
-
-This drawing is an old drawing I made when I was preparing for my qualifying exam in my second year of grad school at Northwestern. It is the crystalline period map. The tower to the left is the “Lubin-Tate” tower, the deeper it goes the more level...
-
-
-[Fuck Perfectionism](https://rin.io/fuck-perfectionism/)
----
-
-Good Fibrations --- 1/16/2025
-
-I have been working recently to counter the writers block that has formed insidiously from an unhealthy creeping perfectionism. In order to do this, I will post some old art and music which at the time I felt was “not good enough to share” or...
 
