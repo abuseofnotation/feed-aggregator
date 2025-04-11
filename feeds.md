@@ -1,4 +1,12 @@
 
+[A bit of inspiration from #MathArtMarch](https://aperiodical.com/2025/04/a-bit-of-inspiration-from-mathartmarch/)
+---
+
+The Aperiodical --- 4/10/2025
+
+This is a guest post by Elinor, who’s been collecting her favourite maths art from the month of March. March is a month of change in the UK: the days get longer, the temperature is slowly creeping upwards, and we start to believe that spring may be...
+
+
 [Why Can't We Break Cryptography?](https://blog.computationalcomplexity.org/feeds/6006806958350796296/comments/default)
 ---
 
@@ -12,7 +20,7 @@ In the recent Signalgate scandal, several senior Trump administration appointee
 
 Blog - Logic Matters --- 4/9/2025
 
-I am busily proof-reading the category theory notes for typos and thinkos and expositional stumbles (while thinking how to much improve the final chapter) I’ve done the first 25 chapters, i.e. up to the first Interlude, and you’ll find today’s...
+I am busily proof-reading the category theory notes for typos and thinkos and expositional stumbles (while thinking how to much improve the final chapter). I’ve now reviewed the first 25 chapters, i.e. up to the first Interlude, and you’ll find...
 
 
 [Carnival of Maths 238](https://aperiodical.com/2025/04/carnival-of-maths-238/)
@@ -469,14 +477,6 @@ At the Agda headquaters: “OK, guys, so our user pool consists only of folks wh
 Abuse of Notation --- 3/5/2025
 
 I don’t want to lose the human in me, I don’t want to have to see the world through their ways. I don’t want to have to feel through their point of view, To be locked inside it like an alien in a space suit. I don’t have to lose the human in me....
-
-
-[Carnival of Maths 237](https://aperiodical.com/2025/03/carnival-of-maths-237/)
----
-
-The Aperiodical --- 3/4/2025
-
-The next issue of the Carnival of Mathematics, rounding up blog posts from the month of February 2025, is now online at Flying Colours Maths. The Carnival rounds up maths blog posts from all over the internet, including some from our...
 
 
 [Karp recently turned 90 but there was no conference to celebrate that. Which numbers do we use and why?](https://blog.computationalcomplexity.org/feeds/7296866488806687160/comments/default)
