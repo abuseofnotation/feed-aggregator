@@ -1,4 +1,28 @@
 
+[I want an application of this application of Ramsey Theory to Semigroups](https://blog.computationalcomplexity.org/feeds/8761612038156842136/comments/default)
+---
+
+Computational Complexity --- 4/14/2025
+
+I recently read the following theoremDef: A semigroup is a pair \((G,*)\) where \(G\) is a set and * is a binary operation on \(G\) such that * is associative. NOTE: we do not require an identity element, we do not require inverses, we do not...
+
+
+[Occasional paper:  The Light of an Older Heaven](https://crookedtimber.org/2025/04/14/occasional-paper-the-light-of-an-older-heaven/)
+---
+
+Crooked Timber --- 4/14/2025
+
+And then the light of an older heaven was in my eyesand when my vision cleared, I saw Titans. — Alan Moore Today’s Occasional Paper comes to us from the James Webb Space Telescope. So let’s start with some basics: nothing can travel faster than...
+
+
+[“When numbers have meaning it makes it a lot easier for me” vs “I over think the given information and confuse myself”: do engineering students prefer maths questions in context?](https://aperiodical.com/2025/04/when-numbers-have-meaning-it-makes-it-a-lot-easier-for-me-vs-i-over-think-the-given-information-and-confuse-myself-do-engineering-students-prefer-maths-questions-in-context/)
+---
+
+The Aperiodical --- 4/14/2025
+
+In 1693, Christiaan Huygens was struggling to learn the new calculus developed by his former student Gottfried Leibniz. He wrote to Leibniz asking for “any important problems where they should be used, so that this give me desire to study them”....
+
+
 [Sunday photoblogging: Little Egret](https://crookedtimber.org/2025/04/13/sunday-photoblogging-little-egret-2/)
 ---
 
@@ -335,14 +359,6 @@ Crooked Timber --- 3/16/2025
 At the cutting edge of world history and industrial progress back when it was built in 1799, but now Ironbridge and nearby Coalbrookdale are bucolic backwaters where you struggle to get a decent phone signal.
 
 
-[Occasional paper:  The interesting home life of the Blue-Ringed Octopus](https://crookedtimber.org/2025/03/14/occasional-paper-the-interesting-home-life-of-the-blue-ringed-octopus/)
----
-
-Crooked Timber --- 3/14/2025
-
-The blue-ringed octopus! An elegant little creature, native to the southwest Pacific, particularly the waters around Australia. Pretty to look at… but mostly famous for being very, very venomous. The blue-ring’s bite is deadly. A single sharp nip...
-
-
 [Numbers that look prime but aren't](https://blog.computationalcomplexity.org/feeds/6685230593919051850/comments/default)
 ---
 
@@ -413,14 +429,6 @@ Is the map from the Burnside ring to the representation ring of a finite group u
 Computational Complexity --- 3/5/2025
 
 On February 20th we got the news from the National Science Foundation Algorithms Foundations Team that long-time NSF program director Tracy Kimbrel, was leaving the NSF, and not by choice.Along with many others in part-time status at NSF, my...
-
-
-[Double Maths First Thing: Issue 1A](https://aperiodical.com/2025/03/double-maths-first-thing-issue-1a/)
----
-
-The Aperiodical --- 3/5/2025
-
-DMFT is six months old! It’ll probably be walking soon. Hello! My name is Colin and I am a mathematician on a mission to spread joy and delight in doing maths, for any reason or for none. I have taken on a slightly silly, but at the same time...
 
 
 [Agda](http://abuseofnotation.github.io/agda/)
@@ -749,14 +757,6 @@ There's more than one reasonable answer to the question "what is the dual concep
 Computational Complexity --- 1/15/2025
 
 Slide in Lev Reyzin's JMM talk "Problems in AI and ML for Mathematicians" Reyzin is paraphrasing Telgarsky. Posted with permission.Last week I attended the Joint Mathematics Meeting in Seattle with a theme ofWe Decide Our Future: Mathematics in the...
-
-
-[Random Thought on AI from someone in the REAL WORLD](https://blog.computationalcomplexity.org/feeds/2984182986940037631/comments/default)
----
-
-Computational Complexity --- 1/12/2025
-
-Guest Post from Nick Sovich. -----------------------------------------------------------------------------Bill Gasarch recently blogged on RANDOM THOUGHTS ON AI here . He is in the realm of theory. I am in the realm of applications so I asked if I...
 
 
 [The Human Podcast: 10 questions in 10 minutes](https://jdh.hamkins.org/the-human-podcast-10-questions-in-10-minutes/)
