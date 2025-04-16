@@ -1,4 +1,28 @@
 
+[Position in Stellenbosch](https://golem.ph.utexas.edu/category/2025/04/position_in_stellenbosch.html)
+---
+
+The n-Category Café --- 4/15/2025
+
+Stellenbosch University wants to hire a mathematician.  Apply before April 30th!
+
+
+[HEIR talk at FHE.org](https://www.jeremykun.com/shortform/2025-04-15-1239/)
+---
+
+Math ∩ Programming --- 4/15/2025
+
+Last month I gave a talk on the HEIR compiler project at the FHE.org conference in Sofia, Bulgaria. The video is on YouTube now, and the slides are public. I plan to write more about HEIR in the coming months, because it’s been an exciting and...
+
+
+[Categorical Linguistics in <i>Quanta</i>](https://golem.ph.utexas.edu/category/2025/04/categorical_linguistics_in_qua.html)
+---
+
+The n-Category Café --- 4/15/2025
+
+Feature on Tai-Danae Bradley's work on categorical linguistics.
+
+
 [I want an application of this application of Ramsey Theory to Semigroups](https://blog.computationalcomplexity.org/feeds/8761612038156842136/comments/default)
 ---
 
@@ -743,14 +767,6 @@ Good Fibrations --- 1/16/2025
 I have been working recently to counter the writers block that has formed insidiously from an unhealthy creeping perfectionism. In order to do this, I will post some old art and music which at the time I felt was “not good enough to share” or...
 
 
-[The Dual Concept of Injection](https://golem.ph.utexas.edu/category/2025/01/the_dual_concept_of_injection.html)
----
-
-The n-Category Café --- 1/15/2025
-
-There's more than one reasonable answer to the question "what is the dual concept of injection?"
-
-
 ["Our Days Are Numbered"](https://blog.computationalcomplexity.org/feeds/8802116424214301757/comments/default)
 ---
 
@@ -781,20 +797,4 @@ I’ll be at the Joint Mathematics Meeting in Seattle (starting tomorrow). If yo
 Math ∩ Programming --- 1/4/2025
 
 The Hyperfixed Podcast had a lovely episode recently about tape measures. It started from “why does my tape measure seem to always be off a little bit” and went all the way to the inherent limitations of physical measurement at small scales. In...
-
-
-[Fully Homomorphic Encryption and the Public](https://www.jeremykun.com/fhe-and-the-public/)
----
-
-Math ∩ Programming --- 1/3/2025
-
-In this living document, I will document reactions to uses of homomorphic encryption by members of the public. By “member of the public,” I mean people who may be technical, but are not directly involved in the development or deployment of...
-
-
-[Random Permutations (Part 14)](https://golem.ph.utexas.edu/category/2024/12/the_cycle_length_lemma.html)
----
-
-The n-Category Café --- 12/21/2024
-
-More detail on the Cycle Length Lemma, a basic result in the theory of random permutations.  We prove a categorified version of this result, which is an equivalence of groupoids, and then derive the original version by taking groupoid cardinalities.
 
