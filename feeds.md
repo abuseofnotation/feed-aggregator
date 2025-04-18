@@ -1,4 +1,12 @@
 
+[The point of no return:Only days left to stop a totalitarian state in the US](https://crookedtimber.org/2025/04/17/the-point-of-no-returnonly-days-left-to-stop-a-totalitarian-state-in-the-us/)
+---
+
+Crooked Timber --- 4/17/2025
+
+Back in November, when I concluded that Trump’s dictatorship was a fait accompli lots of readers thought I was going over the top. In retrospect, and with one exception, I was hopelessly over-optimistic. I imagined a trajectory similar to Orban’s...
+
+
 [Eisenhower's Farewell Address](https://blog.computationalcomplexity.org/feeds/2652353156169756152/comments/default)
 ---
 
@@ -413,14 +421,6 @@ Here are two groups of Western philosophers. We’ll call them Group A and Group
 Computational Complexity --- 3/17/2025
 
 I had been meaning to write a post-COVID post for a while, buta) Are we finally post COVID? (I think so)b) Are the long term affects of COVID (society not health) known yet?However, Lance wrote a post-COVID post (see here) which inspired me to do...
-
-
-[Sunday photoblogging: the iron bridge at Ironbridge](https://crookedtimber.org/2025/03/16/sunday-photoblogging-the-iron-bridge-at-ironbridge/)
----
-
-Crooked Timber --- 3/16/2025
-
-At the cutting edge of world history and industrial progress back when it was built in 1799, but now Ironbridge and nearby Coalbrookdale are bucolic backwaters where you struggle to get a decent phone signal.
 
 
 [Numbers that look prime but aren't](https://blog.computationalcomplexity.org/feeds/6685230593919051850/comments/default)
