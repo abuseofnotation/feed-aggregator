@@ -1,4 +1,12 @@
 
+[Indeed, just trivially obvious …](https://www.logicmatters.net/2025/04/19/indeed-just-trivially-obvious/)
+---
+
+Blog - Logic Matters --- 4/19/2025
+
+I’m getting some very nice comments on a late draft of the categories book. “A rich and thoughtful introduction, both mathematically and philosophically”. “This is extremely readable, with clarity, philosophical depth, and pedagogical structure. It...
+
+
 [China and I](http://proses.id/china/)
 ---
 
@@ -111,6 +119,14 @@ Computational Complexity --- 4/9/2025
 In the recent Signalgate scandal, several senior Trump administration appointees used the Signal app on their phones to discuss an attack on the Houthis. People discussed the risk of the phones being compromised or human factors, such as adding a...
 
 
+[Updates: Categories and PHQ](https://www.logicmatters.net/2025/04/09/updates-categories-and-phq/)
+---
+
+Blog - Logic Matters --- 4/9/2025
+
+I am busily proof-reading the category theory notes for typos and thinkos and expositional stumbles (while thinking how to much improve the final chapter). I’ve now reviewed the first 25 chapters, i.e. up to the first Interlude, and you’ll find...
+
+
 [Carnival of Maths 238](https://aperiodical.com/2025/04/carnival-of-maths-238/)
 ---
 
@@ -173,6 +189,22 @@ This will be a talk for the Logic Seminar at the Mathematical Institute of the U
 Crooked Timber --- 4/6/2025
 
 
+
+
+[Four handshakes from Trotsky](https://www.logicmatters.net/2025/04/05/four-handshakes-from-trotsky/)
+---
+
+Blog - Logic Matters --- 4/5/2025
+
+My good friend, the logician Thomas Forster, tells me that he once shared an office with Giovanna Corsi, who at one point shared an office with Jean van Heijenoort, who was Trotsky’s personal secretary in the 1930s ….  The post Four handshakes from...
+
+
+[Categorically, better late than never](https://www.logicmatters.net/2025/04/04/categorically-better-late-than-never/)
+---
+
+Blog - Logic Matters --- 4/4/2025
+
+So, at last, here is a full draft of Introducing Category Theory. All 49 chapters and 477 pages. I really didn’t set out to go on at such length. Honestly … In this latest version 2.7, Chapters 45–48 are very significantly improved. But the final...
 
 
 [238th Carnival of Mathematics](https://www.fractalkitty.com/238th-carnival-of-mathematic/)
@@ -431,12 +463,28 @@ The n-Category Café --- 3/12/2025
 CT2025 conference announcement.
 
 
+[Schubert, extraordinarily](https://www.logicmatters.net/2025/03/10/schubert-extraordinarily/)
+---
+
+Blog - Logic Matters --- 3/10/2025
+
+The post Schubert, extraordinarily appeared first on Logic Matters.
+
+
 [Why should I care? or why punks are correct and old wise philosophers are wrong](http://abuseofnotation.github.io/moral-law/)
 ---
 
 Abuse of Notation --- 3/10/2025
 
 Last week I learned that Robert Paul Wolff, the philosopher who got interested in anarchism and marxism, died and I wanted to write something dedicated to him — this was the first reason I started writing this. The second one, was to finally finish...
+
+
+[Hallucinations](https://www.logicmatters.net/2025/03/07/hallucinations/)
+---
+
+Blog - Logic Matters --- 3/7/2025
+
+I had written a few paragraphs here sounding off about some published “continental philosophy” style meanderings about the philosophy of mathematics (which, as typical, show no real knowledge of mathematics) when I checked and discovered that the...
 
 
 [Introduction to modal model theory, Panglobal Algebra and Logic Seminar, Boulder, March 2025](https://jdh.hamkins.org/introduction-to-modal-model-theory-panglobal-algebra-and-logic-seminar-boulder-march-2025/)
@@ -493,6 +541,14 @@ I don’t want to lose the human in me, I don’t want to have to see the world 
 Computational Complexity --- 3/3/2025
 
 Karp turned 90 in January of 2025. I searched to see if there is a 90th Birthday Conference for him. I did not find one (is there one?). For which years do we have celebratory birthday conferences?Here are some conferences in honor of 60th...
+
+
+[ICT once again](https://www.logicmatters.net/2025/02/27/ict-once-again/)
+---
+
+Blog - Logic Matters --- 2/27/2025
+
+At least Zeno’s arrow got ever-closer to its target. But the newly posted version 2.6 of Introducing Category Theory has two chapters fewer than version 2.5 … I’m not really going backwards. In the last three weeks, there have been distractions,...
 
 
 [Potential Functions and the Magnitude of Functors 1](https://golem.ph.utexas.edu/category/2025/02/potential_functions_and_the_ma.html)
@@ -631,12 +687,28 @@ Abuse of Notation --- 2/10/2025
 This is a list of varioust arguments, quarrels, disagreements i.e. “beefs” that philosophers have had with one another. Heraclitus vs. Parmenides (5th century BCE) Beef: A clash between Heraclitus’s belief in constant change and Parmenides’s...
 
 
+[Don’t miss a superb La Traviata](https://www.logicmatters.net/2025/02/09/dont-miss-a-superb-la-traviata/)
+---
+
+Blog - Logic Matters --- 2/9/2025
+
+The La Traviata broadcast from the Royal Opera House last night was wonderful — and Lisette Oropesa as Violetta was simply stunning. You can catch the performance on BBC Radio for a month. Don’t miss the chance. The post Don’t miss a superb La...
+
+
 [Explainable Linear Programs](https://www.jeremykun.com/shortform/2025-02-06-2124/)
 ---
 
 Math ∩ Programming --- 2/7/2025
 
 Back in 2020, when I worked in the supply chain side of Google, I had a fun and impactful side project related to human-level explanations of linear programs. A linear program is a mathematical model that defines some number of variables, linear...
+
+
+[ICT again, but also Mozart, Brauß and Pires again](https://www.logicmatters.net/2025/02/03/ict-again-but-also-mozart-braus-and-pires-again/)
+---
+
+Blog - Logic Matters --- 2/3/2025
+
+I have updated Introducing Category Theory to version 2.5: download here. As well as many minor corrections, including an improved proofs of a couple of theorems, there is a restored §18.4 on ‘naming’ arrows, and a new §18.5 touching on Lawvere’s...
 
 
 [Backing Up US Federal Databases](https://golem.ph.utexas.edu/category/2025/02/backing_up_us_federal_database.html)
@@ -725,76 +797,4 @@ Good Fibrations --- 1/28/2025
 Computational Complexity --- 1/27/2025
 
 44*44=1936.45*45=2025. This year!46*46= 2116.Since my fake birthday is Oct 1, 1960 (I do not reveal my real birthday to try to prevent ID theft), which is past 1936, and I won't live to 2116 unless Quantum-AI finds a way to put my brain in a a vat,...
-
-
-[Wyrm Beans](https://www.fractalkitty.com/w/)
----
-
-Fractal Kitty --- 1/27/2025
-
-Do you ever look at knitted items and liken them to dragon scales? - I do.  So when I decided to make generative textured hats it made sense to call them Wyrm Beans.Just as we can have generative pixel colors on a screen, we can have generative...
-
-
-[The Fighting Temeraire](https://blog.computationalcomplexity.org/feeds/449868624404423350/comments/default)
----
-
-Computational Complexity --- 1/22/2025
-
-What does an 1838 painting tell us about technological change?A colleague and I decided to see how well LLMs could teach us a topic we knew nothing about. We picked the Romanticism art movement. I asked ChatGPT to tutor me on the topic for an hour....
-
-
-[The covering reflection principle – Oberwolfach January 2025](https://jdh.hamkins.org/the-covering-reflection-principle-oberwolfach-january-2025/)
----
-
-Joel David Hamkins --- 1/21/2025
-
-This was a talk I gave at the Set Theory Workshop at the Mathematisches Forschungsinstitut in Oberwolfach, Germany, 12-17 January 2025. Abstract. The principle of covering reflection holds of a cardinal κ if for every structure B in a countable …...
-
-
-[Presidential Quiz!](https://blog.computationalcomplexity.org/feeds/5872565282485947923/comments/default)
----
-
-Computational Complexity --- 1/21/2025
-
-I made up a quiz about the American Presidents here.  It has 40 questions. In the modern electronic age you can probably look up most or even all of the answers. So what to do about that?1) The quiz is not for money or credits or anything, so if...
-
-
-[A Song About Computing Sheaf Cohomology with Cech Covers](https://rin.io/cech-covers/)
----
-
-Good Fibrations --- 1/17/2025
-
-Cech Covers (click the link to listen to us). I wrote this song with my beloved old room mate Christian Gorski in my last year of grad school while I was wrapping up my thesis. For weeks, I was doing nothing but computing etale sheaf cohomologies...
-
-
-[The Crystalline Period Map](https://rin.io/crystalline-period/)
----
-
-Good Fibrations --- 1/17/2025
-
-This drawing is an old drawing I made when I was preparing for my qualifying exam in my second year of grad school at Northwestern. It is the crystalline period map. The tower to the left is the “Lubin-Tate” tower, the deeper it goes the more level...
-
-
-[Fuck Perfectionism](https://rin.io/fuck-perfectionism/)
----
-
-Good Fibrations --- 1/16/2025
-
-I have been working recently to counter the writers block that has formed insidiously from an unhealthy creeping perfectionism. In order to do this, I will post some old art and music which at the time I felt was “not good enough to share” or...
-
-
-[The Human Podcast: 10 questions in 10 minutes](https://jdh.hamkins.org/the-human-podcast-10-questions-in-10-minutes/)
----
-
-Joel David Hamkins --- 1/10/2025
-
-I had an enjoyable little discussion with Joe Murray of The Human Podcast, part of his new series, called 10 questions in 10 minutes, in which he asks his interview subjects for short answers to ten quick questions on their … Continue reading →
-
-
-[I'll be at the JMM](https://www.jeremykun.com/shortform/2025-01-07-1747/)
----
-
-Math ∩ Programming --- 1/8/2025
-
-I’ll be at the Joint Mathematics Meeting in Seattle (starting tomorrow). If you see me there, say hi! I will have a very light schedule, plenty of time for coffee chats. I’ll be attending many of the crypto sessions for the homomorphic encryption...
 
