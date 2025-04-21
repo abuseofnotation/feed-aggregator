@@ -1,4 +1,20 @@
 
+[Carpaccio at the Scuola Dalmata](https://www.logicmatters.net/2025/04/20/carpaccio-at-the-scuola-dalmata/)
+---
+
+Blog - Logic Matters --- 4/20/2025
+
+A wonderful memory this. Last time we were in Venice, with the Daughter, we visited the Scuola Dalmata (Scuola di San Giorgio degli Schiavoni). Though it’s high up the “must see” lists in the guide books, we were the only people there, and had a...
+
+
+[Sunday photoblogging: Irises at the Fort de Bellegarde](https://crookedtimber.org/2025/04/20/sunday-photoblogging-irises-at-the-fort-de-bellegarde/)
+---
+
+Crooked Timber --- 4/20/2025
+
+Up at the French-Spanish border in Catalonia
+
+
 [Indeed, just trivially obvious …](https://www.logicmatters.net/2025/04/19/indeed-just-trivially-obvious/)
 ---
 
@@ -423,14 +439,6 @@ Proses.ID --- 3/17/2025
 What is reality? It might seem like a straightforward question, but Ursula Franklin, a pioneering thinker in technology and society, saw it as layered and…
 
 
-[A curious tendency among Western philosophers?](https://crookedtimber.org/2025/03/17/a-curious-tendency-among-western-philosophers/)
----
-
-Crooked Timber --- 3/17/2025
-
-Here are two groups of Western philosophers. We’ll call them Group A and Group B. Here’s Group A: Plato, Epicurus, Plotinus, Aquinas, Duns Scotus, Francis Bacon, Hobbes, Locke, Spinoza, Newton, Leibniz, David Hume, Herbert Spencer, John Stuart...
-
-
 [My Post-Covid Post](https://blog.computationalcomplexity.org/feeds/7381834712026210764/comments/default)
 ---
 
@@ -789,12 +797,4 @@ This will be a talk for the Rust Belt Workshop in the Philosophy of Logic, Langu
 Good Fibrations --- 1/28/2025
 
 
-
-
-[People who live through two square years](https://blog.computationalcomplexity.org/feeds/4221253671668008872/comments/default)
----
-
-Computational Complexity --- 1/27/2025
-
-44*44=1936.45*45=2025. This year!46*46= 2116.Since my fake birthday is Oct 1, 1960 (I do not reveal my real birthday to try to prevent ID theft), which is past 1936, and I won't live to 2116 unless Quantum-AI finds a way to put my brain in a a vat,...
 
