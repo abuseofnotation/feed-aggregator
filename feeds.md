@@ -1,4 +1,12 @@
 
+[The Church of Logic podcast, April 2025](https://jdh.hamkins.org/the-church-of-logic-podcast-april-2025/)
+---
+
+Joel David Hamkins --- 4/21/2025
+
+I was interviewed by Cody Roux for The Church of Logic podcast—a fascinating sweeping conversation on issues in the philosophy of mathematics and set theory, including what I described as a fundamental dichotomy between two perspectives on the...
+
+
 [Carpaccio at the Scuola Dalmata](https://www.logicmatters.net/2025/04/20/carpaccio-at-the-scuola-dalmata/)
 ---
 
@@ -789,12 +797,4 @@ In writing the drunken theorem post, I realized I never wrote a post on Lauteman
 Joel David Hamkins --- 1/28/2025
 
 This will be a talk for the Rust Belt Workshop in the Philosophy of Logic, Language, and Mathematics, held at Ohio State University in Columbus, Ohio, February 8-9, 2025, University Hall (230 N Oval Mall, Columbus, OH) Room 386B. Abstract. …...
-
-
-[The Bernoulli Numbers Come from a Shift Operator](https://rin.io/faulhaber-shift/)
----
-
-Good Fibrations --- 1/28/2025
-
-
 
