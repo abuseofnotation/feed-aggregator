@@ -1,4 +1,12 @@
 
+[Double Maths First Thing: Issue 21](https://aperiodical.com/2025/04/double-maths-first-thing-issue-21/)
+---
+
+The Aperiodical --- 4/23/2025
+
+No dragons were harmed in the making of Double Maths First Thing. Hello! My name is Colin and I am a mathematician on a mission to spread joy and delight in numerical noodling, patterny playfulness and generally messing about with maths. This week...
+
+
 [The Church of Logic podcast, April 2025](https://jdh.hamkins.org/the-church-of-logic-podcast-april-2025/)
 ---
 
@@ -421,14 +429,6 @@ I'm giving a talk next Friday, March 14th, at 9 am Pacific Daylight time here in
 Computational Complexity --- 3/19/2025
 
 With care you can explain major ideas and results in computational complexity to the general public, like the P v NP problem, zero-knowledge proofs, the PCP theorem and Shor's factoring algorithms in a way that a curious non-scientist can find...
-
-
-[Double Maths First Thing, Issue 1C](https://aperiodical.com/2025/03/double-maths-first-thing-issue-1c/)
----
-
-The Aperiodical --- 3/19/2025
-
-Double Maths First Thing cannot currently take your call. Please leave a message after the beep. Beep. Hello! My name is Colin and I am a mathematician on a mission to spread mathematical joy and delight. This week, I am mainly swearing at Scroggs...
 
 
 [Dispensing with US universities, whether we want to or not](https://crookedtimber.org/2025/03/19/53881/)
