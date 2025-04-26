@@ -1,4 +1,12 @@
 
+[Kid Stuff: Movies](https://crookedtimber.org/2025/04/25/kid-stuff-movies/)
+---
+
+Crooked Timber --- 4/25/2025
+
+This is the second in a very occasional series of posts discussing the following proposition: in the English-speaking world, the last 50 years has seen a dramatic increase in the quantity and quality of text and visual mass media intended for...
+
+
 [Real People](https://blog.computationalcomplexity.org/feeds/3324314187072757023/comments/default)
 ---
 
@@ -437,14 +445,6 @@ I'm giving a talk next Friday, March 14th, at 9 am Pacific Daylight time here in
 Computational Complexity --- 3/19/2025
 
 With care you can explain major ideas and results in computational complexity to the general public, like the P v NP problem, zero-knowledge proofs, the PCP theorem and Shor's factoring algorithms in a way that a curious non-scientist can find...
-
-
-[Dispensing with US universities, whether we want to or not](https://crookedtimber.org/2025/03/19/53881/)
----
-
-Crooked Timber --- 3/19/2025
-
-It’s been evident since Trump’s inauguration that the US, as we knew it, is over. I’ve been looking at some of the US-centred organisations and economic dependencies that will need to be rebuilt. But I hadn’t given much thought to the university...
 
 
 [The Four Realities We Live In: Ursula Franklin’s Framework](http://proses.id/four-realities/)
