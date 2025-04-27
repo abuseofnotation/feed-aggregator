@@ -1,4 +1,20 @@
 
+[Category theory introduced!](https://www.logicmatters.net/2025/04/26/category-theory-introduced/)
+---
+
+Blog - Logic Matters --- 4/26/2025
+
+I have just uploaded a revised version of Introducing Category Theory, which as usual you’ll find linked on the categories page. I will need to do some more proof-reading (with a bit of help from ChatGPT and from my equally useful new friend...
+
+
+[Popes vs Philosophers: Whose Ethics of Immigration?](https://crookedtimber.org/2025/04/26/popes-vs-philosophers-whose-ethics-of-immigration/)
+---
+
+Crooked Timber --- 4/26/2025
+
+Political philosophers are criticised for their idealism, but when it comes to immigration they try to be ‘realistic’. Their aspiration to ‘realism’ often leads to nationalism (which I have analysed elsewhere as an implicit but heavy bias), but I...
+
+
 [Kid Stuff: Movies](https://crookedtimber.org/2025/04/25/kid-stuff-movies/)
 ---
 
@@ -415,14 +431,6 @@ Computational Complexity --- 3/22/2025
 BILL: Lance, my wife asked if you dislike Ramsey Theory because you are colorblind.LANCE: (laughs) It's why I don't like Ramsey Theory talks--impossible for me to follow. But I don't actually dislike Ramsey theory. I just don't like it as much as...
 
 
-[On the Predicament of the Richly Endowed University and Liberal Society](https://crookedtimber.org/2025/03/22/on-the-predicament-of-the-richly-endowed-university-and-liberal-society/)
----
-
-Crooked Timber --- 3/22/2025
-
-Yesterday Columbia University gave in to blackmail by President Trump (see here the letter [HT: NYT]) in order to allow to begin negotiations over the recovery of $400 million in research funding. Its unsigned letter (here HT: Leiterreports) leaves...
-
-
 [Visual Insights (Part 2)](https://golem.ph.utexas.edu/category/2025/03/visual_insights_part_2.html)
 ---
 
@@ -725,14 +733,6 @@ The La Traviata broadcast from the Royal Opera House last night was wonderful �
 Math ∩ Programming --- 2/7/2025
 
 Back in 2020, when I worked in the supply chain side of Google, I had a fun and impactful side project related to human-level explanations of linear programs. A linear program is a mathematical model that defines some number of variables, linear...
-
-
-[ICT again, but also Mozart, Brauß and Pires again](https://www.logicmatters.net/2025/02/03/ict-again-but-also-mozart-braus-and-pires-again/)
----
-
-Blog - Logic Matters --- 2/3/2025
-
-I have updated Introducing Category Theory to version 2.5: download here. As well as many minor corrections, including an improved proofs of a couple of theorems, there is a restored §18.4 on ‘naming’ arrows, and a new §18.5 touching on Lawvere’s...
 
 
 [Backing Up US Federal Databases](https://golem.ph.utexas.edu/category/2025/02/backing_up_us_federal_database.html)
