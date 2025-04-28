@@ -1,10 +1,34 @@
 
+[A personal view of the NSF hot mess: My REU program](https://blog.computationalcomplexity.org/feeds/1786219834884962707/comments/default)
+---
+
+Computational Complexity --- 4/27/2025
+
+I wrote this about a month ago but wanted to wait until after the REU PI conference (which was April 21-22-23) to post it. I add a few comments based on what has happened since, which I preface with...
+
+
+[Schubert on Sunday 11](https://www.logicmatters.net/2025/04/27/schubert-on-sunday-11/)
+---
+
+Blog - Logic Matters --- 4/27/2025
+
+A quite wonderful performance of the Trout Quintet by Patricia Kopatschinskaja, Anastasia Kobekina, and friends, made available by the Gstaad Digital Festival (to watch, you might have to register, but that’s free). Enjoy! The post Schubert on...
+
+
+[Sunday photoblogging: Béziers](https://crookedtimber.org/2025/04/27/sunday-photoblogging-beziers-2/)
+---
+
+Crooked Timber --- 4/27/2025
+
+
+
+
 [Category theory introduced!](https://www.logicmatters.net/2025/04/26/category-theory-introduced/)
 ---
 
 Blog - Logic Matters --- 4/26/2025
 
-I have just uploaded a revised version of Introducing Category Theory, which as usual you’ll find linked on the categories page. I will need to do some more proof-reading (with a bit of help from ChatGPT and from my equally useful new friend...
+I have just uploaded a revised version of Introducing Category Theory, which as usual you’ll find linked on the categories page. I will need to do some more proof-reading (with a bit of help from ChatGPT and from my useful new friend Claude). And I...
 
 
 [Popes vs Philosophers: Whose Ethics of Immigration?](https://crookedtimber.org/2025/04/26/popes-vs-philosophers-whose-ethics-of-immigration/)
@@ -415,14 +439,6 @@ Crooked Timber --- 3/24/2025
 As universities worldwide face major cuts, especially to the humanities, this meme has been doing the rounds. So I thought I’d share my story about Indiana Jones’ last day of work, drawn in part from Indiana Jones and the Dial of Destiny. Indiana...
 
 
-[Sunday photoblogging: Versailles](https://crookedtimber.org/2025/03/23/sunday-photoblogging-versailles/)
----
-
-Crooked Timber --- 3/23/2025
-
-
-
-
 [Does Lance dislike Ramsey Theory Because he's colorblind?](https://blog.computationalcomplexity.org/feeds/3160507717658905820/comments/default)
 ---
 
@@ -719,14 +735,6 @@ Abuse of Notation --- 2/10/2025
 This is a list of varioust arguments, quarrels, disagreements i.e. “beefs” that philosophers have had with one another. Heraclitus vs. Parmenides (5th century BCE) Beef: A clash between Heraclitus’s belief in constant change and Parmenides’s...
 
 
-[Don’t miss a superb La Traviata](https://www.logicmatters.net/2025/02/09/dont-miss-a-superb-la-traviata/)
----
-
-Blog - Logic Matters --- 2/9/2025
-
-The La Traviata broadcast from the Royal Opera House last night was wonderful — and Lisette Oropesa as Violetta was simply stunning. You can catch the performance on BBC Radio for a month. Don’t miss the chance. The post Don’t miss a superb La...
-
-
 [Explainable Linear Programs](https://www.jeremykun.com/shortform/2025-02-06-2124/)
 ---
 
@@ -789,12 +797,4 @@ Thinking about the cardinality of limits leads to a new numerical invariant of s
 The n-Category Café --- 1/29/2025
 
 Warming up to a dual concept to magnitude, with an aside on a new connection between magnitude and entropy.
-
-
-[Lautemann's Beautiful Proof](https://blog.computationalcomplexity.org/feeds/1033138880036669085/comments/default)
----
-
-Computational Complexity --- 1/29/2025
-
-In writing the drunken theorem post, I realized I never wrote a post on Lautemann's amazing proof that BPP is contained in \(\Sigma^p_2\), the second level of the polynomial-time hierarchy.Clemens Lautemann, who passed away in 2005 at the too young...
 
