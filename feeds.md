@@ -2,9 +2,25 @@
 [A personal view of the NSF hot mess: My REU program](https://blog.computationalcomplexity.org/feeds/1786219834884962707/comments/default)
 ---
 
-Computational Complexity --- 4/27/2025
+Computational Complexity --- 4/28/2025
 
 I wrote this about a month ago but wanted to wait until after the REU PI conference (which was April 21-22-23) to post it. I add a few comments based on what has happened since, which I preface with...
+
+
+[Policy-oriented political philosophy](https://crookedtimber.org/2025/04/28/policy-oriented-political-philosophy/)
+---
+
+Crooked Timber --- 4/28/2025
+
+Here is a joke. A philosopher goes to a policy committee. Got it? Okay, okay, it’s probably a bad joke. It’s also outdated: these days, many philosophers do go to policy committees. The cliché is that a philosopher sits in the academic ivory tower,...
+
+
+[Which Europe is worth defending?](https://crookedtimber.org/2025/04/28/which-europe-is-worth-defending/)
+---
+
+Crooked Timber --- 4/28/2025
+
+I posted this on my (private) Facebook page a few weeks back, just to vent. Since it resonated with quite a few people, I am reposting it here. I thought it was a platitude, but given the sea of self-congratulatory discourse about Europe (here’s an...
 
 
 [Schubert on Sunday 11](https://www.logicmatters.net/2025/04/27/schubert-on-sunday-11/)
@@ -407,14 +423,6 @@ The Aperiodical --- 3/26/2025
 Double Maths First Thing just doesn’t know any more Hello! My name is Colin and I am a mathematician on a mission to spread delight and joy in doing maths for the sake of it. This week I have mainly been figuring out the mechanics of the Bokeh...
 
 
-[Occasional paper:  The Suplex Bird](https://crookedtimber.org/2025/03/25/occasional-paper-the-suplex-bird/)
----
-
-Crooked Timber --- 3/25/2025
-
-Today I’d like to talk about that delightful little companion of field and garden: the shrike. [copyright Rosemary Mosco, 2024, birdandmoon.com] If you know, you know. And if you don’t know… well, let’s talk about shrikes. Shrikes are a group of...
-
-
 [Time at the Recurse Center](https://www.fractalkitty.com/time-at-the-recurse-center/)
 ---
 
@@ -429,14 +437,6 @@ In January, I kicked off a journey of reflection and growth at the Recurse Cente
 Computational Complexity --- 3/24/2025
 
 The issue of whether to record lectures or post slides or more generally how much material to give to the students is a new question (the last 20 years?) but I do have an anecdote from 1978.I was taking an applied math course on Mathematical...
-
-
-[Indiana Jones’ Last Day of Work](https://crookedtimber.org/2025/03/24/indiana-jones-last-day-of-work/)
----
-
-Crooked Timber --- 3/24/2025
-
-As universities worldwide face major cuts, especially to the humanities, this meme has been doing the rounds. So I thought I’d share my story about Indiana Jones’ last day of work, drawn in part from Indiana Jones and the Dial of Destiny. Indiana...
 
 
 [Does Lance dislike Ramsey Theory Because he's colorblind?](https://blog.computationalcomplexity.org/feeds/3160507717658905820/comments/default)
