@@ -1,4 +1,28 @@
 
+[Not so Deep Thoughts about Deep AI](https://crookedtimber.org/2025/04/30/not-so-deep-thoughts-about-deep-ai/)
+---
+
+Crooked Timber --- 4/30/2025
+
+Back in 2022, after my first encounter with ChatGPT, I suggested that it was likely to wipe out large categories of “bullshit jobs”, but unlikely to create mass unemployment. In retrospect, that was probably an overestimate of the likely impact....
+
+
+[P v NP Papers Galore](https://blog.computationalcomplexity.org/feeds/3127879843679420539/comments/default)
+---
+
+Computational Complexity --- 4/30/2025
+
+As someone who has literally written a book on the topic, I have had many people over the years send me their attempts at P v NP proofs. On average, I receive about one a month, but I've had seven in the last two weeks. And not just the usual email...
+
+
+[Double Maths First Thing: Issue 22](https://aperiodical.com/2025/04/double-maths-first-thing-issue-22/)
+---
+
+The Aperiodical --- 4/30/2025
+
+Double Maths First Thing is HORRIFIED and you should be too. Hello! My name is Colin and I am a mathematician on a mission to spread joy and delight, so obviously I’m going to start with something awful: I recently learned that a “one-year flood”...
+
+
 [The War on Water Pressure](https://crookedtimber.org/2025/04/29/the-war-on-water-pressure/)
 ---
 
@@ -319,14 +343,6 @@ Crooked Timber --- 3/31/2025
 What is it that people desire when they desire riches? It may seem strange that once all basic needs are fulfilled, individuals would continue to strive for ever more, working ever harder, even at the cost of their own health. Why don’t they just...
 
 
-[Sunday photoblogging: Braunton Road](https://crookedtimber.org/2025/03/30/sunday-photoblogging-braunton-road/)
----
-
-Crooked Timber --- 3/30/2025
-
-
-
-
 [Survey's are done stupidly/A stupid question from a survey](https://blog.computationalcomplexity.org/feeds/6849194891852770632/comments/default)
 ---
 
@@ -357,14 +373,6 @@ I’m aperiodically working my way through Martin Gardner’s cover images from 
 Computational Complexity --- 3/26/2025
 
 In 2012 I wrote a blog post about the growing influence of Massively Open Online Courses, or MOOCs.John Hennessey, president of Stanford, gave the CRA keynote address arguing that MOOCs will save universities. He puts the untenable costs of...
-
-
-[Double Maths First Thing: Issue 1D](https://aperiodical.com/2025/03/double-maths-first-thing-issue-1d/)
----
-
-The Aperiodical --- 3/26/2025
-
-Double Maths First Thing just doesn’t know any more Hello! My name is Colin and I am a mathematician on a mission to spread delight and joy in doing maths for the sake of it. This week I have mainly been figuring out the mechanics of the Bokeh...
 
 
 [Time at the Recurse Center](https://www.fractalkitty.com/time-at-the-recurse-center/)
@@ -741,14 +749,6 @@ This will be a talk for the Rust Belt Workshop in the Philosophy of Logic, Langu
 Good Fibrations --- 1/28/2025
 
 
-
-
-[People who live through two square years](https://blog.computationalcomplexity.org/feeds/4221253671668008872/comments/default)
----
-
-Computational Complexity --- 1/27/2025
-
-44*44=1936.45*45=2025. This year!46*46= 2116.Since my fake birthday is Oct 1, 1960 (I do not reveal my real birthday to try to prevent ID theft), which is past 1936, and I won't live to 2116 unless Quantum-AI finds a way to put my brain in a a vat,...
 
 
 [Wyrm Beans](https://www.fractalkitty.com/w/)
