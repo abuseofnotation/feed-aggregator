@@ -2,9 +2,17 @@
 [My response to Scott's least controversal post ever!](https://blog.computationalcomplexity.org/feeds/1591253853526776898/comments/default)
 ---
 
-Computational Complexity --- 5/5/2025
+Computational Complexity --- 5/6/2025
 
 In a recent post by Scott (see here or just read my post which includes his post) he listed topis that he conjectured would NOT cause an outrage.I was going to write a long comment in his comments section, which would only be read by people who...
+
+
+[Carnival of Maths 239](https://aperiodical.com/2025/05/carnival-of-maths-239/)
+---
+
+The Aperiodical --- 5/6/2025
+
+The next issue of the Carnival of Mathematics, rounding up blog posts from the month of April 2025, is now online at Reflections and Tangents. The Carnival rounds up maths blog posts from all over the internet, including some from our...
 
 
 [Sunday photoblogging: Mèze](https://crookedtimber.org/2025/05/04/sunday-photoblogging-meze/)
@@ -429,14 +437,6 @@ I have often began taking a survey and quit in the middle. Why?1) It goes on to 
 The n-Category Café --- 3/27/2025
 
 The McGee group is one of the two smallest groups with an outer automorphism that preserves conjugacy classes.   My route to understanding this fact was a long and winding one.
-
-
-[5. Mathematics of the “I Ching”](https://aperiodical.com/2025/03/5-mathematics-of-the-i-ching/)
----
-
-The Aperiodical --- 3/26/2025
-
-I’m aperiodically working my way through Martin Gardner’s cover images from Scientific American, the so-called Gardner’s Dozen, attempting to recreate these in the LaTeX drawing package TikZ. View the previous attempts. This time I chose January...
 
 
 [What Happened to MOOCS?](https://blog.computationalcomplexity.org/feeds/5061372608004855159/comments/default)
