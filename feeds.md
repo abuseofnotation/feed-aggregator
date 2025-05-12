@@ -1,4 +1,12 @@
 
+[Sunday photoblogging: Amiens Cathedral](https://crookedtimber.org/2025/05/11/sunday-photoblogging-amiens-cathedral/)
+---
+
+Crooked Timber --- 5/11/2025
+
+
+
+
 [David Attenborough’s Ocean](https://crookedtimber.org/2025/05/09/david-attenboroughs-ocean/)
 ---
 
@@ -349,14 +357,6 @@ Double Maths First Thing only exports lost puffins Hello! My name is Colin and I
 The n-Category Café --- 4/8/2025
 
 Studying atomic nuclei forces us to quantize the concept of ellipsoid.
-
-
-[Trump’s Tariffs, McKinley, and the Bonapartist Executive](https://crookedtimber.org/2025/04/07/trumps-tariffs-mckinley-and-the-bonapartist-executive/)
----
-
-Crooked Timber --- 4/7/2025
-
-With collapsing stock markets, retirement portfolios, and consumer confidence, there is an all-too-human tendency to focus on the economic effects of tariffs by their critics: they are a tax on consumption, they will raise inflation, reduce...
 
 
 [I was invited to a Nutrition conference. Why?](https://blog.computationalcomplexity.org/feeds/5627102157318768498/comments/default)
