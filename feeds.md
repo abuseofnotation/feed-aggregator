@@ -1,4 +1,60 @@
 
+[Skolem’s paradox and the countable transitive submodel theorem, Leeds Set Theory Seminar, May 2025](https://jdh.hamkins.org/skolems-paradox-and-the-countable-transitive-submodel-theorem-leeds-set-theory-seminar-may-2025/)
+---
+
+Joel David Hamkins --- 5/12/2025
+
+This will be an online talk for the Leeds Set Theory Seminar, 21 May 2025 1pm BST. Contact the organizers (Hope Duncan) for Teams access. Abstract: One can find in the philosophical research literature surrounding Skolem’s paradox a certain claim,...
+
+
+[My Graduate Career in Math](https://www.jeremykun.com/2025/05/12/my-graduate-career-in-math/)
+---
+
+Math ∩ Programming --- 5/12/2025
+
+Editor’s note: This essay was originally published on Medium on 2016-03-05. I have made minor edits in this republishing and added a few small retrospective notes. 2010–2011 (Year 0) I had just switched my major at Cal Poly State University from...
+
+
+[Random Thought on the New Pope (the actual New Pope, not the TV series). He was a math major!](https://blog.computationalcomplexity.org/feeds/2894459651142212593/comments/default)
+---
+
+Computational Complexity --- 5/12/2025
+
+The New Pope is Pope Leo XIV (pre-Pope name is Robert Prevost). 1) Pope names are one of the few places we still use Roman Numerals. I saw an article that was probably satirical that Americans prefer Roman Numerals (the numbers Jesus used) over...
+
+
+[Perry Anderson’s lazy endorsement of US self-mythologising](https://crookedtimber.org/2025/05/12/perry-andersons-lazy-endorsement-of-us-self-mythologising/)
+---
+
+Crooked Timber --- 5/12/2025
+
+A few weeks ago the historian Perry Anderson published an essay “Regime Change in the West?” in the London Review of Books. Like many of Anderson’s essays this is a wide-ranging splurge full of bon mots and *apercus” delivered from some...
+
+
+[Postcard from Amsterdam](https://www.logicmatters.net/2025/05/12/postcard-from-amsterdam/)
+---
+
+Blog - Logic Matters --- 5/12/2025
+
+A week in Amsterdam, mostly to meet up with the digital nomad Daughter, which was of course hugely enjoyable. We have been staying a few hundred yards behind the Concertgebouw, in a quietly so-civilised area, with a great scattering of cafes and...
+
+
+[On the Retreat of the Enshittification of University Bureaucracy](https://crookedtimber.org/2025/05/12/on-the-retreat-of-the-enshittification-of-university-bureaucracy/)
+---
+
+Crooked Timber --- 5/12/2025
+
+More than a month ago, I agreed to an offer to be a visiting scholar at a private US university next year. This was no simple matter because of obligations to my own family and (somewhat more unexpectedly) my department. I have made no public...
+
+
+[Online book launch ‘Pluralizing Political Philosophy’](https://crookedtimber.org/2025/05/12/online-book-launch-pluralizing-political-philosophy/)
+---
+
+Crooked Timber --- 5/12/2025
+
+Over the last years, I have edited a volume of papers on the question how to make analytical political philosophy more inclusive, with a particular focus on the debates on economic and ecological inequalities. The starting point was the observation...
+
+
 [Sunday photoblogging: Amiens Cathedral](https://crookedtimber.org/2025/05/11/sunday-photoblogging-amiens-cathedral/)
 ---
 
@@ -279,36 +335,12 @@ Computational Complexity --- 4/14/2025
 I recently read the following theoremDef: A semigroup is a pair \((G,*)\) where \(G\) is a set and * is a binary operation on \(G\) such that * is associative. NOTE: we do not require an identity element, we do not require inverses, we do not...
 
 
-[Occasional paper:  The Light of an Older Heaven](https://crookedtimber.org/2025/04/14/occasional-paper-the-light-of-an-older-heaven/)
----
-
-Crooked Timber --- 4/14/2025
-
-And then the light of an older heaven was in my eyesand when my vision cleared, I saw Titans. — Alan Moore Today’s Occasional Paper comes to us from the James Webb Space Telescope. So let’s start with some basics: nothing can travel faster than...
-
-
 [“When numbers have meaning it makes it a lot easier for me” vs “I over think the given information and confuse myself”: do engineering students prefer maths questions in context?](https://aperiodical.com/2025/04/when-numbers-have-meaning-it-makes-it-a-lot-easier-for-me-vs-i-over-think-the-given-information-and-confuse-myself-do-engineering-students-prefer-maths-questions-in-context/)
 ---
 
 The Aperiodical --- 4/14/2025
 
 In 1693, Christiaan Huygens was struggling to learn the new calculus developed by his former student Gottfried Leibniz. He wrote to Leibniz asking for “any important problems where they should be used, so that this give me desire to study them”....
-
-
-[Sunday photoblogging: Little Egret](https://crookedtimber.org/2025/04/13/sunday-photoblogging-little-egret-2/)
----
-
-Crooked Timber --- 4/13/2025
-
-
-
-
-[Some good news on the climate transition](https://crookedtimber.org/2025/04/13/some-good-news-on-the-climate-transition/)
----
-
-Crooked Timber --- 4/13/2025
-
-Thanks to James Wimberley for prompting me to write this, and alerting me to the data on China’s emissions Most of the news these days is bad, and that’s true of the climate. Even as climatic disasters worsen, the Trump regime is doing its best to...
 
 
 [A bit of inspiration from #MathArtMarch](https://aperiodical.com/2025/04/a-bit-of-inspiration-from-mathartmarch/)
@@ -471,14 +503,6 @@ Computational Complexity --- 3/24/2025
 The issue of whether to record lectures or post slides or more generally how much material to give to the students is a new question (the last 20 years?) but I do have an anecdote from 1978.I was taking an applied math course on Mathematical...
 
 
-[Does Lance dislike Ramsey Theory Because he's colorblind?](https://blog.computationalcomplexity.org/feeds/3160507717658905820/comments/default)
----
-
-Computational Complexity --- 3/22/2025
-
-BILL: Lance, my wife asked if you dislike Ramsey Theory because you are colorblind.LANCE: (laughs) It's why I don't like Ramsey Theory talks--impossible for me to follow. But I don't actually dislike Ramsey theory. I just don't like it as much as...
-
-
 [Visual Insights (Part 2)](https://golem.ph.utexas.edu/category/2025/03/visual_insights_part_2.html)
 ---
 
@@ -557,14 +581,6 @@ The post Schubert, extraordinarily appeared first on Logic Matters.
 Abuse of Notation --- 3/10/2025
 
 Last week I learned that Robert Paul Wolff, the philosopher who got interested in anarchism and marxism, died and I wanted to write something dedicated to him — this was the first reason I started writing this. The second one, was to finally finish...
-
-
-[Hallucinations](https://www.logicmatters.net/2025/03/07/hallucinations/)
----
-
-Blog - Logic Matters --- 3/7/2025
-
-I had written a few paragraphs here sounding off about some published “continental philosophy” style meanderings about the philosophy of mathematics (which, as typical, show no real knowledge of mathematics) when I checked and discovered that the...
 
 
 [Introduction to modal model theory, Panglobal Algebra and Logic Seminar, Boulder, March 2025](https://jdh.hamkins.org/introduction-to-modal-model-theory-panglobal-algebra-and-logic-seminar-boulder-march-2025/)
@@ -781,20 +797,4 @@ If you want to help save US federal web pages and databases, here are some thing
 Fractal Kitty --- 2/2/2025
 
 Find balance through symmetry.$$f(x) = f(-x)$$Approximation improves with experience.$$e^x = \sum_{n=0}^{\infty} \frac{x^n}{n!} = 1 + x + \frac{x^2}{2!} + \frac{x^3}{3!} + \cdots$$ To untangle is to meditate.$$\huge{\bigcirc}$$Be...
-
-
-[Magnitude, Enriched Categories, and LLMs](https://www.math3ma.com/blog/magnitude-enriched-categories-and-llms)
----
-
-Math3ma --- 2/2/2025
-
-It's hard for me to believe, but Math3ma is TEN YEARS old today. My first entry was published on February 1, 2015 and is entitled "A Math Blog? Say What?" As evident from that post, I was very unsure about creating this website. At the time,...
-
-
-[A Ripple of Ripples](https://www.fractalkitty.com/a-ripple-of-ripples/)
----
-
-Fractal Kitty --- 1/31/2025
-
-One thing I love about math and art is the conversations and iterations that flow from their patterns and beauty. After posting Walking Ripples, I have enjoyed seeing how the simplicity of shading circles propagates in conversation, art, and...
 
