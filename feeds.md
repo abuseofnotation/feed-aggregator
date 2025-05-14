@@ -1,4 +1,20 @@
 
+[Leibniz's Dream and Dijkstra's nightmare](https://www.jeremykun.com/shortform/2025-05-13-2107/)
+---
+
+Math ∩ Programming --- 5/13/2025
+
+I was inspired to browse some of Edsger Dijkstra’s essays today, and came across his speech, “Under the spell of Leibniz’s Dream”. It’s the sort of personal history I love to read, which gives one person’s sense of the world over a period of...
+
+
+[Random Thought on the New Pope (the actual New Pope, not the TV series). He was a math major!](https://blog.computationalcomplexity.org/feeds/2894459651142212593/comments/default)
+---
+
+Computational Complexity --- 5/13/2025
+
+The New Pope is Pope Leo XIV (pre-Pope name is Robert Prevost). 1) Pope names are one of the few places we still use Roman Numerals. I saw an article that was probably satirical that Americans prefer Roman Numerals (the numbers Jesus used) over...
+
+
 [Skolem’s paradox and the countable transitive submodel theorem, Leeds Set Theory Seminar, May 2025](https://jdh.hamkins.org/skolems-paradox-and-the-countable-transitive-submodel-theorem-leeds-set-theory-seminar-may-2025/)
 ---
 
@@ -13,14 +29,6 @@ This will be an online talk for the Leeds Set Theory Seminar, 21 May 2025 1pm BS
 Math ∩ Programming --- 5/12/2025
 
 Editor’s note: This essay was originally published on Medium on 2016-03-05. I have made minor edits in this republishing and added a few small retrospective notes. 2010–2011 (Year 0) I had just switched my major at Cal Poly State University from...
-
-
-[Random Thought on the New Pope (the actual New Pope, not the TV series). He was a math major!](https://blog.computationalcomplexity.org/feeds/2894459651142212593/comments/default)
----
-
-Computational Complexity --- 5/12/2025
-
-The New Pope is Pope Leo XIV (pre-Pope name is Robert Prevost). 1) Pope names are one of the few places we still use Roman Numerals. I saw an article that was probably satirical that Americans prefer Roman Numerals (the numbers Jesus used) over...
 
 
 [Perry Anderson’s lazy endorsement of US self-mythologising](https://crookedtimber.org/2025/05/12/perry-andersons-lazy-endorsement-of-us-self-mythologising/)
@@ -789,12 +797,4 @@ Back in 2020, when I worked in the supply chain side of Google, I had a fun and 
 The n-Category Café --- 2/2/2025
 
 If you want to help save US federal web pages and databases, here are some things to do.
-
-
-[Math-ffirmations](https://www.fractalkitty.com/math-ffirmations/)
----
-
-Fractal Kitty --- 2/2/2025
-
-Find balance through symmetry.$$f(x) = f(-x)$$Approximation improves with experience.$$e^x = \sum_{n=0}^{\infty} \frac{x^n}{n!} = 1 + x + \frac{x^2}{2!} + \frac{x^3}{3!} + \cdots$$ To untangle is to meditate.$$\huge{\bigcirc}$$Be...
 
