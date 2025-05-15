@@ -1,4 +1,20 @@
 
+[A Bittersweet Anniversary](https://blog.computationalcomplexity.org/feeds/593341887853911438/comments/default)
+---
+
+Computational Complexity --- 5/14/2025
+
+The National Science Foundation was founded on May 10, 1950, 75 years ago last Saturday. No doubt the NSF has seen better days, but first let's take a look back.At the end of World War II, Vannevar Bush, Director of the Office of Scientific...
+
+
+[Double Maths First Thing: Issue 24](https://aperiodical.com/2025/05/double-maths-first-thing-issue-24/)
+---
+
+The Aperiodical --- 5/14/2025
+
+Double Maths First Thing wishes it could be formatted as a square Hello! My name is Colin and I am a mathematician on a mission to spread joy and delight in figuring things out. The 11yo is doing SATs at the moment, which runs exactly counter to...
+
+
 [Leibniz's Dream and Dijkstra's nightmare](https://www.jeremykun.com/shortform/2025-05-13-2107/)
 ---
 
@@ -37,14 +53,6 @@ Editor’s note: This essay was originally published on Medium on 2016-03-05. I 
 Crooked Timber --- 5/12/2025
 
 A few weeks ago the historian Perry Anderson published an essay “Regime Change in the West?” in the London Review of Books. Like many of Anderson’s essays this is a wide-ranging splurge full of bon mots and *apercus” delivered from some...
-
-
-[Postcard from Amsterdam](https://www.logicmatters.net/2025/05/12/postcard-from-amsterdam/)
----
-
-Blog - Logic Matters --- 5/12/2025
-
-A week in Amsterdam, mostly to meet up with the digital nomad Daughter, which was of course hugely enjoyable. We have been staying a few hundred yards behind the Concertgebouw, in a quietly so-civilised area, with a great scattering of cafes and...
 
 
 [On the Retreat of the Enshittification of University Bureaucracy](https://crookedtimber.org/2025/05/12/on-the-retreat-of-the-enshittification-of-university-bureaucracy/)
@@ -127,14 +135,6 @@ Crooked Timber --- 5/4/2025
 
 
 
-[Lea Desandre, Claude, Categories …](https://www.logicmatters.net/2025/05/01/lea-desandre-claude-categories/)
----
-
-Blog - Logic Matters --- 5/1/2025
-
-We have just booked tickets to see the wondrous Lea Desandre at Wigmore Hall on Tuesday 16 September, singing Dowland and Purcell. It should be an amazing concert. If you haven’t ever seen her perform then this candlelit concert from Rouen three...
-
-
 [Not so Deep Thoughts about Deep AI](https://crookedtimber.org/2025/04/30/not-so-deep-thoughts-about-deep-ai/)
 ---
 
@@ -191,28 +191,12 @@ Crooked Timber --- 4/28/2025
 I posted this on my (private) Facebook page a few weeks back, just to vent. Since it resonated with quite a few people, I am reposting it here. I thought it was a platitude, but given the sea of self-congratulatory discourse about Europe (here’s an...
 
 
-[Schubert on Sunday 11](https://www.logicmatters.net/2025/04/27/schubert-on-sunday-11/)
----
-
-Blog - Logic Matters --- 4/27/2025
-
-A quite wonderful performance of the Trout Quintet by Patricia Kopatschinskaja, Anastasia Kobekina, and friends, made available by the Gstaad Digital Festival (to watch, you might have to register, but that’s free). Enjoy! The post Schubert on...
-
-
 [Sunday photoblogging: Béziers](https://crookedtimber.org/2025/04/27/sunday-photoblogging-beziers-2/)
 ---
 
 Crooked Timber --- 4/27/2025
 
 
-
-
-[Category theory introduced!](https://www.logicmatters.net/2025/04/26/category-theory-introduced/)
----
-
-Blog - Logic Matters --- 4/26/2025
-
-I have just uploaded a revised version of Introducing Category Theory, which as usual you’ll find linked on the categories page. I will need to do some more proof-reading (with a bit of help from ChatGPT and from my useful new friend Claude). And I...
 
 
 [Popes vs Philosophers: Whose Ethics of Immigration?](https://crookedtimber.org/2025/04/26/popes-vs-philosophers-whose-ethics-of-immigration/)
@@ -255,28 +239,12 @@ Joel David Hamkins --- 4/21/2025
 I was interviewed by Cody Roux for The Church of Logic podcast—a fascinating sweeping conversation on issues in the philosophy of mathematics and set theory, including what I described as a fundamental dichotomy between two perspectives on the...
 
 
-[Carpaccio at the Scuola Dalmata](https://www.logicmatters.net/2025/04/20/carpaccio-at-the-scuola-dalmata/)
----
-
-Blog - Logic Matters --- 4/20/2025
-
-A wonderful memory this. Last time we were in Venice, with the Daughter, we visited the Scuola Dalmata (Scuola di San Giorgio degli Schiavoni). Though it’s high up the “must see” lists in the guide books, we were the only people there, and had a...
-
-
 [Sunday photoblogging: Irises at the Fort de Bellegarde](https://crookedtimber.org/2025/04/20/sunday-photoblogging-irises-at-the-fort-de-bellegarde/)
 ---
 
 Crooked Timber --- 4/20/2025
 
 Up at the French-Spanish border in Catalonia
-
-
-[Indeed, just trivially obvious …](https://www.logicmatters.net/2025/04/19/indeed-just-trivially-obvious/)
----
-
-Blog - Logic Matters --- 4/19/2025
-
-I’m getting some very nice comments on a late draft of the categories book. “A rich and thoughtful introduction, both mathematically and philosophically”. “This is extremely readable, with clarity, philosophical depth, and pedagogical structure. It...
 
 
 [China and I](http://proses.id/china/)
@@ -367,28 +335,12 @@ Computational Complexity --- 4/9/2025
 In the recent Signalgate scandal, several senior Trump administration appointees used the Signal app on their phones to discuss an attack on the Houthis. People discussed the risk of the phones being compromised or human factors, such as adding a...
 
 
-[Updates: Categories and PHQ](https://www.logicmatters.net/2025/04/09/updates-categories-and-phq/)
----
-
-Blog - Logic Matters --- 4/9/2025
-
-I am busily proof-reading the category theory notes for typos and thinkos and expositional stumbles (while thinking how to much improve the final chapter). I’ve now reviewed the first 25 chapters, i.e. up to the first Interlude, and you’ll find...
-
-
 [Carnival of Maths 238](https://aperiodical.com/2025/04/carnival-of-maths-238/)
 ---
 
 The Aperiodical --- 4/9/2025
 
 The next issue of the Carnival of Mathematics, rounding up blog posts from the month of March 2025, is now online at Fractal Kitty. The Carnival rounds up maths blog posts from all over the internet, including some from our own Aperiodical. See...
-
-
-[Double Maths First Thing: Issue 1F](https://aperiodical.com/2025/04/double-maths-first-thing-issue-1f/)
----
-
-The Aperiodical --- 4/9/2025
-
-Double Maths First Thing only exports lost puffins Hello! My name is Colin and I am a mathematician on a mission to spread joy and delight, and to find excuses to do interesting maths. (If you could use an interesting mathematician — for the...
 
 
 [Quantum Ellipsoids](https://golem.ph.utexas.edu/category/2025/04/quantum_ellipsoids.html)
@@ -421,22 +373,6 @@ This will be a talk for the conference on Ultrafinitism: Physics, Mathematics, a
 Joel David Hamkins --- 4/6/2025
 
 This will be a talk for the Logic Seminar at the Mathematical Institute of the University of Oxford, 29 May 2025 5pm Andrew Wiles Building. Abstract. For a given computably enumerable set $W$, consider the spectrum of assertions of the … Continue...
-
-
-[Four handshakes from Trotsky](https://www.logicmatters.net/2025/04/05/four-handshakes-from-trotsky/)
----
-
-Blog - Logic Matters --- 4/5/2025
-
-My good friend, the logician Thomas Forster, tells me that he once shared an office with Giovanna Corsi, who at one point shared an office with Jean van Heijenoort, who was Trotsky’s personal secretary in the 1930s ….  The post Four handshakes from...
-
-
-[Categorically, better late than never](https://www.logicmatters.net/2025/04/04/categorically-better-late-than-never/)
----
-
-Blog - Logic Matters --- 4/4/2025
-
-So, at last, here is a full draft of Introducing Category Theory. All 49 chapters and 477 pages. I really didn’t set out to go on at such length. Honestly … In this latest version 2.7, Chapters 45–48 are very significantly improved. But the final...
 
 
 [238th Carnival of Mathematics](https://www.fractalkitty.com/238th-carnival-of-mathematic/)
@@ -573,14 +509,6 @@ As we hit five years from when the world shut down, lots of discussions on how C
 The n-Category Café --- 3/12/2025
 
 CT2025 conference announcement.
-
-
-[Schubert, extraordinarily](https://www.logicmatters.net/2025/03/10/schubert-extraordinarily/)
----
-
-Blog - Logic Matters --- 3/10/2025
-
-The post Schubert, extraordinarily appeared first on Logic Matters.
 
 
 [Why should I care? or why punks are correct and old wise philosophers are wrong](http://abuseofnotation.github.io/moral-law/)
@@ -727,14 +655,6 @@ Good Fibrations --- 2/14/2025
 Here’s something enticing and strange: there are two “cut and paste” invariants of the same group which are equal to dual zeta values! the euler characteristic \( \chi(SL_2(\mathbb{Z})) = \zeta(-1), \) and the tamagawa measure of \(...
 
 
-[Research Then and Now](https://blog.computationalcomplexity.org/feeds/2992176952230529361/comments/default)
----
-
-Computational Complexity --- 2/12/2025
-
-A student asked me if complexity research was easier when I was a student. Interesting question. Let's compare research now versus the late 80's.The big advantage today is technology. Just a small sampling below.Information: Google, Wikipedia,...
-
-
 [The things you fear](http://abuseofnotation.github.io/fear/)
 ---
 
@@ -797,4 +717,84 @@ Back in 2020, when I worked in the supply chain side of Google, I had a fun and 
 The n-Category Café --- 2/2/2025
 
 If you want to help save US federal web pages and databases, here are some things to do.
+
+
+[Math-ffirmations](https://www.fractalkitty.com/math-ffirmations/)
+---
+
+Fractal Kitty --- 2/2/2025
+
+Find balance through symmetry.$$f(x) = f(-x)$$Approximation improves with experience.$$e^x = \sum_{n=0}^{\infty} \frac{x^n}{n!} = 1 + x + \frac{x^2}{2!} + \frac{x^3}{3!} + \cdots$$ To untangle is to meditate.$$\huge{\bigcirc}$$Be...
+
+
+[Magnitude, Enriched Categories, and LLMs](https://www.math3ma.com/blog/magnitude-enriched-categories-and-llms)
+---
+
+Math3ma --- 2/2/2025
+
+It's hard for me to believe, but Math3ma is TEN YEARS old today. My first entry was published on February 1, 2015 and is entitled "A Math Blog? Say What?" As evident from that post, I was very unsure about creating this website. At the time,...
+
+
+[A Ripple of Ripples](https://www.fractalkitty.com/a-ripple-of-ripples/)
+---
+
+Fractal Kitty --- 1/31/2025
+
+One thing I love about math and art is the conversations and iterations that flow from their patterns and beauty. After posting Walking Ripples, I have enjoyed seeing how the simplicity of shading circles propagates in conversation, art, and...
+
+
+[Comagnitude 2](https://golem.ph.utexas.edu/category/2025/01/comagnitude_2.html)
+---
+
+The n-Category Café --- 1/30/2025
+
+Thinking about the cardinality of limits leads to a new numerical invariant of set-valued functors.
+
+
+[Comagnitude 1](https://golem.ph.utexas.edu/category/2025/01/comagnitude_1.html)
+---
+
+The n-Category Café --- 1/29/2025
+
+Warming up to a dual concept to magnitude, with an aside on a new connection between magnitude and entropy.
+
+
+[On Skolem’s paradox and the transitive submodel theorem, Rust Belt Workshop in the Philosophy of Logic, Language, and Mathematics, February 2025](https://jdh.hamkins.org/on-skolems-paradox-and-the-transitive-submodel-theorem-rust-belt-workshop-ohio-feb-2025/)
+---
+
+Joel David Hamkins --- 1/28/2025
+
+This will be a talk for the Rust Belt Workshop in the Philosophy of Logic, Language, and Mathematics, held at Ohio State University in Columbus, Ohio, February 8-9, 2025, University Hall (230 N Oval Mall, Columbus, OH) Room 386B. Abstract. …...
+
+
+[The Bernoulli Numbers Come from a Shift Operator](https://rin.io/faulhaber-shift/)
+---
+
+Good Fibrations --- 1/28/2025
+
+
+
+
+[Wyrm Beans](https://www.fractalkitty.com/w/)
+---
+
+Fractal Kitty --- 1/27/2025
+
+Do you ever look at knitted items and liken them to dragon scales? - I do.  So when I decided to make generative textured hats it made sense to call them Wyrm Beans.Just as we can have generative pixel colors on a screen, we can have generative...
+
+
+[The covering reflection principle – Oberwolfach January 2025](https://jdh.hamkins.org/the-covering-reflection-principle-oberwolfach-january-2025/)
+---
+
+Joel David Hamkins --- 1/21/2025
+
+This was a talk I gave at the Set Theory Workshop at the Mathematisches Forschungsinstitut in Oberwolfach, Germany, 12-17 January 2025. Abstract. The principle of covering reflection holds of a cardinal κ if for every structure B in a countable …...
+
+
+[A Song About Computing Sheaf Cohomology with Cech Covers](https://rin.io/cech-covers/)
+---
+
+Good Fibrations --- 1/17/2025
+
+Cech Covers (click the link to listen to us). I wrote this song with my beloved old room mate Christian Gorski in my last year of grad school while I was wrapping up my thesis. For weeks, I was doing nothing but computing etale sheaf cohomologies...
 
