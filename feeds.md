@@ -1,4 +1,20 @@
 
+[Is Satire Dangerous in the AI-Age?](https://blog.computationalcomplexity.org/feeds/6213915790067588239/comments/default)
+---
+
+Computational Complexity --- 5/18/2025
+
+There have been times when satire has been mistaken for reality. A list of Onion stories that were mistaken for reality (or was it a mistake?) is here. When I say mistaken for reality I mean that a large set of people were fooled.My own...
+
+
+[Amiens Cathedral](https://crookedtimber.org/2025/05/18/amiens-cathedral/)
+---
+
+Crooked Timber --- 5/18/2025
+
+
+
+
 [McLarty on ‘The roles of set theories in mathematics’](https://www.logicmatters.net/2025/05/16/mclarty-on-the-roles-of-set-theories-in-mathematics/)
 ---
 
@@ -309,14 +325,6 @@ I’m getting some very nice comments on a late draft of the categories book. �
 Proses.ID --- 4/18/2025
 
 lately I’ve been watching a lot of videos on YouTube about China. it’s partly due to all the chaos around Trump’s tariff, but mostly these…
-
-
-[The point of no return: Only days left to stop a totalitarian state in the US](https://crookedtimber.org/2025/04/17/the-point-of-no-returnonly-days-left-to-stop-a-totalitarian-state-in-the-us/)
----
-
-Crooked Timber --- 4/17/2025
-
-Update The Trump regime has been stopped, or at least stalled, on all three fronts discussed below. In particular, the Hegseth-Noem report on the Insurrection Act seems to have been quietly buried. That doesn’t mean US democracy is safe by any...
 
 
 [Eisenhower's Farewell Address](https://blog.computationalcomplexity.org/feeds/2652353156169756152/comments/default)
@@ -717,14 +725,6 @@ To kill an art, create a way to perform the utilitarian aspect of it in a way th
 Computational Complexity --- 2/19/2025
 
 I recently completed Tomorrow, and Tomorrow, and Tomorrow by Gabrielle Zevin, a book recommended by many including the City of Chicago. The novel covers the decades long journey of two game developers, Sadie and Sam, and how their lives interact...
-
-
-[Big Breakthrough in the exciting world of sum-free sets!](https://blog.computationalcomplexity.org/feeds/4896415070121325368/comments/default)
----
-
-Computational Complexity --- 2/18/2025
-
-Let \([n]\) be the set \(\{1,\ldots,n\}\). (This is standard.)Let X be a set of integers. \(X\) is sum-free if there is NO \(x,y,z\in X\) such that \(x+y=z\). (Note that \(x=y\) is allowed.) Lets try to find a large sum-free set of \([n]\). One...
 
 
 [Cut and Paste Invariants and Duality: A Motivating Example Via zeta(-1), zeta(2) and SL_2Z](https://rin.io/SL2Z/)
