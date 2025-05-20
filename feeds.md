@@ -2,9 +2,25 @@
 [Is Satire Dangerous in the AI-Age?](https://blog.computationalcomplexity.org/feeds/6213915790067588239/comments/default)
 ---
 
-Computational Complexity --- 5/18/2025
+Computational Complexity --- 5/19/2025
 
 There have been times when satire has been mistaken for reality. A list of Onion stories that were mistaken for reality (or was it a mistake?) is here. When I say mistaken for reality I mean that a large set of people were fooled.My own...
+
+
+[\(-e^{i\pi}\) to Watch: Nils Berglund](https://aperiodical.com/2025/05/eipi-to-watch-nils-berglund/)
+---
+
+The Aperiodical --- 5/19/2025
+
+In this series of posts, we’ll be featuring mathematical video and streaming channels from all over the internet, by speaking to the creators of the channel and asking them about what they do. We spoke to Nils Berglund, whose YouTube channel...
+
+
+[Have people really had enough of experts?](https://crookedtimber.org/2025/05/19/have-people-really-had-enough-of-experts/)
+---
+
+Crooked Timber --- 5/19/2025
+
+How far can a government go in harming its own people before it loses support? And what does it mean if this form of harm happens via an attack on public knowledge institutions, from universities to meteorological services, in which expert...
 
 
 [Amiens Cathedral](https://crookedtimber.org/2025/05/18/amiens-cathedral/)
@@ -303,14 +319,6 @@ Blog - Logic Matters --- 4/20/2025
 A wonderful memory this. Last time we were in Venice, with the Daughter, we visited the Scuola Dalmata (Scuola di San Giorgio degli Schiavoni). Though it’s high up the “must see” lists in the guide books, we were the only people there, and had a...
 
 
-[Sunday photoblogging: Irises at the Fort de Bellegarde](https://crookedtimber.org/2025/04/20/sunday-photoblogging-irises-at-the-fort-de-bellegarde/)
----
-
-Crooked Timber --- 4/20/2025
-
-Up at the French-Spanish border in Catalonia
-
-
 [Indeed, just trivially obvious …](https://www.logicmatters.net/2025/04/19/indeed-just-trivially-obvious/)
 ---
 
@@ -405,14 +413,6 @@ In the recent Signalgate scandal, several senior Trump administration appointee
 Blog - Logic Matters --- 4/9/2025
 
 I am busily proof-reading the category theory notes for typos and thinkos and expositional stumbles (while thinking how to much improve the final chapter). I’ve now reviewed the first 25 chapters, i.e. up to the first Interlude, and you’ll find...
-
-
-[Carnival of Maths 238](https://aperiodical.com/2025/04/carnival-of-maths-238/)
----
-
-The Aperiodical --- 4/9/2025
-
-The next issue of the Carnival of Mathematics, rounding up blog posts from the month of March 2025, is now online at Fractal Kitty. The Carnival rounds up maths blog posts from all over the internet, including some from our own Aperiodical. See...
 
 
 [Quantum Ellipsoids](https://golem.ph.utexas.edu/category/2025/04/quantum_ellipsoids.html)
