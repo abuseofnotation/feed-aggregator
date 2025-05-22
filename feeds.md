@@ -1,10 +1,26 @@
 
+[The Blog of Record](https://blog.computationalcomplexity.org/feeds/2494678019119993022/comments/default)
+---
+
+Computational Complexity --- 5/21/2025
+
+On Saturday, I had my last Illinois Tech graduation as dean before I step down at the end of June. The College of Computing had nearly 1600 graduates and I shook many, many hands that morning.After graduation I caught a plane to Washington, DC to...
+
+
+[Double Maths First Thing: Issue 25](https://aperiodical.com/2025/05/double-maths-first-thing-issue-25/)
+---
+
+The Aperiodical --- 5/21/2025
+
+Double Maths First Thing has toothache. Hello! My name is Colin and I am a mathematician on a mission to spread joy and delight in figuring things out. And take my mind off of the dental work I had done yesterday. Send ibuprofen and puzzles. Among...
+
+
 [Inquiries-Week 1: Circle Shading](https://www.fractalkitty.com/inquiries-week-1-circle-shading/)
 ---
 
 Fractal Kitty --- 5/20/2025
 
-This is the first of a series of guided inquiries in math.  If a document is preferred over a blog post, the pdf file is below:Inquiries-Week 1_ Circle ShadingInquiries-Week 1_ Circle Shading.pdf622...
+This is the first of a series of guided inquiries in math.  If a document is preferred over a blog post, the pdf file is below:Inquiries-Week 1_ Circle ShadingInquiries-Week 1_ Circle Shading.pdf615...
 
 
 [Is Satire Dangerous in the AI-Age?](https://blog.computationalcomplexity.org/feeds/6213915790067588239/comments/default)
@@ -343,14 +359,6 @@ The Aperiodical --- 4/14/2025
 In 1693, Christiaan Huygens was struggling to learn the new calculus developed by his former student Gottfried Leibniz. He wrote to Leibniz asking for “any important problems where they should be used, so that this give me desire to study them”....
 
 
-[A bit of inspiration from #MathArtMarch](https://aperiodical.com/2025/04/a-bit-of-inspiration-from-mathartmarch/)
----
-
-The Aperiodical --- 4/10/2025
-
-This is a guest post by Elinor, who’s been collecting her favourite maths art from the month of March. March is a month of change in the UK: the days get longer, the temperature is slowly creeping upwards, and we start to believe that spring may be...
-
-
 [Why Can't We Break Cryptography?](https://blog.computationalcomplexity.org/feeds/6006806958350796296/comments/default)
 ---
 
@@ -645,14 +653,6 @@ My four-year-old son has declared 36 to be the best number. His reason: 36 is th
 Abuse of Notation --- 2/20/2025
 
 To kill an art, create a way to perform the utilitarian aspect of it in a way that is formulaic and efficient i.e. artless. (The art is not really dead, it is just understood by a very small amount of people (mostly other creators).) The art of...
-
-
-[Tomorrow and Yesterday](https://blog.computationalcomplexity.org/feeds/1621602064619337137/comments/default)
----
-
-Computational Complexity --- 2/19/2025
-
-I recently completed Tomorrow, and Tomorrow, and Tomorrow by Gabrielle Zevin, a book recommended by many including the City of Chicago. The novel covers the decades long journey of two game developers, Sadie and Sam, and how their lives interact...
 
 
 [Cut and Paste Invariants and Duality: A Motivating Example Via zeta(-1), zeta(2) and SL_2Z](https://rin.io/SL2Z/)
