@@ -1,4 +1,28 @@
 
+[Some are Mathematicians, some are Carpenter's Wives, Some are Popes.](https://blog.computationalcomplexity.org/feeds/5926504193330043797/comments/default)
+---
+
+Computational Complexity --- 5/26/2025
+
+(Trivia: What song has the lyric Some are Mathematicians, some are Carpenters's wives ? Its not a parody song, though sometimes its hard to tell a parody song from a so-called real song.)In my post about Pope Leo XIV I made the following comments...
+
+
+[Schubert on Sunday 12: Fantasy for Violin and Piano, D. 934](https://www.logicmatters.net/2025/05/25/schubert-on-sunday-12-fantasy-for-violin-and-piano-d-934/)
+---
+
+Blog - Logic Matters --- 5/25/2025
+
+Charlotte Saluste-Bridoux — the prize-winning young violinist, who has recently joined her teacher Alina Ibragimova as the new second violinist for the spectacularly good Chiaroscuro Quartet — has a fine Schubert CD newly out with her regular duo...
+
+
+[Sunday photoblogging: ship turning on the Elbe](https://crookedtimber.org/2025/05/25/sunday-photoblogging-ship-turning-on-the-elbe/)
+---
+
+Crooked Timber --- 5/25/2025
+
+
+
+
 [Categorial progress …](https://www.logicmatters.net/2025/05/23/categorial-progress-2/)
 ---
 
@@ -295,7 +319,7 @@ Crooked Timber --- 4/28/2025
 I posted this on my (private) Facebook page a few weeks back, just to vent. Since it resonated with quite a few people, I am reposting it here. I thought it was a platitude, but given the sea of self-congratulatory discourse about Europe (here’s an...
 
 
-[Schubert on Sunday 11](https://www.logicmatters.net/2025/04/27/schubert-on-sunday-11/)
+[Schubert on Sunday 11: The Trout Quintet](https://www.logicmatters.net/2025/04/27/schubert-on-sunday-11/)
 ---
 
 Blog - Logic Matters --- 4/27/2025
@@ -325,14 +349,6 @@ I have just uploaded a revised version of Introducing Category Theory, which as 
 Crooked Timber --- 4/26/2025
 
 Political philosophers are criticised for their idealism, but when it comes to immigration they try to be ‘realistic’. Their aspiration to ‘realism’ often leads to nationalism (which I have analysed elsewhere as an implicit but heavy bias), but I...
-
-
-[Kid Stuff: Movies](https://crookedtimber.org/2025/04/25/kid-stuff-movies/)
----
-
-Crooked Timber --- 4/25/2025
-
-This is the second in a very occasional series of posts discussing the following proposition: in the English-speaking world, the last 50 years has seen a dramatic increase in the quantity and quality of text and visual mass media intended for...
 
 
 [Real People](https://blog.computationalcomplexity.org/feeds/3324314187072757023/comments/default)
@@ -477,14 +493,6 @@ This will be a talk for the conference on Ultrafinitism: Physics, Mathematics, a
 Joel David Hamkins --- 4/6/2025
 
 This will be a talk for the Logic Seminar at the Mathematical Institute of the University of Oxford, 29 May 2025 5pm Andrew Wiles Building. Abstract. For a given computably enumerable set $W$, consider the spectrum of assertions of the … Continue...
-
-
-[Four handshakes from Trotsky](https://www.logicmatters.net/2025/04/05/four-handshakes-from-trotsky/)
----
-
-Blog - Logic Matters --- 4/5/2025
-
-My good friend, the logician Thomas Forster, tells me that he once shared an office with Giovanna Corsi, who at one point shared an office with Jean van Heijenoort, who was Trotsky’s personal secretary in the 1930s ….  The post Four handshakes from...
 
 
 [238th Carnival of Mathematics](https://www.fractalkitty.com/238th-carnival-of-mathematic/)
@@ -717,14 +725,6 @@ Just as I was complaining that we haven't seen many surprising breakthroughs in 
 The n-Category Café --- 2/26/2025
 
 Who are the applied category theorists working on AI, and what are they doing?
-
-
-[Why my department hopes I do not die this spring](https://blog.computationalcomplexity.org/feeds/7315413993215323542/comments/default)
----
-
-Computational Complexity --- 2/24/2025
-
-Alice is scheduled to teach X in the Spring.Then Alice CAN'T! (illness, death, or some other reason)What is the department to do?1) If it's an undergraduate class then likely there are other people who are QUALIFIED. Perhaps a grad student, perhaps...
 
 
 [My 4-year-old declares 36 the best number](https://www.jeremykun.com/shortform/2025-02-23-1057/)
