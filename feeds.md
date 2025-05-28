@@ -1,4 +1,52 @@
 
+[Monad](http://abuseofnotation.github.io/monad/)
+---
+
+Abuse of Notation --- 5/27/2025
+
+title: A monad layout: microblog category: microblog tags: programming haskell — A monad is when you know how to convert $M (M a)$ to $M a$, but not $M a$ to $a$.
+
+
+[The level of progress in programming language design](http://abuseofnotation.github.io/pl-design/)
+---
+
+Abuse of Notation --- 5/27/2025
+
+The level of progress in programming language design: Shortly after the first ever programming language was created, it’s author said that the language’s whole paradigm is flawed and we should do functional programming instead*. That was 46 years...
+
+
+[I want to forget](http://abuseofnotation.github.io/forget/)
+---
+
+Abuse of Notation --- 5/27/2025
+
+I want to forget Gaza. I want to forget the pain. I want to forget all dumb jokes, old song lyrics. I want to forget that most things ever happened, as remembering makes everything tedious. Forces you to become a bureaucrat of your memories, to...
+
+
+[Love](http://abuseofnotation.github.io/mushrooms/)
+---
+
+Abuse of Notation --- 5/27/2025
+
+Every time you eat mushrooms, I have to try them too. Cause, if the mushrooms turn out to be poisonous and you die of slow and painful dead, I will die as well. I once dreamed that I was dying, You were beside me, I turned to you and said, “I don’t...
+
+
+[The road I walk](http://abuseofnotation.github.io/road/)
+---
+
+Abuse of Notation --- 5/27/2025
+
+The road I walk is new. It’s made not of stone, but dirt. There are no road signs yet. And no bridges to cover the rivers. The road I walk is new, so people think that it is hard. “How do swim?” “Don’t you get dirty?” “How do you cope with all that...
+
+
+[Walk](http://abuseofnotation.github.io/walk/)
+---
+
+Abuse of Notation --- 5/27/2025
+
+Out for a walk I let go and let the city dissolve me.
+
+
 [Some are Mathematicians, some are Carpenters'  Wives, Some are Popes.](https://blog.computationalcomplexity.org/feeds/5926504193330043797/comments/default)
 ---
 
@@ -655,36 +703,12 @@ Math ∩ Programming --- 2/23/2025
 My four-year-old son has declared 36 to be the best number. His reason: 36 is the only number (he knows of) that is both a square and a staircase number AND an up-and-down-staircase number. “Staircase numbers” are what he calls triangular numbers...
 
 
-[To kill an art](http://abuseofnotation.github.io/kill-art/)
----
-
-Abuse of Notation --- 2/20/2025
-
-To kill an art, create a way to perform the utilitarian aspect of it in a way that is formulaic and efficient i.e. artless. (The art is not really dead, it is just understood by a very small amount of people (mostly other creators).) The art of...
-
-
 [Cut and Paste Invariants and Duality: A Motivating Example Via zeta(-1), zeta(2) and SL_2Z](https://rin.io/SL2Z/)
 ---
 
 Good Fibrations --- 2/14/2025
 
 Here’s something enticing and strange: there are two “cut and paste” invariants of the same group which are equal to dual zeta values! the euler characteristic \( \chi(SL_2(\mathbb{Z})) = \zeta(-1), \) and the tamagawa measure of \(...
-
-
-[The things you fear](http://abuseofnotation.github.io/fear/)
----
-
-Abuse of Notation --- 2/12/2025
-
-The things you fear would happen are already happening. The only way to make them seize is to stop fearing.
-
-
-[The Hand](http://abuseofnotation.github.io/the-hand/)
----
-
-Abuse of Notation --- 2/12/2025
-
-title: The hand cluches layout: microblog category: microblog tags: zen — The hand clutches so hard, that it does not realize it is not holding anything.
 
 
 [StreamOf.me](https://www.fractalkitty.com/streamof-me/)
@@ -709,14 +733,6 @@ There's a universal characterization of standard Borel spaces!
 Math ∩ Programming --- 2/10/2025
 
 A colleague of mine recently lent a hand implementing a polynomial approximation routine I could port to our compiler, though it wasn’t the method I was expecting. As I had written about previously, I was studying the Remez algorithm and...
-
-
-[Philosophy beefs](http://abuseofnotation.github.io/philosophy-beefs/)
----
-
-Abuse of Notation --- 2/10/2025
-
-This is a list of varioust arguments, quarrels, disagreements i.e. “beefs” that philosophers have had with one another. Heraclitus vs. Parmenides (5th century BCE) Beef: A clash between Heraclitus’s belief in constant change and Parmenides’s...
 
 
 [Explainable Linear Programs](https://www.jeremykun.com/shortform/2025-02-06-2124/)
@@ -781,20 +797,4 @@ Warming up to a dual concept to magnitude, with an aside on a new connection bet
 Joel David Hamkins --- 1/28/2025
 
 This will be a talk for the Rust Belt Workshop in the Philosophy of Logic, Language, and Mathematics, held at Ohio State University in Columbus, Ohio, February 8-9, 2025, University Hall (230 N Oval Mall, Columbus, OH) Room 386B. Abstract. …...
-
-
-[The Bernoulli Numbers Come from a Shift Operator](https://rin.io/faulhaber-shift/)
----
-
-Good Fibrations --- 1/28/2025
-
-
-
-
-[Wyrm Beans](https://www.fractalkitty.com/w/)
----
-
-Fractal Kitty --- 1/27/2025
-
-Do you ever look at knitted items and liken them to dragon scales? - I do.  So when I decided to make generative textured hats it made sense to call them Wyrm Beans.Just as we can have generative pixel colors on a screen, we can have generative...
 
