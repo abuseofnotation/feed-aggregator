@@ -1,4 +1,20 @@
 
+[The Hilltop Story](https://blog.computationalcomplexity.org/feeds/6915666163896139300/comments/default)
+---
+
+Computational Complexity --- 5/28/2025
+
+On Route 1 in Saugus, Massachusetts, about a twenty minute drive from Cambridge, stood the Hilltop Steak House. When I went to graduate school in the late 80's, Hilltop led all restaurants in the United States by sales (about $30 million in annual...
+
+
+[Double Maths First Thing: Issue 26](https://aperiodical.com/2025/05/double-maths-first-thing-issue-26/)
+---
+
+The Aperiodical --- 5/28/2025
+
+Double Maths First Thing shaves newsletters if and only if they don’t shave themselves Hello! My name is Colin and I am a mathematician on a mission to spread joy and delight in puzzles, problem-solving and practicing maths. I’m currently wading...
+
+
 [Monad](http://abuseofnotation.github.io/monad/)
 ---
 
@@ -383,14 +399,6 @@ Computational Complexity --- 4/16/2025
 I'm short on time time this week so I thought it would be good to look back, some 64 years ago, to Dwight Eisenhower's farewell address. It calls for balance between the industrial-military Complex and the scientific-technological elite. While...
 
 
-[Double Maths First Thing: Issue 20](https://aperiodical.com/2025/04/double-maths-first-thing-issue-20/)
----
-
-The Aperiodical --- 4/16/2025
-
-Double Maths First Thing doesn’t look an issue older than 1F Hello! My name is Colin and I am a mathematician on a mission to spread joy in the creativity and beauty of maths, in the delight of figuring things out and asking more questions. This...
-
-
 [Position in Stellenbosch](https://golem.ph.utexas.edu/category/2025/04/position_in_stellenbosch.html)
 ---
 
@@ -677,14 +685,6 @@ PDE methods in magnitude, looked at categorically.
 The n-Category Café --- 2/26/2025
 
 Potential functions from a functorial perspective.
-
-
-[You Need Much Less Memory than Time](https://blog.computationalcomplexity.org/feeds/3222385872113044921/comments/default)
----
-
-Computational Complexity --- 2/26/2025
-
-Just as I was complaining that we haven't seen many surprising breakthroughs in complexity recently, we get an earthquake of a result to start the year, showing that all algorithms can be simulated using considerable less memory than the time of...
 
 
 [Category Theorists in AI](https://golem.ph.utexas.edu/category/2025/02/category_theorists_in_ai.html)
