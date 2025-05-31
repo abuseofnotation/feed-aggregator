@@ -1,4 +1,12 @@
 
+[Aperiodical News Roundup – April & May 2025](https://aperiodical.com/2025/05/aperiodical-news-roundup-april-may-2025/)
+---
+
+The Aperiodical --- 5/30/2025
+
+Here’s a round-up of all the mathematical news from the last couple of months we didn’t otherwise cover here. Prizes and Awards The Shaw Prize in Mathematical Sciences 2025 has been awarded to Kenji Fukaya, “for his pioneering work on symplectic...
+
+
 [The Hilltop Story](https://blog.computationalcomplexity.org/feeds/6915666163896139300/comments/default)
 ---
 
@@ -421,14 +429,6 @@ Political philosophers are criticised for their idealism, but when it comes to i
 Computational Complexity --- 4/23/2025
 
 Right after the election I wrote a post predicting what would happen to higher education under Trump, most of which is coming true, but I had a massive failure of imagination missing the direct attacks on major universities. I won't detail all the...
-
-
-[Double Maths First Thing: Issue 21](https://aperiodical.com/2025/04/double-maths-first-thing-issue-21/)
----
-
-The Aperiodical --- 4/23/2025
-
-No dragons were harmed in the making of Double Maths First Thing. Hello! My name is Colin and I am a mathematician on a mission to spread joy and delight in numerical noodling, patterny playfulness and generally messing about with maths. This week...
 
 
 [The Church of Logic podcast, April 2025](https://jdh.hamkins.org/the-church-of-logic-podcast-april-2025/)
