@@ -1,4 +1,12 @@
 
+[Newt](https://crookedtimber.org/2025/05/31/newt/)
+---
+
+Crooked Timber --- 5/31/2025
+
+Unemployed, I spent a week in April digging a small pond in our back yard. At the time, it was a distraction. Now it is… actually, a different sort of distraction. Because although it’s not a very big pond — about 3 meters by 2, maximum depth about...
+
+
 [Aperiodical News Roundup – April & May 2025](https://aperiodical.com/2025/05/aperiodical-news-roundup-april-may-2025/)
 ---
 
@@ -413,14 +421,6 @@ Crooked Timber --- 4/27/2025
 Blog - Logic Matters --- 4/26/2025
 
 I have just uploaded a revised version of Introducing Category Theory, which as usual you’ll find linked on the categories page. I will need to do some more proof-reading (with a bit of help from ChatGPT and from my useful new friend Claude). And I...
-
-
-[Popes vs Philosophers: Whose Ethics of Immigration?](https://crookedtimber.org/2025/04/26/popes-vs-philosophers-whose-ethics-of-immigration/)
----
-
-Crooked Timber --- 4/26/2025
-
-Political philosophers are criticised for their idealism, but when it comes to immigration they try to be ‘realistic’. Their aspiration to ‘realism’ often leads to nationalism (which I have analysed elsewhere as an implicit but heavy bias), but I...
 
 
 [Real People](https://blog.computationalcomplexity.org/feeds/3324314187072757023/comments/default)
