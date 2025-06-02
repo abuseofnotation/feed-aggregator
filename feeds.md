@@ -1,4 +1,20 @@
 
+[Tannaka Reconstruction and the Monoid of Matrices](https://golem.ph.utexas.edu/category/2025/06/tannaka_reconstruction_and_the.html)
+---
+
+The n-Category Café --- 6/1/2025
+
+Todd Trimble and I wrote a paper on characterizing classical groups (and monoids) in terms of their 2-rigs of representations.
+
+
+[Altona: from the street to a courtyard](https://crookedtimber.org/2025/06/01/altona-from-the-street-to-a-courtyard/)
+---
+
+Crooked Timber --- 6/1/2025
+
+
+
+
 [Newt](https://crookedtimber.org/2025/05/31/newt/)
 ---
 
@@ -407,14 +423,6 @@ Blog - Logic Matters --- 4/27/2025
 A quite wonderful performance of the Trout Quintet by Patricia Kopatschinskaja, Anastasia Kobekina, and friends, made available by the Gstaad Digital Festival (to watch, you might have to register, but that’s free). Enjoy! The post Schubert on...
 
 
-[Sunday photoblogging: Béziers](https://crookedtimber.org/2025/04/27/sunday-photoblogging-beziers-2/)
----
-
-Crooked Timber --- 4/27/2025
-
-
-
-
 [Category theory introduced!](https://www.logicmatters.net/2025/04/26/category-theory-introduced/)
 ---
 
@@ -789,12 +797,4 @@ My four-year-old son has declared 36 to be the best number. His reason: 36 is th
 Good Fibrations --- 2/14/2025
 
 Here’s something enticing and strange: there are two “cut and paste” invariants of the same group which are equal to dual zeta values! the euler characteristic \( \chi(SL_2(\mathbb{Z})) = \zeta(-1), \) and the tamagawa measure of \(...
-
-
-[StreamOf.me](https://www.fractalkitty.com/streamof-me/)
----
-
-Fractal Kitty --- 2/11/2025
-
-On winter solstice I had my personal "new-year" and I started an experimental journal of self. My motivation was to see if my experiences and awareness change through the type of journaling that I do. Will tallying the days that I glimpse the moon,...
 
