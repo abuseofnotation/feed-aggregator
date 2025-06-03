@@ -1,4 +1,28 @@
 
+[Complexity theory of hand-calculations](https://blog.computationalcomplexity.org/feeds/972473648634693690/comments/default)
+---
+
+Computational Complexity --- 6/2/2025
+
+(Thanks to David Marcus who sent me the video I point to in point 4 of this post. Tip for young bloggers (if there are any) you can have a half-baked idea for a post and then someone sends you something OR you later have an idea to make it a...
+
+
+[Open Science and Its Enemies](https://crookedtimber.org/2025/06/02/open-science-and-its-enemies/)
+---
+
+Crooked Timber --- 6/2/2025
+
+Donald Trump has signed an Executive Order nominally aimed at “Restoring Gold Standard Science”. Setting aside the absurdity of “restoring” something that never existed, what does that purport to mean? Gold Standard Science means science conducted...
+
+
+[\(-e^{i\pi}\) to Watch: Jim Simons](https://aperiodical.com/2025/06/eipi-to-watch-jim-simons/)
+---
+
+The Aperiodical --- 6/2/2025
+
+In this series of posts, we’ll be featuring mathematical video and streaming channels from all over the internet, by speaking to the creators of the channel and asking them about what they do. We spoke to retired mathematician and A-level maths...
+
+
 [Tannaka Reconstruction and the Monoid of Matrices](https://golem.ph.utexas.edu/category/2025/06/tannaka_reconstruction_and_the.html)
 ---
 
@@ -375,14 +399,6 @@ Computational Complexity --- 4/30/2025
 As someone who has literally written a book on the topic, I have had many people over the years send me their attempts at P v NP proofs. On average, I receive about one a month, but I've had seven in the last two weeks. And not just the usual email...
 
 
-[Double Maths First Thing: Issue 22](https://aperiodical.com/2025/04/double-maths-first-thing-issue-22/)
----
-
-The Aperiodical --- 4/30/2025
-
-Double Maths First Thing is HORRIFIED and you should be too. Hello! My name is Colin and I am a mathematician on a mission to spread joy and delight, so obviously I’m going to start with something awful: I recently learned that a “one-year flood”...
-
-
 [The War on Water Pressure](https://crookedtimber.org/2025/04/29/the-war-on-water-pressure/)
 ---
 
@@ -405,14 +421,6 @@ I wrote this about a month ago but wanted to wait until after the REU PI confere
 Crooked Timber --- 4/28/2025
 
 Here is a joke. A philosopher goes to a policy committee. Got it? Okay, okay, it’s probably a bad joke. It’s also outdated: these days, many philosophers do go to policy committees. The cliché is that a philosopher sits in the academic ivory tower,...
-
-
-[Which Europe is worth defending?](https://crookedtimber.org/2025/04/28/which-europe-is-worth-defending/)
----
-
-Crooked Timber --- 4/28/2025
-
-I posted this on my (private) Facebook page a few weeks back, just to vent. Since it resonated with quite a few people, I am reposting it here. I thought it was a platitude, but given the sea of self-congratulatory discourse about Europe (here’s an...
 
 
 [Schubert on Sunday 11: The Trout Quintet](https://www.logicmatters.net/2025/04/27/schubert-on-sunday-11/)
@@ -749,14 +757,6 @@ At the Agda headquaters: “OK, guys, so our user pool consists only of folks wh
 Abuse of Notation --- 3/5/2025
 
 I don’t want to lose the human in me, I don’t want to have to see the world through their ways. I don’t want to have to feel through their point of view, To be locked inside it like an alien in a space suit. I don’t have to lose the human in me....
-
-
-[Karp recently turned 90 but there was no conference to celebrate that. Which numbers do we use and why?](https://blog.computationalcomplexity.org/feeds/7296866488806687160/comments/default)
----
-
-Computational Complexity --- 3/3/2025
-
-Karp turned 90 in January of 2025. I searched to see if there is a 90th Birthday Conference for him. I did not find one (is there one?). For which years do we have celebratory birthday conferences?Here are some conferences in honor of 60th...
 
 
 [Potential Functions and the Magnitude of Functors 1](https://golem.ph.utexas.edu/category/2025/02/potential_functions_and_the_ma.html)
