@@ -1,10 +1,26 @@
 
+[Inquiries-Week 2: Modular Fibonacci](https://www.fractalkitty.com/inquiries-week-2-modular-fibonacci/)
+---
+
+Fractal Kitty --- 6/3/2025
+
+IntroductionIn this activity, we'll explore patterns by finding the remainders when Fibonacci numbers are divided by other numbers.ModuloSometimes, the most interesting part of dividing numbers is what's left over—the remainder. This is where...
+
+
 [Complexity theory of hand-calculations](https://blog.computationalcomplexity.org/feeds/972473648634693690/comments/default)
 ---
 
-Computational Complexity --- 6/2/2025
+Computational Complexity --- 6/3/2025
 
 (Thanks to David Marcus who sent me the video I point to in point 4 of this post. Tip for young bloggers (if there are any) you can have a half-baked idea for a post and then someone sends you something OR you later have an idea to make it a...
+
+
+[On The Political Roots of Academic Freedom](https://crookedtimber.org/2025/06/03/on-the-political-roots-of-academic-freedom/)
+---
+
+Crooked Timber --- 6/3/2025
+
+But perhaps there was no event, which tended farther to the improvement of the age, than one, which has not been much remarked, the accidental finding of a copy of Justinian’s Pandects, about the year 1130, in the town of Amalfi in Italy.—David...
 
 
 [Open Science and Its Enemies](https://crookedtimber.org/2025/06/02/open-science-and-its-enemies/)
@@ -415,14 +431,6 @@ Computational Complexity --- 4/28/2025
 I wrote this about a month ago but wanted to wait until after the REU PI conference (which was April 21-22-23) to post it. I add a few comments based on what has happened since, which I preface with...
 
 
-[Policy-oriented political philosophy](https://crookedtimber.org/2025/04/28/policy-oriented-political-philosophy/)
----
-
-Crooked Timber --- 4/28/2025
-
-Here is a joke. A philosopher goes to a policy committee. Got it? Okay, okay, it’s probably a bad joke. It’s also outdated: these days, many philosophers do go to policy committees. The cliché is that a philosopher sits in the academic ivory tower,...
-
-
 [Schubert on Sunday 11: The Trout Quintet](https://www.logicmatters.net/2025/04/27/schubert-on-sunday-11/)
 ---
 
@@ -789,12 +797,4 @@ Who are the applied category theorists working on AI, and what are they doing?
 Math ∩ Programming --- 2/23/2025
 
 My four-year-old son has declared 36 to be the best number. His reason: 36 is the only number (he knows of) that is both a square and a staircase number AND an up-and-down-staircase number. “Staircase numbers” are what he calls triangular numbers...
-
-
-[Cut and Paste Invariants and Duality: A Motivating Example Via zeta(-1), zeta(2) and SL_2Z](https://rin.io/SL2Z/)
----
-
-Good Fibrations --- 2/14/2025
-
-Here’s something enticing and strange: there are two “cut and paste” invariants of the same group which are equal to dual zeta values! the euler characteristic \( \chi(SL_2(\mathbb{Z})) = \zeta(-1), \) and the tamagawa measure of \(...
 
