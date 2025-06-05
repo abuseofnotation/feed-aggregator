@@ -1,4 +1,20 @@
 
+[Rules vs Standards](https://blog.computationalcomplexity.org/feeds/630081856772386730/comments/default)
+---
+
+Computational Complexity --- 6/4/2025
+
+You can write laws that are very specific, like the US tax code, or open to interpretation like the first amendment. In the literature these are known as rules and standards respectively. In computational complexity, we generally think of...
+
+
+[Double Maths First Thing: Issue 27](https://aperiodical.com/2025/06/double-maths-first-thing-issue-27/)
+---
+
+The Aperiodical --- 6/4/2025
+
+Double Maths First Thing always takes the weather with it Hello! My name is Colin and I am a mathematician on a mission to disseminate mathematical joy and the pleasure of figuring things out. I’m just back from a week in the Peak District, where...
+
+
 [Inquiries-Week 2: Modular Fibonacci](https://www.fractalkitty.com/inquiries-week-2-modular-fibonacci/)
 ---
 
@@ -375,14 +391,6 @@ Computational Complexity --- 5/6/2025
 In a recent post by Scott (see here or just read my post which includes his post) he listed topis that he conjectured would NOT cause an outrage.I was going to write a long comment in his comments section, which would only be read by people who...
 
 
-[Carnival of Maths 239](https://aperiodical.com/2025/05/carnival-of-maths-239/)
----
-
-The Aperiodical --- 5/6/2025
-
-The next issue of the Carnival of Mathematics, rounding up blog posts from the month of April 2025, is now online at Reflections and Tangents. The Carnival rounds up maths blog posts from all over the internet, including some from our...
-
-
 [Sunday photoblogging: Mèze](https://crookedtimber.org/2025/05/04/sunday-photoblogging-meze/)
 ---
 
@@ -741,14 +749,6 @@ I am honored to be giving the 2025 William Reinhardt Memorial Lecture at the Uni
 The n-Category Café --- 3/5/2025
 
 Is the map from the Burnside ring to the representation ring of a finite group usually surjective, or usually not?
-
-
-[Taking a Stand](https://blog.computationalcomplexity.org/feeds/3248940628189492103/comments/default)
----
-
-Computational Complexity --- 3/5/2025
-
-On February 20th we got the news from the National Science Foundation Algorithms Foundations Team that long-time NSF program director Tracy Kimbrel, was leaving the NSF, and not by choice.Along with many others in part-time status at NSF, my...
 
 
 [Agda](http://abuseofnotation.github.io/agda/)
