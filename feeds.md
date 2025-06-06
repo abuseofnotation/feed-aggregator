@@ -1,4 +1,20 @@
 
+[Introducing Category Theory (an almost final version)](https://www.logicmatters.net/2025/06/05/introducing-category-theory-an-almost-final-version/)
+---
+
+Blog - Logic Matters --- 6/5/2025
+
+Not the paperback (yet). But there is now a full version of Introducing Category Theory that I don’t plan to do anything much more with than get my AI friends to continue proof-reading onwards from about half way through. I’ll cast my eye over the...
+
+
+[Occasional paper: The impossible predicament of the death newts](https://crookedtimber.org/2025/06/05/occasional-paper-the-impossible-predicament-of-the-death-newts/)
+---
+
+Crooked Timber --- 6/5/2025
+
+So a few days ago I posted about newts, and I mentioned that there was an American newt that was ridiculously toxic. But then (I said) there wasn’t space or time to go into why. And of course I was immediately bombarded by many* comments and...
+
+
 [Rules vs Standards](https://blog.computationalcomplexity.org/feeds/630081856772386730/comments/default)
 ---
 
@@ -423,14 +439,6 @@ Computational Complexity --- 4/30/2025
 As someone who has literally written a book on the topic, I have had many people over the years send me their attempts at P v NP proofs. On average, I receive about one a month, but I've had seven in the last two weeks. And not just the usual email...
 
 
-[The War on Water Pressure](https://crookedtimber.org/2025/04/29/the-war-on-water-pressure/)
----
-
-Crooked Timber --- 4/29/2025
-
-I was not invited to the meeting where the left coordinated their war on water pressure. Sadly, then, it was over before I even knew it was happening. One of those American executive orders (and gosh we’re getting tired of those, even from the...
-
-
 [A personal view of the NSF hot mess: My REU program](https://blog.computationalcomplexity.org/feeds/1786219834884962707/comments/default)
 ---
 
@@ -541,14 +549,6 @@ I recently read the following theoremDef: A semigroup is a pair \((G,*)\) where 
 Computational Complexity --- 4/9/2025
 
 In the recent Signalgate scandal, several senior Trump administration appointees used the Signal app on their phones to discuss an attack on the Houthis. People discussed the risk of the phones being compromised or human factors, such as adding a...
-
-
-[Updates: Categories and PHQ](https://www.logicmatters.net/2025/04/09/updates-categories-and-phq/)
----
-
-Blog - Logic Matters --- 4/9/2025
-
-I am busily proof-reading the category theory notes for typos and thinkos and expositional stumbles (while thinking how to much improve the final chapter). I’ve now reviewed the first 25 chapters, i.e. up to the first Interlude, and you’ll find...
 
 
 [Quantum Ellipsoids](https://golem.ph.utexas.edu/category/2025/04/quantum_ellipsoids.html)
