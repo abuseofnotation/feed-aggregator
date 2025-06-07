@@ -1,4 +1,12 @@
 
+[Podcasting About: Stats + Stories](https://aperiodical.com/2025/06/podcasting-about-stats-stories/)
+---
+
+The Aperiodical --- 6/6/2025
+
+In this series of posts, we’ll be featuring mathematical podcasts from all over the internet, by speaking to the creators of the podcast and asking them about what they do. We spoke to John Bailer and Rosemary Pennington, the hosts of the podcast...
+
+
 [Introducing Category Theory (an almost final version)](https://www.logicmatters.net/2025/06/05/introducing-category-theory-an-almost-final-version/)
 ---
 
@@ -389,14 +397,6 @@ This is a guest post by Martin Whitworth. I am the organiser of Cheltenham Maths
 Computational Complexity --- 5/8/2025
 
 I reviewed a paper recently and I had to agree not to use AI in any aspect of the reviewing process. So I didn't but it felt strange, like I wouldn't be able to use a calculator to check calculations in a paper. Large language models aren't perfect...
-
-
-[Double Maths First Thing: Issue 23](https://aperiodical.com/2025/05/double-maths-first-thing-issue-23/)
----
-
-The Aperiodical --- 5/7/2025
-
-Double Maths First Thing will sign autographs, form an orderly queue Hello! My name is Colin and I am a mathematician on a mission to spread joy and delight in mathematical practice. Last week, the Pseudorandom Ensemble gave our first...
 
 
 [My response to Scott's least controversal post ever!](https://blog.computationalcomplexity.org/feeds/1591253853526776898/comments/default)
