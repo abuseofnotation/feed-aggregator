@@ -1,4 +1,28 @@
 
+[Clara, Noa, Elisabeth](https://www.logicmatters.net/2025/06/08/clara-noa-elisabeth/)
+---
+
+Blog - Logic Matters --- 6/8/2025
+
+As the world continues to go to hell in a handcart, let’s just pause for ten minutes to remind ourselves that there is beauty and tenderness … So from a couple of months ago, here are Noa Wildschut and Elisabeth Brauß playing the Three Romances for...
+
+
+[Happy World Ocean Day!](https://crookedtimber.org/2025/06/08/happy-world-ocean-day-2/)
+---
+
+Crooked Timber --- 6/8/2025
+
+Except it’s not happy, of course. The ocean’s ecosystems are going to hell in a hand-cart, while our politicians congratulate themselves for signing up to pledges (like protecting 30% of the ocean by 2030) that they have no realistic plan for...
+
+
+[Sunday photoblogging: Bath doorways](https://crookedtimber.org/2025/06/08/sunday-photoblogging-bath-doorways/)
+---
+
+Crooked Timber --- 6/8/2025
+
+
+
+
 [Podcasting About: Stats + Stories](https://aperiodical.com/2025/06/podcasting-about-stats-stories/)
 ---
 
@@ -407,28 +431,12 @@ Computational Complexity --- 5/6/2025
 In a recent post by Scott (see here or just read my post which includes his post) he listed topis that he conjectured would NOT cause an outrage.I was going to write a long comment in his comments section, which would only be read by people who...
 
 
-[Sunday photoblogging: Mèze](https://crookedtimber.org/2025/05/04/sunday-photoblogging-meze/)
----
-
-Crooked Timber --- 5/4/2025
-
-
-
-
 [Lea Desandre, Claude, Categories …](https://www.logicmatters.net/2025/05/01/lea-desandre-claude-categories/)
 ---
 
 Blog - Logic Matters --- 5/1/2025
 
 We have just booked tickets to see the wondrous Lea Desandre at Wigmore Hall on Tuesday 16 September, singing Dowland and Purcell. It should be an amazing concert. If you haven’t ever seen her perform then this candlelit concert from Rouen three...
-
-
-[Not so Deep Thoughts about Deep AI](https://crookedtimber.org/2025/04/30/not-so-deep-thoughts-about-deep-ai/)
----
-
-Crooked Timber --- 4/30/2025
-
-Back in 2022, after my first encounter with ChatGPT, I suggested that it was likely to wipe out large categories of “bullshit jobs”, but unlikely to create mass unemployment. In retrospect, that was probably an overestimate of the likely impact....
 
 
 [P v NP Papers Galore](https://blog.computationalcomplexity.org/feeds/3127879843679420539/comments/default)
@@ -485,14 +493,6 @@ I was interviewed by Cody Roux for The Church of Logic podcast—a fascinating s
 Blog - Logic Matters --- 4/20/2025
 
 A wonderful memory this. Last time we were in Venice, with the Daughter, we visited the Scuola Dalmata (Scuola di San Giorgio degli Schiavoni). Though it’s high up the “must see” lists in the guide books, we were the only people there, and had a...
-
-
-[Indeed, just trivially obvious …](https://www.logicmatters.net/2025/04/19/indeed-just-trivially-obvious/)
----
-
-Blog - Logic Matters --- 4/19/2025
-
-I’m getting some very nice comments on a late draft of the categories book. “A rich and thoughtful introduction, both mathematically and philosophically”. “This is extremely readable, with clarity, philosophical depth, and pedagogical structure. It...
 
 
 [China and I](http://proses.id/china/)
