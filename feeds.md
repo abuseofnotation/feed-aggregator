@@ -1,4 +1,12 @@
 
+[Platform work, redux](https://crookedtimber.org/2025/06/10/platform-work-redux/)
+---
+
+Crooked Timber --- 6/10/2025
+
+A few days ago, I experienced a strange auditive mix-up. My favorite German radio program, Deutschlandfunk, sent a documentary about “platform workers”. Uber, Deliveroo, etc., you might think, but no. This was about workers on oil platforms in...
+
+
 [The New Godel Prize Winner Tastes Great and is Less Filling](https://blog.computationalcomplexity.org/feeds/4217811809607354532/comments/default)
 ---
 
@@ -13,6 +21,14 @@ David ZuckermanThe 2025 Gödel Prize has been awarded to Eshan Chattopadhyay and
 Crooked Timber --- 6/9/2025
 
 A generation ago, General Electric’s CEO, Jack Welch (1935 – 2020) was the most admired business manager in the world. And General Electric purportedly the most admired corporation. Among his well-known attributes, Welch “would fire the bottom 10%...
+
+
+[Clara, Noa, Elisabeth](https://www.logicmatters.net/2025/06/08/clara-noa-elisabeth/)
+---
+
+Blog - Logic Matters --- 6/8/2025
+
+As the world continues to go to hell in a handcart, let’s just pause for ten minutes to remind ourselves that there is beauty and tenderness … So from a couple of months ago, here are Noa Wildschut and Elisabeth Brauß playing the Three Romances for...
 
 
 [Happy World Ocean Day!](https://crookedtimber.org/2025/06/08/happy-world-ocean-day-2/)
@@ -37,6 +53,14 @@ Crooked Timber --- 6/8/2025
 The Aperiodical --- 6/6/2025
 
 In this series of posts, we’ll be featuring mathematical podcasts from all over the internet, by speaking to the creators of the podcast and asking them about what they do. We spoke to John Bailer and Rosemary Pennington, the hosts of the podcast...
+
+
+[Introducing Category Theory (an almost final version)](https://www.logicmatters.net/2025/06/05/introducing-category-theory-an-almost-final-version/)
+---
+
+Blog - Logic Matters --- 6/5/2025
+
+Not the paperback (yet). But there is now a full version of Introducing Category Theory that I don’t plan to do anything much more with than get my AI friends to continue proof-reading onwards from about half way through. I’ll cast my eye over the...
 
 
 [Occasional paper: The impossible predicament of the death newts](https://crookedtimber.org/2025/06/05/occasional-paper-the-impossible-predicament-of-the-death-newts/)
@@ -207,12 +231,28 @@ Computational Complexity --- 5/26/2025
 (Trivia: What song has the lyric Some are Mathematicians, some are Carpenters's wives ? It's not a parody song, though sometimes it's hard to tell a parody song from a so-called real song.)In my post about Pope Leo XIV I made the following...
 
 
+[Schubert on Sunday 12: Fantasy for Violin and Piano, D. 934](https://www.logicmatters.net/2025/05/25/schubert-on-sunday-12-fantasy-for-violin-and-piano-d-934/)
+---
+
+Blog - Logic Matters --- 5/25/2025
+
+Charlotte Saluste-Bridoux — the prize-winning young violinist, who has recently joined her teacher Alina Ibragimova as the new second violinist for the spectacularly good Chiaroscuro Quartet — has a fine Schubert CD newly out with her regular duo...
+
+
 [Sunday photoblogging: ship turning on the Elbe](https://crookedtimber.org/2025/05/25/sunday-photoblogging-ship-turning-on-the-elbe/)
 ---
 
 Crooked Timber --- 5/25/2025
 
 
+
+
+[Categorial progress …](https://www.logicmatters.net/2025/05/23/categorial-progress-2/)
+---
+
+Blog - Logic Matters --- 5/23/2025
+
+Slowly, very slowly, … I would be really annoyed to paperback Introducing Category Theory and then immediately find silly typos or thinkos. So (as I’ve reported before) I have been getting ChatGPT and Claude Sonnet to proofread chapter by chapter....
 
 
 [Topics I taught this year](https://aperiodical.com/2025/05/topics-i-taught-this-year/)
@@ -295,6 +335,14 @@ Crooked Timber --- 5/18/2025
 
 
 
+[McLarty on ‘The roles of set theories in mathematics’](https://www.logicmatters.net/2025/05/16/mclarty-on-the-roles-of-set-theories-in-mathematics/)
+---
+
+Blog - Logic Matters --- 5/16/2025
+
+A couple of years back, I commented here on most of the papers in Categories for the Working Philosopher, edited by Elaine Landry (OUP). I’ve had occasion to revisit the first piece in the book, ‘The roles of set theories in mathematics’ by Colin...
+
+
 [A Bittersweet Anniversary](https://blog.computationalcomplexity.org/feeds/593341887853911438/comments/default)
 ---
 
@@ -343,6 +391,14 @@ Crooked Timber --- 5/12/2025
 A few weeks ago the historian Perry Anderson published an essay “Regime Change in the West?” in the London Review of Books. Like many of Anderson’s essays this is a wide-ranging splurge full of bon mots and *apercus” delivered from some...
 
 
+[Postcard from Amsterdam](https://www.logicmatters.net/2025/05/12/postcard-from-amsterdam/)
+---
+
+Blog - Logic Matters --- 5/12/2025
+
+A week in Amsterdam, mostly to meet up with the digital nomad Daughter, which was of course hugely enjoyable. We have been staying a few hundred yards behind the Concertgebouw, in a quietly so-civilised area, with a great scattering of cafes and...
+
+
 [On the Retreat of the Enshittification of University Bureaucracy](https://crookedtimber.org/2025/05/12/on-the-retreat-of-the-enshittification-of-university-bureaucracy/)
 ---
 
@@ -357,14 +413,6 @@ More than a month ago, I agreed to an offer to be a visiting scholar at a privat
 Crooked Timber --- 5/12/2025
 
 Over the last years, I have edited a volume of papers on the question how to make analytical political philosophy more inclusive, with a particular focus on the debates on economic and ecological inequalities. The starting point was the observation...
-
-
-[Sunday photoblogging: Amiens Cathedral](https://crookedtimber.org/2025/05/11/sunday-photoblogging-amiens-cathedral/)
----
-
-Crooked Timber --- 5/11/2025
-
-
 
 
 [Maths events at Cheltenham Science Festival 2025](https://aperiodical.com/2025/05/maths-events-at-cheltenham-science-festival-2025/)
@@ -391,6 +439,14 @@ Computational Complexity --- 5/6/2025
 In a recent post by Scott (see here or just read my post which includes his post) he listed topis that he conjectured would NOT cause an outrage.I was going to write a long comment in his comments section, which would only be read by people who...
 
 
+[Lea Desandre, Claude, Categories …](https://www.logicmatters.net/2025/05/01/lea-desandre-claude-categories/)
+---
+
+Blog - Logic Matters --- 5/1/2025
+
+We have just booked tickets to see the wondrous Lea Desandre at Wigmore Hall on Tuesday 16 September, singing Dowland and Purcell. It should be an amazing concert. If you haven’t ever seen her perform then this candlelit concert from Rouen three...
+
+
 [P v NP Papers Galore](https://blog.computationalcomplexity.org/feeds/3127879843679420539/comments/default)
 ---
 
@@ -407,6 +463,22 @@ Computational Complexity --- 4/28/2025
 I wrote this about a month ago but wanted to wait until after the REU PI conference (which was April 21-22-23) to post it. I add a few comments based on what has happened since, which I preface with...
 
 
+[Schubert on Sunday 11: The Trout Quintet](https://www.logicmatters.net/2025/04/27/schubert-on-sunday-11/)
+---
+
+Blog - Logic Matters --- 4/27/2025
+
+A quite wonderful performance of the Trout Quintet by Patricia Kopatschinskaja, Anastasia Kobekina, and friends, made available by the Gstaad Digital Festival (to watch, you might have to register, but that’s free). Enjoy! The post Schubert on...
+
+
+[Category theory introduced!](https://www.logicmatters.net/2025/04/26/category-theory-introduced/)
+---
+
+Blog - Logic Matters --- 4/26/2025
+
+I have just uploaded a revised version of Introducing Category Theory, which as usual you’ll find linked on the categories page. I will need to do some more proof-reading (with a bit of help from ChatGPT and from my useful new friend Claude). And I...
+
+
 [Real People](https://blog.computationalcomplexity.org/feeds/3324314187072757023/comments/default)
 ---
 
@@ -421,6 +493,14 @@ Right after the election I wrote a post predicting what would happen to higher e
 Joel David Hamkins --- 4/21/2025
 
 I was interviewed by Cody Roux for The Church of Logic podcast—a fascinating sweeping conversation on issues in the philosophy of mathematics and set theory, including what I described as a fundamental dichotomy between two perspectives on the...
+
+
+[Carpaccio at the Scuola Dalmata](https://www.logicmatters.net/2025/04/20/carpaccio-at-the-scuola-dalmata/)
+---
+
+Blog - Logic Matters --- 4/20/2025
+
+A wonderful memory this. Last time we were in Venice, with the Daughter, we visited the Scuola Dalmata (Scuola di San Giorgio degli Schiavoni). Though it’s high up the “must see” lists in the guide books, we were the only people there, and had a...
 
 
 [China and I](http://proses.id/china/)
@@ -717,84 +797,4 @@ Who are the applied category theorists working on AI, and what are they doing?
 Math ∩ Programming --- 2/23/2025
 
 My four-year-old son has declared 36 to be the best number. His reason: 36 is the only number (he knows of) that is both a square and a staircase number AND an up-and-down-staircase number. “Staircase numbers” are what he calls triangular numbers...
-
-
-[Cut and Paste Invariants and Duality: A Motivating Example Via zeta(-1), zeta(2) and SL_2Z](https://rin.io/SL2Z/)
----
-
-Good Fibrations --- 2/14/2025
-
-Here’s something enticing and strange: there are two “cut and paste” invariants of the same group which are equal to dual zeta values! the euler characteristic \( \chi(SL_2(\mathbb{Z})) = \zeta(-1), \) and the tamagawa measure of \(...
-
-
-[StreamOf.me](https://www.fractalkitty.com/streamof-me/)
----
-
-Fractal Kitty --- 2/11/2025
-
-On winter solstice I had my personal "new-year" and I started an experimental journal of self. My motivation was to see if my experiences and awareness change through the type of journaling that I do. Will tallying the days that I glimpse the moon,...
-
-
-[A Characterization of Standard Borel Spaces](https://golem.ph.utexas.edu/category/2025/02/universal_characterization_of.html)
----
-
-The n-Category Café --- 2/10/2025
-
-There's a universal characterization of standard Borel spaces!
-
-
-[Anyone know of an approachable proof of the Caratheodory-Fejer theorem?](https://www.jeremykun.com/shortform/2025-02-09-1947/)
----
-
-Math ∩ Programming --- 2/10/2025
-
-A colleague of mine recently lent a hand implementing a polynomial approximation routine I could port to our compiler, though it wasn’t the method I was expecting. As I had written about previously, I was studying the Remez algorithm and...
-
-
-[Explainable Linear Programs](https://www.jeremykun.com/shortform/2025-02-06-2124/)
----
-
-Math ∩ Programming --- 2/7/2025
-
-Back in 2020, when I worked in the supply chain side of Google, I had a fun and impactful side project related to human-level explanations of linear programs. A linear program is a mathematical model that defines some number of variables, linear...
-
-
-[Backing Up US Federal Databases](https://golem.ph.utexas.edu/category/2025/02/backing_up_us_federal_database.html)
----
-
-The n-Category Café --- 2/2/2025
-
-If you want to help save US federal web pages and databases, here are some things to do.
-
-
-[Math-ffirmations](https://www.fractalkitty.com/math-ffirmations/)
----
-
-Fractal Kitty --- 2/2/2025
-
-Find balance through symmetry.$$f(x) = f(-x)$$Approximation improves with experience.$$e^x = \sum_{n=0}^{\infty} \frac{x^n}{n!} = 1 + x + \frac{x^2}{2!} + \frac{x^3}{3!} + \cdots$$ To untangle is to meditate.$$\huge{\bigcirc}$$Be...
-
-
-[Magnitude, Enriched Categories, and LLMs](https://www.math3ma.com/blog/magnitude-enriched-categories-and-llms)
----
-
-Math3ma --- 2/2/2025
-
-It's hard for me to believe, but Math3ma is TEN YEARS old today. My first entry was published on February 1, 2015 and is entitled "A Math Blog? Say What?" As evident from that post, I was very unsure about creating this website. At the time,...
-
-
-[A Ripple of Ripples](https://www.fractalkitty.com/a-ripple-of-ripples/)
----
-
-Fractal Kitty --- 1/31/2025
-
-One thing I love about math and art is the conversations and iterations that flow from their patterns and beauty. After posting Walking Ripples, I have enjoyed seeing how the simplicity of shading circles propagates in conversation, art, and...
-
-
-[Comagnitude 2](https://golem.ph.utexas.edu/category/2025/01/comagnitude_2.html)
----
-
-The n-Category Café --- 1/30/2025
-
-Thinking about the cardinality of limits leads to a new numerical invariant of set-valued functors.
 
