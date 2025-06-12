@@ -1,4 +1,44 @@
 
+[Carnival of Maths 240](https://aperiodical.com/2025/06/carnival-of-maths-240/)
+---
+
+The Aperiodical --- 6/11/2025
+
+The next issue of the Carnival of Mathematics, rounding up blog posts from the month of May 2025, is now online at Beauty of Mathematics. The Carnival rounds up maths blog posts from all over the internet, including some from our own Aperiodical....
+
+
+[Empathy as a Sin](https://crookedtimber.org/2025/06/11/empathy-as-a-sin/)
+---
+
+Crooked Timber --- 6/11/2025
+
+You may have viewed Sen. Joni Ernst (R-Iowa) offering a mock apology for dismissing a constituent’s complaint that the Medicaid cuts she endorses will cause people to die with the flippant remark, “We are all going to die.” She tied her defense of...
+
+
+[Defending Theory](https://blog.computationalcomplexity.org/feeds/3536975710758489759/comments/default)
+---
+
+Computational Complexity --- 6/11/2025
+
+In the June CACM, Micah Beck writes an opinion piece Accept the Consequences where he is quite skeptical of the role of theory in real-world software development, concludingIt is important that we teach practical computer engineering as a field...
+
+
+[Lectures on Set Theory, Beijing, June 2025](https://jdh.hamkins.org/lectures-on-set-theory-beijing-june-2025/)
+---
+
+Joel David Hamkins --- 6/11/2025
+
+This will be a lecture series at Peking University in Beijing in June 2023. Announcement at Peking University Course abstract. This will be a series of advanced lectures on set theory, treating diverse topics and particularly those illustrating how...
+
+
+[Double Maths First Thing: Issue 28](https://aperiodical.com/2025/06/double-maths-first-thing-issue-28/)
+---
+
+The Aperiodical --- 6/11/2025
+
+Double Maths First Thing is bringing the thunder Hello! My name is Colin and I am a mathematician on a mission to spread joy and delight in playing with patterns, puzzles, figures and logic. First up, an apology: in last week’s issue, I mistyped...
+
+
 [Platform work, redux](https://crookedtimber.org/2025/06/10/platform-work-redux/)
 ---
 
@@ -351,14 +391,6 @@ Computational Complexity --- 5/14/2025
 The National Science Foundation was founded on May 10, 1950, 75 years ago last Saturday. No doubt the NSF has seen better days, but first let's take a look back.At the end of World War II, Vannevar Bush, Director of the Office of Scientific...
 
 
-[Double Maths First Thing: Issue 24](https://aperiodical.com/2025/05/double-maths-first-thing-issue-24/)
----
-
-The Aperiodical --- 5/14/2025
-
-Double Maths First Thing wishes it could be formatted as a square Hello! My name is Colin and I am a mathematician on a mission to spread joy and delight in figuring things out. The 11yo is doing SATs at the moment, which runs exactly counter to...
-
-
 [Leibniz's Dream and Dijkstra's nightmare](https://www.jeremykun.com/shortform/2025-05-13-2107/)
 ---
 
@@ -405,22 +437,6 @@ A week in Amsterdam, mostly to meet up with the digital nomad Daughter, which wa
 Crooked Timber --- 5/12/2025
 
 More than a month ago, I agreed to an offer to be a visiting scholar at a private US university next year. This was no simple matter because of obligations to my own family and (somewhat more unexpectedly) my department. I have made no public...
-
-
-[Online book launch ‘Pluralizing Political Philosophy’](https://crookedtimber.org/2025/05/12/online-book-launch-pluralizing-political-philosophy/)
----
-
-Crooked Timber --- 5/12/2025
-
-Over the last years, I have edited a volume of papers on the question how to make analytical political philosophy more inclusive, with a particular focus on the debates on economic and ecological inequalities. The starting point was the observation...
-
-
-[Maths events at Cheltenham Science Festival 2025](https://aperiodical.com/2025/05/maths-events-at-cheltenham-science-festival-2025/)
----
-
-The Aperiodical --- 5/9/2025
-
-This is a guest post by Martin Whitworth. I am the organiser of Cheltenham MathsJam, and I am a fan of our local Cheltenham Festivals. In addition to successful Jazz, Music and Literature Festivals, they have an annual Science Festival with high...
 
 
 [Using AI for Reviews](https://blog.computationalcomplexity.org/feeds/3791456331735935358/comments/default)
@@ -703,14 +719,6 @@ Computational Complexity --- 3/17/2025
 I had been meaning to write a post-COVID post for a while, buta) Are we finally post COVID? (I think so)b) Are the long term affects of COVID (society not health) known yet?However, Lance wrote a post-COVID post (see here) which inspired me to do...
 
 
-[Covid and Complexity](https://blog.computationalcomplexity.org/feeds/6265617460302554635/comments/default)
----
-
-Computational Complexity --- 3/12/2025
-
-As we hit five years from when the world shut down, lots of discussions on how Covid has changed society. What about academia and computer science?It's a challenging question to ask as Covid is not the only major change in the last five years....
-
-
 [Category Theory 2025](https://golem.ph.utexas.edu/category/2025/03/category_theory_2025.html)
 ---
 
@@ -789,12 +797,4 @@ Potential functions from a functorial perspective.
 The n-Category Café --- 2/26/2025
 
 Who are the applied category theorists working on AI, and what are they doing?
-
-
-[My 4-year-old declares 36 the best number](https://www.jeremykun.com/shortform/2025-02-23-1057/)
----
-
-Math ∩ Programming --- 2/23/2025
-
-My four-year-old son has declared 36 to be the best number. His reason: 36 is the only number (he knows of) that is both a square and a staircase number AND an up-and-down-staircase number. “Staircase numbers” are what he calls triangular numbers...
 
