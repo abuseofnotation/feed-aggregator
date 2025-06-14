@@ -1,4 +1,28 @@
 
+[Review of Patriarchy Inc by Cordelia Fine](https://crookedtimber.org/2025/06/13/review-of-patriarchy-inc-by-cordelia-fine/)
+---
+
+Crooked Timber --- 6/13/2025
+
+“When diversity, equity and inclusion become ‘threats’ to the order of society,” Judith Butler wrote recently, “progressive politics in general is held responsible for every social ill.” Authoritarians are empowered to oppress vulnerable people in...
+
+
+[Carnival of Maths 240](https://aperiodical.com/2025/06/carnival-of-maths-240/)
+---
+
+The Aperiodical --- 6/11/2025
+
+The next issue of the Carnival of Mathematics, rounding up blog posts from the month of May 2025, is now online at Beauty of Mathematics. The Carnival rounds up maths blog posts from all over the internet, including some from our own Aperiodical....
+
+
+[Empathy as a Sin](https://crookedtimber.org/2025/06/11/empathy-as-a-sin/)
+---
+
+Crooked Timber --- 6/11/2025
+
+You may have viewed Sen. Joni Ernst (R-Iowa) offering a mock apology for dismissing a constituent’s complaint that the Medicaid cuts she endorses will cause people to die with the flippant remark, “We are all going to die.” She tied her defense of...
+
+
 [Defending Theory](https://blog.computationalcomplexity.org/feeds/3536975710758489759/comments/default)
 ---
 
@@ -15,12 +39,36 @@ Joel David Hamkins --- 6/11/2025
 This will be a lecture series at Peking University in Beijing in June 2025. Announcement at Peking University Course abstract. This will be a series of advanced lectures on set theory, treating diverse topics and particularly those illustrating how...
 
 
+[Double Maths First Thing: Issue 28](https://aperiodical.com/2025/06/double-maths-first-thing-issue-28/)
+---
+
+The Aperiodical --- 6/11/2025
+
+Double Maths First Thing is bringing the thunder Hello! My name is Colin and I am a mathematician on a mission to spread joy and delight in playing with patterns, puzzles, figures and logic. First up, an apology: in last week’s issue, I mistyped...
+
+
+[Platform work, redux](https://crookedtimber.org/2025/06/10/platform-work-redux/)
+---
+
+Crooked Timber --- 6/10/2025
+
+A few days ago, I experienced a strange auditive mix-up. My favorite German radio program, Deutschlandfunk, sent a documentary about “platform workers”. Uber, Deliveroo, etc., you might think, but no. This was about workers on oil platforms in...
+
+
 [The New Godel Prize Winner Tastes Great and is Less Filling](https://blog.computationalcomplexity.org/feeds/4217811809607354532/comments/default)
 ---
 
 Computational Complexity --- 6/9/2025
 
 David ZuckermanThe 2025 Gödel Prize has been awarded to Eshan Chattopadhyay and David Zuckerman for their paperExplicit two-source extractors and resilient functionswhich was in STOC 2016 and in the Annals of Math in 2019. We (Bill and Lance) care...
+
+
+[Chibber’s Confronting Capitalism, Trump, and the Anxiety of Disordered Societies](https://crookedtimber.org/2025/06/09/chibbers-confronting-capitalism-trump-and-the-cult-of-firing/)
+---
+
+Crooked Timber --- 6/9/2025
+
+A generation ago, General Electric’s CEO, Jack Welch (1935 – 2020) was the most admired business manager in the world. And General Electric purportedly the most admired corporation. Among his well-known attributes, Welch “would fire the bottom 10%...
 
 
 [Clara, Noa, Elisabeth](https://www.logicmatters.net/2025/06/08/clara-noa-elisabeth/)
@@ -31,6 +79,30 @@ Blog - Logic Matters --- 6/8/2025
 As the world continues to go to hell in a handcart, let’s just pause for ten minutes to remind ourselves that there is beauty and tenderness … So from a couple of months ago, here are Noa Wildschut and Elisabeth Brauß playing the Three Romances for...
 
 
+[Happy World Ocean Day!](https://crookedtimber.org/2025/06/08/happy-world-ocean-day-2/)
+---
+
+Crooked Timber --- 6/8/2025
+
+Except it’s not happy, of course. The ocean’s ecosystems are going to hell in a hand-cart, while our politicians congratulate themselves for signing up to pledges (like protecting 30% of the ocean by 2030) that they have no realistic plan for...
+
+
+[Sunday photoblogging: Bath doorways](https://crookedtimber.org/2025/06/08/sunday-photoblogging-bath-doorways/)
+---
+
+Crooked Timber --- 6/8/2025
+
+
+
+
+[Podcasting About: Stats + Stories](https://aperiodical.com/2025/06/podcasting-about-stats-stories/)
+---
+
+The Aperiodical --- 6/6/2025
+
+In this series of posts, we’ll be featuring mathematical podcasts from all over the internet, by speaking to the creators of the podcast and asking them about what they do. We spoke to John Bailer and Rosemary Pennington, the hosts of the podcast...
+
+
 [Introducing Category Theory (an almost final version)](https://www.logicmatters.net/2025/06/05/introducing-category-theory-an-almost-final-version/)
 ---
 
@@ -39,12 +111,28 @@ Blog - Logic Matters --- 6/5/2025
 Not the paperback (yet). But there is now a full version of Introducing Category Theory that I don’t plan to do anything much more with than get my AI friends to continue proof-reading onwards from about half way through. I’ll cast my eye over the...
 
 
+[Occasional paper: The impossible predicament of the death newts](https://crookedtimber.org/2025/06/05/occasional-paper-the-impossible-predicament-of-the-death-newts/)
+---
+
+Crooked Timber --- 6/5/2025
+
+So a few days ago I posted about newts, and I mentioned that there was an American newt that was ridiculously toxic. But then (I said) there wasn’t space or time to go into why. And of course I was immediately bombarded by many* comments and...
+
+
 [Rules vs Standards](https://blog.computationalcomplexity.org/feeds/630081856772386730/comments/default)
 ---
 
 Computational Complexity --- 6/4/2025
 
 You can write laws that are very specific, like the US tax code, or open to interpretation like the first amendment. In the literature these are known as rules and standards respectively. In computational complexity, we generally think of...
+
+
+[Double Maths First Thing: Issue 27](https://aperiodical.com/2025/06/double-maths-first-thing-issue-27/)
+---
+
+The Aperiodical --- 6/4/2025
+
+Double Maths First Thing always takes the weather with it Hello! My name is Colin and I am a mathematician on a mission to disseminate mathematical joy and the pleasure of figuring things out. I’m just back from a week in the Peak District, where...
 
 
 [Inquiries-Week 2: Modular Fibonacci](https://www.fractalkitty.com/inquiries-week-2-modular-fibonacci/)
@@ -63,6 +151,30 @@ Computational Complexity --- 6/3/2025
 (Thanks to David Marcus who sent me the video I point to in point 4 of this post. Tip for young bloggers (if there are any) you can have a half-baked idea for a post and then someone sends you something OR you later have an idea to make it a...
 
 
+[On The Political Roots of Academic Freedom](https://crookedtimber.org/2025/06/03/on-the-political-roots-of-academic-freedom/)
+---
+
+Crooked Timber --- 6/3/2025
+
+But perhaps there was no event, which tended farther to the improvement of the age, than one, which has not been much remarked, the accidental finding of a copy of Justinian’s Pandects, about the year 1130, in the town of Amalfi in Italy.—David...
+
+
+[Open Science and Its Enemies](https://crookedtimber.org/2025/06/02/open-science-and-its-enemies/)
+---
+
+Crooked Timber --- 6/2/2025
+
+Donald Trump has signed an Executive Order nominally aimed at “Restoring Gold Standard Science”. Setting aside the absurdity of “restoring” something that never existed, what does that purport to mean? Gold Standard Science means science conducted...
+
+
+[\(-e^{i\pi}\) to Watch: Jim Simons](https://aperiodical.com/2025/06/eipi-to-watch-jim-simons/)
+---
+
+The Aperiodical --- 6/2/2025
+
+In this series of posts, we’ll be featuring mathematical video and streaming channels from all over the internet, by speaking to the creators of the channel and asking them about what they do. We spoke to retired mathematician and A-level maths...
+
+
 [Tannaka Reconstruction and the Monoid of Matrices](https://golem.ph.utexas.edu/category/2025/06/tannaka_reconstruction_and_the.html)
 ---
 
@@ -71,12 +183,44 @@ The n-Category Café --- 6/1/2025
 Todd Trimble and I wrote a paper on characterizing classical groups (and monoids) in terms of their 2-rigs of representations.
 
 
+[Altona: from the street to a courtyard](https://crookedtimber.org/2025/06/01/altona-from-the-street-to-a-courtyard/)
+---
+
+Crooked Timber --- 6/1/2025
+
+
+
+
+[Newt](https://crookedtimber.org/2025/05/31/newt/)
+---
+
+Crooked Timber --- 5/31/2025
+
+Unemployed, I spent a week in April digging a small pond in our back yard. At the time, it was a distraction. Now it is… actually, a different sort of distraction. Because although it’s not a very big pond — about 3 meters by 2, maximum depth about...
+
+
+[Aperiodical News Roundup – April & May 2025](https://aperiodical.com/2025/05/aperiodical-news-roundup-april-may-2025/)
+---
+
+The Aperiodical --- 5/30/2025
+
+Here’s a round-up of all the mathematical news from the last couple of months we didn’t otherwise cover here. Prizes and Awards The Shaw Prize in Mathematical Sciences 2025 has been awarded to Kenji Fukaya, “for his pioneering work on symplectic...
+
+
 [The Hilltop Story](https://blog.computationalcomplexity.org/feeds/6915666163896139300/comments/default)
 ---
 
 Computational Complexity --- 5/28/2025
 
 On Route 1 in Saugus, Massachusetts, about a twenty minute drive from Cambridge, stood the Hilltop Steak House. When I went to graduate school in the late 80's, Hilltop led all restaurants in the United States by sales (about $30 million in annual...
+
+
+[Double Maths First Thing: Issue 26](https://aperiodical.com/2025/05/double-maths-first-thing-issue-26/)
+---
+
+The Aperiodical --- 5/28/2025
+
+Double Maths First Thing shaves newsletters if and only if they don’t shave themselves Hello! My name is Colin and I am a mathematician on a mission to spread joy and delight in puzzles, problem-solving and practicing maths. I’m currently wading...
 
 
 [Monad](http://abuseofnotation.github.io/monad/)
@@ -143,12 +287,28 @@ Blog - Logic Matters --- 5/25/2025
 Charlotte Saluste-Bridoux — the prize-winning young violinist, who has recently joined her teacher Alina Ibragimova as the new second violinist for the spectacularly good Chiaroscuro Quartet — has a fine Schubert CD newly out with her regular duo...
 
 
+[Sunday photoblogging: ship turning on the Elbe](https://crookedtimber.org/2025/05/25/sunday-photoblogging-ship-turning-on-the-elbe/)
+---
+
+Crooked Timber --- 5/25/2025
+
+
+
+
 [Categorial progress …](https://www.logicmatters.net/2025/05/23/categorial-progress-2/)
 ---
 
 Blog - Logic Matters --- 5/23/2025
 
 Slowly, very slowly, … I would be really annoyed to paperback Introducing Category Theory and then immediately find silly typos or thinkos. So (as I’ve reported before) I have been getting ChatGPT and Claude Sonnet to proofread chapter by chapter....
+
+
+[Topics I taught this year](https://aperiodical.com/2025/05/topics-i-taught-this-year/)
+---
+
+The Aperiodical --- 5/23/2025
+
+It’s been quite a year. We introduced a totally new mathematics degree course, redesigned from the previous version. In addition, restructures and people leaving meant there were fewer of us teaching on the maths degree. All this together means...
 
 
 [Using Automorphism Groups of Curves to Control the Slopes of their Jacobians](https://rin.io/gausssums/)
@@ -165,6 +325,14 @@ I’ve felt for a long time that automorphisms of curves should control or at le
 Computational Complexity --- 5/21/2025
 
 On Saturday, I had my last Illinois Tech graduation as dean before I step down at the end of June. The College of Computing had nearly 1600 graduates and I shook many, many hands that morning.After graduation I caught a plane to Washington, DC to...
+
+
+[Double Maths First Thing: Issue 25](https://aperiodical.com/2025/05/double-maths-first-thing-issue-25/)
+---
+
+The Aperiodical --- 5/21/2025
+
+Double Maths First Thing has toothache. Hello! My name is Colin and I am a mathematician on a mission to spread joy and delight in figuring things out. And take my mind off of the dental work I had done yesterday. Send ibuprofen and puzzles. Among...
 
 
 [Inquiries-Week 1: Circle Shading](https://www.fractalkitty.com/inquiries-week-1-circle-shading/)
@@ -189,6 +357,30 @@ There have been times when satire has been mistaken for reality. A list of Onion
 Computational Complexity --- 5/20/2025
 
 The New Pope is Pope Leo XIV (pre-Pope name is Robert Prevost). 1) Pope names are one of the few places we still use Roman Numerals. I saw an article that was probably satirical that Americans prefer Roman Numerals (the numbers Jesus used) over...
+
+
+[\(-e^{i\pi}\) to Watch: Nils Berglund](https://aperiodical.com/2025/05/eipi-to-watch-nils-berglund/)
+---
+
+The Aperiodical --- 5/19/2025
+
+In this series of posts, we’ll be featuring mathematical video and streaming channels from all over the internet, by speaking to the creators of the channel and asking them about what they do. We spoke to Nils Berglund, whose YouTube channel...
+
+
+[Have people really had enough of experts?](https://crookedtimber.org/2025/05/19/have-people-really-had-enough-of-experts/)
+---
+
+Crooked Timber --- 5/19/2025
+
+How far can a government go in harming its own people before it loses support? And what does it mean if this form of harm happens via an attack on public knowledge institutions, from universities to meteorological services, in which expert...
+
+
+[Amiens Cathedral](https://crookedtimber.org/2025/05/18/amiens-cathedral/)
+---
+
+Crooked Timber --- 5/18/2025
+
+
 
 
 [McLarty on ‘The roles of set theories in mathematics’](https://www.logicmatters.net/2025/05/16/mclarty-on-the-roles-of-set-theories-in-mathematics/)
@@ -229,6 +421,14 @@ This will be an online talk for the Leeds Set Theory Seminar, 21 May 2025 1pm BS
 Math ∩ Programming --- 5/12/2025
 
 Editor’s note: This essay was originally published on Medium on 2016-03-05. I have made minor edits in this republishing and added a few small retrospective notes. 2010–2011 (Year 0) I had just switched my major at Cal Poly State University from...
+
+
+[Perry Anderson’s lazy endorsement of US self-mythologising](https://crookedtimber.org/2025/05/12/perry-andersons-lazy-endorsement-of-us-self-mythologising/)
+---
+
+Crooked Timber --- 5/12/2025
+
+A few weeks ago the historian Perry Anderson published an essay “Regime Change in the West?” in the London Review of Books. Like many of Anderson’s essays this is a wide-ranging splurge full of bon mots and *apercus” delivered from some...
 
 
 [Postcard from Amsterdam](https://www.logicmatters.net/2025/05/12/postcard-from-amsterdam/)
@@ -597,204 +797,4 @@ Potential functions from a functorial perspective.
 The n-Category Café --- 2/26/2025
 
 Who are the applied category theorists working on AI, and what are they doing?
-
-
-[My 4-year-old declares 36 the best number](https://www.jeremykun.com/shortform/2025-02-23-1057/)
----
-
-Math ∩ Programming --- 2/23/2025
-
-My four-year-old son has declared 36 to be the best number. His reason: 36 is the only number (he knows of) that is both a square and a staircase number AND an up-and-down-staircase number. “Staircase numbers” are what he calls triangular numbers...
-
-
-[Cut and Paste Invariants and Duality: A Motivating Example Via zeta(-1), zeta(2) and SL_2Z](https://rin.io/SL2Z/)
----
-
-Good Fibrations --- 2/14/2025
-
-Here’s something enticing and strange: there are two “cut and paste” invariants of the same group which are equal to dual zeta values! the euler characteristic \( \chi(SL_2(\mathbb{Z})) = \zeta(-1), \) and the tamagawa measure of \(...
-
-
-[StreamOf.me](https://www.fractalkitty.com/streamof-me/)
----
-
-Fractal Kitty --- 2/11/2025
-
-On winter solstice I had my personal "new-year" and I started an experimental journal of self. My motivation was to see if my experiences and awareness change through the type of journaling that I do. Will tallying the days that I glimpse the moon,...
-
-
-[A Characterization of Standard Borel Spaces](https://golem.ph.utexas.edu/category/2025/02/universal_characterization_of.html)
----
-
-The n-Category Café --- 2/10/2025
-
-There's a universal characterization of standard Borel spaces!
-
-
-[Anyone know of an approachable proof of the Caratheodory-Fejer theorem?](https://www.jeremykun.com/shortform/2025-02-09-1947/)
----
-
-Math ∩ Programming --- 2/10/2025
-
-A colleague of mine recently lent a hand implementing a polynomial approximation routine I could port to our compiler, though it wasn’t the method I was expecting. As I had written about previously, I was studying the Remez algorithm and...
-
-
-[Explainable Linear Programs](https://www.jeremykun.com/shortform/2025-02-06-2124/)
----
-
-Math ∩ Programming --- 2/7/2025
-
-Back in 2020, when I worked in the supply chain side of Google, I had a fun and impactful side project related to human-level explanations of linear programs. A linear program is a mathematical model that defines some number of variables, linear...
-
-
-[Backing Up US Federal Databases](https://golem.ph.utexas.edu/category/2025/02/backing_up_us_federal_database.html)
----
-
-The n-Category Café --- 2/2/2025
-
-If you want to help save US federal web pages and databases, here are some things to do.
-
-
-[Math-ffirmations](https://www.fractalkitty.com/math-ffirmations/)
----
-
-Fractal Kitty --- 2/2/2025
-
-Find balance through symmetry.$$f(x) = f(-x)$$Approximation improves with experience.$$e^x = \sum_{n=0}^{\infty} \frac{x^n}{n!} = 1 + x + \frac{x^2}{2!} + \frac{x^3}{3!} + \cdots$$ To untangle is to meditate.$$\huge{\bigcirc}$$Be...
-
-
-[Magnitude, Enriched Categories, and LLMs](https://www.math3ma.com/blog/magnitude-enriched-categories-and-llms)
----
-
-Math3ma --- 2/2/2025
-
-It's hard for me to believe, but Math3ma is TEN YEARS old today. My first entry was published on February 1, 2015 and is entitled "A Math Blog? Say What?" As evident from that post, I was very unsure about creating this website. At the time,...
-
-
-[A Ripple of Ripples](https://www.fractalkitty.com/a-ripple-of-ripples/)
----
-
-Fractal Kitty --- 1/31/2025
-
-One thing I love about math and art is the conversations and iterations that flow from their patterns and beauty. After posting Walking Ripples, I have enjoyed seeing how the simplicity of shading circles propagates in conversation, art, and...
-
-
-[Comagnitude 2](https://golem.ph.utexas.edu/category/2025/01/comagnitude_2.html)
----
-
-The n-Category Café --- 1/30/2025
-
-Thinking about the cardinality of limits leads to a new numerical invariant of set-valued functors.
-
-
-[On Skolem’s paradox and the transitive submodel theorem, Rust Belt Workshop in the Philosophy of Logic, Language, and Mathematics, February 2025](https://jdh.hamkins.org/on-skolems-paradox-and-the-transitive-submodel-theorem-rust-belt-workshop-ohio-feb-2025/)
----
-
-Joel David Hamkins --- 1/28/2025
-
-This will be a talk for the Rust Belt Workshop in the Philosophy of Logic, Language, and Mathematics, held at Ohio State University in Columbus, Ohio, February 8-9, 2025, University Hall (230 N Oval Mall, Columbus, OH) Room 386B. Abstract. …...
-
-
-[The Bernoulli Numbers Come from a Shift Operator](https://rin.io/faulhaber-shift/)
----
-
-Good Fibrations --- 1/28/2025
-
-
-
-
-[Wyrm Beans](https://www.fractalkitty.com/w/)
----
-
-Fractal Kitty --- 1/27/2025
-
-Do you ever look at knitted items and liken them to dragon scales? - I do.  So when I decided to make generative textured hats it made sense to call them Wyrm Beans.Just as we can have generative pixel colors on a screen, we can have generative...
-
-
-[The covering reflection principle – Oberwolfach January 2025](https://jdh.hamkins.org/the-covering-reflection-principle-oberwolfach-january-2025/)
----
-
-Joel David Hamkins --- 1/21/2025
-
-This was a talk I gave at the Set Theory Workshop at the Mathematisches Forschungsinstitut in Oberwolfach, Germany, 12-17 January 2025. Abstract. The principle of covering reflection holds of a cardinal κ if for every structure B in a countable …...
-
-
-[A Song About Computing Sheaf Cohomology with Cech Covers](https://rin.io/cech-covers/)
----
-
-Good Fibrations --- 1/17/2025
-
-Cech Covers (click the link to listen to us). I wrote this song with my beloved old room mate Christian Gorski in my last year of grad school while I was wrapping up my thesis. For weeks, I was doing nothing but computing etale sheaf cohomologies...
-
-
-[The Crystalline Period Map](https://rin.io/crystalline-period/)
----
-
-Good Fibrations --- 1/17/2025
-
-This drawing is an old drawing I made when I was preparing for my qualifying exam in my second year of grad school at Northwestern. It is the crystalline period map. The tower to the left is the “Lubin-Tate” tower, the deeper it goes the more level...
-
-
-[Fuck Perfectionism](https://rin.io/fuck-perfectionism/)
----
-
-Good Fibrations --- 1/16/2025
-
-I have been working recently to counter the writers block that has formed insidiously from an unhealthy creeping perfectionism. In order to do this, I will post some old art and music which at the time I felt was “not good enough to share” or...
-
-
-[The Human Podcast: 10 questions in 10 minutes](https://jdh.hamkins.org/the-human-podcast-10-questions-in-10-minutes/)
----
-
-Joel David Hamkins --- 1/10/2025
-
-I had an enjoyable little discussion with Joe Murray of The Human Podcast, part of his new series, called 10 questions in 10 minutes, in which he asks his interview subjects for short answers to ten quick questions on their … Continue reading →
-
-
-[I'll be at the JMM](https://www.jeremykun.com/shortform/2025-01-07-1747/)
----
-
-Math ∩ Programming --- 1/8/2025
-
-I’ll be at the Joint Mathematics Meeting in Seattle (starting tomorrow). If you see me there, say hi! I will have a very light schedule, plenty of time for coffee chats. I’ll be attending many of the crypto sessions for the homomorphic encryption...
-
-
-[Epiphanies from Tape Measures](https://www.jeremykun.com/shortform/2025-01-04-1011/)
----
-
-Math ∩ Programming --- 1/4/2025
-
-The Hyperfixed Podcast had a lovely episode recently about tape measures. It started from “why does my tape measure seem to always be off a little bit” and went all the way to the inherent limitations of physical measurement at small scales. In...
-
-
-[Fully Homomorphic Encryption and the Public](https://www.jeremykun.com/fhe-and-the-public/)
----
-
-Math ∩ Programming --- 1/3/2025
-
-In this living document, I will document reactions to uses of homomorphic encryption by members of the public. By “member of the public,” I mean people who may be technical, but are not directly involved in the development or deployment of...
-
-
-[Moon](https://ciechanow.ski/moon/)
----
-
-Bartosz Ciechanowski --- 12/17/2024
-
-In the vastness of empty space surrounding Earth, the Moon is our closest celestial neighbor. Its face, periodically filled with light and devoured by darkness, has an ever-changing, but dependable presence in our skies. In this article, we’ll...
-
-
-[Every worldly cardinal admits a Gödel-Bernays structure](https://jdh.hamkins.org/every-worldly-cardinal-admits-a-godel-bernays-structure/)
----
-
-Joel David Hamkins --- 12/13/2024
-
-My Oxford student Emma Palmer and I have been thinking about worldly cardinals and Gödel-Bernays GBC set theory, and we recently came to a new realization. Namely, what I realized is that every worldly cardinal $\kappa$ admits a Gödel-Bernays...
-
-
-[The computable surreal numbers, Notre Dame Logic Seminar, December 2024](https://jdh.hamkins.org/the-computable-surreal-numbers-notre-dame-logic-seminar-december-2024/)
----
-
-Joel David Hamkins --- 12/1/2024
-
-This will be a talk for the Notre Dame Logic Seminar, 3 December 2024, 2:00pm, 125 Hayes-Healey. Abstract. I shall give an account of the theory of computable surreal numbers, proving that these form a real-closed field. Which real numbers …...
 
