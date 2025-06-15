@@ -1,4 +1,20 @@
 
+[Introducing Category Theory again](https://www.logicmatters.net/2025/06/14/introducing-category-theory-again/)
+---
+
+Blog - Logic Matters --- 6/14/2025
+
+With a bit of useful proof-reading help from ChatGPT, and rather less from Claude, there’s a new version (2.8b) of ICT downloadable from the categories page. Between them, my friendly AI assistants found perhaps half a dozen straight-up typos per...
+
+
+[Particularly mathematical Birthday Honours 2025](https://aperiodical.com/2025/06/particularly-mathematical-birthday-honours-2025/)
+---
+
+The Aperiodical --- 6/14/2025
+
+The UK Government have announced the new set of King’s Birthday Honours. Here’s our selection of particularly mathematical entries for this year. If you spot any more, let us know in the comments and we’ll add to the list. Get the full list from...
+
+
 [Review of Patriarchy Inc by Cordelia Fine](https://crookedtimber.org/2025/06/13/review-of-patriarchy-inc-by-cordelia-fine/)
 ---
 
@@ -359,14 +375,6 @@ Computational Complexity --- 5/20/2025
 The New Pope is Pope Leo XIV (pre-Pope name is Robert Prevost). 1) Pope names are one of the few places we still use Roman Numerals. I saw an article that was probably satirical that Americans prefer Roman Numerals (the numbers Jesus used) over...
 
 
-[\(-e^{i\pi}\) to Watch: Nils Berglund](https://aperiodical.com/2025/05/eipi-to-watch-nils-berglund/)
----
-
-The Aperiodical --- 5/19/2025
-
-In this series of posts, we’ll be featuring mathematical video and streaming channels from all over the internet, by speaking to the creators of the channel and asking them about what they do. We spoke to Nils Berglund, whose YouTube channel...
-
-
 [Have people really had enough of experts?](https://crookedtimber.org/2025/05/19/have-people-really-had-enough-of-experts/)
 ---
 
@@ -509,14 +517,6 @@ Right after the election I wrote a post predicting what would happen to higher e
 Joel David Hamkins --- 4/21/2025
 
 I was interviewed by Cody Roux for The Church of Logic podcast—a fascinating sweeping conversation on issues in the philosophy of mathematics and set theory, including what I described as a fundamental dichotomy between two perspectives on the...
-
-
-[Carpaccio at the Scuola Dalmata](https://www.logicmatters.net/2025/04/20/carpaccio-at-the-scuola-dalmata/)
----
-
-Blog - Logic Matters --- 4/20/2025
-
-A wonderful memory this. Last time we were in Venice, with the Daughter, we visited the Scuola Dalmata (Scuola di San Giorgio degli Schiavoni). Though it’s high up the “must see” lists in the guide books, we were the only people there, and had a...
 
 
 [China and I](http://proses.id/china/)
