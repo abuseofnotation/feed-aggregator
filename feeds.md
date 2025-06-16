@@ -1,4 +1,12 @@
 
+[Sunday photoblogging: Strasbourg cathedral](https://crookedtimber.org/2025/06/15/sunday-photoblogging-strasbourg-cathedral-2/)
+---
+
+Crooked Timber --- 6/15/2025
+
+
+
+
 [Introducing Category Theory again](https://www.logicmatters.net/2025/06/14/introducing-category-theory-again/)
 ---
 
@@ -429,14 +437,6 @@ This will be an online talk for the Leeds Set Theory Seminar, 21 May 2025 1pm BS
 Math ∩ Programming --- 5/12/2025
 
 Editor’s note: This essay was originally published on Medium on 2016-03-05. I have made minor edits in this republishing and added a few small retrospective notes. 2010–2011 (Year 0) I had just switched my major at Cal Poly State University from...
-
-
-[Perry Anderson’s lazy endorsement of US self-mythologising](https://crookedtimber.org/2025/05/12/perry-andersons-lazy-endorsement-of-us-self-mythologising/)
----
-
-Crooked Timber --- 5/12/2025
-
-A few weeks ago the historian Perry Anderson published an essay “Regime Change in the West?” in the London Review of Books. Like many of Anderson’s essays this is a wide-ranging splurge full of bon mots and *apercus” delivered from some...
 
 
 [Postcard from Amsterdam](https://www.logicmatters.net/2025/05/12/postcard-from-amsterdam/)
