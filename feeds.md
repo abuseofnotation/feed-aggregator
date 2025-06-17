@@ -1,4 +1,20 @@
 
+[\(-e^{i\pi}\) to Watch: Boppana Math](https://aperiodical.com/2025/06/eipi-to-watch-boppana-math/)
+---
+
+The Aperiodical --- 6/16/2025
+
+In this series of posts, we’ll be featuring mathematical video and streaming channels from all over the internet, by speaking to the creators of the channel and asking them about what they do. We spoke to Ravi Boppana about his channel, Boppana...
+
+
+[Lance never thought he would see a Pope who roots for the same team as him. And now...](https://blog.computationalcomplexity.org/feeds/5419259257899994092/comments/default)
+---
+
+Computational Complexity --- 6/16/2025
+
+A year ago if I showed you a picture of The Pope wearing a Baseball cap for the Chicago White Sox (or any Amercan team) you would assume it was computer-generated. And you would likely be right. Are there any real pictures of any Pope before Pope...
+
+
 [Sunday photoblogging: Strasbourg cathedral](https://crookedtimber.org/2025/06/15/sunday-photoblogging-strasbourg-cathedral-2/)
 ---
 
@@ -351,14 +367,6 @@ Computational Complexity --- 5/21/2025
 On Saturday, I had my last Illinois Tech graduation as dean before I step down at the end of June. The College of Computing had nearly 1600 graduates and I shook many, many hands that morning.After graduation I caught a plane to Washington, DC to...
 
 
-[Double Maths First Thing: Issue 25](https://aperiodical.com/2025/05/double-maths-first-thing-issue-25/)
----
-
-The Aperiodical --- 5/21/2025
-
-Double Maths First Thing has toothache. Hello! My name is Colin and I am a mathematician on a mission to spread joy and delight in figuring things out. And take my mind off of the dental work I had done yesterday. Send ibuprofen and puzzles. Among...
-
-
 [Inquiries-Week 1: Circle Shading](https://www.fractalkitty.com/inquiries-week-1-circle-shading/)
 ---
 
@@ -709,14 +717,6 @@ With care you can explain major ideas and results in computational complexity to
 Proses.ID --- 3/17/2025
 
 What is reality? It might seem like a straightforward question, but Ursula Franklin, a pioneering thinker in technology and society, saw it as layered and…
-
-
-[My Post-Covid Post](https://blog.computationalcomplexity.org/feeds/7381834712026210764/comments/default)
----
-
-Computational Complexity --- 3/17/2025
-
-I had been meaning to write a post-COVID post for a while, buta) Are we finally post COVID? (I think so)b) Are the long term affects of COVID (society not health) known yet?However, Lance wrote a post-COVID post (see here) which inspired me to do...
 
 
 [Category Theory 2025](https://golem.ph.utexas.edu/category/2025/03/category_theory_2025.html)
