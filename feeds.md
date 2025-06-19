@@ -1,4 +1,28 @@
 
+[Fulbright Memories](https://blog.computationalcomplexity.org/feeds/2001200121821243988/comments/default)
+---
+
+Computational Complexity --- 6/18/2025
+
+As the entire Fulbright board resigned last week and as the program that promotes international visits for US researchers, and vice-versa, may not survive the Trump administration, I thought I would recount some memories from my Fulbright...
+
+
+[The game that LLMs are playing](https://www.logicmatters.net/2025/06/18/the-game-that-llms-are-playing/)
+---
+
+Blog - Logic Matters --- 6/18/2025
+
+For a persuasive way of thinking about what LLMs are up to, read this particularly lucid and sane piece by the philosopher Keith Frankish. The post The game that LLMs are playing appeared first on Logic Matters.
+
+
+[Double Maths First Thing: Issue 29](https://aperiodical.com/2025/06/double-maths-first-thing-issue-29/)
+---
+
+The Aperiodical --- 6/18/2025
+
+Double Maths First Thing is excited about the moon! Hello! My name is Colin and I am a mathematician on a mission to spread joy and delight in doing and thinking about maths. Annoyingly, immediately after last week’s issue went out, several...
+
+
 [\(-e^{i\pi}\) to Watch: Boppana Math](https://aperiodical.com/2025/06/eipi-to-watch-boppana-math/)
 ---
 
@@ -343,14 +367,6 @@ Blog - Logic Matters --- 5/23/2025
 Slowly, very slowly, … I would be really annoyed to paperback Introducing Category Theory and then immediately find silly typos or thinkos. So (as I’ve reported before) I have been getting ChatGPT and Claude Sonnet to proofread chapter by chapter....
 
 
-[Topics I taught this year](https://aperiodical.com/2025/05/topics-i-taught-this-year/)
----
-
-The Aperiodical --- 5/23/2025
-
-It’s been quite a year. We introduced a totally new mathematics degree course, redesigned from the previous version. In addition, restructures and people leaving meant there were fewer of us teaching on the maths degree. All this together means...
-
-
 [Using Automorphism Groups of Curves to Control the Slopes of their Jacobians](https://rin.io/gausssums/)
 ---
 
@@ -501,14 +517,6 @@ I wrote this about a month ago but wanted to wait until after the REU PI confere
 Blog - Logic Matters --- 4/27/2025
 
 A quite wonderful performance of the Trout Quintet by Patricia Kopatschinskaja, Anastasia Kobekina, and friends, made available by the Gstaad Digital Festival (to watch, you might have to register, but that’s free). Enjoy! The post Schubert on...
-
-
-[Category theory introduced!](https://www.logicmatters.net/2025/04/26/category-theory-introduced/)
----
-
-Blog - Logic Matters --- 4/26/2025
-
-I have just uploaded a revised version of Introducing Category Theory, which as usual you’ll find linked on the categories page. I will need to do some more proof-reading (with a bit of help from ChatGPT and from my useful new friend Claude). And I...
 
 
 [Real People](https://blog.computationalcomplexity.org/feeds/3324314187072757023/comments/default)
@@ -701,14 +709,6 @@ A talk about some striking mathematical images.
 The n-Category Café --- 3/20/2025
 
 I'm giving a talk next Friday, March 14th, at 9 am Pacific Daylight time here in California. You're all invited! (Note that Daylight Savings Time starts March 9th, so do your calculations carefully if you do them before then.)...
-
-
-[A Failure to Communicate](https://blog.computationalcomplexity.org/feeds/6613992115547186330/comments/default)
----
-
-Computational Complexity --- 3/19/2025
-
-With care you can explain major ideas and results in computational complexity to the general public, like the P v NP problem, zero-knowledge proofs, the PCP theorem and Shor's factoring algorithms in a way that a curious non-scientist can find...
 
 
 [The Four Realities We Live In: Ursula Franklin’s Framework](http://proses.id/four-realities/)
