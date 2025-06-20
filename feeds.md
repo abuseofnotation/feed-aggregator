@@ -1,4 +1,28 @@
 
+[Are pro-natalists living on the same planet ?](https://crookedtimber.org/2025/06/19/are-pro-natalists-living-on-the-same-planet/)
+---
+
+Crooked Timber --- 6/19/2025
+
+Pro-natalism (the idea that people, or rather, women, should have more babies than they choose to do at present) has become an established orthodoxy,[1]. The central claim is that, unless something changes soon, human populations both global and...
+
+
+[And the other Big Red Logic Books?](https://www.logicmatters.net/2025/06/19/and-the-other-big-red-logic-books/)
+---
+
+Blog - Logic Matters --- 6/19/2025
+
+I had luxuriant locks, and the temple was still standing, when I originally started the notes on category theory. But here we are … The history of earlier versions is embarrassingly untidy (as I kept changing my mind about such major issues as one...
+
+
+[Lance never thought he would see a Pope who roots for the same team as him. And now...](https://blog.computationalcomplexity.org/feeds/5419259257899994092/comments/default)
+---
+
+Computational Complexity --- 6/19/2025
+
+A year ago if I showed you a picture of The Pope wearing a Baseball cap for the Chicago White Sox (or any Amercan team) you would assume it was computer-generated. And you would likely be right. Are there any real pictures of any Pope before Pope...
+
+
 [Fulbright Memories](https://blog.computationalcomplexity.org/feeds/2001200121821243988/comments/default)
 ---
 
@@ -29,14 +53,6 @@ Double Maths First Thing is excited about the moon! Hello! My name is Colin and 
 The Aperiodical --- 6/16/2025
 
 In this series of posts, we’ll be featuring mathematical video and streaming channels from all over the internet, by speaking to the creators of the channel and asking them about what they do. We spoke to Ravi Boppana about his channel, Boppana...
-
-
-[Lance never thought he would see a Pope who roots for the same team as him. And now...](https://blog.computationalcomplexity.org/feeds/5419259257899994092/comments/default)
----
-
-Computational Complexity --- 6/16/2025
-
-A year ago if I showed you a picture of The Pope wearing a Baseball cap for the Chicago White Sox (or any Amercan team) you would assume it was computer-generated. And you would likely be right. Are there any real pictures of any Pope before Pope...
 
 
 [Sunday photoblogging: Strasbourg cathedral](https://crookedtimber.org/2025/06/15/sunday-photoblogging-strasbourg-cathedral-2/)
@@ -415,14 +431,6 @@ Crooked Timber --- 5/19/2025
 How far can a government go in harming its own people before it loses support? And what does it mean if this form of harm happens via an attack on public knowledge institutions, from universities to meteorological services, in which expert...
 
 
-[Amiens Cathedral](https://crookedtimber.org/2025/05/18/amiens-cathedral/)
----
-
-Crooked Timber --- 5/18/2025
-
-
-
-
 [McLarty on ‘The roles of set theories in mathematics’](https://www.logicmatters.net/2025/05/16/mclarty-on-the-roles-of-set-theories-in-mathematics/)
 ---
 
@@ -509,14 +517,6 @@ As someone who has literally written a book on the topic, I have had many people
 Computational Complexity --- 4/28/2025
 
 I wrote this about a month ago but wanted to wait until after the REU PI conference (which was April 21-22-23) to post it. I add a few comments based on what has happened since, which I preface with...
-
-
-[Schubert on Sunday 11: The Trout Quintet](https://www.logicmatters.net/2025/04/27/schubert-on-sunday-11/)
----
-
-Blog - Logic Matters --- 4/27/2025
-
-A quite wonderful performance of the Trout Quintet by Patricia Kopatschinskaja, Anastasia Kobekina, and friends, made available by the Gstaad Digital Festival (to watch, you might have to register, but that’s free). Enjoy! The post Schubert on...
 
 
 [Real People](https://blog.computationalcomplexity.org/feeds/3324314187072757023/comments/default)
