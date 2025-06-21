@@ -1,4 +1,20 @@
 
+[A very short book note](https://www.logicmatters.net/2025/06/20/a-very-short-book-note/)
+---
+
+Blog - Logic Matters --- 6/20/2025
+
+With a mind to building myself a reading list for homework before updating the BML Study Guide, I have been doing some online searches for recent publications on mathematical logic. I asked ChatGPT and Claude in “research” mode too, but they were...
+
+
+[Open letter to European Commission President Ursula von der Leyen on the skewed selection process for head of European Data Protection Supervisor](https://crookedtimber.org/2025/06/20/open-letter-to-european-commission-president-ursula-von-der-leyen-on-the-skewed-selection-process-for-head-of-european-data-protection-supervisor/)
+---
+
+Crooked Timber --- 6/20/2025
+
+Hi CT readers, I’m publishing this open letter here so there’s a public record of the letter I’ve co-written and signed about what looks, walks and talks like a good old-fashioned Brussels stitch-up aimed at weakening the EU organisation that...
+
+
 [Are pro-natalists living on the same planet ?](https://crookedtimber.org/2025/06/19/are-pro-natalists-living-on-the-same-planet/)
 ---
 
@@ -12,7 +28,7 @@ Pro-natalism (the idea that people, or rather, women, should have more babies th
 
 Blog - Logic Matters --- 6/19/2025
 
-I had luxuriant locks, and the temple was still standing, when I originally started the notes on category theory. But here we are … The history of earlier versions is embarrassingly untidy (as I kept changing my mind about such major issues as one...
+I had luxuriant locks, and the temple was still standing, when I originally started the notes on category theory. But here we are … (according to ChatGPT, channelling its inner Rembrandt). The history of earlier versions is embarrassingly untidy...
 
 
 [Lance never thought he would see a Pope who roots for the same team as him. And now...](https://blog.computationalcomplexity.org/feeds/5419259257899994092/comments/default)
@@ -423,14 +439,6 @@ Computational Complexity --- 5/20/2025
 The New Pope is Pope Leo XIV (pre-Pope name is Robert Prevost). 1) Pope names are one of the few places we still use Roman Numerals. I saw an article that was probably satirical that Americans prefer Roman Numerals (the numbers Jesus used) over...
 
 
-[Have people really had enough of experts?](https://crookedtimber.org/2025/05/19/have-people-really-had-enough-of-experts/)
----
-
-Crooked Timber --- 5/19/2025
-
-How far can a government go in harming its own people before it loses support? And what does it mean if this form of harm happens via an attack on public knowledge institutions, from universities to meteorological services, in which expert...
-
-
 [McLarty on ‘The roles of set theories in mathematics’](https://www.logicmatters.net/2025/05/16/mclarty-on-the-roles-of-set-theories-in-mathematics/)
 ---
 
@@ -493,14 +501,6 @@ I reviewed a paper recently and I had to agree not to use AI in any aspect of th
 Computational Complexity --- 5/6/2025
 
 In a recent post by Scott (see here or just read my post which includes his post) he listed topis that he conjectured would NOT cause an outrage.I was going to write a long comment in his comments section, which would only be read by people who...
-
-
-[Lea Desandre, Claude, Categories …](https://www.logicmatters.net/2025/05/01/lea-desandre-claude-categories/)
----
-
-Blog - Logic Matters --- 5/1/2025
-
-We have just booked tickets to see the wondrous Lea Desandre at Wigmore Hall on Tuesday 16 September, singing Dowland and Purcell. It should be an amazing concert. If you haven’t ever seen her perform then this candlelit concert from Rouen three...
 
 
 [P v NP Papers Galore](https://blog.computationalcomplexity.org/feeds/3127879843679420539/comments/default)
