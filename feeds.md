@@ -1,4 +1,12 @@
 
+[Helen de Cruz (1978-2025), RIP](https://crookedtimber.org/2025/06/21/helen-de-cruz-1978-2025-rip/)
+---
+
+Crooked Timber --- 6/21/2025
+
+Please consider donating to this fundraising effort (here) to support Helen de Cruz’s family. There is no greater joy for a teacher than to see a student develop and grow; and no more satisfaction to a mentor than to be overshadowed professionally...
+
+
 [A very short book note](https://www.logicmatters.net/2025/06/20/a-very-short-book-note/)
 ---
 
@@ -381,14 +389,6 @@ Computational Complexity --- 5/26/2025
 Blog - Logic Matters --- 5/25/2025
 
 Charlotte Saluste-Bridoux — the prize-winning young violinist, who has recently joined her teacher Alina Ibragimova as the new second violinist for the spectacularly good Chiaroscuro Quartet — has a fine Schubert CD newly out with her regular duo...
-
-
-[Sunday photoblogging: ship turning on the Elbe](https://crookedtimber.org/2025/05/25/sunday-photoblogging-ship-turning-on-the-elbe/)
----
-
-Crooked Timber --- 5/25/2025
-
-
 
 
 [Categorial progress …](https://www.logicmatters.net/2025/05/23/categorial-progress-2/)
