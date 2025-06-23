@@ -1,4 +1,36 @@
 
+[The symbol of earthly good, and the immediate object of toil.](https://crookedtimber.org/2025/06/23/the-symbol-of-earthly-good-and-the-immediate-object-of-toil/)
+---
+
+Crooked Timber --- 6/23/2025
+
+Thursday afternoon I belatedly fulfilled a promise to post a book to Wilcannia. The school day was just finishing and as I left the Post Office I overheard a child around eight years old: Dad, I was so good today I got FIVE stickers. Dad was a...
+
+
+[Counting with Categories (Part 1)](https://golem.ph.utexas.edu/category/2025/06/counting_with_categories_part.html)
+---
+
+The n-Category Café --- 6/22/2025
+
+First lecture in a 3-hour course on combinatorics with species.
+
+
+[TfE: On Post-Searlean Critiques of LLMs](https://deontologistics.co/2025/06/22/tfe-on-post-searlean-critiques-of-llms/)
+---
+
+DEONTOLOGISTICS --- 6/22/2025
+
+Here’s a recent thread on philosophy of AI from Twitter/X, in which I address rather popular arguments made by Emily Bender and others to the effect that LLM outputs are strictly speaking meaningless. I think these argument are flawed, as I explain...
+
+
+[Sunday photoblogging: heads](https://crookedtimber.org/2025/06/22/sunday-photoblogging-heads/)
+---
+
+Crooked Timber --- 6/22/2025
+
+
+
+
 [Helen de Cruz (1978-2025), RIP](https://crookedtimber.org/2025/06/21/helen-de-cruz-1978-2025-rip/)
 ---
 
@@ -285,22 +317,6 @@ In this series of posts, we’ll be featuring mathematical video and streaming c
 The n-Category Café --- 6/1/2025
 
 Todd Trimble and I wrote a paper on characterizing classical groups (and monoids) in terms of their 2-rigs of representations.
-
-
-[Altona: from the street to a courtyard](https://crookedtimber.org/2025/06/01/altona-from-the-street-to-a-courtyard/)
----
-
-Crooked Timber --- 6/1/2025
-
-
-
-
-[Newt](https://crookedtimber.org/2025/05/31/newt/)
----
-
-Crooked Timber --- 5/31/2025
-
-Unemployed, I spent a week in April digging a small pond in our back yard. At the time, it was a distraction. Now it is… actually, a different sort of distraction. Because although it’s not a very big pond — about 3 meters by 2, maximum depth about...
 
 
 [Aperiodical News Roundup – April & May 2025](https://aperiodical.com/2025/05/aperiodical-news-roundup-april-may-2025/)
@@ -781,20 +797,4 @@ I don’t want to lose the human in me, I don’t want to have to see the world 
 The n-Category Café --- 2/26/2025
 
 PDE methods in magnitude, looked at categorically.
-
-
-[Potential Functions and the Magnitude of Functors 2](https://golem.ph.utexas.edu/category/2025/02/potential_functions_and_the_ma_1.html)
----
-
-The n-Category Café --- 2/26/2025
-
-Potential functions from a functorial perspective.
-
-
-[Category Theorists in AI](https://golem.ph.utexas.edu/category/2025/02/category_theorists_in_ai.html)
----
-
-The n-Category Café --- 2/26/2025
-
-Who are the applied category theorists working on AI, and what are they doing?
 
