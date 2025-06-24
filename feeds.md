@@ -1,18 +1,58 @@
 
+[Counting with Categories (Part 2)](https://golem.ph.utexas.edu/category/2025/06/counting_with_categories_part_1.html)
+---
+
+The n-Category Café --- 6/23/2025
+
+First lecture in a 4.5-hour minicourse on combinatorics with species.
+
+
+[Counting with Categories (Part 1)](https://golem.ph.utexas.edu/category/2025/06/counting_with_categories_part.html)
+---
+
+The n-Category Café --- 6/23/2025
+
+First lecture in a 4.5-hour minicourse on combinatorics with species.
+
+
+[PHQ’s Schubert on Sunday](https://www.logicmatters.net/2025/06/23/phq-schubert-of-sunday/)
+---
+
+Blog - Logic Matters --- 6/23/2025
+
+Back in 2012, the Pavel Haas Quartet recorded a prize-winning Schubert CD including a truly great performance of the Death and the Maiden Quartet. I wrote at the time: The Pavel Haas launch into “Death and the Maiden” with fierce attack and...
+
+
+[If you do well in the UMCP HS Math Competition you may win $1,000,000](https://blog.computationalcomplexity.org/feeds/5756596071637987543/comments/default)
+---
+
+Computational Complexity --- 6/23/2025
+
+The Univ of MD at College Park holds a HS Math Competition every year. At the reception for the winners Professor Larry Washington points to many past people who did well on the exam. Two stand out for different reasons:1) Serge Brin did well on...
+
+
+[The mathematical essence of origami blue-and-white porcelain](https://aperiodical.com/2025/06/the-mathematical-essence-of-origami-blue-and-white-porcelain/)
+---
+
+The Aperiodical --- 6/23/2025
+
+A story In my childhood memories, the lanterns in my hometown always fascinated me – circular palace lanterns, polyhedral colorful lanterns. How did my ancestors achieve the magical transformation from flat to three-dimensional through simple...
+
+
+[Potentialist conceptions of infinity, Peking University, June 2025](https://jdh.hamkins.org/potentialist-conceptions-of-infinity-peking-university-june-2025/)
+---
+
+Joel David Hamkins --- 6/23/2025
+
+This will be a talk for the Conference on Infinity, a collaborative meeting of logicians and specialists in Chinese philosophy here at Peking University, 24 June 2025, in the philosophy department. Abstract. I shall lay out a spectrum of...
+
+
 [The symbol of earthly good, and the immediate object of toil.](https://crookedtimber.org/2025/06/23/the-symbol-of-earthly-good-and-the-immediate-object-of-toil/)
 ---
 
 Crooked Timber --- 6/23/2025
 
 Thursday afternoon I belatedly fulfilled a promise to post a book to Wilcannia. The school day was just finishing and as I left the Post Office I overheard a child around eight years old: Dad, I was so good today I got FIVE stickers. Dad was a...
-
-
-[Counting with Categories (Part 1)](https://golem.ph.utexas.edu/category/2025/06/counting_with_categories_part.html)
----
-
-The n-Category Café --- 6/22/2025
-
-First lecture in a 3-hour course on combinatorics with species.
 
 
 [TfE: On Post-Searlean Critiques of LLMs](https://deontologistics.co/2025/06/22/tfe-on-post-searlean-critiques-of-llms/)
@@ -335,14 +375,6 @@ Computational Complexity --- 5/28/2025
 On Route 1 in Saugus, Massachusetts, about a twenty minute drive from Cambridge, stood the Hilltop Steak House. When I went to graduate school in the late 80's, Hilltop led all restaurants in the United States by sales (about $30 million in annual...
 
 
-[Double Maths First Thing: Issue 26](https://aperiodical.com/2025/05/double-maths-first-thing-issue-26/)
----
-
-The Aperiodical --- 5/28/2025
-
-Double Maths First Thing shaves newsletters if and only if they don’t shave themselves Hello! My name is Colin and I am a mathematician on a mission to spread joy and delight in puzzles, problem-solving and practicing maths. I’m currently wading...
-
-
 [Monad](http://abuseofnotation.github.io/monad/)
 ---
 
@@ -493,14 +525,6 @@ This will be an online talk for the Leeds Set Theory Seminar, 21 May 2025 1pm BS
 Math ∩ Programming --- 5/12/2025
 
 Editor’s note: This essay was originally published on Medium on 2016-03-05. I have made minor edits in this republishing and added a few small retrospective notes. 2010–2011 (Year 0) I had just switched my major at Cal Poly State University from...
-
-
-[Postcard from Amsterdam](https://www.logicmatters.net/2025/05/12/postcard-from-amsterdam/)
----
-
-Blog - Logic Matters --- 5/12/2025
-
-A week in Amsterdam, mostly to meet up with the digital nomad Daughter, which was of course hugely enjoyable. We have been staying a few hundred yards behind the Concertgebouw, in a quietly so-civilised area, with a great scattering of cafes and...
 
 
 [Using AI for Reviews](https://blog.computationalcomplexity.org/feeds/3791456331735935358/comments/default)
@@ -703,14 +727,6 @@ Fractal Kitty --- 3/25/2025
 In January, I kicked off a journey of reflection and growth at the Recurse Center (RC) – a retreat where you work at the edge of your abilities with wonderful peers to pair program, study with, and grow.  My goals in participating were to learn and...
 
 
-[Recording lectures? Posting the Recordings? Using Slides?](https://blog.computationalcomplexity.org/feeds/866622299185239800/comments/default)
----
-
-Computational Complexity --- 3/24/2025
-
-The issue of whether to record lectures or post slides or more generally how much material to give to the students is a new question (the last 20 years?) but I do have an anecdote from 1978.I was taking an applied math course on Mathematical...
-
-
 [Visual Insights (Part 2)](https://golem.ph.utexas.edu/category/2025/03/visual_insights_part_2.html)
 ---
 
@@ -781,20 +797,4 @@ Is the map from the Burnside ring to the representation ring of a finite group u
 Abuse of Notation --- 3/5/2025
 
 At the Agda headquaters: “OK, guys, so our user pool consists only of folks who already know Haskell and Emacs Is there a way to narrow it down more?” “I got it, what if we allow unicode, so they also have to also know Latex ?” “Brilliant!”
-
-
-[I don’t want to lose the human in me](http://abuseofnotation.github.io/lose-the-human/)
----
-
-Abuse of Notation --- 3/5/2025
-
-I don’t want to lose the human in me, I don’t want to have to see the world through their ways. I don’t want to have to feel through their point of view, To be locked inside it like an alien in a space suit. I don’t have to lose the human in me....
-
-
-[Potential Functions and the Magnitude of Functors 1](https://golem.ph.utexas.edu/category/2025/02/potential_functions_and_the_ma.html)
----
-
-The n-Category Café --- 2/26/2025
-
-PDE methods in magnitude, looked at categorically.
 
