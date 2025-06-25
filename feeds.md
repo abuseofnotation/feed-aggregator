@@ -1,18 +1,42 @@
 
-[Counting with Categories (Part 2)](https://golem.ph.utexas.edu/category/2025/06/counting_with_categories_part_1.html)
+[Counting with Categories (Part 3)](https://golem.ph.utexas.edu/category/2025/06/counting_with_categories_part_2.html)
 ---
 
-The n-Category Café --- 6/23/2025
+The n-Category Café --- 6/24/2025
 
-First lecture in a 4.5-hour minicourse on combinatorics with species.
+Third and final lecture in a 4.5-hour minicourse on combinatorics with species.
 
 
 [Counting with Categories (Part 1)](https://golem.ph.utexas.edu/category/2025/06/counting_with_categories_part.html)
 ---
 
-The n-Category Café --- 6/23/2025
+The n-Category Café --- 6/24/2025
 
 First lecture in a 4.5-hour minicourse on combinatorics with species.
+
+
+[Tannaka Reconstruction and the Monoid of Matrices](https://golem.ph.utexas.edu/category/2025/06/tannaka_reconstruction_and_the.html)
+---
+
+The n-Category Café --- 6/24/2025
+
+Todd Trimble and I wrote a paper on characterizing classical groups (and monoids) in terms of their 2-rigs of representations.
+
+
+[Counting with Categories (Part 2)](https://golem.ph.utexas.edu/category/2025/06/counting_with_categories_part_1.html)
+---
+
+The n-Category Café --- 6/24/2025
+
+First lecture in a 4.5-hour minicourse on combinatorics with species.
+
+
+[Peaceful Terrorism?](https://crookedtimber.org/2025/06/24/peaceful-terrorism/)
+---
+
+Crooked Timber --- 6/24/2025
+
+The UK government has signalled its intention to “proscribe” the protest group Palestine Action under anti-terrorism legislation. This will place it in the same legal category as Al Qaeda and Islamic State: it will be illegal to belong to the...
 
 
 [PHQ’s Schubert on Sunday](https://www.logicmatters.net/2025/06/23/phq-schubert-of-sunday/)
@@ -20,7 +44,7 @@ First lecture in a 4.5-hour minicourse on combinatorics with species.
 
 Blog - Logic Matters --- 6/23/2025
 
-Back in 2012, the Pavel Haas Quartet recorded a prize-winning Schubert CD including a truly great performance of the Death and the Maiden Quartet. I wrote at the time: The Pavel Haas launch into “Death and the Maiden” with fierce attack and...
+Back in 2012, the Pavel Haas Quartet recorded a prize-winning Schubert CD including a truly great performance of the Death and the Maiden Quartet. I wrote at the time: The Pavel Haas launch into the quartet with fierce attack and astringent (almost...
 
 
 [If you do well in the UMCP HS Math Competition you may win $1,000,000](https://blog.computationalcomplexity.org/feeds/5756596071637987543/comments/default)
@@ -335,28 +359,12 @@ Crooked Timber --- 6/3/2025
 But perhaps there was no event, which tended farther to the improvement of the age, than one, which has not been much remarked, the accidental finding of a copy of Justinian’s Pandects, about the year 1130, in the town of Amalfi in Italy.—David...
 
 
-[Open Science and Its Enemies](https://crookedtimber.org/2025/06/02/open-science-and-its-enemies/)
----
-
-Crooked Timber --- 6/2/2025
-
-Donald Trump has signed an Executive Order nominally aimed at “Restoring Gold Standard Science”. Setting aside the absurdity of “restoring” something that never existed, what does that purport to mean? Gold Standard Science means science conducted...
-
-
 [\(-e^{i\pi}\) to Watch: Jim Simons](https://aperiodical.com/2025/06/eipi-to-watch-jim-simons/)
 ---
 
 The Aperiodical --- 6/2/2025
 
 In this series of posts, we’ll be featuring mathematical video and streaming channels from all over the internet, by speaking to the creators of the channel and asking them about what they do. We spoke to retired mathematician and A-level maths...
-
-
-[Tannaka Reconstruction and the Monoid of Matrices](https://golem.ph.utexas.edu/category/2025/06/tannaka_reconstruction_and_the.html)
----
-
-The n-Category Café --- 6/1/2025
-
-Todd Trimble and I wrote a paper on characterizing classical groups (and monoids) in terms of their 2-rigs of representations.
 
 
 [Aperiodical News Roundup – April & May 2025](https://aperiodical.com/2025/05/aperiodical-news-roundup-april-may-2025/)
@@ -789,12 +797,4 @@ I am honored to be giving the 2025 William Reinhardt Memorial Lecture at the Uni
 The n-Category Café --- 3/5/2025
 
 Is the map from the Burnside ring to the representation ring of a finite group usually surjective, or usually not?
-
-
-[Agda](http://abuseofnotation.github.io/agda/)
----
-
-Abuse of Notation --- 3/5/2025
-
-At the Agda headquaters: “OK, guys, so our user pool consists only of folks who already know Haskell and Emacs Is there a way to narrow it down more?” “I got it, what if we allow unicode, so they also have to also know Latex ?” “Brilliant!”
 
