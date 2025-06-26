@@ -1,16 +1,40 @@
 
+[Counting with Categories (Part 1)](https://golem.ph.utexas.edu/category/2025/06/counting_with_categories_part.html)
+---
+
+The n-Category Café --- 6/25/2025
+
+First lecture in a 4.5-hour minicourse on combinatorics with species.
+
+
 [Counting with Categories (Part 3)](https://golem.ph.utexas.edu/category/2025/06/counting_with_categories_part_2.html)
 ---
 
-The n-Category Café --- 6/24/2025
+The n-Category Café --- 6/25/2025
 
 Third and final lecture in a 4.5-hour minicourse on combinatorics with species.
 
 
-[Counting with Categories (Part 1)](https://golem.ph.utexas.edu/category/2025/06/counting_with_categories_part.html)
+[The Herschel enneahedron on Numberphile](https://aperiodical.com/2025/06/the-herschel-enneahedron-on-numberphile/)
 ---
 
-The n-Category Café --- 6/24/2025
+The Aperiodical --- 6/25/2025
+
+Me! On Numberphile! Who would’ve thought it? Earlier this year, Brady Haran visited Newcastle to record a video with some Leverhulme scholars. Luckily for me he had a bit of spare time to record a video with me, so we did one about the Herschel...
+
+
+[Double Maths First Thing: Issue 2A](https://aperiodical.com/2025/06/double-maths-first-thing-issue-2a/)
+---
+
+The Aperiodical --- 6/25/2025
+
+Double Maths First Thing is the Ultimate Answer. Hello! My name is Colin and I am a mathematician on a mission to the moon! But I’m also on a mission to spread joy and delight in doing maths anywhere in the cosmos. Talking of doing maths in strange...
+
+
+[Counting with Categories (Part 2)](https://golem.ph.utexas.edu/category/2025/06/counting_with_categories_part_1.html)
+---
+
+The n-Category Café --- 6/25/2025
 
 First lecture in a 4.5-hour minicourse on combinatorics with species.
 
@@ -21,14 +45,6 @@ First lecture in a 4.5-hour minicourse on combinatorics with species.
 The n-Category Café --- 6/24/2025
 
 Todd Trimble and I wrote a paper on characterizing classical groups (and monoids) in terms of their 2-rigs of representations.
-
-
-[Counting with Categories (Part 2)](https://golem.ph.utexas.edu/category/2025/06/counting_with_categories_part_1.html)
----
-
-The n-Category Café --- 6/24/2025
-
-First lecture in a 4.5-hour minicourse on combinatorics with species.
 
 
 [Peaceful Terrorism?](https://crookedtimber.org/2025/06/24/peaceful-terrorism/)
@@ -357,22 +373,6 @@ Computational Complexity --- 6/3/2025
 Crooked Timber --- 6/3/2025
 
 But perhaps there was no event, which tended farther to the improvement of the age, than one, which has not been much remarked, the accidental finding of a copy of Justinian’s Pandects, about the year 1130, in the town of Amalfi in Italy.—David...
-
-
-[\(-e^{i\pi}\) to Watch: Jim Simons](https://aperiodical.com/2025/06/eipi-to-watch-jim-simons/)
----
-
-The Aperiodical --- 6/2/2025
-
-In this series of posts, we’ll be featuring mathematical video and streaming channels from all over the internet, by speaking to the creators of the channel and asking them about what they do. We spoke to retired mathematician and A-level maths...
-
-
-[Aperiodical News Roundup – April & May 2025](https://aperiodical.com/2025/05/aperiodical-news-roundup-april-may-2025/)
----
-
-The Aperiodical --- 5/30/2025
-
-Here’s a round-up of all the mathematical news from the last couple of months we didn’t otherwise cover here. Prizes and Awards The Shaw Prize in Mathematical Sciences 2025 has been awarded to Kenji Fukaya, “for his pioneering work on symplectic...
 
 
 [The Hilltop Story](https://blog.computationalcomplexity.org/feeds/6915666163896139300/comments/default)
