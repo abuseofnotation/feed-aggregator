@@ -1,4 +1,20 @@
 
+[Counting with Categories (Part 1)](https://golem.ph.utexas.edu/category/2025/06/counting_with_categories_part.html)
+---
+
+The n-Category Café --- 6/27/2025
+
+First lecture in a 4.5-hour minicourse on combinatorics with species.
+
+
+[The Protestant Work Ethic, Libertarianism, and the Welfare State](https://crookedtimber.org/2025/06/27/the-protestant-work-ethic-libertarianism-and-the-welfare-state/)
+---
+
+Crooked Timber --- 6/27/2025
+
+Many thanks to Hannah for her beautiful post on George Eliot’s Silas Marner and the evacuation of moral purpose from the Protestant work ethic. That resonates with Hijacked, my latest book, which traces the history of the work ethic from 17th...
+
+
 [The Distribution of Prime Numbers: A Geometrical Perspective](https://blog.computationalcomplexity.org/feeds/8676523954566797308/comments/default)
 ---
 
@@ -29,14 +45,6 @@ First lecture in a 4.5-hour minicourse on combinatorics with species.
 The n-Category Café --- 6/26/2025
 
 Second lecture in a 4.5-hour minicourse on combinatorics with species.
-
-
-[Counting with Categories (Part 1)](https://golem.ph.utexas.edu/category/2025/06/counting_with_categories_part.html)
----
-
-The n-Category Café --- 6/26/2025
-
-First lecture in a 4.5-hour minicourse on combinatorics with species.
 
 
 [When the moon hits your eye with a big piece of \( \pi \)…](https://aperiodical.com/2025/06/when-the-moon-hits-your-eye-with-a-big-piece-of-pi/)
@@ -381,14 +389,6 @@ IntroductionIn this activity, we'll explore patterns by finding the remainders w
 Computational Complexity --- 6/3/2025
 
 (Thanks to David Marcus who sent me the video I point to in point 4 of this post. Tip for young bloggers (if there are any) you can have a half-baked idea for a post and then someone sends you something OR you later have an idea to make it a...
-
-
-[On The Political Roots of Academic Freedom](https://crookedtimber.org/2025/06/03/on-the-political-roots-of-academic-freedom/)
----
-
-Crooked Timber --- 6/3/2025
-
-But perhaps there was no event, which tended farther to the improvement of the age, than one, which has not been much remarked, the accidental finding of a copy of Justinian’s Pandects, about the year 1130, in the town of Amalfi in Italy.—David...
 
 
 [The Hilltop Story](https://blog.computationalcomplexity.org/feeds/6915666163896139300/comments/default)
