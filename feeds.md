@@ -1,4 +1,12 @@
 
+[Categorical Linguistics in <i>Quanta</i>](https://golem.ph.utexas.edu/category/2025/04/categorical_linguistics_in_qua.html)
+---
+
+The n-Category Café --- 6/28/2025
+
+Feature on Tai-Danae Bradley's work on categorical linguistics.
+
+
 [Counting with Categories (Part 1)](https://golem.ph.utexas.edu/category/2025/06/counting_with_categories_part.html)
 ---
 
@@ -621,14 +629,6 @@ Stellenbosch University wants to hire a mathematician.  Apply before April 30th!
 Math ∩ Programming --- 4/15/2025
 
 Last month I gave a talk on the HEIR compiler project at the FHE.org conference in Sofia, Bulgaria. The video is on YouTube now, and the slides are public. I plan to write more about HEIR in the coming months, because it’s been an exciting and...
-
-
-[Categorical Linguistics in <i>Quanta</i>](https://golem.ph.utexas.edu/category/2025/04/categorical_linguistics_in_qua.html)
----
-
-The n-Category Café --- 4/15/2025
-
-Feature on Tai-Danae Bradley's work on categorical linguistics.
 
 
 [I want an application of this application of Ramsey Theory to Semigroups](https://blog.computationalcomplexity.org/feeds/8761612038156842136/comments/default)
