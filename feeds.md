@@ -1,4 +1,28 @@
 
+[The end of US democracy](https://crookedtimber.org/2025/06/29/the-end-of-us-democracy/)
+---
+
+Crooked Timber --- 6/29/2025
+
+I’ve held off posting this in the hope of coming up with some kind of positive response, but I haven’t got one. When I wrote back in November 2024 that Trump’s dictatorship was a fait accompi there was still plenty of room for people to disagree....
+
+
+[Bjorndahl’s Introduction to Classical and Modal Logics](https://www.logicmatters.net/2025/06/29/bjorndahls-introduction-to-classical-and-modal-logics/)
+---
+
+Blog - Logic Matters --- 6/29/2025
+
+I have belatedly updated the PDF Appendix to the Study Guide and also the page of links to book notes — 76 of them! — to incorporate some blog posts from last year. And I am now starting to do more homework, as I slowly work up to revising the main...
+
+
+[Sunday photoblogging: Sète](https://crookedtimber.org/2025/06/29/sunday-photoblogging-sete-2/)
+---
+
+Crooked Timber --- 6/29/2025
+
+
+
+
 [Categorical Linguistics in <i>Quanta</i>](https://golem.ph.utexas.edu/category/2025/04/categorical_linguistics_in_qua.html)
 ---
 
@@ -343,14 +367,6 @@ Crooked Timber --- 6/8/2025
 Except it’s not happy, of course. The ocean’s ecosystems are going to hell in a hand-cart, while our politicians congratulate themselves for signing up to pledges (like protecting 30% of the ocean by 2030) that they have no realistic plan for...
 
 
-[Sunday photoblogging: Bath doorways](https://crookedtimber.org/2025/06/08/sunday-photoblogging-bath-doorways/)
----
-
-Crooked Timber --- 6/8/2025
-
-
-
-
 [Podcasting About: Stats + Stories](https://aperiodical.com/2025/06/podcasting-about-stats-stories/)
 ---
 
@@ -365,14 +381,6 @@ In this series of posts, we’ll be featuring mathematical podcasts from all ove
 Blog - Logic Matters --- 6/5/2025
 
 Not the paperback (yet). But there is now a full version of Introducing Category Theory that I don’t plan to do anything much more with than get my AI friends to continue proof-reading onwards from about half way through. I’ll cast my eye over the...
-
-
-[Occasional paper: The impossible predicament of the death newts](https://crookedtimber.org/2025/06/05/occasional-paper-the-impossible-predicament-of-the-death-newts/)
----
-
-Crooked Timber --- 6/5/2025
-
-So a few days ago I posted about newts, and I mentioned that there was an American newt that was ridiculously toxic. But then (I said) there wasn’t space or time to go into why. And of course I was immediately bombarded by many* comments and...
 
 
 [Rules vs Standards](https://blog.computationalcomplexity.org/feeds/630081856772386730/comments/default)
@@ -469,14 +477,6 @@ Computational Complexity --- 5/26/2025
 Blog - Logic Matters --- 5/25/2025
 
 Charlotte Saluste-Bridoux — the prize-winning young violinist, who has recently joined her teacher Alina Ibragimova as the new second violinist for the spectacularly good Chiaroscuro Quartet — has a fine Schubert CD newly out with her regular duo...
-
-
-[Categorial progress …](https://www.logicmatters.net/2025/05/23/categorial-progress-2/)
----
-
-Blog - Logic Matters --- 5/23/2025
-
-Slowly, very slowly, … I would be really annoyed to paperback Introducing Category Theory and then immediately find silly typos or thinkos. So (as I’ve reported before) I have been getting ChatGPT and Claude Sonnet to proofread chapter by chapter....
 
 
 [Using Automorphism Groups of Curves to Control the Slopes of their Jacobians](https://rin.io/gausssums/)
