@@ -1,4 +1,76 @@
 
+[How Good are Permutation Represesentations?](https://golem.ph.utexas.edu/category/2025/03/how_good_are_permutation_repre.html)
+---
+
+The n-Category Café --- 6/30/2025
+
+Is the map from the Burnside ring to the representation ring of a finite group usually surjective, or usually not?
+
+
+[Category Theory 2025](https://golem.ph.utexas.edu/category/2025/03/category_theory_2025.html)
+---
+
+The n-Category Café --- 6/30/2025
+
+CT2025 conference announcement.
+
+
+[Quantum Ellipsoids](https://golem.ph.utexas.edu/category/2025/04/quantum_ellipsoids.html)
+---
+
+The n-Category Café --- 6/30/2025
+
+Studying atomic nuclei forces us to quantize the concept of ellipsoid.
+
+
+[Two high school students have a new proof of the Pythagorean Theorem  / Pythag theorem older than thought](https://blog.computationalcomplexity.org/feeds/1772880144946336704/comments/default)
+---
+
+Computational Complexity --- 6/30/2025
+
+(I wrote this post a while back so its no longer NEW. More important--- if there has been a follow-up to the story that is not in my post, let me know.)   We have something NEW and something OLD about the Pythagorean Theorem. Now all we need is...
+
+
+[Counting with Categories (Part 1)](https://golem.ph.utexas.edu/category/2025/06/counting_with_categories_part.html)
+---
+
+The n-Category Café --- 6/30/2025
+
+First lecture in a 4.5-hour minicourse on combinatorics with species.
+
+
+[Category Theorists in AI](https://golem.ph.utexas.edu/category/2025/02/category_theorists_in_ai.html)
+---
+
+The n-Category Café --- 6/30/2025
+
+Who are the applied category theorists working on AI, and what are they doing?
+
+
+[The McGee Group](https://golem.ph.utexas.edu/category/2025/03/the_mcgee_group.html)
+---
+
+The n-Category Café --- 6/30/2025
+
+The McGee group is one of the two smallest groups with an outer automorphism that preserves conjugacy classes.   My route to understanding this fact was a long and winding one.
+
+
+[Categorical Linguistics in <i>Quanta</i>](https://golem.ph.utexas.edu/category/2025/04/categorical_linguistics_in_qua.html)
+---
+
+The n-Category Café --- 6/30/2025
+
+Feature on Tai-Danae Bradley's work on categorical linguistics.
+
+
+[\(-e^{i\pi}\) to Watch: Welch Labs](https://aperiodical.com/2025/06/eipi-to-watch-welch-labs/)
+---
+
+The Aperiodical --- 6/30/2025
+
+In this series of posts, we’ll be featuring mathematical video and streaming channels from all over the internet, by speaking to the creators of the channel and asking them about what they do. We spoke to Stephen Welch, of Welch Labs, which among...
+
+
 [The end of US democracy](https://crookedtimber.org/2025/06/29/the-end-of-us-democracy/)
 ---
 
@@ -21,22 +93,6 @@ I have belatedly updated the PDF Appendix to the Study Guide and also the page o
 Crooked Timber --- 6/29/2025
 
 
-
-
-[Categorical Linguistics in <i>Quanta</i>](https://golem.ph.utexas.edu/category/2025/04/categorical_linguistics_in_qua.html)
----
-
-The n-Category Café --- 6/28/2025
-
-Feature on Tai-Danae Bradley's work on categorical linguistics.
-
-
-[Counting with Categories (Part 1)](https://golem.ph.utexas.edu/category/2025/06/counting_with_categories_part.html)
----
-
-The n-Category Café --- 6/27/2025
-
-First lecture in a 4.5-hour minicourse on combinatorics with species.
 
 
 [The Protestant Work Ethic, Libertarianism, and the Welfare State](https://crookedtimber.org/2025/06/27/the-protestant-work-ethic-libertarianism-and-the-welfare-state/)
@@ -367,14 +423,6 @@ Crooked Timber --- 6/8/2025
 Except it’s not happy, of course. The ocean’s ecosystems are going to hell in a hand-cart, while our politicians congratulate themselves for signing up to pledges (like protecting 30% of the ocean by 2030) that they have no realistic plan for...
 
 
-[Podcasting About: Stats + Stories](https://aperiodical.com/2025/06/podcasting-about-stats-stories/)
----
-
-The Aperiodical --- 6/6/2025
-
-In this series of posts, we’ll be featuring mathematical podcasts from all over the internet, by speaking to the creators of the podcast and asking them about what they do. We spoke to John Bailer and Rosemary Pennington, the hosts of the podcast...
-
-
 [Introducing Category Theory (an almost final version)](https://www.logicmatters.net/2025/06/05/introducing-category-theory-an-almost-final-version/)
 ---
 
@@ -647,14 +695,6 @@ Computational Complexity --- 4/9/2025
 In the recent Signalgate scandal, several senior Trump administration appointees used the Signal app on their phones to discuss an attack on the Houthis. People discussed the risk of the phones being compromised or human factors, such as adding a...
 
 
-[Quantum Ellipsoids](https://golem.ph.utexas.edu/category/2025/04/quantum_ellipsoids.html)
----
-
-The n-Category Café --- 4/8/2025
-
-Studying atomic nuclei forces us to quantize the concept of ellipsoid.
-
-
 [I was invited to a Nutrition conference. Why?](https://blog.computationalcomplexity.org/feeds/5627102157318768498/comments/default)
 ---
 
@@ -711,22 +751,6 @@ Math ∩ Programming --- 4/1/2025
 It’s April Cools! Last year I wrote about parenting, in 2023 about friendship bracelets. and in 2022 about cocktails. This year it’s a bit of a meandering stroll through some ideas around mutual aid and self-reliance. Maternity wards If you walk...
 
 
-[Survey's are done stupidly/A stupid question from a survey](https://blog.computationalcomplexity.org/feeds/6849194891852770632/comments/default)
----
-
-Computational Complexity --- 3/29/2025
-
-I have often began taking a survey and quit in the middle. Why?1) It goes on to long. When I told the surveyors that he may get more people quitting for that reason so he should make it shorter he said, rather rudely, that he is an expert on...
-
-
-[The McGee Group](https://golem.ph.utexas.edu/category/2025/03/the_mcgee_group.html)
----
-
-The n-Category Café --- 3/27/2025
-
-The McGee group is one of the two smallest groups with an outer automorphism that preserves conjugacy classes.   My route to understanding this fact was a long and winding one.
-
-
 [Time at the Recurse Center](https://www.fractalkitty.com/time-at-the-recurse-center/)
 ---
 
@@ -759,14 +783,6 @@ Proses.ID --- 3/17/2025
 What is reality? It might seem like a straightforward question, but Ursula Franklin, a pioneering thinker in technology and society, saw it as layered and…
 
 
-[Category Theory 2025](https://golem.ph.utexas.edu/category/2025/03/category_theory_2025.html)
----
-
-The n-Category Café --- 3/12/2025
-
-CT2025 conference announcement.
-
-
 [Why should I care? or why punks are correct and old wise philosophers are wrong](http://abuseofnotation.github.io/moral-law/)
 ---
 
@@ -781,20 +797,4 @@ Last week I learned that Robert Paul Wolff, the philosopher who got interested i
 Joel David Hamkins --- 3/6/2025
 
 This will be a talk for the Panglobal Algebra and Logic seminar at the University of Colorado Boulder, March 12, 2025, 3:30pm MDT The talk will be available live on Zoom. Contact the organizers for access. Abstract. I shall introduce … Continue...
-
-
-[2025 William Reinhardt Memorial Lecture, Boulder](https://jdh.hamkins.org/2025-william-reinhardt-memorial-lecture-boulder/)
----
-
-Joel David Hamkins --- 3/6/2025
-
-I am honored to be giving the 2025 William Reinhardt Memorial Lecture at the University of Colorado Boulder, March 11, 2025. How we might have taken the Continuum Hypothesis as a fundamental axiom, necessary for mathematics Abstract. I shall...
-
-
-[How Good are Permutation Represesentations?](https://golem.ph.utexas.edu/category/2025/03/how_good_are_permutation_repre.html)
----
-
-The n-Category Café --- 3/5/2025
-
-Is the map from the Burnside ring to the representation ring of a finite group usually surjective, or usually not?
 
