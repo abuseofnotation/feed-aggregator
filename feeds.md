@@ -1,32 +1,80 @@
 
-[How Good are Permutation Represesentations?](https://golem.ph.utexas.edu/category/2025/03/how_good_are_permutation_repre.html)
+[Category Theorists in AI](https://golem.ph.utexas.edu/category/2025/02/category_theorists_in_ai.html)
 ---
 
-The n-Category Café --- 6/30/2025
+The n-Category Café --- 7/1/2025
 
-Is the map from the Burnside ring to the representation ring of a finite group usually surjective, or usually not?
-
-
-[Category Theory 2025](https://golem.ph.utexas.edu/category/2025/03/category_theory_2025.html)
----
-
-The n-Category Café --- 6/30/2025
-
-CT2025 conference announcement.
+Who are the applied category theorists working on AI, and what are they doing?
 
 
 [Quantum Ellipsoids](https://golem.ph.utexas.edu/category/2025/04/quantum_ellipsoids.html)
 ---
 
-The n-Category Café --- 6/30/2025
+The n-Category Café --- 7/1/2025
 
 Studying atomic nuclei forces us to quantize the concept of ellipsoid.
+
+
+[Categorical Linguistics in <i>Quanta</i>](https://golem.ph.utexas.edu/category/2025/04/categorical_linguistics_in_qua.html)
+---
+
+The n-Category Café --- 7/1/2025
+
+Feature on Tai-Danae Bradley's work on categorical linguistics.
+
+
+[The McGee Group](https://golem.ph.utexas.edu/category/2025/03/the_mcgee_group.html)
+---
+
+The n-Category Café --- 7/1/2025
+
+The McGee group is one of the two smallest groups with an outer automorphism that preserves conjugacy classes.   My route to understanding this fact was a long and winding one.
+
+
+[What is a Good Quantum Encoding? Part 1](https://www.math3ma.com/blog/what-is-a-good-quantum-encoding-part-1)
+---
+
+Math3ma --- 7/1/2025
+
+Over the past couple of years, I've been learning a little about the world of quantum machine learning (QML) and the sorts of things people are thinking about there. I recently gave an high-level talk on some of these ideas in connection to a...
+
+
+[Category Theory 2025](https://golem.ph.utexas.edu/category/2025/03/category_theory_2025.html)
+---
+
+The n-Category Café --- 7/1/2025
+
+CT2025 conference announcement.
+
+
+[How Good are Permutation Represesentations?](https://golem.ph.utexas.edu/category/2025/03/how_good_are_permutation_repre.html)
+---
+
+The n-Category Café --- 7/1/2025
+
+Is the map from the Burnside ring to the representation ring of a finite group usually surjective, or usually not?
+
+
+[Potential Functions and the Magnitude of Functors 2](https://golem.ph.utexas.edu/category/2025/02/potential_functions_and_the_ma_1.html)
+---
+
+The n-Category Café --- 7/1/2025
+
+Potential functions from a functorial perspective.
+
+
+[Srivastava on Naive Set Theory](https://www.logicmatters.net/2025/07/01/a-short-book-note-srivastava-on-naive-set-theory/)
+---
+
+Blog - Logic Matters --- 7/1/2025
+
+In a previous book note, and also in the Appendix to the Guide, there is a review of Shashi Mohan Srivastava’s earlier A Course on Mathematical Logic. Parts of that book, as I say, could make useful supplementary/revision reading. So I was...
 
 
 [Two high school students have a new proof of the Pythagorean Theorem  / Pythag theorem older than thought](https://blog.computationalcomplexity.org/feeds/1772880144946336704/comments/default)
 ---
 
-Computational Complexity --- 6/30/2025
+Computational Complexity --- 7/1/2025
 
 (I wrote this post a while back so its no longer NEW. More important--- if there has been a follow-up to the story that is not in my post, let me know.)   We have something NEW and something OLD about the Pythagorean Theorem. Now all we need is...
 
@@ -37,30 +85,6 @@ Computational Complexity --- 6/30/2025
 The n-Category Café --- 6/30/2025
 
 First lecture in a 4.5-hour minicourse on combinatorics with species.
-
-
-[Category Theorists in AI](https://golem.ph.utexas.edu/category/2025/02/category_theorists_in_ai.html)
----
-
-The n-Category Café --- 6/30/2025
-
-Who are the applied category theorists working on AI, and what are they doing?
-
-
-[The McGee Group](https://golem.ph.utexas.edu/category/2025/03/the_mcgee_group.html)
----
-
-The n-Category Café --- 6/30/2025
-
-The McGee group is one of the two smallest groups with an outer automorphism that preserves conjugacy classes.   My route to understanding this fact was a long and winding one.
-
-
-[Categorical Linguistics in <i>Quanta</i>](https://golem.ph.utexas.edu/category/2025/04/categorical_linguistics_in_qua.html)
----
-
-The n-Category Café --- 6/30/2025
-
-Feature on Tai-Danae Bradley's work on categorical linguistics.
 
 
 [\(-e^{i\pi}\) to Watch: Welch Labs](https://aperiodical.com/2025/06/eipi-to-watch-welch-labs/)
@@ -519,14 +543,6 @@ Computational Complexity --- 5/26/2025
 (Trivia: What song has the lyric Some are Mathematicians, some are Carpenters's wives ? It's not a parody song, though sometimes it's hard to tell a parody song from a so-called real song.)In my post about Pope Leo XIV I made the following...
 
 
-[Schubert on Sunday 12: Fantasy for Violin and Piano, D. 934](https://www.logicmatters.net/2025/05/25/schubert-on-sunday-12-fantasy-for-violin-and-piano-d-934/)
----
-
-Blog - Logic Matters --- 5/25/2025
-
-Charlotte Saluste-Bridoux — the prize-winning young violinist, who has recently joined her teacher Alina Ibragimova as the new second violinist for the spectacularly good Chiaroscuro Quartet — has a fine Schubert CD newly out with her regular duo...
-
-
 [Using Automorphism Groups of Curves to Control the Slopes of their Jacobians](https://rin.io/gausssums/)
 ---
 
@@ -781,20 +797,4 @@ I'm giving a talk next Friday, March 14th, at 9 am Pacific Daylight time here in
 Proses.ID --- 3/17/2025
 
 What is reality? It might seem like a straightforward question, but Ursula Franklin, a pioneering thinker in technology and society, saw it as layered and…
-
-
-[Why should I care? or why punks are correct and old wise philosophers are wrong](http://abuseofnotation.github.io/moral-law/)
----
-
-Abuse of Notation --- 3/10/2025
-
-Last week I learned that Robert Paul Wolff, the philosopher who got interested in anarchism and marxism, died and I wanted to write something dedicated to him — this was the first reason I started writing this. The second one, was to finally finish...
-
-
-[Introduction to modal model theory, Panglobal Algebra and Logic Seminar, Boulder, March 2025](https://jdh.hamkins.org/introduction-to-modal-model-theory-panglobal-algebra-and-logic-seminar-boulder-march-2025/)
----
-
-Joel David Hamkins --- 3/6/2025
-
-This will be a talk for the Panglobal Algebra and Logic seminar at the University of Colorado Boulder, March 12, 2025, 3:30pm MDT The talk will be available live on Zoom. Contact the organizers for access. Abstract. I shall introduce … Continue...
 
