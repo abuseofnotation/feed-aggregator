@@ -1,18 +1,26 @@
 
+[The New Lower Bound on Busy Beaver of 6.](https://blog.computationalcomplexity.org/feeds/2700478520333308655/comments/default)
+---
+
+Computational Complexity --- 7/6/2025
+
+We denote the busy beaver function by BB.BB(n) is the max time a Turing machine of size n takes to halt on the empty string.(A particular model of TM and a notion of size has become standardized.)BB(n) grows faster than any computable function....
+
+
+[Counting with Categories (Part 3)](https://golem.ph.utexas.edu/category/2025/06/counting_with_categories_part_2.html)
+---
+
+The n-Category Café --- 7/6/2025
+
+First lecture in a 4.5-hour minicourse on combinatorics with species.
+
+
 [Inquiries-Week 3: Reflect and Rotate](https://www.fractalkitty.com/inquiries-week-3-r-and-rotate/)
 ---
 
 Fractal Kitty --- 7/3/2025
 
 IntroductionExplore the reflection and rotation of polygons to discover the patterns that emerge.  Polygon PlayLet's start with a triangle ABC. We can rotate clockwise so that each vertex moves clockwise by one step: We can also reflect (or flip)...
-
-
-[Counting with Categories (Part 3)](https://golem.ph.utexas.edu/category/2025/06/counting_with_categories_part_2.html)
----
-
-The n-Category Café --- 7/2/2025
-
-First lecture in a 4.5-hour minicourse on combinatorics with species.
 
 
 [A Professor Again](https://blog.computationalcomplexity.org/feeds/6679941355959021654/comments/default)
@@ -725,14 +733,6 @@ I recently read the following theoremDef: A semigroup is a pair \((G,*)\) where 
 Computational Complexity --- 4/9/2025
 
 In the recent Signalgate scandal, several senior Trump administration appointees used the Signal app on their phones to discuss an attack on the Houthis. People discussed the risk of the phones being compromised or human factors, such as adding a...
-
-
-[I was invited to a Nutrition conference. Why?](https://blog.computationalcomplexity.org/feeds/5627102157318768498/comments/default)
----
-
-Computational Complexity --- 4/7/2025
-
-From November of 2024 to March of 2025 I have gotten email inviting me to speak at conferences and/or submit to journals in the following topics:NOT EVEN CLOSE TO MY FIELD:Addiction Medicine, Behavioral Health and Psychiatry.Looking forward to...
 
 
 [A potentialist conception of ultrafinitism, Columbia University, April 2025](https://jdh.hamkins.org/a-potentialist-conception-of-ultrafinitism-columbia-university-april-2025/)
