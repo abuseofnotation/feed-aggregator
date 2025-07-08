@@ -1,4 +1,12 @@
 
+[How to Count n-Ary Trees](https://golem.ph.utexas.edu/category/2025/07/counting_trees.html)
+---
+
+The n-Category Café --- 7/7/2025
+
+How do you count rooted planar n-ary trees with a given number of leaves?  Use Lagrange inversion!
+
+
 [The New Lower Bound on Busy Beaver of 6.](https://blog.computationalcomplexity.org/feeds/2700478520333308655/comments/default)
 ---
 
@@ -45,14 +53,6 @@ Double Maths First Thing could really do with a hot lemon and honey Hello! My na
 The n-Category Café --- 7/2/2025
 
 Stellenbosch University wants to hire a mathematician.  Apply before April 30th!
-
-
-[Category Theorists in AI](https://golem.ph.utexas.edu/category/2025/02/category_theorists_in_ai.html)
----
-
-The n-Category Café --- 7/1/2025
-
-Who are the applied category theorists working on AI, and what are they doing?
 
 
 [Quantum Ellipsoids](https://golem.ph.utexas.edu/category/2025/04/quantum_ellipsoids.html)
