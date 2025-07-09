@@ -1,4 +1,12 @@
 
+[Whatever happened to Romney Republicans?](https://crookedtimber.org/2025/07/08/whatever-happened-to-romney-republicans/)
+---
+
+Crooked Timber --- 7/8/2025
+
+Have they changed, or just become their worst selves While Trump is unpopular with a majority of Americans, his support among Republicans remains solid. That’s despite blatant corruption, fascist policies and a failure to deliver any of the...
+
+
 [How to Count n-Ary Trees](https://golem.ph.utexas.edu/category/2025/07/counting_trees.html)
 ---
 
@@ -469,14 +477,6 @@ A generation ago, General Electric’s CEO, Jack Welch (1935 – 2020) was the m
 Blog - Logic Matters --- 6/8/2025
 
 As the world continues to go to hell in a handcart, let’s just pause for ten minutes to remind ourselves that there is beauty and tenderness … So from a couple of months ago, here are Noa Wildschut and Elisabeth Brauß playing the Three Romances for...
-
-
-[Happy World Ocean Day!](https://crookedtimber.org/2025/06/08/happy-world-ocean-day-2/)
----
-
-Crooked Timber --- 6/8/2025
-
-Except it’s not happy, of course. The ocean’s ecosystems are going to hell in a hand-cart, while our politicians congratulate themselves for signing up to pledges (like protecting 30% of the ocean by 2030) that they have no realistic plan for...
 
 
 [Introducing Category Theory (an almost final version)](https://www.logicmatters.net/2025/06/05/introducing-category-theory-an-almost-final-version/)
