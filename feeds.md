@@ -1,4 +1,52 @@
 
+[The Customers of the Academy](https://blog.computationalcomplexity.org/feeds/5079614410078839668/comments/default)
+---
+
+Computational Complexity --- 7/9/2025
+
+I had an epiphany reading an article in the Trenton Times when I lived in New Jersey at the turn of the century. The article interviewed companies along a certain street lobbying for a new bus route so their employees could more easily get to work....
+
+
+[The Magic Theorem](https://aperiodical.com/2025/07/the-magic-theorem/)
+---
+
+The Aperiodical --- 7/9/2025
+
+Back in 2008, Chaim Goodman-Strauss and Heidi Burgel, together with the late John Conway, wrote a book called The Symmetries of Things, which covered a range of topics around mathematical symmetry and the symmetries of geometric objects. Now the...
+
+
+[Lecture series on the philosophy of mathematics](https://jdh.hamkins.org/lecture-series-on-the-philosophy-of-mathematics/)
+---
+
+Joel David Hamkins --- 7/9/2025
+
+This will be a lecture series on the Philosophy of Mathematics at Fudan University in Shanghai, China, 30 June – 25 July 2025, as a part of the International Summer School program at Fudan University. Lectures given by Ruizhi Yang … Continue...
+
+
+[How the continuum hypothesis might have been a fundamental axiom, Lanzhou China, July 2025](https://jdh.hamkins.org/how-the-ch-might-have-been-fundamental-lanzhou-2025/)
+---
+
+Joel David Hamkins --- 7/9/2025
+
+This will be a talk for the International Conference on the Philosophy of Mathematics, held at Lanzhou University, China, 25-27 July 2025. How the continuum hypothesis might have been a fundamental axiom Abstract. I shall describe a...
+
+
+[Double Maths First Thing: Issue 2C](https://aperiodical.com/2025/07/double-maths-first-thing-issue-2c/)
+---
+
+The Aperiodical --- 7/9/2025
+
+Double Maths First Thing couldn’t possibly comment. Hello! My name is Colin and I am a mathematician on a mission to spread joy and delight in engaging with maths, for any reason or for none. I’ve made it back from rehearsal and am feeling a lot...
+
+
+[The mug](https://crookedtimber.org/2025/07/09/the-mug/)
+---
+
+Crooked Timber --- 7/9/2025
+
+I’ve owned this mug for twenty-five years now. Bought in the gift shop of the Metropolitan Opera in New York on my first ever trip to America, which I doubt I shall ever visit again. The mug, in art nouveau style, celebrates Pucchini’s La Bohème,...
+
+
 [Whatever happened to Romney Republicans?](https://crookedtimber.org/2025/07/08/whatever-happened-to-romney-republicans/)
 ---
 
@@ -399,28 +447,12 @@ Blog - Logic Matters --- 6/14/2025
 With a bit of useful proof-reading help from ChatGPT, and rather less from Claude, there’s a new version (2.8b) of ICT downloadable from the categories page. Between them, my friendly AI assistants found perhaps half a dozen straight-up typos per...
 
 
-[Particularly mathematical Birthday Honours 2025](https://aperiodical.com/2025/06/particularly-mathematical-birthday-honours-2025/)
----
-
-The Aperiodical --- 6/14/2025
-
-The UK Government have announced the new set of King’s Birthday Honours. Here’s our selection of particularly mathematical entries for this year. If you spot any more, let us know in the comments and we’ll add to the list. Get the full list from...
-
-
 [Review of Patriarchy Inc by Cordelia Fine](https://crookedtimber.org/2025/06/13/review-of-patriarchy-inc-by-cordelia-fine/)
 ---
 
 Crooked Timber --- 6/13/2025
 
 “When diversity, equity and inclusion become ‘threats’ to the order of society,” Judith Butler wrote recently, “progressive politics in general is held responsible for every social ill.” Authoritarians are empowered to oppress vulnerable people in...
-
-
-[Carnival of Maths 240](https://aperiodical.com/2025/06/carnival-of-maths-240/)
----
-
-The Aperiodical --- 6/11/2025
-
-The next issue of the Carnival of Mathematics, rounding up blog posts from the month of May 2025, is now online at Beauty of Mathematics. The Carnival rounds up maths blog posts from all over the internet, including some from our own Aperiodical....
 
 
 [Empathy as a Sin](https://crookedtimber.org/2025/06/11/empathy-as-a-sin/)
@@ -461,14 +493,6 @@ A few days ago, I experienced a strange auditive mix-up. My favorite German radi
 Computational Complexity --- 6/9/2025
 
 David ZuckermanThe 2025 Gödel Prize has been awarded to Eshan Chattopadhyay and David Zuckerman for their paperExplicit two-source extractors and resilient functionswhich was in STOC 2016 and in the Annals of Math in 2019. We (Bill and Lance) care...
-
-
-[Chibber’s Confronting Capitalism, Trump, and the Anxiety of Disordered Societies](https://crookedtimber.org/2025/06/09/chibbers-confronting-capitalism-trump-and-the-cult-of-firing/)
----
-
-Crooked Timber --- 6/9/2025
-
-A generation ago, General Electric’s CEO, Jack Welch (1935 – 2020) was the most admired business manager in the world. And General Electric purportedly the most admired corporation. Among his well-known attributes, Welch “would fire the bottom 10%...
 
 
 [Clara, Noa, Elisabeth](https://www.logicmatters.net/2025/06/08/clara-noa-elisabeth/)
@@ -727,14 +751,6 @@ Computational Complexity --- 4/14/2025
 I recently read the following theoremDef: A semigroup is a pair \((G,*)\) where \(G\) is a set and * is a binary operation on \(G\) such that * is associative. NOTE: we do not require an identity element, we do not require inverses, we do not...
 
 
-[Why Can't We Break Cryptography?](https://blog.computationalcomplexity.org/feeds/6006806958350796296/comments/default)
----
-
-Computational Complexity --- 4/9/2025
-
-In the recent Signalgate scandal, several senior Trump administration appointees used the Signal app on their phones to discuss an attack on the Houthis. People discussed the risk of the phones being compromised or human factors, such as adding a...
-
-
 [A potentialist conception of ultrafinitism, Columbia University, April 2025](https://jdh.hamkins.org/a-potentialist-conception-of-ultrafinitism-columbia-university-april-2025/)
 ---
 
@@ -781,20 +797,4 @@ It’s April Cools! Last year I wrote about parenting, in 2023 about friendship 
 Fractal Kitty --- 3/25/2025
 
 In January, I kicked off a journey of reflection and growth at the Recurse Center (RC) – a retreat where you work at the edge of your abilities with wonderful peers to pair program, study with, and grow.  My goals in participating were to learn and...
-
-
-[Visual Insights (Part 2)](https://golem.ph.utexas.edu/category/2025/03/visual_insights_part_2.html)
----
-
-The n-Category Café --- 3/20/2025
-
-A talk about some striking mathematical images.
-
-
-[Visual Insights (Part 1)](https://golem.ph.utexas.edu/category/2025/03/visual_insights.html)
----
-
-The n-Category Café --- 3/20/2025
-
-I'm giving a talk next Friday, March 14th, at 9 am Pacific Daylight time here in California. You're all invited! (Note that Daylight Savings Time starts March 9th, so do your calculations carefully if you do them before then.)...
 
