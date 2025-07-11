@@ -1,4 +1,44 @@
 
+[Take Two](https://www.fractalkitty.com/take-two-2/)
+---
+
+Fractal Kitty --- 7/11/2025
+
+Haiku + Codewith a second take dance with the first – tethered massorbiting encores .iframe-container {   position: relative;   width: 100%;   height: 0;   padding-bottom: 100%; /* 1:1 aspect ratio - square */   overflow: hidden;  ...
+
+
+[Position in Stellenbosch](https://golem.ph.utexas.edu/category/2025/04/position_in_stellenbosch.html)
+---
+
+The n-Category Café --- 7/10/2025
+
+Stellenbosch University wants to hire a mathematician.  Apply before April 30th!
+
+
+[How to Count n-Ary Trees](https://golem.ph.utexas.edu/category/2025/07/counting_trees.html)
+---
+
+The n-Category Café --- 7/10/2025
+
+How do you count rooted planar n-ary trees with a given number of leaves?  Use Lagrange inversion!
+
+
+[Potential Functions and the Magnitude of Functors 2](https://golem.ph.utexas.edu/category/2025/02/potential_functions_and_the_ma_1.html)
+---
+
+The n-Category Café --- 7/10/2025
+
+Potential functions from a functorial perspective.
+
+
+[Global science equity*](https://crookedtimber.org/2025/07/10/global-science-equity/)
+---
+
+Crooked Timber --- 7/10/2025
+
+Now that the Trump government is relentlessly attacking higher education and abusing its power at the border to arbitrarily refuse entry to scholars, many academics wonder whether it’s still possible to travel to the US for conferences or other...
+
+
 [The Customers of the Academy](https://blog.computationalcomplexity.org/feeds/5079614410078839668/comments/default)
 ---
 
@@ -55,14 +95,6 @@ Crooked Timber --- 7/8/2025
 Have they changed, or just become their worst selves While Trump is unpopular with a majority of Americans, his support among Republicans remains solid. That’s despite blatant corruption, fascist policies and a failure to deliver any of the...
 
 
-[How to Count n-Ary Trees](https://golem.ph.utexas.edu/category/2025/07/counting_trees.html)
----
-
-The n-Category Café --- 7/7/2025
-
-How do you count rooted planar n-ary trees with a given number of leaves?  Use Lagrange inversion!
-
-
 [The New Lower Bound on Busy Beaver of 6.](https://blog.computationalcomplexity.org/feeds/2700478520333308655/comments/default)
 ---
 
@@ -101,14 +133,6 @@ A new dean has taken my place, and I have returned to the professoriate at Illi
 The Aperiodical --- 7/2/2025
 
 Double Maths First Thing could really do with a hot lemon and honey Hello! My name is Colin and I am a mathematician on a mission to shift this blooming cold before the weekend, when I’m meant to be in Peterborough to rehearse for the PRE show in...
-
-
-[Position in Stellenbosch](https://golem.ph.utexas.edu/category/2025/04/position_in_stellenbosch.html)
----
-
-The n-Category Café --- 7/2/2025
-
-Stellenbosch University wants to hire a mathematician.  Apply before April 30th!
 
 
 [Quantum Ellipsoids](https://golem.ph.utexas.edu/category/2025/04/quantum_ellipsoids.html)
@@ -157,14 +181,6 @@ CT2025 conference announcement.
 The n-Category Café --- 7/1/2025
 
 Is the map from the Burnside ring to the representation ring of a finite group usually surjective, or usually not?
-
-
-[Potential Functions and the Magnitude of Functors 2](https://golem.ph.utexas.edu/category/2025/02/potential_functions_and_the_ma_1.html)
----
-
-The n-Category Café --- 7/1/2025
-
-Potential functions from a functorial perspective.
 
 
 [Srivastava on Naive Set Theory](https://www.logicmatters.net/2025/07/01/a-short-book-note-srivastava-on-naive-set-theory/)
@@ -479,14 +495,6 @@ Joel David Hamkins --- 6/11/2025
 This will be a lecture series at Peking University in Beijing in June 2025. Announcement at Peking University Course abstract. This will be a series of advanced lectures on set theory, treating diverse topics and particularly those illustrating how...
 
 
-[Platform work, redux](https://crookedtimber.org/2025/06/10/platform-work-redux/)
----
-
-Crooked Timber --- 6/10/2025
-
-A few days ago, I experienced a strange auditive mix-up. My favorite German radio program, Deutschlandfunk, sent a documentary about “platform workers”. Uber, Deliveroo, etc., you might think, but no. This was about workers on oil platforms in...
-
-
 [The New Godel Prize Winner Tastes Great and is Less Filling](https://blog.computationalcomplexity.org/feeds/4217811809607354532/comments/default)
 ---
 
@@ -789,12 +797,4 @@ Haskell is great. And I want more people to know it, so this is just a quick ove
 Math ∩ Programming --- 4/1/2025
 
 It’s April Cools! Last year I wrote about parenting, in 2023 about friendship bracelets. and in 2022 about cocktails. This year it’s a bit of a meandering stroll through some ideas around mutual aid and self-reliance. Maternity wards If you walk...
-
-
-[Time at the Recurse Center](https://www.fractalkitty.com/time-at-the-recurse-center/)
----
-
-Fractal Kitty --- 3/25/2025
-
-In January, I kicked off a journey of reflection and growth at the Recurse Center (RC) – a retreat where you work at the edge of your abilities with wonderful peers to pair program, study with, and grow.  My goals in participating were to learn and...
 
