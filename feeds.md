@@ -1,4 +1,28 @@
 
+[Category Theory 2025](https://golem.ph.utexas.edu/category/2025/03/category_theory_2025.html)
+---
+
+The n-Category Café --- 7/11/2025
+
+CT2025 conference announcement.
+
+
+[Cultural theory was right about the death of the author. It was just a few decades early](https://crookedtimber.org/2025/07/11/cultural-theory-was-right-about-the-death-of-the-author-it-was-just-a-few-decades-early/)
+---
+
+Crooked Timber --- 7/11/2025
+
+There’s a great anecdote about Roman Jakobson, the structuralist theorist of language, in Bernard Dionysius Geoghegan’s book, Code: From Information Theory to French Theory. For Jakobson, and for other early structuralist and post-structuralist...
+
+
+[Categorical Linguistics in <i>Quanta</i>](https://golem.ph.utexas.edu/category/2025/04/categorical_linguistics_in_qua.html)
+---
+
+The n-Category Café --- 7/11/2025
+
+Feature on Tai-Danae Bradley's work on categorical linguistics.
+
+
 [Take Two](https://www.fractalkitty.com/take-two-2/)
 ---
 
@@ -143,14 +167,6 @@ The n-Category Café --- 7/1/2025
 Studying atomic nuclei forces us to quantize the concept of ellipsoid.
 
 
-[Categorical Linguistics in <i>Quanta</i>](https://golem.ph.utexas.edu/category/2025/04/categorical_linguistics_in_qua.html)
----
-
-The n-Category Café --- 7/1/2025
-
-Feature on Tai-Danae Bradley's work on categorical linguistics.
-
-
 [The McGee Group](https://golem.ph.utexas.edu/category/2025/03/the_mcgee_group.html)
 ---
 
@@ -165,14 +181,6 @@ The McGee group is one of the two smallest groups with an outer automorphism tha
 Math3ma --- 7/1/2025
 
 Over the past couple of years, I've been learning a little about the world of quantum machine learning (QML) and the sorts of things people are thinking about there. I recently gave an high-level talk on some of these ideas in connection to a...
-
-
-[Category Theory 2025](https://golem.ph.utexas.edu/category/2025/03/category_theory_2025.html)
----
-
-The n-Category Café --- 7/1/2025
-
-CT2025 conference announcement.
 
 
 [How Good are Permutation Represesentations?](https://golem.ph.utexas.edu/category/2025/03/how_good_are_permutation_repre.html)
@@ -469,14 +477,6 @@ With a bit of useful proof-reading help from ChatGPT, and rather less from Claud
 Crooked Timber --- 6/13/2025
 
 “When diversity, equity and inclusion become ‘threats’ to the order of society,” Judith Butler wrote recently, “progressive politics in general is held responsible for every social ill.” Authoritarians are empowered to oppress vulnerable people in...
-
-
-[Empathy as a Sin](https://crookedtimber.org/2025/06/11/empathy-as-a-sin/)
----
-
-Crooked Timber --- 6/11/2025
-
-You may have viewed Sen. Joni Ernst (R-Iowa) offering a mock apology for dismissing a constituent’s complaint that the Medicaid cuts she endorses will cause people to die with the flippant remark, “We are all going to die.” She tied her defense of...
 
 
 [Defending Theory](https://blog.computationalcomplexity.org/feeds/3536975710758489759/comments/default)
