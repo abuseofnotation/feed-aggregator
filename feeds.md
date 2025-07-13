@@ -1,4 +1,28 @@
 
+[Potential Functions and the Magnitude of Functors 2](https://golem.ph.utexas.edu/category/2025/02/potential_functions_and_the_ma_1.html)
+---
+
+The n-Category Café --- 7/12/2025
+
+Potential functions from a functorial perspective.
+
+
+[Poetic serendipity](https://www.logicmatters.net/2025/07/12/poetic-serendipity/)
+---
+
+Blog - Logic Matters --- 7/12/2025
+
+I have written before about the pleasure of serendipitous finds in charity second-hand bookshops. It isn’t the matter of saving a few pounds (or of giving the money to a charity rather than a chain bookstore); that’s nice, to be sure, but it...
+
+
+[Potential Functions and the Magnitude of Functors 1](https://golem.ph.utexas.edu/category/2025/02/potential_functions_and_the_ma.html)
+---
+
+The n-Category Café --- 7/12/2025
+
+PDE methods in magnitude, looked at categorically.
+
+
 [Category Theory 2025](https://golem.ph.utexas.edu/category/2025/03/category_theory_2025.html)
 ---
 
@@ -45,14 +69,6 @@ Stellenbosch University wants to hire a mathematician.  Apply before April 30th!
 The n-Category Café --- 7/10/2025
 
 How do you count rooted planar n-ary trees with a given number of leaves?  Use Lagrange inversion!
-
-
-[Potential Functions and the Magnitude of Functors 2](https://golem.ph.utexas.edu/category/2025/02/potential_functions_and_the_ma_1.html)
----
-
-The n-Category Café --- 7/10/2025
-
-Potential functions from a functorial perspective.
 
 
 [Global science equity*](https://crookedtimber.org/2025/07/10/global-science-equity/)
@@ -511,14 +527,6 @@ Blog - Logic Matters --- 6/8/2025
 As the world continues to go to hell in a handcart, let’s just pause for ten minutes to remind ourselves that there is beauty and tenderness … So from a couple of months ago, here are Noa Wildschut and Elisabeth Brauß playing the Three Romances for...
 
 
-[Introducing Category Theory (an almost final version)](https://www.logicmatters.net/2025/06/05/introducing-category-theory-an-almost-final-version/)
----
-
-Blog - Logic Matters --- 6/5/2025
-
-Not the paperback (yet). But there is now a full version of Introducing Category Theory that I don’t plan to do anything much more with than get my AI friends to continue proof-reading onwards from about half way through. I’ll cast my eye over the...
-
-
 [Rules vs Standards](https://blog.computationalcomplexity.org/feeds/630081856772386730/comments/default)
 ---
 
@@ -789,12 +797,4 @@ Wow! It's the 238th Carnival of Mathematics organized by Aperiodical. This has b
 Abuse of Notation --- 4/3/2025
 
 Haskell is great. And I want more people to know it, so this is just a quick overview of it’s capabilities, using the code to solve a simple task I saw on Mastodon. The task is the following: Return a list of all combinations (i.e. order doesn’t...
-
-
-[Does Baby Have Hat](https://www.jeremykun.com/2025/04/01/does-baby-have-hat/)
----
-
-Math ∩ Programming --- 4/1/2025
-
-It’s April Cools! Last year I wrote about parenting, in 2023 about friendship bracelets. and in 2022 about cocktails. This year it’s a bit of a meandering stroll through some ideas around mutual aid and self-reliance. Maternity wards If you walk...
 
