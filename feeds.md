@@ -1,4 +1,20 @@
 
+[How much money did Francis Scott Key give to have a building named after him?](https://blog.computationalcomplexity.org/feeds/4650311492445732007/comments/default)
+---
+
+Computational Complexity --- 7/14/2025
+
+UMCP has a building named The Francis Scott Key BuildingSTUDENT: How much money did Francis Scott Key give to have a building named after him?BILL: He didn't give money. He wrote The Star Spangled Banner.STUDENT: I get it! He left the royalties!...
+
+
+[Sunday photoblogging: Street art at the Puces St Ouen](https://crookedtimber.org/2025/07/13/sunday-photoblogging-street-art-at-the-puce-st-ouen/)
+---
+
+Crooked Timber --- 7/13/2025
+
+
+
+
 [Potential Functions and the Magnitude of Functors 2](https://golem.ph.utexas.edu/category/2025/02/potential_functions_and_the_ma_1.html)
 ---
 
@@ -487,14 +503,6 @@ Blog - Logic Matters --- 6/14/2025
 With a bit of useful proof-reading help from ChatGPT, and rather less from Claude, there’s a new version (2.8b) of ICT downloadable from the categories page. Between them, my friendly AI assistants found perhaps half a dozen straight-up typos per...
 
 
-[Review of Patriarchy Inc by Cordelia Fine](https://crookedtimber.org/2025/06/13/review-of-patriarchy-inc-by-cordelia-fine/)
----
-
-Crooked Timber --- 6/13/2025
-
-“When diversity, equity and inclusion become ‘threats’ to the order of society,” Judith Butler wrote recently, “progressive politics in general is held responsible for every social ill.” Authoritarians are empowered to oppress vulnerable people in...
-
-
 [Defending Theory](https://blog.computationalcomplexity.org/feeds/3536975710758489759/comments/default)
 ---
 
@@ -757,14 +765,6 @@ I'm short on time time this week so I thought it would be good to look back, som
 Math ∩ Programming --- 4/15/2025
 
 Last month I gave a talk on the HEIR compiler project at the FHE.org conference in Sofia, Bulgaria. The video is on YouTube now, and the slides are public. I plan to write more about HEIR in the coming months, because it’s been an exciting and...
-
-
-[I want an application of this application of Ramsey Theory to Semigroups](https://blog.computationalcomplexity.org/feeds/8761612038156842136/comments/default)
----
-
-Computational Complexity --- 4/14/2025
-
-I recently read the following theoremDef: A semigroup is a pair \((G,*)\) where \(G\) is a set and * is a binary operation on \(G\) such that * is associative. NOTE: we do not require an identity element, we do not require inverses, we do not...
 
 
 [A potentialist conception of ultrafinitism, Columbia University, April 2025](https://jdh.hamkins.org/a-potentialist-conception-of-ultrafinitism-columbia-university-april-2025/)
