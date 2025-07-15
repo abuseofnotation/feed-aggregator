@@ -1,4 +1,28 @@
 
+[Pointwise definable end-extensions of models of arithmetic and set theory, Changchun, China, July 2025](https://jdh.hamkins.org/pointwise-definable-end-extensions-of-models-of-arithmetic-and-set-theory-changchun-china-july-2025/)
+---
+
+Joel David Hamkins --- 7/14/2025
+
+This will be a talk for the Seminar on Frontier Issues in Logic and Philosophy The First Forum on Logic and Philosophy 逻辑与哲学前沿问题研究”学术研讨会暨第一届逻辑与哲学论坛 Changchun, China, 18-20 July 2025 Pointwise definable end-extensions of models of arithmetic and set...
+
+
+[\(-e^{i\pi}\) to Watch: Henry Segerman](https://aperiodical.com/2025/07/eipi-to-watch-henry-segerman/)
+---
+
+The Aperiodical --- 7/14/2025
+
+In this series of posts, we’ll be featuring mathematical video and streaming channels from all over the internet, by speaking to the creators of the channel and asking them about what they do. We spoke to Henry Segerman, who uses his YouTube...
+
+
+[Attention is All You Need](https://crookedtimber.org/2025/07/14/attention-is-all-you-need/)
+---
+
+Crooked Timber --- 7/14/2025
+
+One of my foundational theoretical commitments is that the technology of reading and writing is neither natural nor innocuous. Media theorists McLuhan, Postman, Ong and Flusser all agree on this point: the technology of writing is a necessary...
+
+
 [How much money did Francis Scott Key give to have a building named after him?](https://blog.computationalcomplexity.org/feeds/4650311492445732007/comments/default)
 ---
 
@@ -479,22 +503,6 @@ The Aperiodical --- 6/18/2025
 Double Maths First Thing is excited about the moon! Hello! My name is Colin and I am a mathematician on a mission to spread joy and delight in doing and thinking about maths. Annoyingly, immediately after last week’s issue went out, several...
 
 
-[\(-e^{i\pi}\) to Watch: Boppana Math](https://aperiodical.com/2025/06/eipi-to-watch-boppana-math/)
----
-
-The Aperiodical --- 6/16/2025
-
-In this series of posts, we’ll be featuring mathematical video and streaming channels from all over the internet, by speaking to the creators of the channel and asking them about what they do. We spoke to Ravi Boppana about his channel, Boppana...
-
-
-[Sunday photoblogging: Strasbourg cathedral](https://crookedtimber.org/2025/06/15/sunday-photoblogging-strasbourg-cathedral-2/)
----
-
-Crooked Timber --- 6/15/2025
-
-
-
-
 [Introducing Category Theory again](https://www.logicmatters.net/2025/06/14/introducing-category-theory-again/)
 ---
 
@@ -789,12 +797,4 @@ This will be a talk for the Logic Seminar at the Mathematical Institute of the U
 Fractal Kitty --- 4/4/2025
 
 Wow! It's the 238th Carnival of Mathematics organized by Aperiodical. This has been a fun month with lots of submissions and lots of beautiful math art. To start let's jump into the number 238 itself.238 is: 2 × 7 × 17.the sum of the
-
-
-[A small Haskell task](http://abuseofnotation.github.io/haskell-task/)
----
-
-Abuse of Notation --- 4/3/2025
-
-Haskell is great. And I want more people to know it, so this is just a quick overview of it’s capabilities, using the code to solve a simple task I saw on Mastodon. The task is the following: Return a list of all combinations (i.e. order doesn’t...
 
