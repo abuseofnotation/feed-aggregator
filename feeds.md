@@ -1,4 +1,20 @@
 
+[Historical highlights?](https://www.logicmatters.net/2025/07/15/historical-highlights/)
+---
+
+Blog - Logic Matters --- 7/15/2025
+
+The first mini Amazon review of the new edition of Introducing Category Theory arrives: five stars. Simultaneously, the first report of a typo (§2.9(b), “its homomorphism needs to be included” should read “its identity homomorphism needs to be...
+
+
+[How much money did Francis Scott Key give to have a building named after him?](https://blog.computationalcomplexity.org/feeds/4650311492445732007/comments/default)
+---
+
+Computational Complexity --- 7/15/2025
+
+UMCP has a building named The Francis Scott Key BuildingSTUDENT: How much money did Francis Scott Key give to have a building named after him?BILL: He didn't give money. He wrote The Star Spangled Banner.STUDENT: I get it! He left the royalties!...
+
+
 [Pointwise definable end-extensions of models of arithmetic and set theory, Changchun, China, July 2025](https://jdh.hamkins.org/pointwise-definable-end-extensions-of-models-of-arithmetic-and-set-theory-changchun-china-july-2025/)
 ---
 
@@ -21,14 +37,6 @@ In this series of posts, we’ll be featuring mathematical video and streaming c
 Crooked Timber --- 7/14/2025
 
 One of my foundational theoretical commitments is that the technology of reading and writing is neither natural nor innocuous. Media theorists McLuhan, Postman, Ong and Flusser all agree on this point: the technology of writing is a necessary...
-
-
-[How much money did Francis Scott Key give to have a building named after him?](https://blog.computationalcomplexity.org/feeds/4650311492445732007/comments/default)
----
-
-Computational Complexity --- 7/14/2025
-
-UMCP has a building named The Francis Scott Key BuildingSTUDENT: How much money did Francis Scott Key give to have a building named after him?BILL: He didn't give money. He wrote The Star Spangled Banner.STUDENT: I get it! He left the royalties!...
 
 
 [Sunday photoblogging: Street art at the Puces St Ouen](https://crookedtimber.org/2025/07/13/sunday-photoblogging-street-art-at-the-puce-st-ouen/)
@@ -533,14 +541,6 @@ This will be a lecture series at Peking University in Beijing in June 2025. Anno
 Computational Complexity --- 6/9/2025
 
 David ZuckermanThe 2025 Gödel Prize has been awarded to Eshan Chattopadhyay and David Zuckerman for their paperExplicit two-source extractors and resilient functionswhich was in STOC 2016 and in the Annals of Math in 2019. We (Bill and Lance) care...
-
-
-[Clara, Noa, Elisabeth](https://www.logicmatters.net/2025/06/08/clara-noa-elisabeth/)
----
-
-Blog - Logic Matters --- 6/8/2025
-
-As the world continues to go to hell in a handcart, let’s just pause for ten minutes to remind ourselves that there is beauty and tenderness … So from a couple of months ago, here are Noa Wildschut and Elisabeth Brauß playing the Three Romances for...
 
 
 [Rules vs Standards](https://blog.computationalcomplexity.org/feeds/630081856772386730/comments/default)
