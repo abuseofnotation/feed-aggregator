@@ -1,4 +1,28 @@
 
+[Turing, Wagner, Ruth](https://blog.computationalcomplexity.org/feeds/5068500486796583428/comments/default)
+---
+
+Computational Complexity --- 7/16/2025
+
+Douglas Hofstadter first published Gödel, Escher, Bach: an Eternal Golden Braid in 1979 and my then high school self tried, and failed, to read though the entire book. It focused on the contradictions, with Kurt Gödel's incompleteness theorems, M....
+
+
+[The computable surreal numbers, Fudan University, July 2025](https://jdh.hamkins.org/the-computable-surreal-numbers-fudan-university-july-2025/)
+---
+
+Joel David Hamkins --- 7/16/2025
+
+This will be a talk at Fudan University, part of a one-day mini-conference for the logic group on 23 July 2025. Abstract. I shall give an account of the theory of computable surreal numbers, proving that these form a real-closed … Continue reading →
+
+
+[Double Maths First Thing: Issue 2D](https://aperiodical.com/2025/07/double-maths-first-thing-issue-2d/)
+---
+
+The Aperiodical --- 7/16/2025
+
+Double Maths First Thing is halfway through Ouch to 5k. Hello! My name is Colin and I am a mathematician on a mission to spread the joy of doing maths. And this week, I’ve been doing some cool maths, looking at Oskar van Deventer’s Blocks...
+
+
 [Historical highlights?](https://www.logicmatters.net/2025/07/15/historical-highlights/)
 ---
 
@@ -503,14 +527,6 @@ Blog - Logic Matters --- 6/18/2025
 For a persuasive way of thinking about what LLMs are up to, read this particularly lucid and sane piece by the philosopher Keith Frankish. The post The game that LLMs are playing appeared first on Logic Matters.
 
 
-[Double Maths First Thing: Issue 29](https://aperiodical.com/2025/06/double-maths-first-thing-issue-29/)
----
-
-The Aperiodical --- 6/18/2025
-
-Double Maths First Thing is excited about the moon! Hello! My name is Colin and I am a mathematician on a mission to spread joy and delight in doing and thinking about maths. Annoyingly, immediately after last week’s issue went out, several...
-
-
 [Introducing Category Theory again](https://www.logicmatters.net/2025/06/14/introducing-category-theory-again/)
 ---
 
@@ -759,14 +775,6 @@ Proses.ID --- 4/18/2025
 lately I’ve been watching a lot of videos on YouTube about China. it’s partly due to all the chaos around Trump’s tariff, but mostly these…
 
 
-[Eisenhower's Farewell Address](https://blog.computationalcomplexity.org/feeds/2652353156169756152/comments/default)
----
-
-Computational Complexity --- 4/16/2025
-
-I'm short on time time this week so I thought it would be good to look back, some 64 years ago, to Dwight Eisenhower's farewell address. It calls for balance between the industrial-military Complex and the scientific-technological elite. While...
-
-
 [HEIR talk at FHE.org](https://www.jeremykun.com/shortform/2025-04-15-1239/)
 ---
 
@@ -789,12 +797,4 @@ This will be a talk for the conference on Ultrafinitism: Physics, Mathematics, a
 Joel David Hamkins --- 4/6/2025
 
 This will be a talk for the Logic Seminar at the Mathematical Institute of the University of Oxford, 29 May 2025 5pm Andrew Wiles Building. Abstract. For a given computably enumerable set $W$, consider the spectrum of assertions of the … Continue...
-
-
-[238th Carnival of Mathematics](https://www.fractalkitty.com/238th-carnival-of-mathematic/)
----
-
-Fractal Kitty --- 4/4/2025
-
-Wow! It's the 238th Carnival of Mathematics organized by Aperiodical. This has been a fun month with lots of submissions and lots of beautiful math art. To start let's jump into the number 238 itself.238 is: 2 × 7 × 17.the sum of the
 
