@@ -1,4 +1,12 @@
 
+[Frequently Asked Questions about FHE](https://www.jeremykun.com/frequently-asked-questions-about-fhe/)
+---
+
+Math ∩ Programming --- 7/18/2025
+
+I work on homomorphic encryption (HE or FHE for “fully” homomorphic encryption) and I have written a lot about it on this blog (see the relevant tag). This article is a collection of short answers to questions I see on various threads and news...
+
+
 [Turing, Wagner, Ruth](https://blog.computationalcomplexity.org/feeds/5068500486796583428/comments/default)
 ---
 
@@ -789,12 +797,4 @@ Last month I gave a talk on the HEIR compiler project at the FHE.org conference 
 Joel David Hamkins --- 4/6/2025
 
 This will be a talk for the conference on Ultrafinitism: Physics, Mathematics, and Philosophy at Columbia University in New York, April 11-13, 2025. Abstract. I shall argue in various respects that ultrafinitism is fruitfully understood from a...
-
-
-[The hierarchy of consistency strengths for membership in a computably enumerable set, Oxford Logic Seminar, May 2025](https://jdh.hamkins.org/the-hierarchy-of-consistency-strengths-for-membership-in-a-computably-enumerable-set-oxford-logic-seminar-may-2025/)
----
-
-Joel David Hamkins --- 4/6/2025
-
-This will be a talk for the Logic Seminar at the Mathematical Institute of the University of Oxford, 29 May 2025 5pm Andrew Wiles Building. Abstract. For a given computably enumerable set $W$, consider the spectrum of assertions of the … Continue...
 
