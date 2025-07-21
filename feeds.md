@@ -1,4 +1,28 @@
 
+[He’s the Boss: Unitary Executive Theory and Workplace Authoritarianism](https://crookedtimber.org/2025/07/20/hes-the-boss-unitary-executive-theory-and-workplace-authoritarianism/)
+---
+
+Crooked Timber --- 7/20/2025
+
+As President Trump continues to amass authoritarian power, we should consider the shocking role of the Supreme Court in facilitating his power grab. Trump v. United States declared the President immune from prosecution for breaking any criminal law...
+
+
+[A Prez Question: Can AI do it? Can you? Can I?](https://blog.computationalcomplexity.org/feeds/6634965740615277406/comments/default)
+---
+
+Computational Complexity --- 7/20/2025
+
+I am curious how AI or humans can do on the following question.I have listed out the nominees for Prez and VP (Vice Prez) since 1976 and put them in two categories.What criteria did I use?The criteria is about their lives. So it's not going to be...
+
+
+[Sunday photoblogging: Paris](https://crookedtimber.org/2025/07/20/sunday-photoblogging-paris-2/)
+---
+
+Crooked Timber --- 7/20/2025
+
+
+
+
 [Frequently Asked Questions about FHE](https://www.jeremykun.com/frequently-asked-questions-about-fhe/)
 ---
 
@@ -487,22 +511,6 @@ Blog - Logic Matters --- 6/20/2025
 With a mind to building myself a reading list for homework before updating the BML Study Guide, I have been doing some online searches for recent publications on mathematical logic. I asked ChatGPT and Claude in “research” mode too, but they were...
 
 
-[Open letter to European Commission President Ursula von der Leyen on the skewed selection process for head of European Data Protection Supervisor](https://crookedtimber.org/2025/06/20/open-letter-to-european-commission-president-ursula-von-der-leyen-on-the-skewed-selection-process-for-head-of-european-data-protection-supervisor/)
----
-
-Crooked Timber --- 6/20/2025
-
-Hi CT readers, I’m publishing this open letter here so there’s a public record of the letter I’ve co-written and signed about what looks, walks and talks like a good old-fashioned Brussels stitch-up aimed at weakening the EU organisation that...
-
-
-[Are pro-natalists living on the same planet ?](https://crookedtimber.org/2025/06/19/are-pro-natalists-living-on-the-same-planet/)
----
-
-Crooked Timber --- 6/19/2025
-
-Pro-natalism (the idea that people, or rather, women, should have more babies than they choose to do at present) has become an established orthodoxy,[1]. The central claim is that, unless something changes soon, human populations both global and...
-
-
 [And the other Big Red Logic Books?](https://www.logicmatters.net/2025/06/19/and-the-other-big-red-logic-books/)
 ---
 
@@ -757,14 +765,6 @@ As someone who has literally written a book on the topic, I have had many people
 Computational Complexity --- 4/28/2025
 
 I wrote this about a month ago but wanted to wait until after the REU PI conference (which was April 21-22-23) to post it. I add a few comments based on what has happened since, which I preface with...
-
-
-[Real People](https://blog.computationalcomplexity.org/feeds/3324314187072757023/comments/default)
----
-
-Computational Complexity --- 4/23/2025
-
-Right after the election I wrote a post predicting what would happen to higher education under Trump, most of which is coming true, but I had a massive failure of imagination missing the direct attacks on major universities. I won't detail all the...
 
 
 [The Church of Logic podcast, April 2025](https://jdh.hamkins.org/the-church-of-logic-podcast-april-2025/)
