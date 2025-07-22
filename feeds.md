@@ -1,18 +1,26 @@
 
+[A Prez Question: Can AI do it? Can you? Can I?](https://blog.computationalcomplexity.org/feeds/6634965740615277406/comments/default)
+---
+
+Computational Complexity --- 7/21/2025
+
+I am curious how AI or humans can do on the following question.I have listed out the nominees for Prez and VP (Vice Prez) since 1976 and put them in two categories.What criteria did I use?The criteria is about their lives. So it's not going to be...
+
+
+[On the Epstein Files; and Corruption](https://crookedtimber.org/2025/07/21/on-the-epstein-files-and-corruption/)
+---
+
+Crooked Timber --- 7/21/2025
+
+A cursory glance at the Jeffrey Epstein’s biography (1953 – 2019) shows it can be treated as a modern adaptation (and so adjustment) of Horatio Alger Jr.’s framework: Epstein’s life moves from (lower) middle-class respectability to incredible...
+
+
 [He’s the Boss: Unitary Executive Theory and Workplace Authoritarianism](https://crookedtimber.org/2025/07/20/hes-the-boss-unitary-executive-theory-and-workplace-authoritarianism/)
 ---
 
 Crooked Timber --- 7/20/2025
 
 As President Trump continues to amass authoritarian power, we should consider the shocking role of the Supreme Court in facilitating his power grab. Trump v. United States declared the President immune from prosecution for breaking any criminal law...
-
-
-[A Prez Question: Can AI do it? Can you? Can I?](https://blog.computationalcomplexity.org/feeds/6634965740615277406/comments/default)
----
-
-Computational Complexity --- 7/20/2025
-
-I am curious how AI or humans can do on the following question.I have listed out the nominees for Prez and VP (Vice Prez) since 1976 and put them in two categories.What criteria did I use?The criteria is about their lives. So it's not going to be...
 
 
 [Sunday photoblogging: Paris](https://crookedtimber.org/2025/07/20/sunday-photoblogging-paris-2/)
@@ -493,14 +501,6 @@ Here’s a recent thread on philosophy of AI from Twitter/X, in which I address 
 Crooked Timber --- 6/22/2025
 
 
-
-
-[Helen de Cruz (1978-2025), RIP](https://crookedtimber.org/2025/06/21/helen-de-cruz-1978-2025-rip/)
----
-
-Crooked Timber --- 6/21/2025
-
-Please consider donating to this fundraising effort (here) to support Helen de Cruz’s family. There is no greater joy for a teacher than to see a student develop and grow; and no more satisfaction to a mentor than to be overshadowed professionally...
 
 
 [A very short book note](https://www.logicmatters.net/2025/06/20/a-very-short-book-note/)
