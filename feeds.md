@@ -1,4 +1,20 @@
 
+[The Arguments for More (or Fewer) People](https://crookedtimber.org/2025/07/22/the-arguments-for-more-or-fewer-people/)
+---
+
+Crooked Timber --- 7/22/2025
+
+The New York Times recently published a letter from me responding to a guest essay (op-ed) by Michael Geruso and Dean Spears, with whom I’ve been engaging on the question of pro-natalism. As a colleague who had such a letter published a few years...
+
+
+[Trevisan Prize- Deadline July 31 for Notification Intent, Aug 31 for nomination.](https://blog.computationalcomplexity.org/feeds/6278584040963204058/comments/default)
+---
+
+Computational Complexity --- 7/22/2025
+
+A new prize:The Trevisan Prize, in honor of Luca Trevisan, who died in 2024 (blog obit is here, open problems column in his honor is here), has been announced.  The link is  here. The deadline for notification of intent is July 31 which is...
+
+
 [A Prez Question: Can AI do it? Can you? Can I?](https://blog.computationalcomplexity.org/feeds/6634965740615277406/comments/default)
 ---
 
@@ -495,14 +511,6 @@ DEONTOLOGISTICS --- 6/22/2025
 Here’s a recent thread on philosophy of AI from Twitter/X, in which I address rather popular arguments made by Emily Bender and others to the effect that LLM outputs are strictly speaking meaningless. I think these argument are flawed, as I explain...
 
 
-[Sunday photoblogging: heads](https://crookedtimber.org/2025/06/22/sunday-photoblogging-heads/)
----
-
-Crooked Timber --- 6/22/2025
-
-
-
-
 [A very short book note](https://www.logicmatters.net/2025/06/20/a-very-short-book-note/)
 ---
 
@@ -757,14 +765,6 @@ In a recent post by Scott (see here or just read my post which includes his po
 Computational Complexity --- 4/30/2025
 
 As someone who has literally written a book on the topic, I have had many people over the years send me their attempts at P v NP proofs. On average, I receive about one a month, but I've had seven in the last two weeks. And not just the usual email...
-
-
-[A personal view of the NSF hot mess: My REU program](https://blog.computationalcomplexity.org/feeds/1786219834884962707/comments/default)
----
-
-Computational Complexity --- 4/28/2025
-
-I wrote this about a month ago but wanted to wait until after the REU PI conference (which was April 21-22-23) to post it. I add a few comments based on what has happened since, which I preface with...
 
 
 [The Church of Logic podcast, April 2025](https://jdh.hamkins.org/the-church-of-logic-podcast-april-2025/)
