@@ -1,4 +1,20 @@
 
+[Chiaroscuro Quartet and Cédric Tiberghien play Beethoven and Brahms](https://www.logicmatters.net/2025/07/23/chiaroscuro-quartet-and-cedric-tiberghien-play-beethoven-and-brahms/)
+---
+
+Blog - Logic Matters --- 7/23/2025
+
+At Wigmore Hall a few days ago, a predictably superb concert. Beethoven’s String Quartet No. 13 in B flat Op. 130 with a (take-no-prisoners) Grosse Fuge Op. 133, followed by the Brahms Piano Quintet in F minor Op. 34, with the plangent tones of the...
+
+
+[Double Maths First Thing: Issue 2E](https://aperiodical.com/2025/07/double-maths-first-thing-issue-2e/)
+---
+
+The Aperiodical --- 7/23/2025
+
+Double Maths First Thing might just let them watch a video Hello! My name is Colin and I am a mathematician on a mission to spread the love and joy of struggling with a puzzle until it finally breaks up into beautiful bits. This week, I’ve been...
+
+
 [The Arguments for More (or Fewer) People](https://crookedtimber.org/2025/07/22/the-arguments-for-more-or-fewer-people/)
 ---
 
@@ -68,7 +84,7 @@ Douglas Hofstadter first published Gödel, Escher, Bach: an Eternal Golden Brai
 
 Joel David Hamkins --- 7/16/2025
 
-This will be a talk at Fudan University, part of a one-day mini-conference for the logic group on 23 July 2025. Abstract. I shall give an account of the theory of computable surreal numbers, proving that these form a real-closed … Continue reading →
+This will be a talk for the Fudan Logic Seminar at Fudan University, to be followed immediately by two talks for the Fudan Logic student seminar, forming a mini-conference for the logic group on 23 July 2025. Abstract. I shall … Continue reading →
 
 
 [Double Maths First Thing: Issue 2D](https://aperiodical.com/2025/07/double-maths-first-thing-issue-2d/)
@@ -479,14 +495,6 @@ Computational Complexity --- 6/23/2025
 The Univ of MD at College Park holds a HS Math Competition every year. At the reception for the winners Professor Larry Washington points to many past people who did well on the exam. Two stand out for different reasons:1) Serge Brin did well on...
 
 
-[The mathematical essence of origami blue-and-white porcelain](https://aperiodical.com/2025/06/the-mathematical-essence-of-origami-blue-and-white-porcelain/)
----
-
-The Aperiodical --- 6/23/2025
-
-A story In my childhood memories, the lanterns in my hometown always fascinated me – circular palace lanterns, polyhedral colorful lanterns. How did my ancestors achieve the magical transformation from flat to three-dimensional through simple...
-
-
 [Potentialist conceptions of infinity, Peking University, June 2025](https://jdh.hamkins.org/potentialist-conceptions-of-infinity-peking-university-june-2025/)
 ---
 
@@ -549,14 +557,6 @@ As the entire Fulbright board resigned last week and as the program that promote
 Blog - Logic Matters --- 6/18/2025
 
 For a persuasive way of thinking about what LLMs are up to, read this particularly lucid and sane piece by the philosopher Keith Frankish. The post The game that LLMs are playing appeared first on Logic Matters.
-
-
-[Introducing Category Theory again](https://www.logicmatters.net/2025/06/14/introducing-category-theory-again/)
----
-
-Blog - Logic Matters --- 6/14/2025
-
-With a bit of useful proof-reading help from ChatGPT, and rather less from Claude, there’s a new version (2.8b) of ICT downloadable from the categories page. Between them, my friendly AI assistants found perhaps half a dozen straight-up typos per...
 
 
 [Defending Theory](https://blog.computationalcomplexity.org/feeds/3536975710758489759/comments/default)
