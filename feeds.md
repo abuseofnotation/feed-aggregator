@@ -1,4 +1,68 @@
 
+[Categorical Linguistics in <i>Quanta</i>](https://golem.ph.utexas.edu/category/2025/04/categorical_linguistics_in_qua.html)
+---
+
+The n-Category Café --- 7/24/2025
+
+Feature on Tai-Danae Bradley's work on categorical linguistics.
+
+
+[Counting with Categories (Part 1)](https://golem.ph.utexas.edu/category/2025/06/counting_with_categories_part.html)
+---
+
+The n-Category Café --- 7/24/2025
+
+First lecture in a 4.5-hour minicourse on combinatorics with species.
+
+
+[Counting with Categories (Part 2)](https://golem.ph.utexas.edu/category/2025/06/counting_with_categories_part_1.html)
+---
+
+The n-Category Café --- 7/24/2025
+
+Second lecture in a 4.5-hour minicourse on combinatorics with species.
+
+
+[Counting with Categories (Part 3)](https://golem.ph.utexas.edu/category/2025/06/counting_with_categories_part_2.html)
+---
+
+The n-Category Café --- 7/24/2025
+
+First lecture in a 4.5-hour minicourse on combinatorics with species.
+
+
+[How to Count n-Ary Trees](https://golem.ph.utexas.edu/category/2025/07/counting_trees.html)
+---
+
+The n-Category Café --- 7/24/2025
+
+How do you count rooted planar n-ary trees with a given number of leaves?  Use Lagrange inversion!
+
+
+[2-Rig Conjectures Proved?](https://golem.ph.utexas.edu/category/2025/07/2rig_conjectures_proved.html)
+---
+
+The n-Category Café --- 7/24/2025
+
+Kevin Coloumbier has come out with a paper claiming to prove some conjectures on 2-rigs that Todd Trimble, Joe Moeller and I made.
+
+
+[Lawvere's Work on Arms Control](https://golem.ph.utexas.edu/category/2025/07/lawveres_work_on_arms_control.html)
+---
+
+The n-Category Café --- 7/24/2025
+
+Did you know that Lawvere did classified work on arms control in the 1960s, back when he was writing his thesis?
+
+
+[Answer to my GROUP ONE/GROUP TWO Prez question](https://blog.computationalcomplexity.org/feeds/4182221637455156553/comments/default)
+---
+
+Computational Complexity --- 7/24/2025
+
+In a prior post I asked what criteria I used to place Prez and VP nominees since 1976 into two groups. In the book Abundance I read that since 1984 all of the Democratic nominees for Prez and VP except Tim Walz had gone to law school.  I decided to...
+
+
 [Chiaroscuro Quartet and Cédric Tiberghien play Beethoven and Brahms](https://www.logicmatters.net/2025/07/23/chiaroscuro-quartet-and-cedric-tiberghien-play-beethoven-and-brahms/)
 ---
 
@@ -143,28 +207,12 @@ Crooked Timber --- 7/13/2025
 
 
 
-[Potential Functions and the Magnitude of Functors 2](https://golem.ph.utexas.edu/category/2025/02/potential_functions_and_the_ma_1.html)
----
-
-The n-Category Café --- 7/12/2025
-
-Potential functions from a functorial perspective.
-
-
 [Poetic serendipity](https://www.logicmatters.net/2025/07/12/poetic-serendipity/)
 ---
 
 Blog - Logic Matters --- 7/12/2025
 
 I have written before about the pleasure of serendipitous finds in charity second-hand bookshops. It isn’t the matter of saving a few pounds (or of giving the money to a charity rather than a chain bookstore); that’s nice, to be sure, but it...
-
-
-[Potential Functions and the Magnitude of Functors 1](https://golem.ph.utexas.edu/category/2025/02/potential_functions_and_the_ma.html)
----
-
-The n-Category Café --- 7/12/2025
-
-PDE methods in magnitude, looked at categorically.
 
 
 [Category Theory 2025](https://golem.ph.utexas.edu/category/2025/03/category_theory_2025.html)
@@ -183,14 +231,6 @@ Crooked Timber --- 7/11/2025
 There’s a great anecdote about Roman Jakobson, the structuralist theorist of language, in Bernard Dionysius Geoghegan’s book, Code: From Information Theory to French Theory. For Jakobson, and for other early structuralist and post-structuralist...
 
 
-[Categorical Linguistics in <i>Quanta</i>](https://golem.ph.utexas.edu/category/2025/04/categorical_linguistics_in_qua.html)
----
-
-The n-Category Café --- 7/11/2025
-
-Feature on Tai-Danae Bradley's work on categorical linguistics.
-
-
 [Take Two](https://www.fractalkitty.com/take-two-2/)
 ---
 
@@ -205,14 +245,6 @@ Haiku + Codewith a second take dance with the first – tethered massorbiting en
 The n-Category Café --- 7/10/2025
 
 Stellenbosch University wants to hire a mathematician.  Apply before April 30th!
-
-
-[How to Count n-Ary Trees](https://golem.ph.utexas.edu/category/2025/07/counting_trees.html)
----
-
-The n-Category Café --- 7/10/2025
-
-How do you count rooted planar n-ary trees with a given number of leaves?  Use Lagrange inversion!
 
 
 [Global science equity*](https://crookedtimber.org/2025/07/10/global-science-equity/)
@@ -287,14 +319,6 @@ Computational Complexity --- 7/6/2025
 We denote the busy beaver function by BB.BB(n) is the max time a Turing machine of size n takes to halt on the empty string.(A particular model of TM and a notion of size has become standardized.)BB(n) grows faster than any computable function....
 
 
-[Counting with Categories (Part 3)](https://golem.ph.utexas.edu/category/2025/06/counting_with_categories_part_2.html)
----
-
-The n-Category Café --- 7/6/2025
-
-First lecture in a 4.5-hour minicourse on combinatorics with species.
-
-
 [Inquiries-Week 3: Reflect and Rotate](https://www.fractalkitty.com/inquiries-week-3-r-and-rotate/)
 ---
 
@@ -367,14 +391,6 @@ Computational Complexity --- 7/1/2025
 (I wrote this post a while back so its no longer NEW. More important--- if there has been a follow-up to the story that is not in my post, let me know.)   We have something NEW and something OLD about the Pythagorean Theorem. Now all we need is...
 
 
-[Counting with Categories (Part 1)](https://golem.ph.utexas.edu/category/2025/06/counting_with_categories_part.html)
----
-
-The n-Category Café --- 6/30/2025
-
-First lecture in a 4.5-hour minicourse on combinatorics with species.
-
-
 [\(-e^{i\pi}\) to Watch: Welch Labs](https://aperiodical.com/2025/06/eipi-to-watch-welch-labs/)
 ---
 
@@ -429,14 +445,6 @@ Alberto Fraile and Daniel Fernández guest post on random walks generated by the
 Blog - Logic Matters --- 6/26/2025
 
 So here it is, available from today. As with the other Big Red Logic Books, to keep the cost minimal, it is an Amazon-only print-on-demand book, ISBN-10 ‏: ‎ 1068346701. And, as with the other Big Red Logic Books, you can still download the latest...
-
-
-[Counting with Categories (Part 2)](https://golem.ph.utexas.edu/category/2025/06/counting_with_categories_part_1.html)
----
-
-The n-Category Café --- 6/26/2025
-
-Second lecture in a 4.5-hour minicourse on combinatorics with species.
 
 
 [When the moon hits your eye with a big piece of \( \pi \)…](https://aperiodical.com/2025/06/when-the-moon-hits-your-eye-with-a-big-piece-of-pi/)
@@ -757,14 +765,6 @@ I reviewed a paper recently and I had to agree not to use AI in any aspect of th
 Computational Complexity --- 5/6/2025
 
 In a recent post by Scott (see here or just read my post which includes his post) he listed topis that he conjectured would NOT cause an outrage.I was going to write a long comment in his comments section, which would only be read by people who...
-
-
-[P v NP Papers Galore](https://blog.computationalcomplexity.org/feeds/3127879843679420539/comments/default)
----
-
-Computational Complexity --- 4/30/2025
-
-As someone who has literally written a book on the topic, I have had many people over the years send me their attempts at P v NP proofs. On average, I receive about one a month, but I've had seven in the last two weeks. And not just the usual email...
 
 
 [The Church of Logic podcast, April 2025](https://jdh.hamkins.org/the-church-of-logic-podcast-april-2025/)
