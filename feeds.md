@@ -1,4 +1,44 @@
 
+[2-Rig Conjectures Proved?](https://golem.ph.utexas.edu/category/2025/07/2rig_conjectures_proved.html)
+---
+
+The n-Category Café --- 7/25/2025
+
+Kevin Coulembier has come out with a paper claiming to prove some conjectures on 2-rigs that Todd Trimble, Joe Moeller and I made.
+
+
+[FHE@PDX 2025](https://www.jeremykun.com/shortform/2025-07-25-0956/)
+---
+
+Math ∩ Programming --- 7/25/2025
+
+On Monday, July 14th 2025, I hosted a mini-workshop on homomorphic encryption at Google’s Portland, Oregon office. Though Portland is a small city, it’s becoming a hub for homomorphic encryption. Intel and Google both have a presence here, as well...
+
+
+[The Clowder Project](https://golem.ph.utexas.edu/category/2025/07/the_clowder_project.html)
+---
+
+The n-Category Café --- 7/25/2025
+
+Announcing the Clowder Project: a wiki and reference work for category theory built using the same general infrastructure and tag system of the Stacks Project.
+
+
+[Tannaka Reconstruction and the Monoid of Matrices](https://golem.ph.utexas.edu/category/2025/06/tannaka_reconstruction_and_the.html)
+---
+
+The n-Category Café --- 7/25/2025
+
+Todd Trimble and I wrote a paper on characterizing classical groups (and monoids) in terms of their 2-rigs of representations.
+
+
+[Lawvere's Work on Arms Control](https://golem.ph.utexas.edu/category/2025/07/lawveres_work_on_arms_control.html)
+---
+
+The n-Category Café --- 7/25/2025
+
+Did you know that Lawvere did classified work on arms control in the 1960s, back when he was writing his thesis?
+
+
 [Categorical Linguistics in <i>Quanta</i>](https://golem.ph.utexas.edu/category/2025/04/categorical_linguistics_in_qua.html)
 ---
 
@@ -37,22 +77,6 @@ First lecture in a 4.5-hour minicourse on combinatorics with species.
 The n-Category Café --- 7/24/2025
 
 How do you count rooted planar n-ary trees with a given number of leaves?  Use Lagrange inversion!
-
-
-[2-Rig Conjectures Proved?](https://golem.ph.utexas.edu/category/2025/07/2rig_conjectures_proved.html)
----
-
-The n-Category Café --- 7/24/2025
-
-Kevin Coloumbier has come out with a paper claiming to prove some conjectures on 2-rigs that Todd Trimble, Joe Moeller and I made.
-
-
-[Lawvere's Work on Arms Control](https://golem.ph.utexas.edu/category/2025/07/lawveres_work_on_arms_control.html)
----
-
-The n-Category Café --- 7/24/2025
-
-Did you know that Lawvere did classified work on arms control in the 1960s, back when he was writing his thesis?
 
 
 [Answer to my GROUP ONE/GROUP TWO Prez question](https://blog.computationalcomplexity.org/feeds/4182221637455156553/comments/default)
@@ -367,14 +391,6 @@ Math3ma --- 7/1/2025
 Over the past couple of years, I've been learning a little about the world of quantum machine learning (QML) and the sorts of things people are thinking about there. I recently gave an high-level talk on some of these ideas in connection to a...
 
 
-[How Good are Permutation Represesentations?](https://golem.ph.utexas.edu/category/2025/03/how_good_are_permutation_repre.html)
----
-
-The n-Category Café --- 7/1/2025
-
-Is the map from the Burnside ring to the representation ring of a finite group usually surjective, or usually not?
-
-
 [Srivastava on Naive Set Theory](https://www.logicmatters.net/2025/07/01/a-short-book-note-srivastava-on-naive-set-theory/)
 ---
 
@@ -469,14 +485,6 @@ Me! On Numberphile! Who would’ve thought it? Earlier this year, Brady Haran vi
 The Aperiodical --- 6/25/2025
 
 Double Maths First Thing is the Ultimate Answer. Hello! My name is Colin and I am a mathematician on a mission to the moon! But I’m also on a mission to spread joy and delight in doing maths anywhere in the cosmos. Talking of doing maths in strange...
-
-
-[Tannaka Reconstruction and the Monoid of Matrices](https://golem.ph.utexas.edu/category/2025/06/tannaka_reconstruction_and_the.html)
----
-
-The n-Category Café --- 6/24/2025
-
-Todd Trimble and I wrote a paper on characterizing classical groups (and monoids) in terms of their 2-rigs of representations.
 
 
 [Peaceful Terrorism?](https://crookedtimber.org/2025/06/24/peaceful-terrorism/)
@@ -789,12 +797,4 @@ lately I’ve been watching a lot of videos on YouTube about China. it’s partl
 Math ∩ Programming --- 4/15/2025
 
 Last month I gave a talk on the HEIR compiler project at the FHE.org conference in Sofia, Bulgaria. The video is on YouTube now, and the slides are public. I plan to write more about HEIR in the coming months, because it’s been an exciting and...
-
-
-[A potentialist conception of ultrafinitism, Columbia University, April 2025](https://jdh.hamkins.org/a-potentialist-conception-of-ultrafinitism-columbia-university-april-2025/)
----
-
-Joel David Hamkins --- 4/6/2025
-
-This will be a talk for the conference on Ultrafinitism: Physics, Mathematics, and Philosophy at Columbia University in New York, April 11-13, 2025. Abstract. I shall argue in various respects that ultrafinitism is fruitfully understood from a...
 
