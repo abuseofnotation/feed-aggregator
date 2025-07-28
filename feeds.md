@@ -1,4 +1,20 @@
 
+[Sunday photoblogging: near the Puces St Ouen](https://crookedtimber.org/2025/07/27/sunday-photoblogging-near-the-puce-st-ouen/)
+---
+
+Crooked Timber --- 7/27/2025
+
+
+
+
+[A billion people would be plenty to sustain civilisation …](https://crookedtimber.org/2025/07/27/a-billion-people-would-be-plenty-to-sustain-civilisation/)
+---
+
+Crooked Timber --- 7/27/2025
+
+… as long as they are healthy, well fed and well educated Much of the panic about falling birth rates can be dispelled once we realise that (barring catastrophe) there will almost certainly be more people alive in 2100 than there were in 2000. But...
+
+
 [2-Rig Conjectures Proved?](https://golem.ph.utexas.edu/category/2025/07/2rig_conjectures_proved.html)
 ---
 
@@ -487,14 +503,6 @@ The Aperiodical --- 6/25/2025
 Double Maths First Thing is the Ultimate Answer. Hello! My name is Colin and I am a mathematician on a mission to the moon! But I’m also on a mission to spread joy and delight in doing maths anywhere in the cosmos. Talking of doing maths in strange...
 
 
-[Peaceful Terrorism?](https://crookedtimber.org/2025/06/24/peaceful-terrorism/)
----
-
-Crooked Timber --- 6/24/2025
-
-The UK government has signalled its intention to “proscribe” the protest group Palestine Action under anti-terrorism legislation. This will place it in the same legal category as Al Qaeda and Islamic State: it will be illegal to belong to the...
-
-
 [PHQ’s Schubert on Sunday](https://www.logicmatters.net/2025/06/23/phq-schubert-of-sunday/)
 ---
 
@@ -517,14 +525,6 @@ The Univ of MD at College Park holds a HS Math Competition every year. At the re
 Joel David Hamkins --- 6/23/2025
 
 This will be a talk for the Conference on Infinity, a collaborative meeting of logicians and specialists in Chinese philosophy here at Peking University, 24 June 2025, in the philosophy department. Abstract. I shall lay out a spectrum of...
-
-
-[The symbol of earthly good, and the immediate object of toil.](https://crookedtimber.org/2025/06/23/the-symbol-of-earthly-good-and-the-immediate-object-of-toil/)
----
-
-Crooked Timber --- 6/23/2025
-
-Thursday afternoon I belatedly fulfilled a promise to post a book to Wilcannia. The school day was just finishing and as I left the Post Office I overheard a child around eight years old: Dad, I was so good today I got FIVE stickers. Dad was a...
 
 
 [TfE: On Post-Searlean Critiques of LLMs](https://deontologistics.co/2025/06/22/tfe-on-post-searlean-critiques-of-llms/)
