@@ -1,4 +1,44 @@
 
+[Tom Lehrer Passed Away at the Age of 97](https://blog.computationalcomplexity.org/feeds/6547507657809660654/comments/default)
+---
+
+Computational Complexity --- 7/28/2025
+
+Tom Lehrer passed away on Saturday July 26 at the age of 97. He worked in both of my fields of interest: Parody Songs and Mathematics. 1) He got a BA in Mathematics from Harvard, magna cum laude, in 1946. (Spell check thinks magna and laude are...
+
+
+[A Prez Question: Can AI do it? Can you? Can I?](https://blog.computationalcomplexity.org/feeds/6634965740615277406/comments/default)
+---
+
+Computational Complexity --- 7/28/2025
+
+I am curious how AI or humans can do on the following question.I have listed out the nominees for Prez and VP (Vice Prez) since 1976 and put them in two categories.What criteria did I use?The criteria is about their lives. So it's not going to be...
+
+
+[Answer to my GROUP ONE/GROUP TWO Prez question](https://blog.computationalcomplexity.org/feeds/4182221637455156553/comments/default)
+---
+
+Computational Complexity --- 7/28/2025
+
+In a prior post I asked what criteria I used to place Prez and VP nominees since 1976 into two groups. In the book Abundance I read that since 1984 all of the Democratic nominees for Prez and VP except Tim Walz had gone to law school.  I decided to...
+
+
+[The Duflo Isomorphism and the Harmonic Oscillator Hamiltonian](https://golem.ph.utexas.edu/category/2025/07/the_duflo_isomorphism_and_the.html)
+---
+
+The n-Category Café --- 7/28/2025
+
+Can the Duflo isomorphism explain the extra 1/2 in the Hamiltonian for the quantum harmonic oscillator?
+
+
+[\(-e^{i\pi}\) to Watch: Another Roof](https://aperiodical.com/2025/07/eipi-to-watch-another-roof/)
+---
+
+The Aperiodical --- 7/28/2025
+
+In this series of posts, we’ll be featuring mathematical video and streaming channels from all over the internet, by speaking to the creators of the channel and asking them about what they do. We spoke to Alex, whose channel Another Roof covers...
+
+
 [Sunday photoblogging: near the Puces St Ouen](https://crookedtimber.org/2025/07/27/sunday-photoblogging-near-the-puce-st-ouen/)
 ---
 
@@ -95,14 +135,6 @@ The n-Category Café --- 7/24/2025
 How do you count rooted planar n-ary trees with a given number of leaves?  Use Lagrange inversion!
 
 
-[Answer to my GROUP ONE/GROUP TWO Prez question](https://blog.computationalcomplexity.org/feeds/4182221637455156553/comments/default)
----
-
-Computational Complexity --- 7/24/2025
-
-In a prior post I asked what criteria I used to place Prez and VP nominees since 1976 into two groups. In the book Abundance I read that since 1984 all of the Democratic nominees for Prez and VP except Tim Walz had gone to law school.  I decided to...
-
-
 [Chiaroscuro Quartet and Cédric Tiberghien play Beethoven and Brahms](https://www.logicmatters.net/2025/07/23/chiaroscuro-quartet-and-cedric-tiberghien-play-beethoven-and-brahms/)
 ---
 
@@ -133,14 +165,6 @@ The New York Times recently published a letter from me responding to a guest ess
 Computational Complexity --- 7/22/2025
 
 A new prize:The Trevisan Prize, in honor of Luca Trevisan, who died in 2024 (blog obit is here, open problems column in his honor is here), has been announced.  The link is  here. The deadline for notification of intent is July 31 which is...
-
-
-[A Prez Question: Can AI do it? Can you? Can I?](https://blog.computationalcomplexity.org/feeds/6634965740615277406/comments/default)
----
-
-Computational Complexity --- 7/21/2025
-
-I am curious how AI or humans can do on the following question.I have listed out the nominees for Prez and VP (Vice Prez) since 1976 and put them in two categories.What criteria did I use?The criteria is about their lives. So it's not going to be...
 
 
 [On the Epstein Files; and Corruption](https://crookedtimber.org/2025/07/21/on-the-epstein-files-and-corruption/)
@@ -495,14 +519,6 @@ The Aperiodical --- 6/25/2025
 Me! On Numberphile! Who would’ve thought it? Earlier this year, Brady Haran visited Newcastle to record a video with some Leverhulme scholars. Luckily for me he had a bit of spare time to record a video with me, so we did one about the Herschel...
 
 
-[Double Maths First Thing: Issue 2A](https://aperiodical.com/2025/06/double-maths-first-thing-issue-2a/)
----
-
-The Aperiodical --- 6/25/2025
-
-Double Maths First Thing is the Ultimate Answer. Hello! My name is Colin and I am a mathematician on a mission to the moon! But I’m also on a mission to spread joy and delight in doing maths anywhere in the cosmos. Talking of doing maths in strange...
-
-
 [PHQ’s Schubert on Sunday](https://www.logicmatters.net/2025/06/23/phq-schubert-of-sunday/)
 ---
 
@@ -767,14 +783,6 @@ Computational Complexity --- 5/8/2025
 I reviewed a paper recently and I had to agree not to use AI in any aspect of the reviewing process. So I didn't but it felt strange, like I wouldn't be able to use a calculator to check calculations in a paper. Large language models aren't perfect...
 
 
-[My response to Scott's least controversal post ever!](https://blog.computationalcomplexity.org/feeds/1591253853526776898/comments/default)
----
-
-Computational Complexity --- 5/6/2025
-
-In a recent post by Scott (see here or just read my post which includes his post) he listed topis that he conjectured would NOT cause an outrage.I was going to write a long comment in his comments section, which would only be read by people who...
-
-
 [The Church of Logic podcast, April 2025](https://jdh.hamkins.org/the-church-of-logic-podcast-april-2025/)
 ---
 
@@ -789,12 +797,4 @@ I was interviewed by Cody Roux for The Church of Logic podcast—a fascinating s
 Proses.ID --- 4/18/2025
 
 lately I’ve been watching a lot of videos on YouTube about China. it’s partly due to all the chaos around Trump’s tariff, but mostly these…
-
-
-[HEIR talk at FHE.org](https://www.jeremykun.com/shortform/2025-04-15-1239/)
----
-
-Math ∩ Programming --- 4/15/2025
-
-Last month I gave a talk on the HEIR compiler project at the FHE.org conference in Sofia, Bulgaria. The video is on YouTube now, and the slides are public. I plan to write more about HEIR in the coming months, because it’s been an exciting and...
 
