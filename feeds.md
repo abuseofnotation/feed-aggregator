@@ -2,9 +2,17 @@
 [Tom Lehrer Passed Away at the Age of 97](https://blog.computationalcomplexity.org/feeds/6547507657809660654/comments/default)
 ---
 
-Computational Complexity --- 7/28/2025
+Computational Complexity --- 7/29/2025
 
-Tom Lehrer passed away on Saturday July 26 at the age of 97. He worked in both of my fields of interest: Parody Songs and Mathematics. 1) He got a BA in Mathematics from Harvard, magna cum laude, in 1946. (Spell check thinks magna and laude are...
+Tom Lehrer passed away on Saturday July 26 at the age of 97. (For other obits see this collection of ten obits here.)He worked in both of my fields of interest: Parody Songs and Mathematics. 1) He got a BA in Mathematics from Harvard, magna cum...
+
+
+[How much money did Francis Scott Key give to have a building named after him?](https://blog.computationalcomplexity.org/feeds/4650311492445732007/comments/default)
+---
+
+Computational Complexity --- 7/29/2025
+
+UMCP has a building named The Francis Scott Key BuildingSTUDENT: How much money did Francis Scott Key give to have a building named after him?BILL: He didn't give money. He wrote The Star Spangled Banner.STUDENT: I get it! He left the royalties!...
 
 
 [A Prez Question: Can AI do it? Can you? Can I?](https://blog.computationalcomplexity.org/feeds/6634965740615277406/comments/default)
@@ -229,14 +237,6 @@ Double Maths First Thing is halfway through Ouch to 5k. Hello! My name is Colin 
 Blog - Logic Matters --- 7/15/2025
 
 The first mini Amazon review of the new edition of Introducing Category Theory arrives: five stars. Simultaneously, the first report of a typo (§2.9(b), “its homomorphism needs to be included” should read “its identity homomorphism needs to be...
-
-
-[How much money did Francis Scott Key give to have a building named after him?](https://blog.computationalcomplexity.org/feeds/4650311492445732007/comments/default)
----
-
-Computational Complexity --- 7/15/2025
-
-UMCP has a building named The Francis Scott Key BuildingSTUDENT: How much money did Francis Scott Key give to have a building named after him?BILL: He didn't give money. He wrote The Star Spangled Banner.STUDENT: I get it! He left the royalties!...
 
 
 [Pointwise definable end-extensions of models of arithmetic and set theory, Changchun, China, July 2025](https://jdh.hamkins.org/pointwise-definable-end-extensions-of-models-of-arithmetic-and-set-theory-changchun-china-july-2025/)
