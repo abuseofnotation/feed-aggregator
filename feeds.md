@@ -1,4 +1,28 @@
 
+[Moral Deskilling – or, why you spend more time on admin than doing your job.](https://crookedtimber.org/2025/07/31/moral-deskilling-or-why-you-spend-more-time-on-admin-than-doing-your-job/)
+---
+
+Crooked Timber --- 7/31/2025
+
+At the Sydney Gleebooks launch of Graeme Turner’s new book Broken, an audience member said: I spend more time on admin than doing my job. I raised the microphone to my mouth to say ‘that is because of moral deskilling’. But it was not my gig, so I...
+
+
+[“Reciprocal” Digital Sovereignity](https://crookedtimber.org/2025/07/30/reciprocal-digital-sovereignity/)
+---
+
+Crooked Timber --- 7/30/2025
+
+Tech regulation raises some of the thorniest questions of our time — about free speech versus hate speech, copyright versus fair use, truth versus manipulation. Yet these debates are increasingly irrelevant unless states can first establish digital...
+
+
+[Double Maths First Thing: Issue 2F](https://aperiodical.com/2025/07/double-maths-first-thing-issue-2f/)
+---
+
+The Aperiodical --- 7/30/2025
+
+Double Maths First Thing says humf! and sort the big list Hello! My name is Colin and I am a mathematician on a mission to spread the joy and delight in doing maths. Not everyone takes delight in anagrams, but being clever, I do: delightfully,...
+
+
 [Tom Lehrer Passed Away at the Age of 97](https://blog.computationalcomplexity.org/feeds/6547507657809660654/comments/default)
 ---
 
@@ -471,22 +495,6 @@ Blog - Logic Matters --- 6/29/2025
 I have belatedly updated the PDF Appendix to the Study Guide and also the page of links to book notes — 76 of them! — to incorporate some blog posts from last year. And I am now starting to do more homework, as I slowly work up to revising the main...
 
 
-[Sunday photoblogging: Sète](https://crookedtimber.org/2025/06/29/sunday-photoblogging-sete-2/)
----
-
-Crooked Timber --- 6/29/2025
-
-
-
-
-[The Protestant Work Ethic, Libertarianism, and the Welfare State](https://crookedtimber.org/2025/06/27/the-protestant-work-ethic-libertarianism-and-the-welfare-state/)
----
-
-Crooked Timber --- 6/27/2025
-
-Many thanks to Hannah for her beautiful post on George Eliot’s Silas Marner and the evacuation of moral purpose from the Protestant work ethic. That resonates with Hijacked, my latest book, which traces the history of the work ethic from 17th...
-
-
 [The Distribution of Prime Numbers: A Geometrical Perspective](https://blog.computationalcomplexity.org/feeds/8676523954566797308/comments/default)
 ---
 
@@ -509,14 +517,6 @@ So here it is, available from today. As with the other Big Red Logic Books, to k
 The Aperiodical --- 6/26/2025
 
 We do these things, not because they are difficult, but because they are ridiculous– Matt Parker, probably Matt Parker is going to the moon. I mean, not literally. Everyone’s favourite Stand-Up Mathematician is the sort of person who’s more likely...
-
-
-[The Herschel enneahedron on Numberphile](https://aperiodical.com/2025/06/the-herschel-enneahedron-on-numberphile/)
----
-
-The Aperiodical --- 6/25/2025
-
-Me! On Numberphile! Who would’ve thought it? Earlier this year, Brady Haran visited Newcastle to record a video with some Leverhulme scholars. Luckily for me he had a bit of spare time to record a video with me, so we did one about the Herschel...
 
 
 [PHQ’s Schubert on Sunday](https://www.logicmatters.net/2025/06/23/phq-schubert-of-sunday/)
