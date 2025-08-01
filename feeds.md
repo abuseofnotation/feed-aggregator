@@ -1,4 +1,20 @@
 
+[Footnotes, Gödel exercises, Purcell](https://www.logicmatters.net/2025/07/31/footnotes-godel-exercises-purcell/)
+---
+
+Blog - Logic Matters --- 7/31/2025
+
+I hadn’t planned to return to Introducing Formal Logic just yet. But the last week or so I’ve found myself tinkering with the opening chapters. And, sad to relate, I’ve been enjoying the tinkering. So I might continue doing just that. The first...
+
+
+[Maths at the Edinburgh Fringe, 2025](https://aperiodical.com/2025/07/maths-at-the-edinburgh-fringe-2025/)
+---
+
+The Aperiodical --- 7/31/2025
+
+Tomorrow is the start of August, and if you’re anywhere near Edinburgh you’ll be aware that the city is already overrun with musicians, comedians and street performers plying their trade as part of the month-long Fringe festival. If you were...
+
+
 [Moral Deskilling – or, why you spend more time on admin than doing your job.](https://crookedtimber.org/2025/07/31/moral-deskilling-or-why-you-spend-more-time-on-admin-than-doing-your-job/)
 ---
 
@@ -511,14 +527,6 @@ Blog - Logic Matters --- 6/26/2025
 So here it is, available from today. As with the other Big Red Logic Books, to keep the cost minimal, it is an Amazon-only print-on-demand book, ISBN-10 ‏: ‎ 1068346701. And, as with the other Big Red Logic Books, you can still download the latest...
 
 
-[When the moon hits your eye with a big piece of \( \pi \)…](https://aperiodical.com/2025/06/when-the-moon-hits-your-eye-with-a-big-piece-of-pi/)
----
-
-The Aperiodical --- 6/26/2025
-
-We do these things, not because they are difficult, but because they are ridiculous– Matt Parker, probably Matt Parker is going to the moon. I mean, not literally. Everyone’s favourite Stand-Up Mathematician is the sort of person who’s more likely...
-
-
 [PHQ’s Schubert on Sunday](https://www.logicmatters.net/2025/06/23/phq-schubert-of-sunday/)
 ---
 
@@ -581,14 +589,6 @@ A year ago if I showed you a picture of The Pope wearing a Baseball cap for the 
 Computational Complexity --- 6/18/2025
 
 As the entire Fulbright board resigned last week and as the program that promotes international visits for US researchers, and vice-versa, may not survive the Trump administration, I thought I would recount some memories from my Fulbright...
-
-
-[The game that LLMs are playing](https://www.logicmatters.net/2025/06/18/the-game-that-llms-are-playing/)
----
-
-Blog - Logic Matters --- 6/18/2025
-
-For a persuasive way of thinking about what LLMs are up to, read this particularly lucid and sane piece by the philosopher Keith Frankish. The post The game that LLMs are playing appeared first on Logic Matters.
 
 
 [Defending Theory](https://blog.computationalcomplexity.org/feeds/3536975710758489759/comments/default)
