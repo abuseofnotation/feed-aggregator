@@ -1,4 +1,12 @@
 
+[Aperiodical News Roundup – June & July 2025](https://aperiodical.com/2025/08/aperiodical-news-roundup-june-july-2025/)
+---
+
+The Aperiodical --- 8/1/2025
+
+Here’s a round-up of mathematical news stories that happened in the last couple of months, that we didn’t otherwise cover on the site. Mathematical Discoveries A newly discovered shape (ArXiV paper), described as a monostable tetrahedron, always...
+
+
 [Footnotes, Gödel exercises, Purcell](https://www.logicmatters.net/2025/07/31/footnotes-godel-exercises-purcell/)
 ---
 
@@ -485,14 +493,6 @@ In a previous book note, and also in the Appendix to the Guide, there is a revie
 Computational Complexity --- 7/1/2025
 
 (I wrote this post a while back so its no longer NEW. More important--- if there has been a follow-up to the story that is not in my post, let me know.)   We have something NEW and something OLD about the Pythagorean Theorem. Now all we need is...
-
-
-[\(-e^{i\pi}\) to Watch: Welch Labs](https://aperiodical.com/2025/06/eipi-to-watch-welch-labs/)
----
-
-The Aperiodical --- 6/30/2025
-
-In this series of posts, we’ll be featuring mathematical video and streaming channels from all over the internet, by speaking to the creators of the channel and asking them about what they do. We spoke to Stephen Welch, of Welch Labs, which among...
 
 
 [The end of US democracy](https://crookedtimber.org/2025/06/29/the-end-of-us-democracy/)
