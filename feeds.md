@@ -1,4 +1,12 @@
 
+[Jack Morava](https://golem.ph.utexas.edu/category/2025/08/jack_morava_1.html)
+---
+
+The n-Category Café --- 8/2/2025
+
+I hear that Jack Morava died on August 1, 2025.
+
+
 [Aperiodical News Roundup – June & July 2025](https://aperiodical.com/2025/08/aperiodical-news-roundup-june-july-2025/)
 ---
 
@@ -325,14 +333,6 @@ Crooked Timber --- 7/13/2025
 Blog - Logic Matters --- 7/12/2025
 
 I have written before about the pleasure of serendipitous finds in charity second-hand bookshops. It isn’t the matter of saving a few pounds (or of giving the money to a charity rather than a chain bookstore); that’s nice, to be sure, but it...
-
-
-[Category Theory 2025](https://golem.ph.utexas.edu/category/2025/03/category_theory_2025.html)
----
-
-The n-Category Café --- 7/11/2025
-
-CT2025 conference announcement.
 
 
 [Cultural theory was right about the death of the author. It was just a few decades early](https://crookedtimber.org/2025/07/11/cultural-theory-was-right-about-the-death-of-the-author-it-was-just-a-few-decades-early/)
