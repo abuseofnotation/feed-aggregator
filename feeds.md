@@ -1,4 +1,12 @@
 
+[Sunday photoblogging: juvenile woodpecker](https://crookedtimber.org/2025/08/03/sunday-photoblogging-juvenile-woodpecker/)
+---
+
+Crooked Timber --- 8/3/2025
+
+
+
+
 [Jack Morava](https://golem.ph.utexas.edu/category/2025/08/jack_morava_1.html)
 ---
 
@@ -493,14 +501,6 @@ In a previous book note, and also in the Appendix to the Guide, there is a revie
 Computational Complexity --- 7/1/2025
 
 (I wrote this post a while back so its no longer NEW. More important--- if there has been a follow-up to the story that is not in my post, let me know.)   We have something NEW and something OLD about the Pythagorean Theorem. Now all we need is...
-
-
-[The end of US democracy](https://crookedtimber.org/2025/06/29/the-end-of-us-democracy/)
----
-
-Crooked Timber --- 6/29/2025
-
-I’ve held off posting this in the hope of coming up with some kind of positive response, but I haven’t got one. When I wrote back in November 2024 that Trump’s dictatorship was a fait accompi there was still plenty of room for people to disagree....
 
 
 [Bjorndahl’s Introduction to Classical and Modal Logics](https://www.logicmatters.net/2025/06/29/bjorndahls-introduction-to-classical-and-modal-logics/)
