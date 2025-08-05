@@ -1,4 +1,20 @@
 
+[Some thoughts on journals, refereeing, and the P vs NP problem](https://blog.computationalcomplexity.org/feeds/6022986968221528427/comments/default)
+---
+
+Computational Complexity --- 8/4/2025
+
+A guest post by Eric Allender prompted by an (incorrect) P ≠ NP proof recently published in Springer Nature's Frontiers of Computer Science.For a time, I served as Editor-in-Chief of ACM Transactions on Computation Theory, and in this role I had to...
+
+
+[Carnival of Maths #241](https://aperiodical.com/2025/08/carnival-of-maths-241/)
+---
+
+The Aperiodical --- 8/4/2025
+
+Welcome to the 241st Carnival of Mathematics, hosted here at the home of the Carnival, The Aperiodical. The Aperiodical is a shared blog written and curated by Katie Steckles (me), Christian Lawson-Perfect and Peter Rowlett, where we share...
+
+
 [Sunday photoblogging: juvenile woodpecker](https://crookedtimber.org/2025/08/03/sunday-photoblogging-juvenile-woodpecker/)
 ---
 
@@ -455,14 +471,6 @@ Computational Complexity --- 7/2/2025
 A new dean has taken my place, and I have returned to the professoriate at Illinois Tech, ending thirteen years in administration, six as dean and seven as department chair at Georgia Tech. I won't rule out more administrative roles in the future,...
 
 
-[Double Maths First Thing: Issue 2B](https://aperiodical.com/2025/07/double-maths-first-thing-issue-2b/)
----
-
-The Aperiodical --- 7/2/2025
-
-Double Maths First Thing could really do with a hot lemon and honey Hello! My name is Colin and I am a mathematician on a mission to shift this blooming cold before the weekend, when I’m meant to be in Peterborough to rehearse for the PRE show in...
-
-
 [Quantum Ellipsoids](https://golem.ph.utexas.edu/category/2025/04/quantum_ellipsoids.html)
 ---
 
@@ -773,14 +781,6 @@ This will be an online talk for the Leeds Set Theory Seminar, 21 May 2025 1pm BS
 Math ∩ Programming --- 5/12/2025
 
 Editor’s note: This essay was originally published on Medium on 2016-03-05. I have made minor edits in this republishing and added a few small retrospective notes. 2010–2011 (Year 0) I had just switched my major at Cal Poly State University from...
-
-
-[Using AI for Reviews](https://blog.computationalcomplexity.org/feeds/3791456331735935358/comments/default)
----
-
-Computational Complexity --- 5/8/2025
-
-I reviewed a paper recently and I had to agree not to use AI in any aspect of the reviewing process. So I didn't but it felt strange, like I wouldn't be able to use a calculator to check calculations in a paper. Large language models aren't perfect...
 
 
 [The Church of Logic podcast, April 2025](https://jdh.hamkins.org/the-church-of-logic-podcast-april-2025/)
