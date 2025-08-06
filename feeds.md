@@ -1,8 +1,16 @@
 
+[(BT) Diversity from (LC) Diversity](https://golem.ph.utexas.edu/category/2025/08/bt_diversity_from_lc_diversity.html)
+---
+
+The n-Category Café --- 8/5/2025
+
+Comparing two mathematical notions of diversity.
+
+
 [Some thoughts on journals, refereeing, and the P vs NP problem](https://blog.computationalcomplexity.org/feeds/6022986968221528427/comments/default)
 ---
 
-Computational Complexity --- 8/4/2025
+Computational Complexity --- 8/5/2025
 
 A guest post by Eric Allender prompted by an (incorrect) P ≠ NP proof recently published in Springer Nature's Frontiers of Computer Science.For a time, I served as Editor-in-Chief of ACM Transactions on Computation Theory, and in this role I had to...
 
@@ -789,12 +797,4 @@ Editor’s note: This essay was originally published on Medium on 2016-03-05. I 
 Joel David Hamkins --- 4/21/2025
 
 I was interviewed by Cody Roux for The Church of Logic podcast—a fascinating sweeping conversation on issues in the philosophy of mathematics and set theory, including what I described as a fundamental dichotomy between two perspectives on the...
-
-
-[China and I](http://proses.id/china/)
----
-
-Proses.ID --- 4/18/2025
-
-lately I’ve been watching a lot of videos on YouTube about China. it’s partly due to all the chaos around Trump’s tariff, but mostly these…
 
