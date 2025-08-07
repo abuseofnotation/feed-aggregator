@@ -1,4 +1,12 @@
 
+[Double Maths First Thing: Issue 30](https://aperiodical.com/2025/08/double-maths-first-thing-issue-30/)
+---
+
+The Aperiodical --- 8/6/2025
+
+Double Maths First Thing keeps getting bumped to the next room Hello! My name is Colin and I am a mathematician on a mission to spread delight and joy in mathematical thinking and practice. This week, the kids are at a sailing course. I’ve never...
+
+
 [(BT) Diversity from (LC) Diversity](https://golem.ph.utexas.edu/category/2025/08/bt_diversity_from_lc_diversity.html)
 ---
 
@@ -429,14 +437,6 @@ This will be a lecture series on the Philosophy of Mathematics at Fudan Universi
 Joel David Hamkins --- 7/9/2025
 
 This will be a talk for the International Conference on the Philosophy of Mathematics, held at Lanzhou University, China, 25-27 July 2025. How the continuum hypothesis might have been a fundamental axiom Abstract. I shall describe a...
-
-
-[Double Maths First Thing: Issue 2C](https://aperiodical.com/2025/07/double-maths-first-thing-issue-2c/)
----
-
-The Aperiodical --- 7/9/2025
-
-Double Maths First Thing couldn’t possibly comment. Hello! My name is Colin and I am a mathematician on a mission to spread joy and delight in engaging with maths, for any reason or for none. I’ve made it back from rehearsal and am feeling a lot...
 
 
 [The mug](https://crookedtimber.org/2025/07/09/the-mug/)
