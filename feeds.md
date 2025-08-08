@@ -1,4 +1,20 @@
 
+[AI and ...](https://blog.computationalcomplexity.org/feeds/2751786907424371263/comments/default)
+---
+
+Computational Complexity --- 8/7/2025
+
+AI and VacationI'm back from my German vacation. This was my first AI vacation, by which I mean how I used AI to navigate a foreign country. Taking a picture of a hand-written menu board, not just to translate the dishes, but to get a description...
+
+
+[What is a Good Quantum Encoding? Part 1](https://www.math3ma.com/blog/what-is-a-good-quantum-encoding-part-1)
+---
+
+Math3ma --- 8/7/2025
+
+Over the past couple of years, I've been learning a little about the world of quantum machine learning (QML) and the sorts of things people are thinking about there. I recently gave an high-level talk on some of these ideas in connection to a...
+
+
 [Double Maths First Thing: Issue 30](https://aperiodical.com/2025/08/double-maths-first-thing-issue-30/)
 ---
 
@@ -495,14 +511,6 @@ The n-Category Café --- 7/1/2025
 The McGee group is one of the two smallest groups with an outer automorphism that preserves conjugacy classes.   My route to understanding this fact was a long and winding one.
 
 
-[What is a Good Quantum Encoding? Part 1](https://www.math3ma.com/blog/what-is-a-good-quantum-encoding-part-1)
----
-
-Math3ma --- 7/1/2025
-
-Over the past couple of years, I've been learning a little about the world of quantum machine learning (QML) and the sorts of things people are thinking about there. I recently gave an high-level talk on some of these ideas in connection to a...
-
-
 [Srivastava on Naive Set Theory](https://www.logicmatters.net/2025/07/01/a-short-book-note-srivastava-on-naive-set-theory/)
 ---
 
@@ -749,14 +757,6 @@ This is the first of a series of guided inquiries in math.  If a document is pre
 Computational Complexity --- 5/20/2025
 
 There have been times when satire has been mistaken for reality. A list of Onion stories that were mistaken for reality (or was it a mistake?) is here. When I say mistaken for reality I mean that a large set of people were fooled.My own...
-
-
-[Random Thought on the New Pope (the actual New Pope, not the TV series). He was a math major!](https://blog.computationalcomplexity.org/feeds/2894459651142212593/comments/default)
----
-
-Computational Complexity --- 5/20/2025
-
-The New Pope is Pope Leo XIV (pre-Pope name is Robert Prevost). 1) Pope names are one of the few places we still use Roman Numerals. I saw an article that was probably satirical that Americans prefer Roman Numerals (the numbers Jesus used) over...
 
 
 [A Bittersweet Anniversary](https://blog.computationalcomplexity.org/feeds/593341887853911438/comments/default)
