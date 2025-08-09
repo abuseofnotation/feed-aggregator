@@ -1,4 +1,12 @@
 
+[Political Disclosure in the College Classroom](https://crookedtimber.org/2025/08/08/political-disclosure-in-the-college-classroom/)
+---
+
+Crooked Timber --- 8/8/2025
+
+The latest podcast produced by the Center for Ethics and Education focuses on political disclosure in the classroom. I think a lot of CTers will find it interesting. Several students were interviewed, and they are quite insightful. For what it is...
+
+
 [AI and ...](https://blog.computationalcomplexity.org/feeds/2751786907424371263/comments/default)
 ---
 
@@ -461,14 +469,6 @@ This will be a talk for the International Conference on the Philosophy of Mathem
 Crooked Timber --- 7/9/2025
 
 I’ve owned this mug for twenty-five years now. Bought in the gift shop of the Metropolitan Opera in New York on my first ever trip to America, which I doubt I shall ever visit again. The mug, in art nouveau style, celebrates Pucchini’s La Bohème,...
-
-
-[Whatever happened to Romney Republicans?](https://crookedtimber.org/2025/07/08/whatever-happened-to-romney-republicans/)
----
-
-Crooked Timber --- 7/8/2025
-
-Have they changed, or just become their worst selves While Trump is unpopular with a majority of Americans, his support among Republicans remains solid. That’s despite blatant corruption, fascist policies and a failure to deliver any of the...
 
 
 [The New Lower Bound on Busy Beaver of 6.](https://blog.computationalcomplexity.org/feeds/2700478520333308655/comments/default)
