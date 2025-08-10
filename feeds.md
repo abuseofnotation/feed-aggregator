@@ -1,4 +1,12 @@
 
+[Postcard from Zürich](https://www.logicmatters.net/2025/08/09/postcard-from-zurich/)
+---
+
+Blog - Logic Matters --- 8/9/2025
+
+Five days in Zürich, mostly to have quality time with The Daughter. Hence more hours have been spent in long lunches and dinners, and strolling, and stops for mother/daughter shopping, than in ticking off the tourist top ten must-sees. Which has...
+
+
 [Political Disclosure in the College Classroom](https://crookedtimber.org/2025/08/08/political-disclosure-in-the-college-classroom/)
 ---
 
@@ -589,14 +597,6 @@ Here’s a recent thread on philosophy of AI from Twitter/X, in which I address 
 Blog - Logic Matters --- 6/20/2025
 
 With a mind to building myself a reading list for homework before updating the BML Study Guide, I have been doing some online searches for recent publications on mathematical logic. I asked ChatGPT and Claude in “research” mode too, but they were...
-
-
-[And the other Big Red Logic Books?](https://www.logicmatters.net/2025/06/19/and-the-other-big-red-logic-books/)
----
-
-Blog - Logic Matters --- 6/19/2025
-
-I had luxuriant locks, and the temple was still standing, when I originally started the notes on category theory. But here we are … (according to ChatGPT, channelling its inner Rembrandt). The history of earlier versions is embarrassingly untidy...
 
 
 [Lance never thought he would see a Pope who roots for the same team as him. And now...](https://blog.computationalcomplexity.org/feeds/5419259257899994092/comments/default)
