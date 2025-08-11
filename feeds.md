@@ -1,4 +1,28 @@
 
+[My Tom L post inspired a mathematical definition of Rabbithole](https://blog.computationalcomplexity.org/feeds/97344310728185997/comments/default)
+---
+
+Computational Complexity --- 8/10/2025
+
+NICK: I read and enjoyed your blog post on Tom L (see here). I then spent 40 minutes down a rabbithole listening to his music on YouTube.BILL: You call that a rabbit hole?! A while back I spent 3 hours reading questions and answers on quora...
+
+
+[BBC Radio Abroad](https://crookedtimber.org/2025/08/10/bbc-radio-abroad/)
+---
+
+Crooked Timber --- 8/10/2025
+
+One evening last week, having woken up earlier and, as usual, turned on the Jeremy Vine show (with guest host), I turned, again, to BBC Sounds to find… nothing. They’ve been threatening to turn it off for non-UK listeners for months, pretty much...
+
+
+[Sunday photoblogging: jackdaws](https://crookedtimber.org/2025/08/10/sunday-photoblogging-jackdaws/)
+---
+
+Crooked Timber --- 8/10/2025
+
+
+
+
 [Postcard from Zürich](https://www.logicmatters.net/2025/08/09/postcard-from-zurich/)
 ---
 
@@ -431,14 +455,6 @@ The n-Category Café --- 7/10/2025
 Stellenbosch University wants to hire a mathematician.  Apply before April 30th!
 
 
-[Global science equity*](https://crookedtimber.org/2025/07/10/global-science-equity/)
----
-
-Crooked Timber --- 7/10/2025
-
-Now that the Trump government is relentlessly attacking higher education and abusing its power at the border to arbitrarily refuse entry to scholars, many academics wonder whether it’s still possible to travel to the US for conferences or other...
-
-
 [The Customers of the Academy](https://blog.computationalcomplexity.org/feeds/5079614410078839668/comments/default)
 ---
 
@@ -469,14 +485,6 @@ This will be a lecture series on the Philosophy of Mathematics at Fudan Universi
 Joel David Hamkins --- 7/9/2025
 
 This will be a talk for the International Conference on the Philosophy of Mathematics, held at Lanzhou University, China, 25-27 July 2025. How the continuum hypothesis might have been a fundamental axiom Abstract. I shall describe a...
-
-
-[The mug](https://crookedtimber.org/2025/07/09/the-mug/)
----
-
-Crooked Timber --- 7/9/2025
-
-I’ve owned this mug for twenty-five years now. Bought in the gift shop of the Metropolitan Opera in New York on my first ever trip to America, which I doubt I shall ever visit again. The mug, in art nouveau style, celebrates Pucchini’s La Bohème,...
 
 
 [The New Lower Bound on Busy Beaver of 6.](https://blog.computationalcomplexity.org/feeds/2700478520333308655/comments/default)
@@ -757,14 +765,6 @@ This is the first of a series of guided inquiries in math.  If a document is pre
 Computational Complexity --- 5/20/2025
 
 There have been times when satire has been mistaken for reality. A list of Onion stories that were mistaken for reality (or was it a mistake?) is here. When I say mistaken for reality I mean that a large set of people were fooled.My own...
-
-
-[A Bittersweet Anniversary](https://blog.computationalcomplexity.org/feeds/593341887853911438/comments/default)
----
-
-Computational Complexity --- 5/14/2025
-
-The National Science Foundation was founded on May 10, 1950, 75 years ago last Saturday. No doubt the NSF has seen better days, but first let's take a look back.At the end of World War II, Vannevar Bush, Director of the Office of Scientific...
 
 
 [Leibniz's Dream and Dijkstra's nightmare](https://www.jeremykun.com/shortform/2025-05-13-2107/)
