@@ -1,4 +1,12 @@
 
+[I guess that makes me…Horace Slughorn?](https://crookedtimber.org/2025/08/11/54341/)
+---
+
+Crooked Timber --- 8/11/2025
+
+The Economist, having surveyed the current state of European higher education, has decided that the most significant problem is that the specialized graduate school where I work is insufficiently “relevant.” Two objections so far. First, please...
+
+
 [My Tom L post inspired a mathematical definition of Rabbithole](https://blog.computationalcomplexity.org/feeds/97344310728185997/comments/default)
 ---
 
@@ -55,14 +63,6 @@ Math3ma --- 8/7/2025
 Over the past couple of years, I've been learning a little about the world of quantum machine learning (QML) and the sorts of things people are thinking about there. I recently gave an high-level talk on some of these ideas in connection to a...
 
 
-[Double Maths First Thing: Issue 30](https://aperiodical.com/2025/08/double-maths-first-thing-issue-30/)
----
-
-The Aperiodical --- 8/6/2025
-
-Double Maths First Thing keeps getting bumped to the next room Hello! My name is Colin and I am a mathematician on a mission to spread delight and joy in mathematical thinking and practice. This week, the kids are at a sailing course. I’ve never...
-
-
 [(BT) Diversity from (LC) Diversity](https://golem.ph.utexas.edu/category/2025/08/bt_diversity_from_lc_diversity.html)
 ---
 
@@ -77,14 +77,6 @@ Comparing two mathematical notions of diversity.
 Computational Complexity --- 8/5/2025
 
 A guest post by Eric Allender prompted by an (incorrect) P ≠ NP proof recently published in Springer Nature's Frontiers of Computer Science.For a time, I served as Editor-in-Chief of ACM Transactions on Computation Theory, and in this role I had to...
-
-
-[Carnival of Maths #241](https://aperiodical.com/2025/08/carnival-of-maths-241/)
----
-
-The Aperiodical --- 8/4/2025
-
-Welcome to the 241st Carnival of Mathematics, hosted here at the home of the Carnival, The Aperiodical. The Aperiodical is a shared blog written and curated by Katie Steckles (me), Christian Lawson-Perfect and Peter Rowlett, where we share...
 
 
 [Sunday photoblogging: juvenile woodpecker](https://crookedtimber.org/2025/08/03/sunday-photoblogging-juvenile-woodpecker/)
@@ -103,28 +95,12 @@ The n-Category Café --- 8/2/2025
 I hear that Jack Morava died on August 1, 2025.
 
 
-[Aperiodical News Roundup – June & July 2025](https://aperiodical.com/2025/08/aperiodical-news-roundup-june-july-2025/)
----
-
-The Aperiodical --- 8/1/2025
-
-Here’s a round-up of mathematical news stories that happened in the last couple of months, that we didn’t otherwise cover on the site. Mathematical Discoveries A newly discovered shape (ArXiV paper), described as a monostable tetrahedron, always...
-
-
 [Footnotes, Gödel exercises, Purcell](https://www.logicmatters.net/2025/07/31/footnotes-godel-exercises-purcell/)
 ---
 
 Blog - Logic Matters --- 7/31/2025
 
 I hadn’t planned to return to Introducing Formal Logic just yet. But the last week or so I’ve found myself tinkering with the opening chapters. And, sad to relate, I’ve been enjoying the tinkering. So I might continue doing just that. The first...
-
-
-[Maths at the Edinburgh Fringe, 2025](https://aperiodical.com/2025/07/maths-at-the-edinburgh-fringe-2025/)
----
-
-The Aperiodical --- 7/31/2025
-
-Tomorrow is the start of August, and if you’re anywhere near Edinburgh you’ll be aware that the city is already overrun with musicians, comedians and street performers plying their trade as part of the month-long Fringe festival. If you were...
 
 
 [Moral Deskilling – or, why you spend more time on admin than doing your job.](https://crookedtimber.org/2025/07/31/moral-deskilling-or-why-you-spend-more-time-on-admin-than-doing-your-job/)
@@ -141,14 +117,6 @@ At the Sydney Gleebooks launch of Graeme Turner’s new book Broken, an audience
 Crooked Timber --- 7/30/2025
 
 Tech regulation raises some of the thorniest questions of our time — about free speech versus hate speech, copyright versus fair use, truth versus manipulation. Yet these debates are increasingly irrelevant unless states can first establish digital...
-
-
-[Double Maths First Thing: Issue 2F](https://aperiodical.com/2025/07/double-maths-first-thing-issue-2f/)
----
-
-The Aperiodical --- 7/30/2025
-
-Double Maths First Thing says humf! and sort the big list Hello! My name is Colin and I am a mathematician on a mission to spread the joy and delight in doing maths. Not everyone takes delight in anagrams, but being clever, I do: delightfully,...
 
 
 [Tom Lehrer Passed Away at the Age of 97](https://blog.computationalcomplexity.org/feeds/6547507657809660654/comments/default)
@@ -189,14 +157,6 @@ In a prior post I asked what criteria I used to place Prez and VP nominees since
 The n-Category Café --- 7/28/2025
 
 Can the Duflo isomorphism explain the extra 1/2 in the Hamiltonian for the quantum harmonic oscillator?
-
-
-[\(-e^{i\pi}\) to Watch: Another Roof](https://aperiodical.com/2025/07/eipi-to-watch-another-roof/)
----
-
-The Aperiodical --- 7/28/2025
-
-In this series of posts, we’ll be featuring mathematical video and streaming channels from all over the internet, by speaking to the creators of the channel and asking them about what they do. We spoke to Alex, whose channel Another Roof covers...
 
 
 [Sunday photoblogging: near the Puces St Ouen](https://crookedtimber.org/2025/07/27/sunday-photoblogging-near-the-puce-st-ouen/)
@@ -303,14 +263,6 @@ Blog - Logic Matters --- 7/23/2025
 At Wigmore Hall a few days ago, a predictably superb concert. Beethoven’s String Quartet No. 13 in B flat Op. 130 with a (take-no-prisoners) Grosse Fuge Op. 133, followed by the Brahms Piano Quintet in F minor Op. 34, with the plangent tones of the...
 
 
-[Double Maths First Thing: Issue 2E](https://aperiodical.com/2025/07/double-maths-first-thing-issue-2e/)
----
-
-The Aperiodical --- 7/23/2025
-
-Double Maths First Thing might just let them watch a video Hello! My name is Colin and I am a mathematician on a mission to spread the love and joy of struggling with a puzzle until it finally breaks up into beautiful bits. This week, I’ve been...
-
-
 [The Arguments for More (or Fewer) People](https://crookedtimber.org/2025/07/22/the-arguments-for-more-or-fewer-people/)
 ---
 
@@ -375,14 +327,6 @@ Joel David Hamkins --- 7/16/2025
 This will be a talk for the Fudan Logic Seminar at Fudan University, to be followed immediately by two talks for the Fudan Logic student seminar, forming a mini-conference for the logic group on 23 July 2025. Abstract. I shall … Continue reading →
 
 
-[Double Maths First Thing: Issue 2D](https://aperiodical.com/2025/07/double-maths-first-thing-issue-2d/)
----
-
-The Aperiodical --- 7/16/2025
-
-Double Maths First Thing is halfway through Ouch to 5k. Hello! My name is Colin and I am a mathematician on a mission to spread the joy of doing maths. And this week, I’ve been doing some cool maths, looking at Oskar van Deventer’s Blocks...
-
-
 [Historical highlights?](https://www.logicmatters.net/2025/07/15/historical-highlights/)
 ---
 
@@ -397,14 +341,6 @@ The first mini Amazon review of the new edition of Introducing Category Theory a
 Joel David Hamkins --- 7/14/2025
 
 This will be a talk for the Seminar on Frontier Issues in Logic and Philosophy The First Forum on Logic and Philosophy 逻辑与哲学前沿问题研究”学术研讨会暨第一届逻辑与哲学论坛 Changchun, China, 18-20 July 2025 Pointwise definable end-extensions of models of arithmetic and set...
-
-
-[\(-e^{i\pi}\) to Watch: Henry Segerman](https://aperiodical.com/2025/07/eipi-to-watch-henry-segerman/)
----
-
-The Aperiodical --- 7/14/2025
-
-In this series of posts, we’ll be featuring mathematical video and streaming channels from all over the internet, by speaking to the creators of the channel and asking them about what they do. We spoke to Henry Segerman, who uses his YouTube...
 
 
 [Attention is All You Need](https://crookedtimber.org/2025/07/14/attention-is-all-you-need/)
@@ -431,14 +367,6 @@ Blog - Logic Matters --- 7/12/2025
 I have written before about the pleasure of serendipitous finds in charity second-hand bookshops. It isn’t the matter of saving a few pounds (or of giving the money to a charity rather than a chain bookstore); that’s nice, to be sure, but it...
 
 
-[Cultural theory was right about the death of the author. It was just a few decades early](https://crookedtimber.org/2025/07/11/cultural-theory-was-right-about-the-death-of-the-author-it-was-just-a-few-decades-early/)
----
-
-Crooked Timber --- 7/11/2025
-
-There’s a great anecdote about Roman Jakobson, the structuralist theorist of language, in Bernard Dionysius Geoghegan’s book, Code: From Information Theory to French Theory. For Jakobson, and for other early structuralist and post-structuralist...
-
-
 [Take Two](https://www.fractalkitty.com/take-two-2/)
 ---
 
@@ -461,14 +389,6 @@ Stellenbosch University wants to hire a mathematician.  Apply before April 30th!
 Computational Complexity --- 7/9/2025
 
 I had an epiphany reading an article in the Trenton Times when I lived in New Jersey at the turn of the century. The article interviewed companies along a certain street lobbying for a new bus route so their employees could more easily get to work....
-
-
-[The Magic Theorem](https://aperiodical.com/2025/07/the-magic-theorem/)
----
-
-The Aperiodical --- 7/9/2025
-
-Back in 2008, Chaim Goodman-Strauss and Heidi Burgel, together with the late John Conway, wrote a book called The Symmetries of Things, which covered a range of topics around mathematical symmetry and the symmetries of geometric objects. Now the...
 
 
 [Lecture series on the philosophy of mathematics](https://jdh.hamkins.org/lecture-series-on-the-philosophy-of-mathematics/)
@@ -797,4 +717,84 @@ Editor’s note: This essay was originally published on Medium on 2016-03-05. I 
 Joel David Hamkins --- 4/21/2025
 
 I was interviewed by Cody Roux for The Church of Logic podcast—a fascinating sweeping conversation on issues in the philosophy of mathematics and set theory, including what I described as a fundamental dichotomy between two perspectives on the...
+
+
+[China and I](http://proses.id/china/)
+---
+
+Proses.ID --- 4/18/2025
+
+lately I’ve been watching a lot of videos on YouTube about China. it’s partly due to all the chaos around Trump’s tariff, but mostly these…
+
+
+[HEIR talk at FHE.org](https://www.jeremykun.com/shortform/2025-04-15-1239/)
+---
+
+Math ∩ Programming --- 4/15/2025
+
+Last month I gave a talk on the HEIR compiler project at the FHE.org conference in Sofia, Bulgaria. The video is on YouTube now, and the slides are public. I plan to write more about HEIR in the coming months, because it’s been an exciting and...
+
+
+[A potentialist conception of ultrafinitism, Columbia University, April 2025](https://jdh.hamkins.org/a-potentialist-conception-of-ultrafinitism-columbia-university-april-2025/)
+---
+
+Joel David Hamkins --- 4/6/2025
+
+This will be a talk for the conference on Ultrafinitism: Physics, Mathematics, and Philosophy at Columbia University in New York, April 11-13, 2025. Abstract. I shall argue in various respects that ultrafinitism is fruitfully understood from a...
+
+
+[The hierarchy of consistency strengths for membership in a computably enumerable set, Oxford Logic Seminar, May 2025](https://jdh.hamkins.org/the-hierarchy-of-consistency-strengths-for-membership-in-a-computably-enumerable-set-oxford-logic-seminar-may-2025/)
+---
+
+Joel David Hamkins --- 4/6/2025
+
+This will be a talk for the Logic Seminar at the Mathematical Institute of the University of Oxford, 29 May 2025 5pm Andrew Wiles Building. Abstract. For a given computably enumerable set $W$, consider the spectrum of assertions of the … Continue...
+
+
+[238th Carnival of Mathematics](https://www.fractalkitty.com/238th-carnival-of-mathematic/)
+---
+
+Fractal Kitty --- 4/4/2025
+
+Wow! It's the 238th Carnival of Mathematics organized by Aperiodical. This has been a fun month with lots of submissions and lots of beautiful math art. To start let's jump into the number 238 itself.238 is: 2 × 7 × 17.the sum of the
+
+
+[A small Haskell task](http://abuseofnotation.github.io/haskell-task/)
+---
+
+Abuse of Notation --- 4/3/2025
+
+Haskell is great. And I want more people to know it, so this is just a quick overview of it’s capabilities, using the code to solve a simple task I saw on Mastodon. The task is the following: Return a list of all combinations (i.e. order doesn’t...
+
+
+[Does Baby Have Hat](https://www.jeremykun.com/2025/04/01/does-baby-have-hat/)
+---
+
+Math ∩ Programming --- 4/1/2025
+
+It’s April Cools! Last year I wrote about parenting, in 2023 about friendship bracelets. and in 2022 about cocktails. This year it’s a bit of a meandering stroll through some ideas around mutual aid and self-reliance. Maternity wards If you walk...
+
+
+[Time at the Recurse Center](https://www.fractalkitty.com/time-at-the-recurse-center/)
+---
+
+Fractal Kitty --- 3/25/2025
+
+In January, I kicked off a journey of reflection and growth at the Recurse Center (RC) – a retreat where you work at the edge of your abilities with wonderful peers to pair program, study with, and grow.  My goals in participating were to learn and...
+
+
+[The Four Realities We Live In: Ursula Franklin’s Framework](http://proses.id/four-realities/)
+---
+
+Proses.ID --- 3/17/2025
+
+What is reality? It might seem like a straightforward question, but Ursula Franklin, a pioneering thinker in technology and society, saw it as layered and…
+
+
+[Why should I care? or why punks are correct and old wise philosophers are wrong](http://abuseofnotation.github.io/moral-law/)
+---
+
+Abuse of Notation --- 3/10/2025
+
+Last week I learned that Robert Paul Wolff, the philosopher who got interested in anarchism and marxism, died and I wanted to write something dedicated to him — this was the first reason I started writing this. The second one, was to finally finish...
 
