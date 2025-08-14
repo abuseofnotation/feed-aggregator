@@ -1,4 +1,20 @@
 
+[Total Pixel Space](https://blog.computationalcomplexity.org/feeds/237849973695373988/comments/default)
+---
+
+Computational Complexity --- 8/13/2025
+
+Last month the New York Times highlighted some AI generated short movies, including Total Pixel Space, by Jacob Adler that gets philosophical about information, à la infinite monkeys. It imagines the finite number of images and video that contain...
+
+
+[Double Maths First Thing: Issue 31](https://aperiodical.com/2025/08/double-maths-first-thing-issue-31/)
+---
+
+The Aperiodical --- 8/13/2025
+
+Double Maths First Thing feels like this rubber band is getting longer. Hello! My name is Colin and I am a mathematician on a mission to spread joy and delight in maths. This week I’m mainly on childcare duty and watching the calendar until I can...
+
+
 [I guess that makes me…Horace Slughorn?](https://crookedtimber.org/2025/08/11/54341/)
 ---
 
@@ -463,14 +479,6 @@ Computational Complexity --- 7/9/2025
 I had an epiphany reading an article in the Trenton Times when I lived in New Jersey at the turn of the century. The article interviewed companies along a certain street lobbying for a new bus route so their employees could more easily get to work....
 
 
-[The Magic Theorem](https://aperiodical.com/2025/07/the-magic-theorem/)
----
-
-The Aperiodical --- 7/9/2025
-
-Back in 2008, Chaim Goodman-Strauss and Heidi Burgel, together with the late John Conway, wrote a book called The Symmetries of Things, which covered a range of topics around mathematical symmetry and the symmetries of geometric objects. Now the...
-
-
 [Lecture series on the philosophy of mathematics](https://jdh.hamkins.org/lecture-series-on-the-philosophy-of-mathematics/)
 ---
 
@@ -757,14 +765,6 @@ On Saturday, I had my last Illinois Tech graduation as dean before I step down a
 Fractal Kitty --- 5/20/2025
 
 This is the first of a series of guided inquiries in math.  If a document is preferred over a blog post, the pdf file is below:Inquiries-Week 1_ Circle ShadingInquiries-Week 1_ Circle Shading.pdf615...
-
-
-[Is Satire Dangerous in the AI-Age?](https://blog.computationalcomplexity.org/feeds/6213915790067588239/comments/default)
----
-
-Computational Complexity --- 5/20/2025
-
-There have been times when satire has been mistaken for reality. A list of Onion stories that were mistaken for reality (or was it a mistake?) is here. When I say mistaken for reality I mean that a large set of people were fooled.My own...
 
 
 [Leibniz's Dream and Dijkstra's nightmare](https://www.jeremykun.com/shortform/2025-05-13-2107/)
