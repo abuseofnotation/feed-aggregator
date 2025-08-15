@@ -1,4 +1,12 @@
 
+[Safeguarded AI Meeting](https://golem.ph.utexas.edu/category/2025/08/safeguarded_ai_meeting.html)
+---
+
+The n-Category Café --- 8/14/2025
+
+This week, 50 category theorists and software engineers working on "safeguarded AI" are meeting in Bristol.
+
+
 [Total Pixel Space](https://blog.computationalcomplexity.org/feeds/237849973695373988/comments/default)
 ---
 
@@ -525,14 +533,6 @@ A new dean has taken my place, and I have returned to the professoriate at Illi
 The n-Category Café --- 7/1/2025
 
 Studying atomic nuclei forces us to quantize the concept of ellipsoid.
-
-
-[The McGee Group](https://golem.ph.utexas.edu/category/2025/03/the_mcgee_group.html)
----
-
-The n-Category Café --- 7/1/2025
-
-The McGee group is one of the two smallest groups with an outer automorphism that preserves conjugacy classes.   My route to understanding this fact was a long and winding one.
 
 
 [Srivastava on Naive Set Theory](https://www.logicmatters.net/2025/07/01/a-short-book-note-srivastava-on-naive-set-theory/)
