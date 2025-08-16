@@ -2,7 +2,7 @@
 [Safeguarded AI Meeting](https://golem.ph.utexas.edu/category/2025/08/safeguarded_ai_meeting.html)
 ---
 
-The n-Category Café --- 8/14/2025
+The n-Category Café --- 8/15/2025
 
 This week, 50 category theorists and software engineers working on "safeguarded AI" are meeting in Bristol.
 
@@ -53,14 +53,6 @@ One evening last week, having woken up earlier and, as usual, turned on the Jere
 Crooked Timber --- 8/10/2025
 
 
-
-
-[Postcard from Zürich](https://www.logicmatters.net/2025/08/09/postcard-from-zurich/)
----
-
-Blog - Logic Matters --- 8/9/2025
-
-Five days in Zürich, mostly to have quality time with The Daughter. Hence more hours have been spent in long lunches and dinners, and strolling, and stops for mother/daughter shopping, than in ticking off the tourist top ten must-sees. Which has...
 
 
 [Political Disclosure in the College Classroom](https://crookedtimber.org/2025/08/08/political-disclosure-in-the-college-classroom/)
@@ -141,14 +133,6 @@ I hear that Jack Morava died on August 1, 2025.
 The Aperiodical --- 8/1/2025
 
 Here’s a round-up of mathematical news stories that happened in the last couple of months, that we didn’t otherwise cover on the site. Mathematical Discoveries A newly discovered shape (ArXiV paper), described as a monostable tetrahedron, always...
-
-
-[Footnotes, Gödel exercises, Purcell](https://www.logicmatters.net/2025/07/31/footnotes-godel-exercises-purcell/)
----
-
-Blog - Logic Matters --- 7/31/2025
-
-I hadn’t planned to return to Introducing Formal Logic just yet. But the last week or so I’ve found myself tinkering with the opening chapters. And, sad to relate, I’ve been enjoying the tinkering. So I might continue doing just that. The first...
 
 
 [Maths at the Edinburgh Fringe, 2025](https://aperiodical.com/2025/07/maths-at-the-edinburgh-fringe-2025/)
@@ -327,14 +311,6 @@ The n-Category Café --- 7/24/2025
 How do you count rooted planar n-ary trees with a given number of leaves?  Use Lagrange inversion!
 
 
-[Chiaroscuro Quartet and Cédric Tiberghien play Beethoven and Brahms](https://www.logicmatters.net/2025/07/23/chiaroscuro-quartet-and-cedric-tiberghien-play-beethoven-and-brahms/)
----
-
-Blog - Logic Matters --- 7/23/2025
-
-At Wigmore Hall a few days ago, a predictably superb concert. Beethoven’s String Quartet No. 13 in B flat Op. 130 with a (take-no-prisoners) Grosse Fuge Op. 133, followed by the Brahms Piano Quintet in F minor Op. 34, with the plangent tones of the...
-
-
 [Double Maths First Thing: Issue 2E](https://aperiodical.com/2025/07/double-maths-first-thing-issue-2e/)
 ---
 
@@ -415,14 +391,6 @@ The Aperiodical --- 7/16/2025
 Double Maths First Thing is halfway through Ouch to 5k. Hello! My name is Colin and I am a mathematician on a mission to spread the joy of doing maths. And this week, I’ve been doing some cool maths, looking at Oskar van Deventer’s Blocks...
 
 
-[Historical highlights?](https://www.logicmatters.net/2025/07/15/historical-highlights/)
----
-
-Blog - Logic Matters --- 7/15/2025
-
-The first mini Amazon review of the new edition of Introducing Category Theory arrives: five stars. Simultaneously, the first report of a typo (§2.9(b), “its homomorphism needs to be included” should read “its identity homomorphism needs to be...
-
-
 [Pointwise definable end-extensions of models of arithmetic and set theory, Changchun, China, July 2025](https://jdh.hamkins.org/pointwise-definable-end-extensions-of-models-of-arithmetic-and-set-theory-changchun-china-july-2025/)
 ---
 
@@ -453,14 +421,6 @@ One of my foundational theoretical commitments is that the technology of readi
 Crooked Timber --- 7/13/2025
 
 
-
-
-[Poetic serendipity](https://www.logicmatters.net/2025/07/12/poetic-serendipity/)
----
-
-Blog - Logic Matters --- 7/12/2025
-
-I have written before about the pleasure of serendipitous finds in charity second-hand bookshops. It isn’t the matter of saving a few pounds (or of giving the money to a charity rather than a chain bookstore); that’s nice, to be sure, but it...
 
 
 [Take Two](https://www.fractalkitty.com/take-two-2/)
@@ -535,14 +495,6 @@ The n-Category Café --- 7/1/2025
 Studying atomic nuclei forces us to quantize the concept of ellipsoid.
 
 
-[Srivastava on Naive Set Theory](https://www.logicmatters.net/2025/07/01/a-short-book-note-srivastava-on-naive-set-theory/)
----
-
-Blog - Logic Matters --- 7/1/2025
-
-In a previous book note, and also in the Appendix to the Guide, there is a review of Shashi Mohan Srivastava’s earlier A Course on Mathematical Logic. Parts of that book, as I say, could make useful supplementary/revision reading. So I was...
-
-
 [Two high school students have a new proof of the Pythagorean Theorem  / Pythag theorem older than thought](https://blog.computationalcomplexity.org/feeds/1772880144946336704/comments/default)
 ---
 
@@ -551,36 +503,12 @@ Computational Complexity --- 7/1/2025
 (I wrote this post a while back so its no longer NEW. More important--- if there has been a follow-up to the story that is not in my post, let me know.)   We have something NEW and something OLD about the Pythagorean Theorem. Now all we need is...
 
 
-[Bjorndahl’s Introduction to Classical and Modal Logics](https://www.logicmatters.net/2025/06/29/bjorndahls-introduction-to-classical-and-modal-logics/)
----
-
-Blog - Logic Matters --- 6/29/2025
-
-I have belatedly updated the PDF Appendix to the Study Guide and also the page of links to book notes — 76 of them! — to incorporate some blog posts from last year. And I am now starting to do more homework, as I slowly work up to revising the main...
-
-
 [The Distribution of Prime Numbers: A Geometrical Perspective](https://blog.computationalcomplexity.org/feeds/8676523954566797308/comments/default)
 ---
 
 Computational Complexity --- 6/26/2025
 
 Alberto Fraile and Daniel Fernández guest post on random walks generated by the distribution of prime numbers.In our recent papers, we explored the sequence of prime numbers by defining "random walks" governed by simple algorithms applied to their...
-
-
-[ICT2, the paperback!](https://www.logicmatters.net/2025/06/26/ict2-the-paperback/)
----
-
-Blog - Logic Matters --- 6/26/2025
-
-So here it is, available from today. As with the other Big Red Logic Books, to keep the cost minimal, it is an Amazon-only print-on-demand book, ISBN-10 ‏: ‎ 1068346701. And, as with the other Big Red Logic Books, you can still download the latest...
-
-
-[PHQ’s Schubert on Sunday](https://www.logicmatters.net/2025/06/23/phq-schubert-of-sunday/)
----
-
-Blog - Logic Matters --- 6/23/2025
-
-Back in 2012, the Pavel Haas Quartet recorded a prize-winning Schubert CD including a truly great performance of the Death and the Maiden Quartet. I wrote at the time: The Pavel Haas launch into the quartet with fierce attack and astringent (almost...
 
 
 [If you do well in the UMCP HS Math Competition you may win $1,000,000](https://blog.computationalcomplexity.org/feeds/5756596071637987543/comments/default)
@@ -605,14 +533,6 @@ This will be a talk for the Conference on Infinity, a collaborative meeting of l
 DEONTOLOGISTICS --- 6/22/2025
 
 Here’s a recent thread on philosophy of AI from Twitter/X, in which I address rather popular arguments made by Emily Bender and others to the effect that LLM outputs are strictly speaking meaningless. I think these argument are flawed, as I explain...
-
-
-[A very short book note](https://www.logicmatters.net/2025/06/20/a-very-short-book-note/)
----
-
-Blog - Logic Matters --- 6/20/2025
-
-With a mind to building myself a reading list for homework before updating the BML Study Guide, I have been doing some online searches for recent publications on mathematical logic. I asked ChatGPT and Claude in “research” mode too, but they were...
 
 
 [Lance never thought he would see a Pope who roots for the same team as him. And now...](https://blog.computationalcomplexity.org/feeds/5419259257899994092/comments/default)
@@ -797,4 +717,84 @@ Editor’s note: This essay was originally published on Medium on 2016-03-05. I 
 Joel David Hamkins --- 4/21/2025
 
 I was interviewed by Cody Roux for The Church of Logic podcast—a fascinating sweeping conversation on issues in the philosophy of mathematics and set theory, including what I described as a fundamental dichotomy between two perspectives on the...
+
+
+[China and I](http://proses.id/china/)
+---
+
+Proses.ID --- 4/18/2025
+
+lately I’ve been watching a lot of videos on YouTube about China. it’s partly due to all the chaos around Trump’s tariff, but mostly these…
+
+
+[HEIR talk at FHE.org](https://www.jeremykun.com/shortform/2025-04-15-1239/)
+---
+
+Math ∩ Programming --- 4/15/2025
+
+Last month I gave a talk on the HEIR compiler project at the FHE.org conference in Sofia, Bulgaria. The video is on YouTube now, and the slides are public. I plan to write more about HEIR in the coming months, because it’s been an exciting and...
+
+
+[A potentialist conception of ultrafinitism, Columbia University, April 2025](https://jdh.hamkins.org/a-potentialist-conception-of-ultrafinitism-columbia-university-april-2025/)
+---
+
+Joel David Hamkins --- 4/6/2025
+
+This will be a talk for the conference on Ultrafinitism: Physics, Mathematics, and Philosophy at Columbia University in New York, April 11-13, 2025. Abstract. I shall argue in various respects that ultrafinitism is fruitfully understood from a...
+
+
+[The hierarchy of consistency strengths for membership in a computably enumerable set, Oxford Logic Seminar, May 2025](https://jdh.hamkins.org/the-hierarchy-of-consistency-strengths-for-membership-in-a-computably-enumerable-set-oxford-logic-seminar-may-2025/)
+---
+
+Joel David Hamkins --- 4/6/2025
+
+This will be a talk for the Logic Seminar at the Mathematical Institute of the University of Oxford, 29 May 2025 5pm Andrew Wiles Building. Abstract. For a given computably enumerable set $W$, consider the spectrum of assertions of the … Continue...
+
+
+[238th Carnival of Mathematics](https://www.fractalkitty.com/238th-carnival-of-mathematic/)
+---
+
+Fractal Kitty --- 4/4/2025
+
+Wow! It's the 238th Carnival of Mathematics organized by Aperiodical. This has been a fun month with lots of submissions and lots of beautiful math art. To start let's jump into the number 238 itself.238 is: 2 × 7 × 17.the sum of the
+
+
+[A small Haskell task](http://abuseofnotation.github.io/haskell-task/)
+---
+
+Abuse of Notation --- 4/3/2025
+
+Haskell is great. And I want more people to know it, so this is just a quick overview of it’s capabilities, using the code to solve a simple task I saw on Mastodon. The task is the following: Return a list of all combinations (i.e. order doesn’t...
+
+
+[Does Baby Have Hat](https://www.jeremykun.com/2025/04/01/does-baby-have-hat/)
+---
+
+Math ∩ Programming --- 4/1/2025
+
+It’s April Cools! Last year I wrote about parenting, in 2023 about friendship bracelets. and in 2022 about cocktails. This year it’s a bit of a meandering stroll through some ideas around mutual aid and self-reliance. Maternity wards If you walk...
+
+
+[Time at the Recurse Center](https://www.fractalkitty.com/time-at-the-recurse-center/)
+---
+
+Fractal Kitty --- 3/25/2025
+
+In January, I kicked off a journey of reflection and growth at the Recurse Center (RC) – a retreat where you work at the edge of your abilities with wonderful peers to pair program, study with, and grow.  My goals in participating were to learn and...
+
+
+[The Four Realities We Live In: Ursula Franklin’s Framework](http://proses.id/four-realities/)
+---
+
+Proses.ID --- 3/17/2025
+
+What is reality? It might seem like a straightforward question, but Ursula Franklin, a pioneering thinker in technology and society, saw it as layered and…
+
+
+[Why should I care? or why punks are correct and old wise philosophers are wrong](http://abuseofnotation.github.io/moral-law/)
+---
+
+Abuse of Notation --- 3/10/2025
+
+Last week I learned that Robert Paul Wolff, the philosopher who got interested in anarchism and marxism, died and I wanted to write something dedicated to him — this was the first reason I started writing this. The second one, was to finally finish...
 
