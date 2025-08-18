@@ -1,4 +1,20 @@
 
+[Sunday photoblogging: backlit sunflower](https://crookedtimber.org/2025/08/17/sunday-photoblogging-backlit-sunflower/)
+---
+
+Crooked Timber --- 8/17/2025
+
+
+
+
+[A few more notes about Tom L](https://blog.computationalcomplexity.org/feeds/5043973110978673055/comments/default)
+---
+
+Computational Complexity --- 8/17/2025
+
+Tom Lehrer passed away on July 26, 2025, at the age of 97. I wrote a blog-obit here. One of my readers read the post and went down a rabbit hole (or did he?), which lead to a blog post about rabbit holes here. A few more notes about Tom L.1) When...
+
+
 [Safeguarded AI Meeting](https://golem.ph.utexas.edu/category/2025/08/safeguarded_ai_meeting.html)
 ---
 
@@ -447,14 +463,6 @@ Crooked Timber --- 7/14/2025
 One of my foundational theoretical commitments is that the technology of reading and writing is neither natural nor innocuous. Media theorists McLuhan, Postman, Ong and Flusser all agree on this point: the technology of writing is a necessary...
 
 
-[Sunday photoblogging: Street art at the Puces St Ouen](https://crookedtimber.org/2025/07/13/sunday-photoblogging-street-art-at-the-puce-st-ouen/)
----
-
-Crooked Timber --- 7/13/2025
-
-
-
-
 [Poetic serendipity](https://www.logicmatters.net/2025/07/12/poetic-serendipity/)
 ---
 
@@ -749,14 +757,6 @@ Computational Complexity --- 5/26/2025
 Good Fibrations --- 5/23/2025
 
 I’ve felt for a long time that automorphisms of curves should control or at least exert serious force on the slopes on their Jacobians. Symmetry forces height, as I’ve written about previously in Models of Formal Groups Laws of Every Height, and...
-
-
-[The Blog of Record](https://blog.computationalcomplexity.org/feeds/2494678019119993022/comments/default)
----
-
-Computational Complexity --- 5/21/2025
-
-On Saturday, I had my last Illinois Tech graduation as dean before I step down at the end of June. The College of Computing had nearly 1600 graduates and I shook many, many hands that morning.After graduation I caught a plane to Washington, DC to...
 
 
 [Inquiries-Week 1: Circle Shading](https://www.fractalkitty.com/inquiries-week-1-circle-shading/)
