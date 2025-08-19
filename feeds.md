@@ -1,18 +1,34 @@
 
+[Did Turing ever halt? HPS Colloquium, Notre Dame, October 2025](https://jdh.hamkins.org/did-turing-ever-halt-hps-colloquium-october-2025/)
+---
+
+Joel David Hamkins --- 8/18/2025
+
+This will be a talk I shall give for the History and Philosophy of Science (HPS) Colloquium at the University of Notre Dame, 17 October 2025, 12:30-1:30 pm, 201 O’Shaughnessy Hall. Did Turing ever halt? Abstract. Alan Turing’s 1936 paper … Continue...
+
+
+[If something can’t go on forever, it will stop](https://crookedtimber.org/2025/08/18/if-something-cant-go-on-forever-it-will-stop/)
+---
+
+Crooked Timber --- 8/18/2025
+
+A book review from Inside Story: After The Spike by Spears and Geruso The most striking observation in Dean Spears and Michael Geruso’s new book, After the Spike, is summed up by the cover illustration, which shows a world population rising rapidly...
+
+
+[A few more notes about Tom L](https://blog.computationalcomplexity.org/feeds/5043973110978673055/comments/default)
+---
+
+Computational Complexity --- 8/18/2025
+
+Tom Lehrer passed away on July 26, 2025, at the age of 97. I wrote a blog-obit here. One of my readers read the post and went down a rabbit hole (or did he?), which lead to a blog post about rabbit holes here. A few more notes about Tom L.1) When...
+
+
 [Sunday photoblogging: backlit sunflower](https://crookedtimber.org/2025/08/17/sunday-photoblogging-backlit-sunflower/)
 ---
 
 Crooked Timber --- 8/17/2025
 
 
-
-
-[A few more notes about Tom L](https://blog.computationalcomplexity.org/feeds/5043973110978673055/comments/default)
----
-
-Computational Complexity --- 8/17/2025
-
-Tom Lehrer passed away on July 26, 2025, at the age of 97. I wrote a blog-obit here. One of my readers read the post and went down a rabbit hole (or did he?), which lead to a blog post about rabbit holes here. A few more notes about Tom L.1) When...
 
 
 [Safeguarded AI Meeting](https://golem.ph.utexas.edu/category/2025/08/safeguarded_ai_meeting.html)
@@ -455,14 +471,6 @@ The Aperiodical --- 7/14/2025
 In this series of posts, we’ll be featuring mathematical video and streaming channels from all over the internet, by speaking to the creators of the channel and asking them about what they do. We spoke to Henry Segerman, who uses his YouTube...
 
 
-[Attention is All You Need](https://crookedtimber.org/2025/07/14/attention-is-all-you-need/)
----
-
-Crooked Timber --- 7/14/2025
-
-One of my foundational theoretical commitments is that the technology of reading and writing is neither natural nor innocuous. Media theorists McLuhan, Postman, Ong and Flusser all agree on this point: the technology of writing is a necessary...
-
-
 [Poetic serendipity](https://www.logicmatters.net/2025/07/12/poetic-serendipity/)
 ---
 
@@ -789,12 +797,4 @@ This will be an online talk for the Leeds Set Theory Seminar, 21 May 2025 1pm BS
 Math ∩ Programming --- 5/12/2025
 
 Editor’s note: This essay was originally published on Medium on 2016-03-05. I have made minor edits in this republishing and added a few small retrospective notes. 2010–2011 (Year 0) I had just switched my major at Cal Poly State University from...
-
-
-[The Church of Logic podcast, April 2025](https://jdh.hamkins.org/the-church-of-logic-podcast-april-2025/)
----
-
-Joel David Hamkins --- 4/21/2025
-
-I was interviewed by Cody Roux for The Church of Logic podcast—a fascinating sweeping conversation on issues in the philosophy of mathematics and set theory, including what I described as a fundamental dichotomy between two perspectives on the...
 
