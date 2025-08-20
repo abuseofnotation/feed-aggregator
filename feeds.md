@@ -1,4 +1,12 @@
 
+[AI, proofing, and the meaning of what we do](https://crookedtimber.org/2025/08/19/ai-proofing-and-the-meaning-of-what-we-do/)
+---
+
+Crooked Timber --- 8/19/2025
+
+Human beings are creatures who can describe their actions at various levels. Elizabeth Anscombe has famously introduced the example of a man who moves his arm, to pump water, to poison the inhabitants of a house, to overthrow a regime, to bring...
+
+
 [Did Turing ever halt? HPS Colloquium, Notre Dame, October 2025](https://jdh.hamkins.org/did-turing-ever-halt-hps-colloquium-october-2025/)
 ---
 
@@ -405,14 +413,6 @@ A cursory glance at the Jeffrey Epstein’s biography (1953 – 2019) shows it 
 Crooked Timber --- 7/20/2025
 
 As President Trump continues to amass authoritarian power, we should consider the shocking role of the Supreme Court in facilitating his power grab. Trump v. United States declared the President immune from prosecution for breaking any criminal law...
-
-
-[Sunday photoblogging: Paris](https://crookedtimber.org/2025/07/20/sunday-photoblogging-paris-2/)
----
-
-Crooked Timber --- 7/20/2025
-
-
 
 
 [Frequently Asked Questions about FHE](https://www.jeremykun.com/frequently-asked-questions-about-fhe/)
