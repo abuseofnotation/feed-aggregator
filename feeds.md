@@ -1,4 +1,36 @@
 
+[The elementary theory of surreal arithmetic is bi-interpretable with set theory, Kobe, Japan, September 2025](https://jdh.hamkins.org/theory-of-surreal-arithmetic-bi-interpretable-with-set-theory-japan-september-2025/)
+---
+
+Joel David Hamkins --- 8/20/2025
+
+This will be a talk for the Conference on the occasion of Jörg Brendle’s 60th birthday at Kobe University in Kobe, Japan, 2-5 September 2025. Many years ago, I was a JSPS Fellow at Kobe University, at the same time … Continue reading →
+
+
+[The Phone](https://blog.computationalcomplexity.org/feeds/3715509466111296781/comments/default)
+---
+
+Computational Complexity --- 8/20/2025
+
+I've heard this story from a few places. A father watches Back to the Future II with his kid. The 1989 movie view of 2015 looks entirely different when in fact not much has changed except for the fashion and the lack of mobile phones. This is...
+
+
+[Pop culture history: From Kennedy to Lois](https://crookedtimber.org/2025/08/20/pop-culture-history-from-kennedy-to-lois/)
+---
+
+Crooked Timber --- 8/20/2025
+
+There’s been a lack of cheer on this site lately. The obvious response: some analysis of trivial, ephemeral pop culture. So, a question before the jump: If I were to mention “the MacBride and Kennedy stories”, who would raise a hand and say “I...
+
+
+[Double Maths First Thing: Issue 32](https://aperiodical.com/2025/08/double-maths-first-thing-issue-32/)
+---
+
+The Aperiodical --- 8/20/2025
+
+Double Maths First Thing is looking forward to the cricket Hello! My name is Colin and I am a mathematician on a mission to spread the joy and delight of doing maths, solving puzzles, and feeling really clever about it. This week, we’re planning to...
+
+
 [AI, proofing, and the meaning of what we do](https://crookedtimber.org/2025/08/19/ai-proofing-and-the-meaning-of-what-we-do/)
 ---
 
@@ -407,14 +439,6 @@ Crooked Timber --- 7/21/2025
 A cursory glance at the Jeffrey Epstein’s biography (1953 – 2019) shows it can be treated as a modern adaptation (and so adjustment) of Horatio Alger Jr.’s framework: Epstein’s life moves from (lower) middle-class respectability to incredible...
 
 
-[He’s the Boss: Unitary Executive Theory and Workplace Authoritarianism](https://crookedtimber.org/2025/07/20/hes-the-boss-unitary-executive-theory-and-workplace-authoritarianism/)
----
-
-Crooked Timber --- 7/20/2025
-
-As President Trump continues to amass authoritarian power, we should consider the shocking role of the Supreme Court in facilitating his power grab. Trump v. United States declared the President immune from prosecution for breaking any criminal law...
-
-
 [Frequently Asked Questions about FHE](https://www.jeremykun.com/frequently-asked-questions-about-fhe/)
 ---
 
@@ -461,14 +485,6 @@ The first mini Amazon review of the new edition of Introducing Category Theory a
 Joel David Hamkins --- 7/14/2025
 
 This will be a talk for the Seminar on Frontier Issues in Logic and Philosophy The First Forum on Logic and Philosophy 逻辑与哲学前沿问题研究”学术研讨会暨第一届逻辑与哲学论坛 Changchun, China, 18-20 July 2025 Pointwise definable end-extensions of models of arithmetic and set...
-
-
-[\(-e^{i\pi}\) to Watch: Henry Segerman](https://aperiodical.com/2025/07/eipi-to-watch-henry-segerman/)
----
-
-The Aperiodical --- 7/14/2025
-
-In this series of posts, we’ll be featuring mathematical video and streaming channels from all over the internet, by speaking to the creators of the channel and asking them about what they do. We spoke to Henry Segerman, who uses his YouTube...
 
 
 [Poetic serendipity](https://www.logicmatters.net/2025/07/12/poetic-serendipity/)
@@ -751,14 +767,6 @@ Abuse of Notation --- 5/27/2025
 Out for a walk I let go and let the city dissolve me.
 
 
-[Some are Mathematicians, some are Carpenters'  Wives, Some are Popes.](https://blog.computationalcomplexity.org/feeds/5926504193330043797/comments/default)
----
-
-Computational Complexity --- 5/26/2025
-
-(Trivia: What song has the lyric Some are Mathematicians, some are Carpenters's wives ? It's not a parody song, though sometimes it's hard to tell a parody song from a so-called real song.)In my post about Pope Leo XIV I made the following...
-
-
 [Using Automorphism Groups of Curves to Control the Slopes of their Jacobians](https://rin.io/gausssums/)
 ---
 
@@ -789,12 +797,4 @@ I was inspired to browse some of Edsger Dijkstra’s essays today, and came acro
 Joel David Hamkins --- 5/12/2025
 
 This will be an online talk for the Leeds Set Theory Seminar, 21 May 2025 1pm BST. Contact the organizers (Hope Duncan) for Teams access. Abstract: One can find in the philosophical research literature surrounding Skolem’s paradox a certain claim,...
-
-
-[My Graduate Career in Math](https://www.jeremykun.com/2025/05/12/my-graduate-career-in-math/)
----
-
-Math ∩ Programming --- 5/12/2025
-
-Editor’s note: This essay was originally published on Medium on 2016-03-05. I have made minor edits in this republishing and added a few small retrospective notes. 2010–2011 (Year 0) I had just switched my major at Cal Poly State University from...
 
