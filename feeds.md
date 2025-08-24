@@ -1,4 +1,20 @@
 
+[Was the George Foreman Grill The Best Invention of the last 50 Years?](https://blog.computationalcomplexity.org/feeds/6463255190197618046/comments/default)
+---
+
+Computational Complexity --- 8/24/2025
+
+(This post was inspired by George Foreman, who passed away March 21, 2025, at the age of 76.)About 10 years ago I asked my classWhat is the best invention or tech advance of the last 50 years?Here are the answers I got NOT ranked.1) The internet....
+
+
+[Footnotes to the week](https://www.logicmatters.net/2025/08/23/footnotes-to-the-week/)
+---
+
+Blog - Logic Matters --- 8/23/2025
+
+It is time to face the book problem again. We had to clear a whole floor-to-ceiling bay of bookshelves so our plumber could drop new pipework down at the back of the bay (long boring story). And we forced ourselves to be selective about what to...
+
+
 [The Cheltenham to Manchester Piccadilly Adventure](https://crookedtimber.org/2025/08/22/the-cheltenham-to-manchester-piccadilly-adventure/)
 ---
 
@@ -639,14 +655,6 @@ DEONTOLOGISTICS --- 6/22/2025
 Here’s a recent thread on philosophy of AI from Twitter/X, in which I address rather popular arguments made by Emily Bender and others to the effect that LLM outputs are strictly speaking meaningless. I think these argument are flawed, as I explain...
 
 
-[A very short book note](https://www.logicmatters.net/2025/06/20/a-very-short-book-note/)
----
-
-Blog - Logic Matters --- 6/20/2025
-
-With a mind to building myself a reading list for homework before updating the BML Study Guide, I have been doing some online searches for recent publications on mathematical logic. I asked ChatGPT and Claude in “research” mode too, but they were...
-
-
 [Lance never thought he would see a Pope who roots for the same team as him. And now...](https://blog.computationalcomplexity.org/feeds/5419259257899994092/comments/default)
 ---
 
@@ -709,14 +717,6 @@ IntroductionIn this activity, we'll explore patterns by finding the remainders w
 Computational Complexity --- 6/3/2025
 
 (Thanks to David Marcus who sent me the video I point to in point 4 of this post. Tip for young bloggers (if there are any) you can have a half-baked idea for a post and then someone sends you something OR you later have an idea to make it a...
-
-
-[The Hilltop Story](https://blog.computationalcomplexity.org/feeds/6915666163896139300/comments/default)
----
-
-Computational Complexity --- 5/28/2025
-
-On Route 1 in Saugus, Massachusetts, about a twenty minute drive from Cambridge, stood the Hilltop Steak House. When I went to graduate school in the late 80's, Hilltop led all restaurants in the United States by sales (about $30 million in annual...
 
 
 [Monad](http://abuseofnotation.github.io/monad/)
