@@ -7,6 +7,14 @@ Computational Complexity --- 8/24/2025
 (This post was inspired by George Foreman, who passed away March 21, 2025, at the age of 76.)About 10 years ago I asked my classWhat is the best invention or tech advance of the last 50 years?Here are the answers I got NOT ranked.1) The internet....
 
 
+[Sunday photoblogging: sunflower](https://crookedtimber.org/2025/08/24/sunday-photoblogging-sunflower/)
+---
+
+Crooked Timber --- 8/24/2025
+
+
+
+
 [Footnotes to the week](https://www.logicmatters.net/2025/08/23/footnotes-to-the-week/)
 ---
 
@@ -341,14 +349,6 @@ In this series of posts, we’ll be featuring mathematical video and streaming c
 Crooked Timber --- 7/27/2025
 
 
-
-
-[A billion people would be plenty to sustain civilisation …](https://crookedtimber.org/2025/07/27/a-billion-people-would-be-plenty-to-sustain-civilisation/)
----
-
-Crooked Timber --- 7/27/2025
-
-… as long as they are healthy, well fed and well educated Much of the panic about falling birth rates can be dispelled once we realise that (barring catastrophe) there will almost certainly be more people alive in 2100 than there were in 2000. But...
 
 
 [2-Rig Conjectures Proved?](https://golem.ph.utexas.edu/category/2025/07/2rig_conjectures_proved.html)
