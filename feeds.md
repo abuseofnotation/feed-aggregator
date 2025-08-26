@@ -1,4 +1,20 @@
 
+[Review: The Mathematician’s Library, by Thomas K. Briggs](https://aperiodical.com/2025/08/review-the-mathematicians-library-by-thomas-k-briggs/)
+---
+
+The Aperiodical --- 8/25/2025
+
+Books. Every self-respecting mathematician’s floor has a pile of them, some half-read, others to re-read, some merely providing structural support. In The Mathematician’s Library, Thomas K. Briggs considers an alternative approach to the...
+
+
+[Dogs bite men (and a little girl).](https://crookedtimber.org/2025/08/25/dogs-bite-men-and-a-little-girl/)
+---
+
+Crooked Timber --- 8/25/2025
+
+My friend was bitten by a dog this summer. For British readers: being bitten by a dog elsewhere in the world isn’t merely painful, scary and shocking. It brings with it a real possibility of rabies. For non-British reader – really, I’m not making...
+
+
 [Was the George Foreman Grill The Best Invention of the last 50 Years?](https://blog.computationalcomplexity.org/feeds/6463255190197618046/comments/default)
 ---
 
@@ -343,14 +359,6 @@ The Aperiodical --- 7/28/2025
 In this series of posts, we’ll be featuring mathematical video and streaming channels from all over the internet, by speaking to the creators of the channel and asking them about what they do. We spoke to Alex, whose channel Another Roof covers...
 
 
-[Sunday photoblogging: near the Puces St Ouen](https://crookedtimber.org/2025/07/27/sunday-photoblogging-near-the-puce-st-ouen/)
----
-
-Crooked Timber --- 7/27/2025
-
-
-
-
 [2-Rig Conjectures Proved?](https://golem.ph.utexas.edu/category/2025/07/2rig_conjectures_proved.html)
 ---
 
@@ -477,14 +485,6 @@ Douglas Hofstadter first published Gödel, Escher, Bach: an Eternal Golden Brai
 Joel David Hamkins --- 7/16/2025
 
 This will be a talk for the Fudan Logic Seminar at Fudan University, to be followed immediately by two talks for the Fudan Logic student seminar, forming a mini-conference for the logic group on 23 July 2025. Abstract. I shall … Continue reading →
-
-
-[Double Maths First Thing: Issue 2D](https://aperiodical.com/2025/07/double-maths-first-thing-issue-2d/)
----
-
-The Aperiodical --- 7/16/2025
-
-Double Maths First Thing is halfway through Ouch to 5k. Hello! My name is Colin and I am a mathematician on a mission to spread the joy of doing maths. And this week, I’ve been doing some cool maths, looking at Oskar van Deventer’s Blocks...
 
 
 [Historical highlights?](https://www.logicmatters.net/2025/07/15/historical-highlights/)
