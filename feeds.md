@@ -1,4 +1,12 @@
 
+[Inquiries-Week 4: Triangulate the Triangle](https://www.fractalkitty.com/inquiries-week-4-triangulate-the-triangle/)
+---
+
+Fractal Kitty --- 8/26/2025
+
+IntroductionIn this inquiry, triangles are dissected into smaller triangles with vertices labeled as either light (L), medium (M), or dark (D). Any triangles that are LMD triangles are shaded with color. Triangle playLet's start with a triangle...
+
+
 [Review: The Mathematician’s Library, by Thomas K. Briggs](https://aperiodical.com/2025/08/review-the-mathematicians-library-by-thomas-k-briggs/)
 ---
 
@@ -789,12 +797,4 @@ This is the first of a series of guided inquiries in math.  If a document is pre
 Math ∩ Programming --- 5/13/2025
 
 I was inspired to browse some of Edsger Dijkstra’s essays today, and came across his speech, “Under the spell of Leibniz’s Dream”. It’s the sort of personal history I love to read, which gives one person’s sense of the world over a period of...
-
-
-[Skolem’s paradox and the countable transitive submodel theorem, Leeds Set Theory Seminar, May 2025](https://jdh.hamkins.org/skolems-paradox-and-the-countable-transitive-submodel-theorem-leeds-set-theory-seminar-may-2025/)
----
-
-Joel David Hamkins --- 5/12/2025
-
-This will be an online talk for the Leeds Set Theory Seminar, 21 May 2025 1pm BST. Contact the organizers (Hope Duncan) for Teams access. Abstract: One can find in the philosophical research literature surrounding Skolem’s paradox a certain claim,...
 
