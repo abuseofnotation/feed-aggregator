@@ -1,4 +1,28 @@
 
+[The Logical Argument](https://blog.computationalcomplexity.org/feeds/2498048294680683670/comments/default)
+---
+
+Computational Complexity --- 8/27/2025
+
+This will be one of a series of posts that I've always wanted to write but I needed to wait until I was no longer an academic administrator.Logic is critical to proving theorems but it's the wrong way to argue for resources.When I was such an...
+
+
+[Double Maths First Thing: Issue 33](https://aperiodical.com/2025/08/double-maths-first-thing-issue-33/)
+---
+
+The Aperiodical --- 8/27/2025
+
+Double Maths First Thing is at about 3.5/5 on the ready-to-rock-o-meter HELLO $CURRENT_LOCATION! Sorry, hang on, the show isn’t until tonight. Let me switch off rock god mode and try again. Hello! My name is Colin and I am a mathematician on a...
+
+
+[It’s Not Socialism–It’s National Socialism](https://crookedtimber.org/2025/08/27/its-not-socialism-its-national-socialism/)
+---
+
+Crooked Timber --- 8/27/2025
+
+People are wondering how Trump could get away with nationalizing 10% of Intel, with plans to acquire more corporate assets for the Federal government, while hardly hearing a peep from other Republicans. Isn’t this socialism, which is anathema to...
+
+
 [Inquiries-Week 4: Triangulate the Triangle](https://www.fractalkitty.com/inquiries-week-4-triangulate-the-triangle/)
 ---
 
@@ -303,14 +327,6 @@ Crooked Timber --- 7/31/2025
 At the Sydney Gleebooks launch of Graeme Turner’s new book Broken, an audience member said: I spend more time on admin than doing my job. I raised the microphone to my mouth to say ‘that is because of moral deskilling’. But it was not my gig, so I...
 
 
-[“Reciprocal” Digital Sovereignity](https://crookedtimber.org/2025/07/30/reciprocal-digital-sovereignity/)
----
-
-Crooked Timber --- 7/30/2025
-
-Tech regulation raises some of the thorniest questions of our time — about free speech versus hate speech, copyright versus fair use, truth versus manipulation. Yet these debates are increasingly irrelevant unless states can first establish digital...
-
-
 [Double Maths First Thing: Issue 2F](https://aperiodical.com/2025/07/double-maths-first-thing-issue-2f/)
 ---
 
@@ -453,14 +469,6 @@ How do you count rooted planar n-ary trees with a given number of leaves?  Use L
 Blog - Logic Matters --- 7/23/2025
 
 At Wigmore Hall a few days ago, a predictably superb concert. Beethoven’s String Quartet No. 13 in B flat Op. 130 with a (take-no-prisoners) Grosse Fuge Op. 133, followed by the Brahms Piano Quintet in F minor Op. 34, with the plangent tones of the...
-
-
-[Double Maths First Thing: Issue 2E](https://aperiodical.com/2025/07/double-maths-first-thing-issue-2e/)
----
-
-The Aperiodical --- 7/23/2025
-
-Double Maths First Thing might just let them watch a video Hello! My name is Colin and I am a mathematician on a mission to spread the love and joy of struggling with a puzzle until it finally breaks up into beautiful bits. This week, I’ve been...
 
 
 [Trevisan Prize- Deadline July 31 for Notification Intent, Aug 31 for nomination.](https://blog.computationalcomplexity.org/feeds/6278584040963204058/comments/default)
@@ -717,14 +725,6 @@ You can write laws that are very specific, like the US tax code, or open to inte
 Fractal Kitty --- 6/3/2025
 
 IntroductionIn this activity, we'll explore patterns by finding the remainders when Fibonacci numbers are divided by other numbers.ModuloSometimes, the most interesting part of dividing numbers is what's left over—the remainder. This is where...
-
-
-[Complexity theory of hand-calculations](https://blog.computationalcomplexity.org/feeds/972473648634693690/comments/default)
----
-
-Computational Complexity --- 6/3/2025
-
-(Thanks to David Marcus who sent me the video I point to in point 4 of this post. Tip for young bloggers (if there are any) you can have a half-baked idea for a post and then someone sends you something OR you later have an idea to make it a...
 
 
 [Monad](http://abuseofnotation.github.io/monad/)
