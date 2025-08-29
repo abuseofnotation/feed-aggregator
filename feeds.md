@@ -1,4 +1,12 @@
 
+[Burrito Monads, Arrow Kitchens, and Freyd Category Recipes](https://golem.ph.utexas.edu/category/2025/08/burrito_monads_arrow_kitchens.html)
+---
+
+The n-Category Café --- 8/28/2025
+
+Adjoint School guest post by Khyathi Komalan and Andrew Krenz
+
+
 [The Logical Argument](https://blog.computationalcomplexity.org/feeds/2498048294680683670/comments/default)
 ---
 
@@ -589,14 +597,6 @@ IntroductionExplore the reflection and rotation of polygons to discover the patt
 Computational Complexity --- 7/2/2025
 
 A new dean has taken my place, and I have returned to the professoriate at Illinois Tech, ending thirteen years in administration, six as dean and seven as department chair at Georgia Tech. I won't rule out more administrative roles in the future,...
-
-
-[Quantum Ellipsoids](https://golem.ph.utexas.edu/category/2025/04/quantum_ellipsoids.html)
----
-
-The n-Category Café --- 7/1/2025
-
-Studying atomic nuclei forces us to quantize the concept of ellipsoid.
 
 
 [Srivastava on Naive Set Theory](https://www.logicmatters.net/2025/07/01/a-short-book-note-srivastava-on-naive-set-theory/)
