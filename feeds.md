@@ -1,4 +1,20 @@
 
+[The crash of 2026: a fiction](https://crookedtimber.org/2025/08/31/the-crash-of-2026-a-fiction/)
+---
+
+Crooked Timber --- 8/31/2025
+
+Looking at the facts, there’s no reasonable conclusion except that US democracy is done for. But rather than face facts, I’m turning to fiction. So, here’s a story about the collapse of Trumpism, crony capitalism and the AI/crypto bubble. Fiction...
+
+
+[Sunday photoblogging: Clevedon pier](https://crookedtimber.org/2025/08/31/sunday-photoblogging-clevedon-pier/)
+---
+
+Crooked Timber --- 8/31/2025
+
+
+
+
 [Footnotes to the week: Mellor, Sets, Mozart](https://www.logicmatters.net/2025/08/30/footnotes-to-the-week-mellor-sets-mozart/)
 ---
 
@@ -255,14 +271,6 @@ Blog - Logic Matters --- 8/9/2025
 Five days in Zürich, mostly to have quality time with The Daughter. Hence more hours have been spent in long lunches and dinners, and strolling, and stops for mother/daughter shopping, than in ticking off the tourist top ten must-sees. Which has...
 
 
-[Political Disclosure in the College Classroom](https://crookedtimber.org/2025/08/08/political-disclosure-in-the-college-classroom/)
----
-
-Crooked Timber --- 8/8/2025
-
-The latest podcast produced by the Center for Ethics and Education focuses on political disclosure in the classroom. I think a lot of CTers will find it interesting. Several students were interviewed, and they are quite insightful. For what it is...
-
-
 [AI and ...](https://blog.computationalcomplexity.org/feeds/2751786907424371263/comments/default)
 ---
 
@@ -309,14 +317,6 @@ A guest post by Eric Allender prompted by an (incorrect) P ≠ NP proof rece
 The Aperiodical --- 8/4/2025
 
 Welcome to the 241st Carnival of Mathematics, hosted here at the home of the Carnival, The Aperiodical. The Aperiodical is a shared blog written and curated by Katie Steckles (me), Christian Lawson-Perfect and Peter Rowlett, where we share...
-
-
-[Sunday photoblogging: juvenile woodpecker](https://crookedtimber.org/2025/08/03/sunday-photoblogging-juvenile-woodpecker/)
----
-
-Crooked Timber --- 8/3/2025
-
-
 
 
 [Jack Morava](https://golem.ph.utexas.edu/category/2025/08/jack_morava_1.html)
