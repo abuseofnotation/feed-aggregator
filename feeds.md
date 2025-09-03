@@ -1,4 +1,20 @@
 
+[Guest Post on Why Coding Style is Important](https://blog.computationalcomplexity.org/feeds/2463554635336524401/comments/default)
+---
+
+Computational Complexity --- 9/2/2025
+
+Coding Style Is ImportantDoes coding style matter? We teach students how to write code and about algorithms. But, do we discuss coding style? Some people may say that style is just personal preference. But, there is undoubtedly good style and bad...
+
+
+[Carnival of Maths 242](https://aperiodical.com/2025/09/carnival-of-maths-242/)
+---
+
+The Aperiodical --- 9/2/2025
+
+The next issue of the Carnival of Mathematics, rounding up blog posts from the month of August 2025, is now online at Flying Colours Maths. The Carnival rounds up maths blog posts from all over the internet, including some from our own Aperiodical....
+
+
 [The crash of 2026: a fiction](https://crookedtimber.org/2025/08/31/the-crash-of-2026-a-fiction/)
 ---
 
@@ -399,14 +415,6 @@ The n-Category Café --- 7/28/2025
 Can the Duflo isomorphism explain the extra 1/2 in the Hamiltonian for the quantum harmonic oscillator?
 
 
-[\(-e^{i\pi}\) to Watch: Another Roof](https://aperiodical.com/2025/07/eipi-to-watch-another-roof/)
----
-
-The Aperiodical --- 7/28/2025
-
-In this series of posts, we’ll be featuring mathematical video and streaming channels from all over the internet, by speaking to the creators of the channel and asking them about what they do. We spoke to Alex, whose channel Another Roof covers...
-
-
 [2-Rig Conjectures Proved?](https://golem.ph.utexas.edu/category/2025/07/2rig_conjectures_proved.html)
 ---
 
@@ -709,14 +717,6 @@ This will be a lecture series at Peking University in Beijing in June 2025. Anno
 Computational Complexity --- 6/9/2025
 
 David ZuckermanThe 2025 Gödel Prize has been awarded to Eshan Chattopadhyay and David Zuckerman for their paperExplicit two-source extractors and resilient functionswhich was in STOC 2016 and in the Annals of Math in 2019. We (Bill and Lance) care...
-
-
-[Rules vs Standards](https://blog.computationalcomplexity.org/feeds/630081856772386730/comments/default)
----
-
-Computational Complexity --- 6/4/2025
-
-You can write laws that are very specific, like the US tax code, or open to interpretation like the first amendment. In the literature these are known as rules and standards respectively. In computational complexity, we generally think of...
 
 
 [Inquiries-Week 2: Modular Fibonacci](https://www.fractalkitty.com/inquiries-week-2-modular-fibonacci/)
