@@ -1,4 +1,20 @@
 
+[Review: The Pseudorandom Ensemble at TMiP25](https://aperiodical.com/2025/09/review-the-pseudorandom-ensemble-at-tmip25/)
+---
+
+The Aperiodical --- 9/3/2025
+
+The number one component of music that really gets my attention is Brian May plays guitar, but a very close second is clever lyrics. The first morning of 2025’s Talking Maths in Public (TMiP) conference, from waking up, through carving myself a...
+
+
+[Double Maths First Thing: Issue 34](https://aperiodical.com/2025/09/double-maths-first-thing-issue-34/)
+---
+
+The Aperiodical --- 9/3/2025
+
+DMFT rocked. Hello! My name is Colin and I am a mathematician, on a renewed mission to spread the joy and delight in maths after a tremendous few days at the Talking Maths in Public conference. I listed some highlights here, and decided that rather...
+
+
 [Guest Post on Why Coding Style is Important](https://blog.computationalcomplexity.org/feeds/2463554635336524401/comments/default)
 ---
 
@@ -357,22 +373,6 @@ Here’s a round-up of mathematical news stories that happened in the last coupl
 Blog - Logic Matters --- 7/31/2025
 
 I hadn’t planned to return to Introducing Formal Logic just yet. But the last week or so I’ve found myself tinkering with the opening chapters. And, sad to relate, I’ve been enjoying the tinkering. So I might continue doing just that. The first...
-
-
-[Maths at the Edinburgh Fringe, 2025](https://aperiodical.com/2025/07/maths-at-the-edinburgh-fringe-2025/)
----
-
-The Aperiodical --- 7/31/2025
-
-Tomorrow is the start of August, and if you’re anywhere near Edinburgh you’ll be aware that the city is already overrun with musicians, comedians and street performers plying their trade as part of the month-long Fringe festival. If you were...
-
-
-[Double Maths First Thing: Issue 2F](https://aperiodical.com/2025/07/double-maths-first-thing-issue-2f/)
----
-
-The Aperiodical --- 7/30/2025
-
-Double Maths First Thing says humf! and sort the big list Hello! My name is Colin and I am a mathematician on a mission to spread the joy and delight in doing maths. Not everyone takes delight in anagrams, but being clever, I do: delightfully,...
 
 
 [Tom Lehrer Passed Away at the Age of 97](https://blog.computationalcomplexity.org/feeds/6547507657809660654/comments/default)
