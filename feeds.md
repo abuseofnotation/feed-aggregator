@@ -1,4 +1,12 @@
 
+[Occasional paper:  It gets on your nerves](https://crookedtimber.org/2025/09/05/occasional-paper-it-gets-on-your-nerves/)
+---
+
+Crooked Timber --- 9/5/2025
+
+I do these occasional posts about science papers. Some are just for fun. But sometimes — honest! — there’s an underlying connection to the greater Crooked Timber project. This post is one of that sort, because it’s about the limits of...
+
+
 [Review: The Pseudorandom Ensemble at TMiP25](https://aperiodical.com/2025/09/review-the-pseudorandom-ensemble-at-tmip25/)
 ---
 
@@ -285,14 +293,6 @@ NICK: I read and enjoyed your blog post on Tom L (see here). I then spent 40 mi
 Crooked Timber --- 8/10/2025
 
 One evening last week, having woken up earlier and, as usual, turned on the Jeremy Vine show (with guest host), I turned, again, to BBC Sounds to find… nothing. They’ve been threatening to turn it off for non-UK listeners for months, pretty much...
-
-
-[Sunday photoblogging: jackdaws](https://crookedtimber.org/2025/08/10/sunday-photoblogging-jackdaws/)
----
-
-Crooked Timber --- 8/10/2025
-
-
 
 
 [Postcard from Zürich](https://www.logicmatters.net/2025/08/09/postcard-from-zurich/)
