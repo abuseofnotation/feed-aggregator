@@ -1,4 +1,12 @@
 
+[Sunday photoblogging: Trieste (2009)](https://crookedtimber.org/2025/09/07/sunday-photoblogging-trieste-2009/)
+---
+
+Crooked Timber --- 9/7/2025
+
+
+
+
 [Footnotes to the week: Zen painting, the size of sets, Maddy](https://www.logicmatters.net/2025/09/06/footnotes-to-the-week-zen-painting-the-size-of-sets-maddy/)
 ---
 
@@ -293,14 +301,6 @@ The Economist, having surveyed the current state of European higher education, h
 Computational Complexity --- 8/10/2025
 
 NICK: I read and enjoyed your blog post on Tom L (see here). I then spent 40 minutes down a rabbithole listening to his music on YouTube.BILL: You call that a rabbit hole?! A while back I spent 3 hours reading questions and answers on quora...
-
-
-[BBC Radio Abroad](https://crookedtimber.org/2025/08/10/bbc-radio-abroad/)
----
-
-Crooked Timber --- 8/10/2025
-
-One evening last week, having woken up earlier and, as usual, turned on the Jeremy Vine show (with guest host), I turned, again, to BBC Sounds to find… nothing. They’ve been threatening to turn it off for non-UK listeners for months, pretty much...
 
 
 [Postcard from Zürich](https://www.logicmatters.net/2025/08/09/postcard-from-zurich/)
