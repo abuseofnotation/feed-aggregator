@@ -1,4 +1,12 @@
 
+[A Restless Soul](https://blog.computationalcomplexity.org/feeds/5083131184997402115/comments/default)
+---
+
+Computational Complexity --- 9/8/2025
+
+When I first became a professor I had it all planned out, I would do research, teach and supervise students, get tenure and do more research, teach more courses, and supervise more students for the rest of my life. But once I got tenure, instead of...
+
+
 [Sunday photoblogging: Trieste (2009)](https://crookedtimber.org/2025/09/07/sunday-photoblogging-trieste-2009/)
 ---
 
@@ -709,14 +717,6 @@ In the June CACM, Micah Beck writes an opinion piece Accept the Consequences wh
 Joel David Hamkins --- 6/11/2025
 
 This will be a lecture series at Peking University in Beijing in June 2025. Announcement at Peking University Course abstract. This will be a series of advanced lectures on set theory, treating diverse topics and particularly those illustrating how...
-
-
-[The New Godel Prize Winner Tastes Great and is Less Filling](https://blog.computationalcomplexity.org/feeds/4217811809607354532/comments/default)
----
-
-Computational Complexity --- 6/9/2025
-
-David ZuckermanThe 2025 Gödel Prize has been awarded to Eshan Chattopadhyay and David Zuckerman for their paperExplicit two-source extractors and resilient functionswhich was in STOC 2016 and in the Annals of Math in 2019. We (Bill and Lance) care...
 
 
 [Inquiries-Week 2: Modular Fibonacci](https://www.fractalkitty.com/inquiries-week-2-modular-fibonacci/)
