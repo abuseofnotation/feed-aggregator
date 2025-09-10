@@ -1,4 +1,20 @@
 
+[My down the back of the sofa theory of the emerging stage of capitalism. Plus, Australian magpies.](https://crookedtimber.org/2025/09/09/my-down-the-back-of-the-sofa-theory-of-the-emerging-stage-of-capitalism-plus-australian-magpies/)
+---
+
+Crooked Timber --- 9/9/2025
+
+Mr Magpie has always been a bold friend. He sits at the table with us when we are outside. In the warmer months when we often leave the back door open he walks inside the house, sometimes looking for a snack, but often enough walks all the way...
+
+
+[Five technological achievements!  (That we won’t see any time soon.)](https://crookedtimber.org/2025/09/09/five-technological-achievements-that-we-wont-see-any-time-soon/)
+---
+
+Crooked Timber --- 9/9/2025
+
+I seem to have become CT’s resident moderate techno-optimist. So let me push back a little: here are five things that we’re not going to see between now and 2050. 1) Nobody is going to Mars. Let me refine that a little: nobody is going to Mars and...
+
+
 [A Restless Soul](https://blog.computationalcomplexity.org/feeds/5083131184997402115/comments/default)
 ---
 
@@ -263,14 +279,6 @@ Computational Complexity --- 8/18/2025
 Tom Lehrer passed away on July 26, 2025, at the age of 97. I wrote a blog-obit here. One of my readers read the post and went down a rabbit hole (or did he?), which lead to a blog post about rabbit holes here. A few more notes about Tom L.1) When...
 
 
-[Sunday photoblogging: backlit sunflower](https://crookedtimber.org/2025/08/17/sunday-photoblogging-backlit-sunflower/)
----
-
-Crooked Timber --- 8/17/2025
-
-
-
-
 [Safeguarded AI Meeting](https://golem.ph.utexas.edu/category/2025/08/safeguarded_ai_meeting.html)
 ---
 
@@ -293,14 +301,6 @@ Last month the New York Times highlighted some AI generated short movies, includ
 The Aperiodical --- 8/13/2025
 
 Double Maths First Thing feels like this rubber band is getting longer. Hello! My name is Colin and I am a mathematician on a mission to spread joy and delight in maths. This week I’m mainly on childcare duty and watching the calendar until I can...
-
-
-[I guess that makes me…Horace Slughorn?](https://crookedtimber.org/2025/08/11/54341/)
----
-
-Crooked Timber --- 8/11/2025
-
-The Economist, having surveyed the current state of European higher education, has decided that the most significant problem is that the specialized graduate school where I work is insufficiently “relevant.” Two objections so far. First, please...
 
 
 [My Tom L post inspired a mathematical definition of Rabbithole](https://blog.computationalcomplexity.org/feeds/97344310728185997/comments/default)
