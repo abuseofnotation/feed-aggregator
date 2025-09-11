@@ -1,4 +1,20 @@
 
+[The Sannomiya incident—how Jörg Brendle hit the big stage in Japanese art](https://jdh.hamkins.org/the-sannomiya-incident-how-jorg-brendle-hit-the-big-stage-in-japanese-art/)
+---
+
+Joel David Hamkins --- 9/10/2025
+
+Recently I had the pleasure to give a talk at the Conference on the occasion of Jörg Brendle’s 60th birthday at Kobe University in Japan, and I was invited to make remarks at the conference banquet given in his honor. … Continue reading →
+
+
+[Double Maths First Thing: Issue 35](https://aperiodical.com/2025/09/double-maths-first-thing-issue-35/)
+---
+
+The Aperiodical --- 9/10/2025
+
+DMFT turns around, and every now and then it falls apart Hello! My name is Colin and I am a mathematician on a mission to spread joy and delight in mathematics. I’m tutoring a bit of Further Core Pure 1 this year, and it was quite instructive to do...
+
+
 [My down the back of the sofa theory of the emerging stage of capitalism. Plus, Australian magpies.](https://crookedtimber.org/2025/09/09/my-down-the-back-of-the-sofa-theory-of-the-emerging-stage-of-capitalism-plus-australian-magpies/)
 ---
 
@@ -373,14 +389,6 @@ Welcome to the 241st Carnival of Mathematics, hosted here at the home of the Car
 The n-Category Café --- 8/2/2025
 
 I hear that Jack Morava died on August 1, 2025.
-
-
-[Aperiodical News Roundup – June & July 2025](https://aperiodical.com/2025/08/aperiodical-news-roundup-june-july-2025/)
----
-
-The Aperiodical --- 8/1/2025
-
-Here’s a round-up of mathematical news stories that happened in the last couple of months, that we didn’t otherwise cover on the site. Mathematical Discoveries A newly discovered shape (ArXiV paper), described as a monostable tetrahedron, always...
 
 
 [IFL again, Gödel exercises, Purcell](https://www.logicmatters.net/2025/07/31/footnotes-godel-exercises-purcell/)
@@ -789,12 +797,4 @@ I’ve felt for a long time that automorphisms of curves should control or at le
 Fractal Kitty --- 5/20/2025
 
 This is the first of a series of guided inquiries in math.  If a document is preferred over a blog post, the pdf file is below:Inquiries-Week 1_ Circle ShadingInquiries-Week 1_ Circle Shading.pdf615...
-
-
-[Leibniz's Dream and Dijkstra's nightmare](https://www.jeremykun.com/shortform/2025-05-13-2107/)
----
-
-Math ∩ Programming --- 5/13/2025
-
-I was inspired to browse some of Edsger Dijkstra’s essays today, and came across his speech, “Under the spell of Leibniz’s Dream”. It’s the sort of personal history I love to read, which gives one person’s sense of the world over a period of...
 
