@@ -1,4 +1,12 @@
 
+[Is the Prob Method `Just Counting'- I say no and HELL NO](https://blog.computationalcomplexity.org/feeds/5578083384441572902/comments/default)
+---
+
+Computational Complexity --- 9/11/2025
+
+(After I wrote this post Lance tweeted a pointer to a great talk by Ronald de Wolf with more examples, and also examples of quantum proofs, see here.)I was teaching the prob method for lower bounds on Ramsey Numbers (see my slides here).As often...
+
+
 [The Sannomiya incident—how Jörg Brendle hit the big stage in Japanese art](https://jdh.hamkins.org/the-sannomiya-incident-how-jorg-brendle-hit-the-big-stage-in-japanese-art/)
 ---
 
@@ -709,14 +717,6 @@ A year ago if I showed you a picture of The Pope wearing a Baseball cap for the 
 Computational Complexity --- 6/18/2025
 
 As the entire Fulbright board resigned last week and as the program that promotes international visits for US researchers, and vice-versa, may not survive the Trump administration, I thought I would recount some memories from my Fulbright...
-
-
-[Defending Theory](https://blog.computationalcomplexity.org/feeds/3536975710758489759/comments/default)
----
-
-Computational Complexity --- 6/11/2025
-
-In the June CACM, Micah Beck writes an opinion piece Accept the Consequences where he is quite skeptical of the role of theory in real-world software development, concludingIt is important that we teach practical computer engineering as a field...
 
 
 [Lectures on Set Theory, Beijing, June 2025](https://jdh.hamkins.org/lectures-on-set-theory-beijing-june-2025/)
