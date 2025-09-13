@@ -1,4 +1,12 @@
 
+[Is Deep Research deep? Is it research?](https://crookedtimber.org/2025/09/12/is-deep-research-deep-is-it-research/)
+---
+
+Crooked Timber --- 9/12/2025
+
+I’m working on a first draft of a book arguing against pro-natalism (more precisely, that we shouldn’t be concerned about below-replacement fertility). That entails digging into lots of literature with which I’m not very familiar and I’ve started...
+
+
 [Is the Prob Method `Just Counting'- I say no and HELL NO](https://blog.computationalcomplexity.org/feeds/5578083384441572902/comments/default)
 ---
 
@@ -285,14 +293,6 @@ Human beings are creatures who can describe their actions at various levels. Eli
 Joel David Hamkins --- 8/18/2025
 
 This will be a talk I shall give for the History and Philosophy of Science (HPS) Colloquium at the University of Notre Dame, 17 October 2025, 12:30-1:30 pm, 201 O’Shaughnessy Hall. Did Turing ever halt? Abstract. Alan Turing’s 1936 paper … Continue...
-
-
-[If something can’t go on forever, it will stop](https://crookedtimber.org/2025/08/18/if-something-cant-go-on-forever-it-will-stop/)
----
-
-Crooked Timber --- 8/18/2025
-
-A book review from Inside Story: After The Spike by Spears and Geruso The most striking observation in Dean Spears and Michael Geruso’s new book, After the Spike, is summed up by the cover illustration, which shows a world population rising rapidly...
 
 
 [A few more notes about Tom L](https://blog.computationalcomplexity.org/feeds/5043973110978673055/comments/default)
