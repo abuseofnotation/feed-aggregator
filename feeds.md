@@ -1,4 +1,12 @@
 
+[Sunday photoblogging: Pézenas 1653](https://crookedtimber.org/2025/09/14/sunday-photoblogging-pezenas-1653/)
+---
+
+Crooked Timber --- 9/14/2025
+
+This weekend has been dedicated to the “reconstitution historique” of 1653 in Pézenas, when the États generaux of Languedoc met in what is now a small town but was then the seat of the Prince de Conti. So, a capital city back then and also a place...
+
+
 [A Shadow of Triality?](https://golem.ph.utexas.edu/category/2025/09/a_shadow_of_triality.html)
 ---
 
@@ -293,14 +301,6 @@ There’s been a lack of cheer on this site lately. The obvious response: some a
 The Aperiodical --- 8/20/2025
 
 Double Maths First Thing is looking forward to the cricket Hello! My name is Colin and I am a mathematician on a mission to spread the joy and delight of doing maths, solving puzzles, and feeling really clever about it. This week, we’re planning to...
-
-
-[AI, proofing, and the meaning of what we do](https://crookedtimber.org/2025/08/19/ai-proofing-and-the-meaning-of-what-we-do/)
----
-
-Crooked Timber --- 8/19/2025
-
-Human beings are creatures who can describe their actions at various levels. Elizabeth Anscombe has famously introduced the example of a man who moves his arm, to pump water, to poison the inhabitants of a house, to overthrow a regime, to bring...
 
 
 [Did Turing ever halt? HPS Colloquium, Notre Dame, October 2025](https://jdh.hamkins.org/did-turing-ever-halt-hps-colloquium-october-2025/)
