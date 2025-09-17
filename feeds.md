@@ -1,4 +1,28 @@
 
+[A Shadow of Triality?](https://golem.ph.utexas.edu/category/2025/09/a_shadow_of_triality.html)
+---
+
+The n-Category Café --- 9/16/2025
+
+The octonions have nontrivial inner automorphisms of order 3.   Is this related to triality?
+
+
+[On the philosophical – moral implications of a 1989 Honda Civic](https://crookedtimber.org/2025/09/16/on-the-philosophical-moral-implications-of-a-1989-honda-civic/)
+---
+
+Crooked Timber --- 9/16/2025
+
+A trolley problem, some personal stuff, a bit of Islamic jurisprudence, and then the Honda. 1) Trolley time. Let’s start with the trolley problem. People proposing trolley problems often do them in two parts. First, there’s the anodyne one...
+
+
+[Mathober 2025](https://www.fractalkitty.com/mathober-2025/)
+---
+
+Fractal Kitty --- 9/16/2025
+
+Mathober is almost here! I am looking forward to seeing everyone’s creativity and take on this year’s prompts. If you’ve never participated before, now’s the perfect time to jump in!The goal of Mathober is simple: have fun, learn, grow, and play
+
+
 [``I'm on vacation so I won't be checking email'' will sound funny soon. Maybe it already does.](https://blog.computationalcomplexity.org/feeds/8646382707341045443/comments/default)
 ---
 
@@ -31,14 +55,6 @@ Crooked Timber --- 9/14/2025
 This weekend has been dedicated to the “reconstitution historique” of 1653 in Pézenas, when the États generaux of Languedoc met in what is now a small town but was then the seat of the Prince de Conti. So, a capital city back then and also a place...
 
 
-[A Shadow of Triality?](https://golem.ph.utexas.edu/category/2025/09/a_shadow_of_triality.html)
----
-
-The n-Category Café --- 9/13/2025
-
-The octonions have nontrivial inner automorphisms of order 3.   Is this related to triality?
-
-
 [Footnotes to the week: Greek readings](https://www.logicmatters.net/2025/09/13/footnotes-to-the-week-greek-readings/)
 ---
 
@@ -69,6 +85,14 @@ I’m working on a first draft of a book arguing against pro-natalism (more prec
 Computational Complexity --- 9/11/2025
 
 (After I wrote this post Lance tweeted a pointer to a great talk by Ronald de Wolf with more examples, and also examples of quantum proofs, see here.)I was teaching the prob method for lower bounds on Ramsey Numbers (see my slides here).As often...
+
+
+[The Sannomiya incident—how Jörg Brendle hit the big stage in Japanese art](https://jdh.hamkins.org/the-sannomiya-incident-how-jorg-brendle-hit-the-big-stage-in-japanese-art/)
+---
+
+Joel David Hamkins --- 9/10/2025
+
+Recently I had the pleasure to give a talk at the Conference on the occasion of Jörg Brendle’s 60th birthday at Kobe University in Japan, and I was invited to make remarks at the conference banquet given in his honor. … Continue reading →
 
 
 [Double Maths First Thing: Issue 35](https://aperiodical.com/2025/09/double-maths-first-thing-issue-35/)
@@ -279,12 +303,12 @@ Crooked Timber --- 8/22/2025
 I managed to time things perfectly – I had a conference in Manchester after day one of the Cheltenham festival, which our friend Bob hasn’t missed since 1953, so we all went to see the first day of Gloucestershire v Hampshire (starring Wisconsin’s...
 
 
-[States of Resistance](https://crookedtimber.org/2025/08/21/states-of-resistance/)
+[The elementary theory of surreal arithmetic is bi-interpretable with set theory, Kobe, Japan, September 2025](https://jdh.hamkins.org/theory-of-surreal-arithmetic-bi-interpretable-with-set-theory-japan-september-2025/)
 ---
 
-Crooked Timber --- 8/21/2025
+Joel David Hamkins --- 8/20/2025
 
-Over at Talking Points Memo, Josh Marshall has been making the case that the states are critical sites of resistance to Trump’s lawless power grabs on the road to authoritarianism. He was challenged today by a reader who asked him what,...
+This will be a talk for the Conference on the occasion of Jörg Brendle’s 60th birthday at Kobe University in Kobe, Japan, 2-5 September 2025. Many years ago, I was a JSPS Fellow at Kobe University, at the same time … Continue reading →
 
 
 [The Phone](https://blog.computationalcomplexity.org/feeds/3715509466111296781/comments/default)
@@ -301,6 +325,14 @@ I've heard this story from a few places. A father watches Back to the Future II 
 The Aperiodical --- 8/20/2025
 
 Double Maths First Thing is looking forward to the cricket Hello! My name is Colin and I am a mathematician on a mission to spread the joy and delight of doing maths, solving puzzles, and feeling really clever about it. This week, we’re planning to...
+
+
+[Did Turing ever halt? HPS Colloquium, Notre Dame, October 2025](https://jdh.hamkins.org/did-turing-ever-halt-hps-colloquium-october-2025/)
+---
+
+Joel David Hamkins --- 8/18/2025
+
+This will be a talk I shall give for the History and Philosophy of Science (HPS) Colloquium at the University of Notre Dame, 17 October 2025, 12:30-1:30 pm, 201 O’Shaughnessy Hall. Did Turing ever halt? Abstract. Alan Turing’s 1936 paper … Continue...
 
 
 [A few more notes about Tom L](https://blog.computationalcomplexity.org/feeds/5043973110978673055/comments/default)
@@ -559,12 +591,28 @@ Computational Complexity --- 7/16/2025
 Douglas Hofstadter first published Gödel, Escher, Bach: an Eternal Golden Braid in 1979 and my then high school self tried, and failed, to read though the entire book. It focused on the contradictions, with Kurt Gödel's incompleteness theorems, M....
 
 
+[The computable surreal numbers, Fudan University, July 2025](https://jdh.hamkins.org/the-computable-surreal-numbers-fudan-university-july-2025/)
+---
+
+Joel David Hamkins --- 7/16/2025
+
+This will be a talk for the Fudan Logic Seminar at Fudan University, to be followed immediately by two talks for the Fudan Logic student seminar, forming a mini-conference for the logic group on 23 July 2025. Abstract. I shall … Continue reading →
+
+
 [Historical highlights?](https://www.logicmatters.net/2025/07/15/historical-highlights/)
 ---
 
 Blog - Logic Matters --- 7/15/2025
 
 The first mini Amazon review of the new edition of Introducing Category Theory arrives: five stars. Simultaneously, the first report of a typo (§2.9(b), “its homomorphism needs to be included” should read “its identity homomorphism needs to be...
+
+
+[Pointwise definable end-extensions of models of arithmetic and set theory, Changchun, China, July 2025](https://jdh.hamkins.org/pointwise-definable-end-extensions-of-models-of-arithmetic-and-set-theory-changchun-china-july-2025/)
+---
+
+Joel David Hamkins --- 7/14/2025
+
+This will be a talk for the Seminar on Frontier Issues in Logic and Philosophy The First Forum on Logic and Philosophy 逻辑与哲学前沿问题研究”学术研讨会暨第一届逻辑与哲学论坛 Changchun, China, 18-20 July 2025 Pointwise definable end-extensions of models of arithmetic and set...
 
 
 [Poetic serendipity](https://www.logicmatters.net/2025/07/12/poetic-serendipity/)
@@ -589,6 +637,22 @@ Haiku + Codewith a second take dance with the first – tethered massorbiting en
 Computational Complexity --- 7/9/2025
 
 I had an epiphany reading an article in the Trenton Times when I lived in New Jersey at the turn of the century. The article interviewed companies along a certain street lobbying for a new bus route so their employees could more easily get to work....
+
+
+[Lecture series on the philosophy of mathematics](https://jdh.hamkins.org/lecture-series-on-the-philosophy-of-mathematics/)
+---
+
+Joel David Hamkins --- 7/9/2025
+
+This will be a lecture series on the Philosophy of Mathematics at Fudan University in Shanghai, China, 30 June – 25 July 2025, as a part of the International Summer School program at Fudan University. Lectures given by Ruizhi Yang … Continue...
+
+
+[How the continuum hypothesis might have been a fundamental axiom, Lanzhou China, July 2025](https://jdh.hamkins.org/how-the-ch-might-have-been-fundamental-lanzhou-2025/)
+---
+
+Joel David Hamkins --- 7/9/2025
+
+This will be a talk for the International Conference on the Philosophy of Mathematics, held at Lanzhou University, China, 25-27 July 2025. How the continuum hypothesis might have been a fundamental axiom Abstract. I shall describe a...
 
 
 [The New Lower Bound on Busy Beaver of 6.](https://blog.computationalcomplexity.org/feeds/2700478520333308655/comments/default)
@@ -647,6 +711,14 @@ Computational Complexity --- 6/23/2025
 The Univ of MD at College Park holds a HS Math Competition every year. At the reception for the winners Professor Larry Washington points to many past people who did well on the exam. Two stand out for different reasons:1) Serge Brin did well on...
 
 
+[Potentialist conceptions of infinity, Peking University, June 2025](https://jdh.hamkins.org/potentialist-conceptions-of-infinity-peking-university-june-2025/)
+---
+
+Joel David Hamkins --- 6/23/2025
+
+This will be a talk for the Conference on Infinity, a collaborative meeting of logicians and specialists in Chinese philosophy here at Peking University, 24 June 2025, in the philosophy department. Abstract. I shall lay out a spectrum of...
+
+
 [TfE: On Post-Searlean Critiques of LLMs](https://deontologistics.co/2025/06/22/tfe-on-post-searlean-critiques-of-llms/)
 ---
 
@@ -661,6 +733,14 @@ Here’s a recent thread on philosophy of AI from Twitter/X, in which I address 
 Computational Complexity --- 6/18/2025
 
 As the entire Fulbright board resigned last week and as the program that promotes international visits for US researchers, and vice-versa, may not survive the Trump administration, I thought I would recount some memories from my Fulbright...
+
+
+[Lectures on Set Theory, Beijing, June 2025](https://jdh.hamkins.org/lectures-on-set-theory-beijing-june-2025/)
+---
+
+Joel David Hamkins --- 6/11/2025
+
+This will be a lecture series at Peking University in Beijing in June 2025. Announcement at Peking University Course abstract. This will be a series of advanced lectures on set theory, treating diverse topics and particularly those illustrating how...
 
 
 [Inquiries-Week 2: Modular Fibonacci](https://www.fractalkitty.com/inquiries-week-2-modular-fibonacci/)
@@ -717,84 +797,4 @@ The road I walk is new. It’s made not of stone, but dirt. There are no road si
 Abuse of Notation --- 5/27/2025
 
 Out for a walk I let go and let the city dissolve me.
-
-
-[Using Automorphism Groups of Curves to Control the Slopes of their Jacobians](https://rin.io/gausssums/)
----
-
-Good Fibrations --- 5/23/2025
-
-I’ve felt for a long time that automorphisms of curves should control or at least exert serious force on the slopes on their Jacobians. Symmetry forces height, as I’ve written about previously in Models of Formal Groups Laws of Every Height, and...
-
-
-[Inquiries-Week 1: Circle Shading](https://www.fractalkitty.com/inquiries-week-1-circle-shading/)
----
-
-Fractal Kitty --- 5/20/2025
-
-This is the first of a series of guided inquiries in math.  If a document is preferred over a blog post, the pdf file is below:Inquiries-Week 1_ Circle ShadingInquiries-Week 1_ Circle Shading.pdf615...
-
-
-[Leibniz's Dream and Dijkstra's nightmare](https://www.jeremykun.com/shortform/2025-05-13-2107/)
----
-
-Math ∩ Programming --- 5/13/2025
-
-I was inspired to browse some of Edsger Dijkstra’s essays today, and came across his speech, “Under the spell of Leibniz’s Dream”. It’s the sort of personal history I love to read, which gives one person’s sense of the world over a period of...
-
-
-[My Graduate Career in Math](https://www.jeremykun.com/2025/05/12/my-graduate-career-in-math/)
----
-
-Math ∩ Programming --- 5/12/2025
-
-Editor’s note: This essay was originally published on Medium on 2016-03-05. I have made minor edits in this republishing and added a few small retrospective notes. 2010–2011 (Year 0) I had just switched my major at Cal Poly State University from...
-
-
-[China and I](http://proses.id/china/)
----
-
-Proses.ID --- 4/18/2025
-
-lately I’ve been watching a lot of videos on YouTube about China. it’s partly due to all the chaos around Trump’s tariff, but mostly these…
-
-
-[HEIR talk at FHE.org](https://www.jeremykun.com/shortform/2025-04-15-1239/)
----
-
-Math ∩ Programming --- 4/15/2025
-
-Last month I gave a talk on the HEIR compiler project at the FHE.org conference in Sofia, Bulgaria. The video is on YouTube now, and the slides are public. I plan to write more about HEIR in the coming months, because it’s been an exciting and...
-
-
-[238th Carnival of Mathematics](https://www.fractalkitty.com/238th-carnival-of-mathematic/)
----
-
-Fractal Kitty --- 4/4/2025
-
-Wow! It's the 238th Carnival of Mathematics organized by Aperiodical. This has been a fun month with lots of submissions and lots of beautiful math art. To start let's jump into the number 238 itself.238 is: 2 × 7 × 17.the sum of the
-
-
-[A small Haskell task](http://abuseofnotation.github.io/haskell-task/)
----
-
-Abuse of Notation --- 4/3/2025
-
-Haskell is great. And I want more people to know it, so this is just a quick overview of it’s capabilities, using the code to solve a simple task I saw on Mastodon. The task is the following: Return a list of all combinations (i.e. order doesn’t...
-
-
-[Does Baby Have Hat](https://www.jeremykun.com/2025/04/01/does-baby-have-hat/)
----
-
-Math ∩ Programming --- 4/1/2025
-
-It’s April Cools! Last year I wrote about parenting, in 2023 about friendship bracelets. and in 2022 about cocktails. This year it’s a bit of a meandering stroll through some ideas around mutual aid and self-reliance. Maternity wards If you walk...
-
-
-[Time at the Recurse Center](https://www.fractalkitty.com/time-at-the-recurse-center/)
----
-
-Fractal Kitty --- 3/25/2025
-
-In January, I kicked off a journey of reflection and growth at the Recurse Center (RC) – a retreat where you work at the edge of your abilities with wonderful peers to pair program, study with, and grow.  My goals in participating were to learn and...
 
