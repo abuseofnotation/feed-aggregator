@@ -1,4 +1,20 @@
 
+[What is "PhD-Level Intelligence"?](https://blog.computationalcomplexity.org/feeds/4535460946790809118/comments/default)
+---
+
+Computational Complexity --- 9/17/2025
+
+When announcing Open-AI's latest release last month, Sam Altman said "GPT-5 is the first time that it really feels like talking to an expert in any topic, like a PhD-level expert." Before we discuss whether GPT-5 got there, what does "PhD-Level...
+
+
+[Double Maths First Thing: Issue 36](https://aperiodical.com/2025/09/double-maths-first-thing-issue-36/)
+---
+
+The Aperiodical --- 9/17/2025
+
+There is a good service on all DMFT lines Hello! My name is Colin and I am a mathematician on a mission to share the joy, love and creativity of doing exactly the right maths for you. This week, I have mainly been cursing the name of Scroggs and...
+
+
 [A Shadow of Triality?](https://golem.ph.utexas.edu/category/2025/09/a_shadow_of_triality.html)
 ---
 
@@ -423,14 +439,6 @@ Computational Complexity --- 8/5/2025
 A guest post by Eric Allender prompted by an (incorrect) P ≠ NP proof recently published in Springer Nature's Frontiers of Computer Science.For a time, I served as Editor-in-Chief of ACM Transactions on Computation Theory, and in this role I had to...
 
 
-[Carnival of Maths #241](https://aperiodical.com/2025/08/carnival-of-maths-241/)
----
-
-The Aperiodical --- 8/4/2025
-
-Welcome to the 241st Carnival of Mathematics, hosted here at the home of the Carnival, The Aperiodical. The Aperiodical is a shared blog written and curated by Katie Steckles (me), Christian Lawson-Perfect and Peter Rowlett, where we share...
-
-
 [Jack Morava](https://golem.ph.utexas.edu/category/2025/08/jack_morava_1.html)
 ---
 
@@ -725,14 +733,6 @@ This will be a talk for the Conference on Infinity, a collaborative meeting of l
 DEONTOLOGISTICS --- 6/22/2025
 
 Here’s a recent thread on philosophy of AI from Twitter/X, in which I address rather popular arguments made by Emily Bender and others to the effect that LLM outputs are strictly speaking meaningless. I think these argument are flawed, as I explain...
-
-
-[Fulbright Memories](https://blog.computationalcomplexity.org/feeds/2001200121821243988/comments/default)
----
-
-Computational Complexity --- 6/18/2025
-
-As the entire Fulbright board resigned last week and as the program that promotes international visits for US researchers, and vice-versa, may not survive the Trump administration, I thought I would recount some memories from my Fulbright...
 
 
 [Lectures on Set Theory, Beijing, June 2025](https://jdh.hamkins.org/lectures-on-set-theory-beijing-june-2025/)
