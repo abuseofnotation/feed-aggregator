@@ -1,4 +1,12 @@
 
+[Footnote to the week: Songs of passion.](https://www.logicmatters.net/2025/09/20/footnote-to-the-week-songs-of-passion/)
+---
+
+Blog - Logic Matters --- 9/20/2025
+
+Not a logical week, but a great couple of days in London. The high point, a quite outstanding evening at Wigmore Hall — the wondrous Lea Desandre and Thomas Dunford (and the Jupiter ensemble) performing Dowland and Purcell. Their new CD is...
+
+
 [What is "PhD-Level Intelligence"?](https://blog.computationalcomplexity.org/feeds/4535460946790809118/comments/default)
 ---
 
@@ -685,14 +693,6 @@ IntroductionExplore the reflection and rotation of polygons to discover the patt
 Computational Complexity --- 7/2/2025
 
 A new dean has taken my place, and I have returned to the professoriate at Illinois Tech, ending thirteen years in administration, six as dean and seven as department chair at Georgia Tech. I won't rule out more administrative roles in the future,...
-
-
-[Srivastava on Naive Set Theory](https://www.logicmatters.net/2025/07/01/a-short-book-note-srivastava-on-naive-set-theory/)
----
-
-Blog - Logic Matters --- 7/1/2025
-
-In a previous book note, and also in the Appendix to the Guide, there is a review of Shashi Mohan Srivastava’s earlier A Course on Mathematical Logic. Parts of that book, as I say, could make useful supplementary/revision reading. So I was...
 
 
 [Two high school students have a new proof of the Pythagorean Theorem  / Pythag theorem older than thought](https://blog.computationalcomplexity.org/feeds/1772880144946336704/comments/default)
