@@ -1,18 +1,18 @@
 
+[We can find more papers on the web than we used to. Are we reading them?](https://blog.computationalcomplexity.org/feeds/7921020221266926027/comments/default)
+---
+
+Computational Complexity --- 9/23/2025
+
+STUDENT: What did you do before the web to find papers?BILL: We went to the library and copied papers to read later.STUDENT: Did you read them later?BILL: Well, uh,hmm, ...BILL to a professor in his 80's: What did you do before copy...
+
+
 [The care economy, or radical economic growth?](https://crookedtimber.org/2025/09/22/the-care-economy-or-radical-economic-growth/)
 ---
 
 Crooked Timber --- 9/22/2025
 
 I’m in the midst of doing research, teaching, and outreach activities on a set of questions around economic growth and its relationship to what we value. My research team has Tim Jackson visiting tomorrow, who will give a talk on postgrowth...
-
-
-[We can find more papers on the web than we used to. Are we reading them?](https://blog.computationalcomplexity.org/feeds/7921020221266926027/comments/default)
----
-
-Computational Complexity --- 9/22/2025
-
-STUDENT: What did you do before the web to find papers?BILL: We went to the library and copied papers to read later.STUDENT: Did you read them later?BILL: Well, uh,hmm, ...BILL to a professor in his 80's: What did you do before copy...
 
 
 [Sunday photoblogging: Pézenas 1653 (some more)](https://crookedtimber.org/2025/09/21/sunday-photoblogging-pezenas-1653-some-more/)
