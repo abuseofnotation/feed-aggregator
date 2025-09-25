@@ -1,4 +1,12 @@
 
+[Double Maths First Thing: Issue 37](https://aperiodical.com/2025/09/double-maths-first-thing-issue-37/)
+---
+
+The Aperiodical --- 9/24/2025
+
+Double Maths First Thing didn’t know the letters went that big. Hello! My name is Colin and I am a mathematician on a mission to share the joy and delight I take in figuring stuff out and solving puzzles. This weekend just gone, I went to the...
+
+
 [We can find more papers on the web than we used to. Are we reading them?](https://blog.computationalcomplexity.org/feeds/7921020221266926027/comments/default)
 ---
 
@@ -429,14 +437,6 @@ AI and VacationI'm back from my German vacation. This was my first AI vacation, 
 Math3ma --- 8/7/2025
 
 Over the past couple of years, I've been learning a little about the world of quantum machine learning (QML) and the sorts of things people are thinking about there. I recently gave an high-level talk on some of these ideas in connection to a...
-
-
-[Double Maths First Thing: Issue 30](https://aperiodical.com/2025/08/double-maths-first-thing-issue-30/)
----
-
-The Aperiodical --- 8/6/2025
-
-Double Maths First Thing keeps getting bumped to the next room Hello! My name is Colin and I am a mathematician on a mission to spread delight and joy in mathematical thinking and practice. This week, the kids are at a sailing course. I’ve never...
 
 
 [(BT) Diversity from (LC) Diversity](https://golem.ph.utexas.edu/category/2025/08/bt_diversity_from_lc_diversity.html)
