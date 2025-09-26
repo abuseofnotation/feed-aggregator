@@ -1,4 +1,44 @@
 
+[Math Storytelling Day 2025](https://www.fractalkitty.com/math-storytelling-day-2025/)
+---
+
+Fractal Kitty --- 9/25/2025
+
+Today is math storytelling day, so I thought I would make a visual coloring sheet as a prompt for others. What characters live in this world? What stories are there to tell? What number system would you have? What mathemagical spells would you...
+
+
+[Self-Driving Cars](https://blog.computationalcomplexity.org/feeds/9068207505523155791/comments/default)
+---
+
+Computational Complexity --- 9/25/2025
+
+A few weeks ago I took an Uber to a regional airport and was picked up by a Tesla. The driver used FSD, so-called Full Self-Driving, never touching the steering wheel during the entire trip. Should you tip a driver who just sits there? In the end I...
+
+
+[Some thoughts on journals, refereeing, and the P vs NP problem](https://blog.computationalcomplexity.org/feeds/6022986968221528427/comments/default)
+---
+
+Computational Complexity --- 9/25/2025
+
+A guest post by Eric Allender prompted by an (incorrect) P ≠ NP proof recently published in Springer Nature's Frontiers of Computer Science.For a time, I served as Editor-in-Chief of ACM Transactions on Computation Theory, and in this role I had to...
+
+
+[What is a Good Quantum Encoding? Part 1](https://www.math3ma.com/blog/what-is-a-good-quantum-encoding-part-1)
+---
+
+Math3ma --- 9/25/2025
+
+Over the past couple of years, I've been learning a little about the world of quantum machine learning (QML) and the sorts of things people are thinking about there. I recently gave an high-level talk on some of these ideas in connection to a...
+
+
+[Good Reads: The Princeton Companion to Mathematics](https://www.math3ma.com/blog/good-reads-the-princeton-companion-to-mathematics)
+---
+
+Math3ma --- 9/25/2025
+
+Next up on Good Reads: The Princeton Companion to Mathematics, edited by Fields medalist Timothy Gowers. This book is an exceptional resource! With over 1,000 pages of mathematics explained by the experts for the layperson, it's like an...
+
+
 [Double Maths First Thing: Issue 37](https://aperiodical.com/2025/09/double-maths-first-thing-issue-37/)
 ---
 
@@ -85,14 +125,6 @@ Mathober is almost here! I am looking forward to seeing everyone’s creativity 
 Computational Complexity --- 9/15/2025
 
 "I'll be on vacation so I won't be checking email.''"I can't be at the meeting since I will be out of town''Technology has made it so that:a) You really CAN get email when you are on vacation.b) You really CAN go to a meeting if you are out of town...
-
-
-[Good Reads: The Princeton Companion to Mathematics](https://www.math3ma.com/blog/good-reads-the-princeton-companion-to-mathematics)
----
-
-Math3ma --- 9/15/2025
-
-Next up on Good Reads: The Princeton Companion to Mathematics, edited by Fields medalist Timothy Gowers. This book is an exceptional resource! With over 1,000 pages of mathematics explained by the experts for the layperson, it's like an...
 
 
 [The Peter Principle, and the unintended consequences of financial work motivation](https://crookedtimber.org/2025/09/15/the-peter-principle-and-the-unintended-consequences-of-financial-work-motivation/)
@@ -431,28 +463,12 @@ Computational Complexity --- 8/7/2025
 AI and VacationI'm back from my German vacation. This was my first AI vacation, by which I mean how I used AI to navigate a foreign country. Taking a picture of a hand-written menu board, not just to translate the dishes, but to get a description...
 
 
-[What is a Good Quantum Encoding? Part 1](https://www.math3ma.com/blog/what-is-a-good-quantum-encoding-part-1)
----
-
-Math3ma --- 8/7/2025
-
-Over the past couple of years, I've been learning a little about the world of quantum machine learning (QML) and the sorts of things people are thinking about there. I recently gave an high-level talk on some of these ideas in connection to a...
-
-
 [(BT) Diversity from (LC) Diversity](https://golem.ph.utexas.edu/category/2025/08/bt_diversity_from_lc_diversity.html)
 ---
 
 The n-Category Café --- 8/5/2025
 
 Comparing two mathematical notions of diversity.
-
-
-[Some thoughts on journals, refereeing, and the P vs NP problem](https://blog.computationalcomplexity.org/feeds/6022986968221528427/comments/default)
----
-
-Computational Complexity --- 8/5/2025
-
-A guest post by Eric Allender prompted by an (incorrect) P ≠ NP proof recently published in Springer Nature's Frontiers of Computer Science.For a time, I served as Editor-in-Chief of ACM Transactions on Computation Theory, and in this role I had to...
 
 
 [Jack Morava](https://golem.ph.utexas.edu/category/2025/08/jack_morava_1.html)
@@ -711,14 +727,6 @@ Computational Complexity --- 7/1/2025
 (I wrote this post a while back so its no longer NEW. More important--- if there has been a follow-up to the story that is not in my post, let me know.)   We have something NEW and something OLD about the Pythagorean Theorem. Now all we need is...
 
 
-[The Distribution of Prime Numbers: A Geometrical Perspective](https://blog.computationalcomplexity.org/feeds/8676523954566797308/comments/default)
----
-
-Computational Complexity --- 6/26/2025
-
-Alberto Fraile and Daniel Fernández guest post on random walks generated by the distribution of prime numbers.In our recent papers, we explored the sequence of prime numbers by defining "random walks" governed by simple algorithms applied to their...
-
-
 [Potentialist conceptions of infinity, Peking University, June 2025](https://jdh.hamkins.org/potentialist-conceptions-of-infinity-peking-university-june-2025/)
 ---
 
@@ -789,12 +797,4 @@ Every time you eat mushrooms, I have to try them too. Cause, if the mushrooms tu
 Abuse of Notation --- 5/27/2025
 
 The road I walk is new. It’s made not of stone, but dirt. There are no road signs yet. And no bridges to cover the rivers. The road I walk is new, so people think that it is hard. “How do swim?” “Don’t you get dirty?” “How do you cope with all that...
-
-
-[Walk](http://abuseofnotation.github.io/walk/)
----
-
-Abuse of Notation --- 5/27/2025
-
-Out for a walk I let go and let the city dissolve me.
 
