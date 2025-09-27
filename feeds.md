@@ -1,4 +1,12 @@
 
+[Rambouillet, part 1:  The State of Play](https://crookedtimber.org/2025/09/26/rambouillet-part-1-the-state-of-play/)
+---
+
+Crooked Timber --- 9/26/2025
+
+A while back I wrote a series of posts about the 1998-9 Kosovo conflict. If you’re interested, here they are: Prelude to War, The Serbian Ascendancy, Things Fall Apart, And So To War. This post continues that story up to the unsuccessful...
+
+
 [Math Storytelling Day 2025](https://www.fractalkitty.com/math-storytelling-day-2025/)
 ---
 
@@ -349,14 +357,6 @@ IntroductionIn this inquiry, triangles are dissected into smaller triangles with
 The Aperiodical --- 8/25/2025
 
 Books. Every self-respecting mathematician’s floor has a pile of them, some half-read, others to re-read, some merely providing structural support. In The Mathematician’s Library, Thomas K. Briggs considers an alternative approach to the...
-
-
-[Dogs bite men (and a little girl).](https://crookedtimber.org/2025/08/25/dogs-bite-men-and-a-little-girl/)
----
-
-Crooked Timber --- 8/25/2025
-
-My friend was bitten by a dog this summer. For British readers: being bitten by a dog elsewhere in the world isn’t merely painful, scary and shocking. It brings with it a real possibility of rabies. For non-British reader – really, I’m not making...
 
 
 [Was the George Foreman Grill The Best Invention of the last 50 Years?](https://blog.computationalcomplexity.org/feeds/6463255190197618046/comments/default)
