@@ -1,4 +1,12 @@
 
+[My life is like a Prison](http://abuseofnotation.github.io/prison/)
+---
+
+Abuse of Notation --- 9/27/2025
+
+“My life is like a prison” I wrote this in my personal website when I was 14. I was quite correct in pinpointing the problem, pinpointing how I, and many other people, felt, but I was off at identifying the cause — I thought, that I was kept in...
+
+
 [Rambouillet, part 1:  The State of Play](https://crookedtimber.org/2025/09/26/rambouillet-part-1-the-state-of-play/)
 ---
 
@@ -789,12 +797,4 @@ I want to forget Gaza. I want to forget the pain. I want to forget all dumb joke
 Abuse of Notation --- 5/27/2025
 
 Every time you eat mushrooms, I have to try them too. Cause, if the mushrooms turn out to be poisonous and you die of slow and painful dead, I will die as well. I once dreamed that I was dying, You were beside me, I turned to you and said, “I don’t...
-
-
-[The road I walk](http://abuseofnotation.github.io/road/)
----
-
-Abuse of Notation --- 5/27/2025
-
-The road I walk is new. It’s made not of stone, but dirt. There are no road signs yet. And no bridges to cover the rivers. The road I walk is new, so people think that it is hard. “How do swim?” “Don’t you get dirty?” “How do you cope with all that...
 
