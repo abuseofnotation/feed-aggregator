@@ -1,4 +1,20 @@
 
+[Clyde Kruskal talks about his Father Martin on Martin's 100th birthday](https://blog.computationalcomplexity.org/feeds/224845733811604907/comments/default)
+---
+
+Computational Complexity --- 9/28/2025
+
+Martin Kruskal was born Sept 28, 1925 and passed away on Dec 26, 2006, at the age of 81. Today, Sept 28, 2025, is his 100th birthday. His son Clyde Kruskal wrote today's blog post as a tribute to his father.We note that Clyde did a blog for his...
+
+
+[Sci Art September](https://www.fractalkitty.com/sci-art-september/)
+---
+
+Fractal Kitty --- 9/28/2025
+
+Kristin Henry has been providing SciArtSeptember prompts each year. I incorporated all of the prompts into a single sketch this year. 1. Fluid 2. Coral 3. Inertia 4. Diffusion 5. Skeleton 6. Growth 7. Virus 8. Permutation 9. Element 10. Algae 11....
+
+
 [My life is like a Prison](http://abuseofnotation.github.io/prison/)
 ---
 
@@ -727,14 +743,6 @@ Computational Complexity --- 7/2/2025
 A new dean has taken my place, and I have returned to the professoriate at Illinois Tech, ending thirteen years in administration, six as dean and seven as department chair at Georgia Tech. I won't rule out more administrative roles in the future,...
 
 
-[Two high school students have a new proof of the Pythagorean Theorem  / Pythag theorem older than thought](https://blog.computationalcomplexity.org/feeds/1772880144946336704/comments/default)
----
-
-Computational Complexity --- 7/1/2025
-
-(I wrote this post a while back so its no longer NEW. More important--- if there has been a follow-up to the story that is not in my post, let me know.)   We have something NEW and something OLD about the Pythagorean Theorem. Now all we need is...
-
-
 [Potentialist conceptions of infinity, Peking University, June 2025](https://jdh.hamkins.org/potentialist-conceptions-of-infinity-peking-university-june-2025/)
 ---
 
@@ -789,12 +797,4 @@ The level of progress in programming language design: Shortly after the first ev
 Abuse of Notation --- 5/27/2025
 
 I want to forget Gaza. I want to forget the pain. I want to forget all dumb jokes, old song lyrics. I want to forget that most things ever happened, as remembering makes everything tedious. Forces you to become a bureaucrat of your memories, to...
-
-
-[Love](http://abuseofnotation.github.io/mushrooms/)
----
-
-Abuse of Notation --- 5/27/2025
-
-Every time you eat mushrooms, I have to try them too. Cause, if the mushrooms turn out to be poisonous and you die of slow and painful dead, I will die as well. I once dreamed that I was dying, You were beside me, I turned to you and said, “I don’t...
 
