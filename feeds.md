@@ -2,9 +2,9 @@
 [Clyde Kruskal talks about his Father Martin on Martin's 100th birthday](https://blog.computationalcomplexity.org/feeds/224845733811604907/comments/default)
 ---
 
-Computational Complexity --- 9/28/2025
+Computational Complexity --- 9/29/2025
 
-Martin Kruskal was born Sept 28, 1925 and passed away on Dec 26, 2006, at the age of 81. Today, Sept 28, 2025, is his 100th birthday. His son Clyde Kruskal wrote today's blog post as a tribute to his father.We note that Clyde did a blog for his...
+Martin Kruskal was born Sept 28, 1925 and passed away on Dec 26, 2006, at the age of 81 (we did two posts for his memorial, here and here). Today, Sept 28, 2025, is his 100th birthday. His son Clyde Kruskal wrote today's blog post as a tribute to...
 
 
 [Sci Art September](https://www.fractalkitty.com/sci-art-september/)
