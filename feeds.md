@@ -1,10 +1,18 @@
 
+[#mathober 2025](https://aperiodical.com/2025/10/mathober-2025/)
+---
+
+The Aperiodical --- 10/2/2025
+
+We’ve gone crashing into October and that means it’s also #Mathober, an annual maths/art celebration taking place on the internet. If you’re into maths or art, or both, and would like to try producing something creative this month, on an informal...
+
+
 [Mathober 2025 Sketches](https://www.fractalkitty.com/mathober-2025-sketches/)
 ---
 
 Fractal Kitty --- 10/1/2025
 
-This is the post I'll update with this year's Mathober art. Check back and see what's been added throughout the month. 1 - Link
+This is the post I'll update with this year's Mathober art. Check back and see what's been added throughout the month. 1 - LinkP5.js sketchesLink
 
 
 [Computers Don't Want](https://blog.computationalcomplexity.org/feeds/634164649673020320/comments/default)
@@ -437,14 +445,6 @@ This will be a talk for the Conference on the occasion of Jörg Brendle’s 60th
 Computational Complexity --- 8/20/2025
 
 I've heard this story from a few places. A father watches Back to the Future II with his kid. The 1989 movie view of 2015 looks entirely different when in fact not much has changed except for the fashion and the lack of mobile phones. This is...
-
-
-[Double Maths First Thing: Issue 32](https://aperiodical.com/2025/08/double-maths-first-thing-issue-32/)
----
-
-The Aperiodical --- 8/20/2025
-
-Double Maths First Thing is looking forward to the cricket Hello! My name is Colin and I am a mathematician on a mission to spread the joy and delight of doing maths, solving puzzles, and feeling really clever about it. This week, we’re planning to...
 
 
 [Did Turing ever halt? HPS Colloquium, Notre Dame, October 2025](https://jdh.hamkins.org/did-turing-ever-halt-hps-colloquium-october-2025/)
