@@ -1,4 +1,20 @@
 
+[Footnotes to a couple of weeks: Category mistakes, Dutch courtyards, Martinů](https://www.logicmatters.net/2025/10/04/footnotes-to-a-couple-of-weeks-category-mistakes-dutch-courtyards-martinu/)
+---
+
+Blog - Logic Matters --- 10/4/2025
+
+Most of the writing I have actually done this last week or so has been in tinkering with the category theory notes. For, sad to relate, I still find myself occasionally working through them. Until yesterday, however, it has just been a matter of...
+
+
+[Carnival of Maths 244](https://aperiodical.com/2025/10/carnival-of-maths-244/)
+---
+
+The Aperiodical --- 10/4/2025
+
+The next issue of the Carnival of Mathematics, rounding up blog posts from the month of September 2025, is now online at IoannaGeorgiou.com. The Carnival rounds up maths blog posts from all over the internet, including some from our...
+
+
 [Aperiodical News Roundup – August/September 2025](https://aperiodical.com/2025/10/aperiodical-news-roundup-august-september-2025/)
 ---
 
@@ -36,7 +52,7 @@ We’ve gone crashing into October and that means it’s also #Mathober, an annu
 
 Fractal Kitty --- 10/1/2025
 
-This is the post I'll update with this year's Mathober art. Check back and see what's been added throughout the month. 1 - Link2 - DeviationP5.js sketchesLink, DeviationMathober Sketches
+This is the post I'll update with this year's Mathober art. Check back and see what's been added throughout the month. 1 - Link2 - Deviation3 - PolyhedronP5.js sketchesLink, Deviation, PolyhedronMathober Sketches 1-3
 
 
 [Computers Don't Want](https://blog.computationalcomplexity.org/feeds/634164649673020320/comments/default)
@@ -357,14 +373,6 @@ DMFT rocked. Hello! My name is Colin and I am a mathematician, on a renewed miss
 Computational Complexity --- 9/2/2025
 
 Coding Style Is ImportantDoes coding style matter? We teach students how to write code and about algorithms. But, do we discuss coding style? Some people may say that style is just personal preference. But, there is undoubtedly good style and bad...
-
-
-[Carnival of Maths 242](https://aperiodical.com/2025/09/carnival-of-maths-242/)
----
-
-The Aperiodical --- 9/2/2025
-
-The next issue of the Carnival of Mathematics, rounding up blog posts from the month of August 2025, is now online at Flying Colours Maths. The Carnival rounds up maths blog posts from all over the internet, including some from our own Aperiodical....
 
 
 [The crash of 2026: a fiction](https://crookedtimber.org/2025/08/31/the-crash-of-2026-a-fiction/)
@@ -693,14 +701,6 @@ The first mini Amazon review of the new edition of Introducing Category Theory a
 Joel David Hamkins --- 7/14/2025
 
 This will be a talk for the Seminar on Frontier Issues in Logic and Philosophy The First Forum on Logic and Philosophy 逻辑与哲学前沿问题研究”学术研讨会暨第一届逻辑与哲学论坛 Changchun, China, 18-20 July 2025 Pointwise definable end-extensions of models of arithmetic and set...
-
-
-[Poetic serendipity](https://www.logicmatters.net/2025/07/12/poetic-serendipity/)
----
-
-Blog - Logic Matters --- 7/12/2025
-
-I have written before about the pleasure of serendipitous finds in charity second-hand bookshops. It isn’t the matter of saving a few pounds (or of giving the money to a charity rather than a chain bookstore); that’s nice, to be sure, but it...
 
 
 [Take Two](https://www.fractalkitty.com/take-two-2/)
