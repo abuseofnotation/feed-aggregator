@@ -1,4 +1,20 @@
 
+[If you use AI in your work do you brag about it or hide it?](https://blog.computationalcomplexity.org/feeds/1237477313397401620/comments/default)
+---
+
+Computational Complexity --- 10/5/2025
+
+You used AI in your work. Do you hide it or brag about it? 1) In 2002 there was a movie Simone about an actress who is really an AI. The Wikipedia entry tells the entire plot. I saved time by reading it in two minutes rather than watching it in 2...
+
+
+[Sunday photoblogging: Marseillan](https://crookedtimber.org/2025/10/05/sunday-photoblogging-marseillan-4/)
+---
+
+Crooked Timber --- 10/5/2025
+
+
+
+
 [Footnotes to a couple of weeks: Category mistakes, Dutch courtyards, Martinů](https://www.logicmatters.net/2025/10/04/footnotes-to-a-couple-of-weeks-category-mistakes-dutch-courtyards-martinu/)
 ---
 
@@ -52,7 +68,7 @@ We’ve gone crashing into October and that means it’s also #Mathober, an annu
 
 Fractal Kitty --- 10/1/2025
 
-This is the post I'll update with this year's Mathober art. Check back and see what's been added throughout the month. 1 - Link2 - Deviation3 - PolyhedronP5.js sketchesLink, Deviation, PolyhedronMathober Sketches 1-3
+This is the post I'll update with this year's Mathober art. Check back and see what's been added throughout the month. 1 - Link2 - Deviation3 - PolyhedronStronglyP5.js sketchesLink, Deviation, PolyhedronMathober Sketches 1-3Strongly
 
 
 [Computers Don't Want](https://blog.computationalcomplexity.org/feeds/634164649673020320/comments/default)
@@ -381,14 +397,6 @@ Coding Style Is ImportantDoes coding style matter? We teach students how to writ
 Crooked Timber --- 8/31/2025
 
 Looking at the facts, there’s no reasonable conclusion except that US democracy is done for. But rather than face facts, I’m turning to fiction. So, here’s a story about the collapse of Trumpism, crony capitalism and the AI/crypto bubble. Fiction...
-
-
-[Sunday photoblogging: Clevedon pier](https://crookedtimber.org/2025/08/31/sunday-photoblogging-clevedon-pier/)
----
-
-Crooked Timber --- 8/31/2025
-
-
 
 
 [Footnotes to the week: Mellor, Sets, Mozart](https://www.logicmatters.net/2025/08/30/footnotes-to-the-week-mellor-sets-mozart/)
@@ -733,14 +741,6 @@ This will be a lecture series on the Philosophy of Mathematics at Fudan Universi
 Joel David Hamkins --- 7/9/2025
 
 This will be a talk for the International Conference on the Philosophy of Mathematics, held at Lanzhou University, China, 25-27 July 2025. How the continuum hypothesis might have been a fundamental axiom Abstract. I shall describe a...
-
-
-[The New Lower Bound on Busy Beaver of 6.](https://blog.computationalcomplexity.org/feeds/2700478520333308655/comments/default)
----
-
-Computational Complexity --- 7/6/2025
-
-We denote the busy beaver function by BB.BB(n) is the max time a Turing machine of size n takes to halt on the empty string.(A particular model of TM and a notion of size has become standardized.)BB(n) grows faster than any computable function....
 
 
 [Inquiries-Week 3: Reflect and Rotate](https://www.fractalkitty.com/inquiries-week-3-r-and-rotate/)
