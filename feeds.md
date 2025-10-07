@@ -1,4 +1,20 @@
 
+[A Complex Qutrit Inside an Octonionic One](https://golem.ph.utexas.edu/category/2025/10/a_complex_qutrit_inside_an_oct.html)
+---
+
+The n-Category Café --- 10/6/2025
+
+I'm trying to better characterize two maximal subgroups of the group of automorphisms of the exceptional Jordan algebra, whose intersection is the Standard Model gauge group.
+
+
+[A very short, very blunt, book note](https://www.logicmatters.net/2025/10/06/a-very-short-very-blunt-book-note/)
+---
+
+Blog - Logic Matters --- 10/6/2025
+
+An accessible, very readable, well-motivated, zestful book on ordinal analysis and proof theory would be a very good thing to have. Arai’s Ordinal Analysis with an Introduction to Proof Theory isn’t it. By a country mile. (I was asked for a...
+
+
 [If you use AI in your work do you brag about it or hide it?](https://blog.computationalcomplexity.org/feeds/1237477313397401620/comments/default)
 ---
 
@@ -68,7 +84,7 @@ We’ve gone crashing into October and that means it’s also #Mathober, an annu
 
 Fractal Kitty --- 10/1/2025
 
-This is the post I'll update with this year's Mathober art. Check back and see what's been added throughout the month. 1 - Link2 - Deviation3 - PolyhedronStronglyP5.js sketchesLink, Deviation, PolyhedronMathober Sketches 1-3Strongly
+This is the post I'll update with this year's Mathober art. Check back and see what's been added throughout the month. 1 - Link2 - Deviation3 - PolyhedronStronglydigraph sinkP5.js sketchesLink, Deviation, PolyhedronMathober Sketches 1-3Strongly,...
 
 
 [Computers Don't Want](https://blog.computationalcomplexity.org/feeds/634164649673020320/comments/default)
@@ -607,14 +623,6 @@ The n-Category Café --- 7/25/2025
 Announcing the Clowder Project: a wiki and reference work for category theory built using the same general infrastructure and tag system of the Stacks Project.
 
 
-[Tannaka Reconstruction and the Monoid of Matrices](https://golem.ph.utexas.edu/category/2025/06/tannaka_reconstruction_and_the.html)
----
-
-The n-Category Café --- 7/25/2025
-
-Todd Trimble and I wrote a paper on characterizing classical groups (and monoids) in terms of their 2-rigs of representations.
-
-
 [Lawvere's Work on Arms Control](https://golem.ph.utexas.edu/category/2025/07/lawveres_work_on_arms_control.html)
 ---
 
@@ -693,14 +701,6 @@ Douglas Hofstadter first published Gödel, Escher, Bach: an Eternal Golden Brai
 Joel David Hamkins --- 7/16/2025
 
 This will be a talk for the Fudan Logic Seminar at Fudan University, to be followed immediately by two talks for the Fudan Logic student seminar, forming a mini-conference for the logic group on 23 July 2025. Abstract. I shall … Continue reading →
-
-
-[Historical highlights?](https://www.logicmatters.net/2025/07/15/historical-highlights/)
----
-
-Blog - Logic Matters --- 7/15/2025
-
-The first mini Amazon review of the new edition of Introducing Category Theory arrives: five stars. Simultaneously, the first report of a typo (§2.9(b), “its homomorphism needs to be included” should read “its identity homomorphism needs to be...
 
 
 [Pointwise definable end-extensions of models of arithmetic and set theory, Changchun, China, July 2025](https://jdh.hamkins.org/pointwise-definable-end-extensions-of-models-of-arithmetic-and-set-theory-changchun-china-july-2025/)
