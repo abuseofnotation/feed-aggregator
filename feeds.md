@@ -1,4 +1,12 @@
 
+[Delighted to be proved wrong](https://crookedtimber.org/2025/10/09/delighted-to-be-proved-wrong/)
+---
+
+Crooked Timber --- 10/9/2025
+
+A European justice minister who does have principles! The EU “chat control” proposal I wrote about the other day has been scuppered by Germany’s justice ministry saying forcefully that it will never support this particular form of mass...
+
+
 [Big Bots Don't Cry](https://blog.computationalcomplexity.org/feeds/4977782246945115848/comments/default)
 ---
 
@@ -247,12 +255,12 @@ Crooked Timber --- 9/21/2025
 
 
 
-[Footnote to the week: Songs of passion.](https://www.logicmatters.net/2025/09/20/footnote-to-the-week-songs-of-passion/)
+[Songs of passion.](https://www.logicmatters.net/2025/09/20/footnote-to-the-week-songs-of-passion/)
 ---
 
 Blog - Logic Matters --- 9/20/2025
 
-Not a logical week, but a great couple of days in London. The high point, a quite outstanding evening at Wigmore Hall — the wondrous Lea Desandre and Thomas Dunford (and the Jupiter ensemble) performing Dowland and Purcell. Their new CD is...
+A great couple of days in London. The high point, a quite outstanding evening at Wigmore Hall — the wondrous Lea Desandre and Thomas Dunford (and the Jupiter ensemble) performing Dowland and Purcell. Their new CD is terrific, and the live version...
 
 
 [What is "PhD-Level Intelligence"?](https://blog.computationalcomplexity.org/feeds/4535460946790809118/comments/default)
@@ -319,7 +327,7 @@ Crooked Timber --- 9/14/2025
 This weekend has been dedicated to the “reconstitution historique” of 1653 in Pézenas, when the États generaux of Languedoc met in what is now a small town but was then the seat of the Prince de Conti. So, a capital city back then and also a place...
 
 
-[Footnotes to the week: Greek readings](https://www.logicmatters.net/2025/09/13/footnotes-to-the-week-greek-readings/)
+[Greek readings](https://www.logicmatters.net/2025/09/13/footnotes-to-the-week-greek-readings/)
 ---
 
 Blog - Logic Matters --- 9/13/2025
@@ -405,14 +413,6 @@ Crooked Timber --- 9/7/2025
 Blog - Logic Matters --- 9/6/2025
 
 Just before we went off to Zürich, we had our house painted outside (the doors, the windows, and so forth). It took fourteen days, not because we have a mansion but because a lot of preparatory work was needed, cutting out minor rot, repairing,...
-
-
-[Occasional paper:  It gets on your nerves](https://crookedtimber.org/2025/09/05/occasional-paper-it-gets-on-your-nerves/)
----
-
-Crooked Timber --- 9/5/2025
-
-I do these occasional posts about science papers. Some are just for fun. But sometimes — honest! — there’s an underlying connection to the greater Crooked Timber project. This post is one of that sort, because it’s about the limits of...
 
 
 [Guest Post on Why Coding Style is Important](https://blog.computationalcomplexity.org/feeds/2463554635336524401/comments/default)
