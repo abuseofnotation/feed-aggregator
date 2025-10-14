@@ -1,4 +1,12 @@
 
+[The Most Common Name in the World is Not Charles Lin. But It Seems That Way To Me.](https://blog.computationalcomplexity.org/feeds/4527299882170588164/comments/default)
+---
+
+Computational Complexity --- 10/13/2025
+
+In 2001 I supervised Charles Lin's Master's Thesis, which was on Private Information Retrieval.In 2025 I supervised Charles Lin's Master's Thesis, which was on Ramsey Theory.These are different people. To celebrate the second one's thesis, I took...
+
+
 [Delighted to be proved wrong](https://crookedtimber.org/2025/10/09/delighted-to-be-proved-wrong/)
 ---
 
@@ -573,14 +581,6 @@ I hadn’t planned to return to Introducing Formal Logic just yet. But the last 
 Computational Complexity --- 7/29/2025
 
 Tom Lehrer passed away on Saturday July 26 at the age of 97. (For other obits see this collection of ten obits here.)He worked in both of my fields of interest: Parody Songs and Mathematics. 1) He got a BA in Mathematics from Harvard, magna cum...
-
-
-[How much money did Francis Scott Key give to have a building named after him?](https://blog.computationalcomplexity.org/feeds/4650311492445732007/comments/default)
----
-
-Computational Complexity --- 7/29/2025
-
-UMCP has a building named The Francis Scott Key BuildingSTUDENT: How much money did Francis Scott Key give to have a building named after him?BILL: He didn't give money. He wrote The Star Spangled Banner.STUDENT: I get it! He left the royalties!...
 
 
 [A Prez Question: Can AI do it? Can you? Can I?](https://blog.computationalcomplexity.org/feeds/6634965740615277406/comments/default)
