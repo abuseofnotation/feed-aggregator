@@ -1,4 +1,12 @@
 
+[Books to Recommend to Maths Students](https://aperiodical.com/2025/10/books-to-recommend-to-maths-students/)
+---
+
+The Aperiodical --- 10/14/2025
+
+I was asked recently by a first-year maths undergrad student if I could recommend any books on problem-solving, as they were hoping to develop their problem-solving skills. Asking around some maths communication colleagues has resulted in an...
+
+
 [The Most Common Name in the World is Not Charles Lin. But It Seems That Way To Me.](https://blog.computationalcomplexity.org/feeds/4527299882170588164/comments/default)
 ---
 
@@ -373,14 +381,6 @@ Computational Complexity --- 9/11/2025
 Joel David Hamkins --- 9/10/2025
 
 Recently I had the pleasure to give a talk at the Conference on the occasion of Jörg Brendle’s 60th birthday at Kobe University in Japan, and I was invited to make remarks at the conference banquet given in his honor. … Continue reading →
-
-
-[Double Maths First Thing: Issue 35](https://aperiodical.com/2025/09/double-maths-first-thing-issue-35/)
----
-
-The Aperiodical --- 9/10/2025
-
-DMFT turns around, and every now and then it falls apart Hello! My name is Colin and I am a mathematician on a mission to spread joy and delight in mathematics. I’m tutoring a bit of Further Core Pure 1 this year, and it was quite instructive to do...
 
 
 [My down the back of the sofa theory of the emerging stage of capitalism. Plus, Australian magpies.](https://crookedtimber.org/2025/09/09/my-down-the-back-of-the-sofa-theory-of-the-emerging-stage-of-capitalism-plus-australian-magpies/)
