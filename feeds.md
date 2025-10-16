@@ -1,4 +1,20 @@
 
+[Fall Jobs Post 2025](https://blog.computationalcomplexity.org/feeds/7268290965433194070/comments/default)
+---
+
+Computational Complexity --- 10/15/2025
+
+Each fall I try to predict the theory computer science faculty job market to come and give suggestions to those going after them. Get set for a rocky ride, with AI’s disruption of computer science, fiscal stress at universities, and new U.S....
+
+
+[Double Maths First Thing: Issue 3A](https://aperiodical.com/2025/10/double-maths-first-thing-issue-3a/)
+---
+
+The Aperiodical --- 10/15/2025
+
+Double Maths First Thing almost forgot to put this line in! Hello! My name is Colin and I am a mathematician on a mission to spread the joy and delight of doing mathematical things. This week I am mainly getting to grips with reluctantly becoming...
+
+
 [Books to Recommend to Maths Students](https://aperiodical.com/2025/10/books-to-recommend-to-maths-students/)
 ---
 
@@ -285,14 +301,6 @@ A great couple of days in London. The high point, a quite outstanding evening at
 Computational Complexity --- 9/17/2025
 
 When announcing Open-AI's latest release last month, Sam Altman said "GPT-5 is the first time that it really feels like talking to an expert in any topic, like a PhD-level expert." Before we discuss whether GPT-5 got there, what does "PhD-Level...
-
-
-[Double Maths First Thing: Issue 36](https://aperiodical.com/2025/09/double-maths-first-thing-issue-36/)
----
-
-The Aperiodical --- 9/17/2025
-
-There is a good service on all DMFT lines Hello! My name is Colin and I am a mathematician on a mission to share the joy, love and creativity of doing exactly the right maths for you. This week, I have mainly been cursing the name of Scroggs and...
 
 
 [A Shadow of Triality?](https://golem.ph.utexas.edu/category/2025/09/a_shadow_of_triality.html)
@@ -693,14 +701,6 @@ A new prize:The Trevisan Prize, in honor of Luca Trevisan, who died in 2024 (blo
 Math ∩ Programming --- 7/18/2025
 
 I work on homomorphic encryption (HE or FHE for “fully” homomorphic encryption) and I have written a lot about it on this blog (see the relevant tag). This article is a collection of short answers to questions I see on various threads and news...
-
-
-[Turing, Wagner, Ruth](https://blog.computationalcomplexity.org/feeds/5068500486796583428/comments/default)
----
-
-Computational Complexity --- 7/16/2025
-
-Douglas Hofstadter first published Gödel, Escher, Bach: an Eternal Golden Braid in 1979 and my then high school self tried, and failed, to read though the entire book. It focused on the contradictions, with Kurt Gödel's incompleteness theorems, M....
 
 
 [The computable surreal numbers, Fudan University, July 2025](https://jdh.hamkins.org/the-computable-surreal-numbers-fudan-university-july-2025/)
