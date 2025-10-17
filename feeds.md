@@ -1,4 +1,20 @@
 
+[Two Ph.D. studentships](https://www.logicmatters.net/2025/10/16/two-ph-d-studentships/)
+---
+
+Blog - Logic Matters --- 10/16/2025
+
+Briefly, Thomas Forster tells me that he has acquired funding for two studentships in Wellington NZ (a delightful place!) for students who want to do a Ph.D. in set theory, in particular working with him on NF or perhaps some adjacent topic. He has...
+
+
+[Does “forward” still make sense? A hypothesis on protest](https://crookedtimber.org/2025/10/16/does-forward-still-make-sense-a-hypothesis-on-protest/)
+---
+
+Crooked Timber --- 10/16/2025
+
+One of the big puzzles in the last months, for those observing the politics in the US and elsewhere, is this: why is there apparently so little protest against the attacks on democracy and the rule of law, and why does it happen in some but not...
+
+
 [Fall Jobs Post 2025](https://blog.computationalcomplexity.org/feeds/7268290965433194070/comments/default)
 ---
 
@@ -415,14 +431,6 @@ Computational Complexity --- 9/8/2025
 When I first became a professor I had it all planned out, I would do research, teach and supervise students, get tenure and do more research, teach more courses, and supervise more students for the rest of my life. But once I got tenure, instead of...
 
 
-[Sunday photoblogging: Trieste (2009)](https://crookedtimber.org/2025/09/07/sunday-photoblogging-trieste-2009/)
----
-
-Crooked Timber --- 9/7/2025
-
-
-
-
 [Footnotes to the week: Zen painting, the size of sets, Maddy](https://www.logicmatters.net/2025/09/06/footnotes-to-the-week-zen-painting-the-size-of-sets-maddy/)
 ---
 
@@ -677,14 +685,6 @@ First lecture in a 4.5-hour minicourse on combinatorics with species.
 The n-Category Café --- 7/24/2025
 
 How do you count rooted planar n-ary trees with a given number of leaves?  Use Lagrange inversion!
-
-
-[Chiaroscuro Quartet and Cédric Tiberghien play Beethoven and Brahms](https://www.logicmatters.net/2025/07/23/chiaroscuro-quartet-and-cedric-tiberghien-play-beethoven-and-brahms/)
----
-
-Blog - Logic Matters --- 7/23/2025
-
-At Wigmore Hall a few days ago, a predictably superb concert. Beethoven’s String Quartet No. 13 in B flat Op. 130 with a (take-no-prisoners) Grosse Fuge Op. 133, followed by the Brahms Piano Quintet in F minor Op. 34, with the plangent tones of the...
 
 
 [Trevisan Prize- Deadline July 31 for Notification Intent, Aug 31 for nomination.](https://blog.computationalcomplexity.org/feeds/6278584040963204058/comments/default)
