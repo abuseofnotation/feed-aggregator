@@ -1,4 +1,20 @@
 
+[Death and Capitalism (Part 1 of 4)](https://crookedtimber.org/2025/10/19/death-and-capitalism-part-1-of-4/)
+---
+
+Crooked Timber --- 10/19/2025
+
+Within ten minutes I regretted my decision to walk to Creedon Street in the outback town of Broken Hill. At first, I thought it was the shoes. Stupid things I’d bought on the internet, they were little more than plastic-coated cardboard soles...
+
+
+[The Most Common Name in the World is Not Charles Lin. But It Seems That Way To Me.](https://blog.computationalcomplexity.org/feeds/4527299882170588164/comments/default)
+---
+
+Computational Complexity --- 10/18/2025
+
+In 2001 I supervised Charles Lin's Master's Thesis, which was on Private Information Retrieval.In 2025 I supervised Charles Lin's Master's Thesis, which was on Ramsey Theory.These are different people. To celebrate the second one's thesis, I took...
+
+
 [Two Ph.D. studentships](https://www.logicmatters.net/2025/10/16/two-ph-d-studentships/)
 ---
 
@@ -37,14 +53,6 @@ Double Maths First Thing almost forgot to put this line in! Hello! My name is Co
 The Aperiodical --- 10/14/2025
 
 I was asked recently by a first-year maths undergrad student if I could recommend any books on problem-solving, as they were hoping to develop their problem-solving skills. Asking around some maths communication colleagues has resulted in an...
-
-
-[The Most Common Name in the World is Not Charles Lin. But It Seems That Way To Me.](https://blog.computationalcomplexity.org/feeds/4527299882170588164/comments/default)
----
-
-Computational Complexity --- 10/13/2025
-
-In 2001 I supervised Charles Lin's Master's Thesis, which was on Private Information Retrieval.In 2025 I supervised Charles Lin's Master's Thesis, which was on Ramsey Theory.These are different people. To celebrate the second one's thesis, I took...
 
 
 [Delighted to be proved wrong](https://crookedtimber.org/2025/10/09/delighted-to-be-proved-wrong/)
@@ -413,14 +421,6 @@ Recently I had the pleasure to give a talk at the Conference on the occasion of 
 Crooked Timber --- 9/9/2025
 
 Mr Magpie has always been a bold friend. He sits at the table with us when we are outside. In the warmer months when we often leave the back door open he walks inside the house, sometimes looking for a snack, but often enough walks all the way...
-
-
-[Five technological achievements!  (That we won’t see any time soon.)](https://crookedtimber.org/2025/09/09/five-technological-achievements-that-we-wont-see-any-time-soon/)
----
-
-Crooked Timber --- 9/9/2025
-
-I seem to have become CT’s resident moderate techno-optimist. So let me push back a little: here are five things that we’re not going to see between now and 2050. 1) Nobody is going to Mars. Let me refine that a little: nobody is going to Mars and...
 
 
 [A Restless Soul](https://blog.computationalcomplexity.org/feeds/5083131184997402115/comments/default)
