@@ -1,4 +1,20 @@
 
+[Integer Set Library (ISL) - A Primer](https://www.jeremykun.com/2025/10/19/isl-a-primer/)
+---
+
+Math ∩ Programming --- 10/19/2025
+
+Polyhedral optimization is a tool used in compilers for optimizing loop nests. While the major compilers that use this implement polyhedral optimizations from scratch,1 there is a generally-applicable open source C library called the Integer Set...
+
+
+[Sunday photoblogging: Pézenas](https://crookedtimber.org/2025/10/19/sunday-photoblogging-pezenas-6/)
+---
+
+Crooked Timber --- 10/19/2025
+
+
+
+
 [Death and Capitalism (Part 1 of 4)](https://crookedtimber.org/2025/10/19/death-and-capitalism-part-1-of-4/)
 ---
 
@@ -415,14 +431,6 @@ Joel David Hamkins --- 9/10/2025
 Recently I had the pleasure to give a talk at the Conference on the occasion of Jörg Brendle’s 60th birthday at Kobe University in Japan, and I was invited to make remarks at the conference banquet given in his honor. … Continue reading →
 
 
-[My down the back of the sofa theory of the emerging stage of capitalism. Plus, Australian magpies.](https://crookedtimber.org/2025/09/09/my-down-the-back-of-the-sofa-theory-of-the-emerging-stage-of-capitalism-plus-australian-magpies/)
----
-
-Crooked Timber --- 9/9/2025
-
-Mr Magpie has always been a bold friend. He sits at the table with us when we are outside. In the warmer months when we often leave the back door open he walks inside the house, sometimes looking for a snack, but often enough walks all the way...
-
-
 [A Restless Soul](https://blog.computationalcomplexity.org/feeds/5083131184997402115/comments/default)
 ---
 
@@ -789,12 +797,4 @@ IntroductionIn this activity, we'll explore patterns by finding the remainders w
 Abuse of Notation --- 5/27/2025
 
 title: A monad layout: microblog category: microblog tags: programming haskell — A monad is when you know how to convert $M (M a)$ to $M a$, but not $M a$ to $a$.
-
-
-[The level of progress in programming language design](http://abuseofnotation.github.io/pl-design/)
----
-
-Abuse of Notation --- 5/27/2025
-
-The level of progress in programming language design: Shortly after the first ever programming language was created, it’s author said that the language’s whole paradigm is flawed and we should do functional programming instead*. That was 46 years...
 
