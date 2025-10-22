@@ -1,4 +1,20 @@
 
+[Sept 16, 2025 was Pythagorean Day](https://blog.computationalcomplexity.org/feeds/905023585123347331/comments/default)
+---
+
+Computational Complexity --- 10/21/2025
+
+Several people emailed me that September 16, 2025---written as 9-16-25 in the US---represents the integer side lengths of a right triangle.9-16-25 is the only such triple that is also a valid date. This kind of mathematical alignment only happens...
+
+
+[Let’s go to the beach and make an aperiodic tiling!](https://aperiodical.com/2025/10/lets-go-to-the-beach-and-make-an-aperiodic-tiling/)
+---
+
+The Aperiodical --- 10/20/2025
+
+Somehow, I’ve been awarded the MEGA grant, from Matt Parker and Talking Maths in Public, for a ridiculous public maths project. I’d better get on that, then! My plan is to go to the beach and use great big cookie cutters in the shape of the spectre...
+
+
 [Integer Set Library (ISL) - A Primer](https://www.jeremykun.com/2025/10/19/isl-a-primer/)
 ---
 
@@ -293,14 +309,6 @@ Over the past couple of years, I've been learning a little about the world of qu
 Math3ma --- 9/25/2025
 
 Next up on Good Reads: The Princeton Companion to Mathematics, edited by Fields medalist Timothy Gowers. This book is an exceptional resource! With over 1,000 pages of mathematics explained by the experts for the layperson, it's like an...
-
-
-[Double Maths First Thing: Issue 37](https://aperiodical.com/2025/09/double-maths-first-thing-issue-37/)
----
-
-The Aperiodical --- 9/24/2025
-
-Double Maths First Thing didn’t know the letters went that big. Hello! My name is Colin and I am a mathematician on a mission to share the joy and delight I take in figuring stuff out and solving puzzles. This weekend just gone, I went to the...
 
 
 [We can find more papers on the web than we used to. Are we reading them?](https://blog.computationalcomplexity.org/feeds/7921020221266926027/comments/default)
@@ -605,14 +613,6 @@ I hadn’t planned to return to Introducing Formal Logic just yet. But the last 
 Computational Complexity --- 7/29/2025
 
 Tom Lehrer passed away on Saturday July 26 at the age of 97. (For other obits see this collection of ten obits here.)He worked in both of my fields of interest: Parody Songs and Mathematics. 1) He got a BA in Mathematics from Harvard, magna cum...
-
-
-[A Prez Question: Can AI do it? Can you? Can I?](https://blog.computationalcomplexity.org/feeds/6634965740615277406/comments/default)
----
-
-Computational Complexity --- 7/28/2025
-
-I am curious how AI or humans can do on the following question.I have listed out the nominees for Prez and VP (Vice Prez) since 1976 and put them in two categories.What criteria did I use?The criteria is about their lives. So it's not going to be...
 
 
 [Answer to my GROUP ONE/GROUP TWO Prez question](https://blog.computationalcomplexity.org/feeds/4182221637455156553/comments/default)
