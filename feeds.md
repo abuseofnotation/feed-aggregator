@@ -1,4 +1,12 @@
 
+[Double Maths First Thing: Issue 3B](https://aperiodical.com/2025/10/double-maths-first-thing-issue-3b/)
+---
+
+The Aperiodical --- 10/22/2025
+
+Double Maths First Thing is beautiful, it’s simple and it’s wrong Hello! My name is Colin and I am a mathematician on a mission to share the joy and love that comes from doing maths. As the amazing Jo Sibley says, if you love someone, set them a...
+
+
 [Sept 16, 2025 was Pythagorean Day](https://blog.computationalcomplexity.org/feeds/905023585123347331/comments/default)
 ---
 
@@ -229,14 +237,6 @@ I read through the new book If Anyone Builds It, Everyone Dies by Eliezer Yudko
 Crooked Timber --- 10/1/2025
 
 I have a long-standing pet peeve about the conflation of academic freedom and freedom of speech, especially in the context of (purported) campus debate. In order to illustrate why one should not conflate academic freedom and freedom of speech, I...
-
-
-[Double Maths First Thing: Issue 38](https://aperiodical.com/2025/10/double-maths-first-thing-issue-38/)
----
-
-The Aperiodical --- 10/1/2025
-
-DMFT wants to be in the room where it happens Hello! My name is Colin and I am a mathematician on a mission to spread joy and happiness in doing maths, solving puzzles and generally figuring stuff out. We went to see Hamilton (the musical, not...
 
 
 [Clyde Kruskal talks about his Father Martin on Martin's 100th birthday](https://blog.computationalcomplexity.org/feeds/224845733811604907/comments/default)
