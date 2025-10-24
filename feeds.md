@@ -1,4 +1,12 @@
 
+[AI and Intro Theory](https://blog.computationalcomplexity.org/feeds/4343181318710262656/comments/default)
+---
+
+Computational Complexity --- 10/23/2025
+
+This fall, for the first time at Illinois Tech, I'm teaching Introduction to Theory of Computation. While I've taught a variation of this course a couple dozen times, I last taught this class Spring 2016 at Georgia Tech. Intro Theory is a course...
+
+
 [Double Maths First Thing: Issue 3B](https://aperiodical.com/2025/10/double-maths-first-thing-issue-3b/)
 ---
 
@@ -693,14 +701,6 @@ First lecture in a 4.5-hour minicourse on combinatorics with species.
 The n-Category Café --- 7/24/2025
 
 How do you count rooted planar n-ary trees with a given number of leaves?  Use Lagrange inversion!
-
-
-[Trevisan Prize- Deadline July 31 for Notification Intent, Aug 31 for nomination.](https://blog.computationalcomplexity.org/feeds/6278584040963204058/comments/default)
----
-
-Computational Complexity --- 7/22/2025
-
-A new prize:The Trevisan Prize, in honor of Luca Trevisan, who died in 2024 (blog obit is here, open problems column in his honor is here), has been announced.  The link is  here. The deadline for notification of intent is July 31 which is...
 
 
 [Frequently Asked Questions about FHE](https://www.jeremykun.com/frequently-asked-questions-about-fhe/)
