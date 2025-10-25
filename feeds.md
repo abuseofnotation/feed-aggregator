@@ -1,4 +1,12 @@
 
+[Death and Capitalism (Part 2 of 4)](https://crookedtimber.org/2025/10/24/death-and-capitalism-part-2-of-4/)
+---
+
+Crooked Timber --- 10/24/2025
+
+On the longer time scale that we feel in nature, the violence of colonial capitalism seems almost fleeting. ‘Mother Nature will outlast all of this’, Barkandji man Woddy Harris told me, gesturing across his hometown of Wilcannia, two hours’ drive...
+
+
 [AI and Intro Theory](https://blog.computationalcomplexity.org/feeds/4343181318710262656/comments/default)
 ---
 
@@ -421,14 +429,6 @@ What have I been reading this week? I finished The Voyage Home, the most recent 
 The n-Category Café --- 9/13/2025
 
 Adjoint School guest post by Khyathi Komalan and Andrew Krenz
-
-
-[Is Deep Research deep? Is it research?](https://crookedtimber.org/2025/09/12/is-deep-research-deep-is-it-research/)
----
-
-Crooked Timber --- 9/12/2025
-
-I’m working on a first draft of a book arguing against pro-natalism (more precisely, that we shouldn’t be concerned about below-replacement fertility). That entails digging into lots of literature with which I’m not very familiar and I’ve started...
 
 
 [Is the Prob Method `Just Counting'- I say no and HELL NO](https://blog.computationalcomplexity.org/feeds/5578083384441572902/comments/default)
