@@ -1,4 +1,20 @@
 
+[Bill's Bad Advice](https://blog.computationalcomplexity.org/feeds/5504169307307453639/comments/default)
+---
+
+Computational Complexity --- 10/27/2025
+
+I sometimes give the following advice for research which I label Bill's Bad Advice. We will later see who it might be good advice for. Spoiler alert: the number of people for whom it is good advice is shrinking but might include Lance especially...
+
+
+[Sunday photoblogging: Pézenas bunting](https://crookedtimber.org/2025/10/26/sunday-photoblogging-pezenas-bunting/)
+---
+
+Crooked Timber --- 10/26/2025
+
+
+
+
 [Death and Capitalism (Part 2 of 4)](https://crookedtimber.org/2025/10/24/death-and-capitalism-part-2-of-4/)
 ---
 
@@ -69,6 +85,14 @@ Within ten minutes I regretted my decision to walk to Creedon Street in the outb
 Computational Complexity --- 10/18/2025
 
 In 2001 I supervised Charles Lin's Master's Thesis, which was on Private Information Retrieval.In 2025 I supervised Charles Lin's Master's Thesis, which was on Ramsey Theory.These are different people. To celebrate the second one's thesis, I took...
+
+
+[Two Ph.D. studentships](https://www.logicmatters.net/2025/10/16/two-ph-d-studentships/)
+---
+
+Blog - Logic Matters --- 10/16/2025
+
+Briefly, Thomas Forster tells me that he has acquired funding for two studentships in Wellington NZ (a delightful place!) for students who want to do a Ph.D. in set theory, in particular working with him on NF or perhaps some adjacent topic. He has...
 
 
 [Does “forward” still make sense? A hypothesis on protest](https://crookedtimber.org/2025/10/16/does-forward-still-make-sense-a-hypothesis-on-protest/)
@@ -151,6 +175,14 @@ The n-Category Café --- 10/7/2025
 I'm trying to better characterize two maximal subgroups of the group of automorphisms of the exceptional Jordan algebra, whose intersection is the Standard Model gauge group.
 
 
+[A very short, very blunt, book note](https://www.logicmatters.net/2025/10/06/a-very-short-very-blunt-book-note/)
+---
+
+Blog - Logic Matters --- 10/6/2025
+
+An accessible, very readable, well-motivated, zestful book on ordinal analysis and proof theory would be a very good thing to have. Arai’s Ordinal Analysis with an Introduction to Proof Theory isn’t it. By a country mile. (I was asked for a...
+
+
 [If you use AI in your work do you brag about it or hide it?](https://blog.computationalcomplexity.org/feeds/1237477313397401620/comments/default)
 ---
 
@@ -165,6 +197,14 @@ You used AI in your work. Do you hide it or brag about it? 1) In 2002 there was
 Crooked Timber --- 10/5/2025
 
 
+
+
+[Footnotes to a fortnight: Category mistakes, Dutch courtyards, Martinů](https://www.logicmatters.net/2025/10/04/footnotes-to-a-couple-of-weeks-category-mistakes-dutch-courtyards-martinu/)
+---
+
+Blog - Logic Matters --- 10/4/2025
+
+Most of the writing I have actually done this last week or so has been in tinkering with the category theory notes. For, sad to relate, I still find myself occasionally working through them. Until yesterday, however, it has just been a matter of...
 
 
 [Carnival of Maths 244](https://aperiodical.com/2025/10/carnival-of-maths-244/)
@@ -327,6 +367,14 @@ Crooked Timber --- 9/21/2025
 
 
 
+[Songs of passion.](https://www.logicmatters.net/2025/09/20/footnote-to-the-week-songs-of-passion/)
+---
+
+Blog - Logic Matters --- 9/20/2025
+
+A great couple of days in London. The high point, a quite outstanding evening at Wigmore Hall — the wondrous Lea Desandre and Thomas Dunford (and the Jupiter ensemble) performing Dowland and Purcell. Their new CD is terrific, and the live version...
+
+
 [What is "PhD-Level Intelligence"?](https://blog.computationalcomplexity.org/feeds/4535460946790809118/comments/default)
 ---
 
@@ -375,12 +423,12 @@ Crooked Timber --- 9/15/2025
 You’ve probably heard of the “Peter principle”: that employees get promoted until they reach a job they are no longer good at. And in political philosophy, there is a famous dispute between (the camps of) John Rawls and Jerry Cohen about the...
 
 
-[Sunday photoblogging: Pézenas 1653](https://crookedtimber.org/2025/09/14/sunday-photoblogging-pezenas-1653/)
+[Greek readings](https://www.logicmatters.net/2025/09/13/footnotes-to-the-week-greek-readings/)
 ---
 
-Crooked Timber --- 9/14/2025
+Blog - Logic Matters --- 9/13/2025
 
-This weekend has been dedicated to the “reconstitution historique” of 1653 in Pézenas, when the États generaux of Languedoc met in what is now a small town but was then the seat of the Prince de Conti. So, a capital city back then and also a place...
+What have I been reading this week? I finished The Voyage Home, the most recent in Pat Barker’s wonderful series re-imaging episodes from the Trojan War. This time, it’s Agamemnon’s voyage home after the war, and his death at the hands of...
 
 
 [Burrito Monads, Arrow Kitchens, and Freyd Category Recipes](https://golem.ph.utexas.edu/category/2025/08/burrito_monads_arrow_kitchens.html)
@@ -415,12 +463,28 @@ Computational Complexity --- 9/8/2025
 When I first became a professor I had it all planned out, I would do research, teach and supervise students, get tenure and do more research, teach more courses, and supervise more students for the rest of my life. But once I got tenure, instead of...
 
 
+[Footnotes to the week: Zen painting, the size of sets, Maddy](https://www.logicmatters.net/2025/09/06/footnotes-to-the-week-zen-painting-the-size-of-sets-maddy/)
+---
+
+Blog - Logic Matters --- 9/6/2025
+
+Just before we went off to Zürich, we had our house painted outside (the doors, the windows, and so forth). It took fourteen days, not because we have a mansion but because a lot of preparatory work was needed, cutting out minor rot, repairing,...
+
+
 [Guest Post on Why Coding Style is Important](https://blog.computationalcomplexity.org/feeds/2463554635336524401/comments/default)
 ---
 
 Computational Complexity --- 9/2/2025
 
 Coding Style Is ImportantDoes coding style matter? We teach students how to write code and about algorithms. But, do we discuss coding style? Some people may say that style is just personal preference. But, there is undoubtedly good style and bad...
+
+
+[Footnotes to the week: Mellor, Sets, Mozart](https://www.logicmatters.net/2025/08/30/footnotes-to-the-week-mellor-sets-mozart/)
+---
+
+Blog - Logic Matters --- 8/30/2025
+
+It is difficult to believe that Hugh Mellor died over five years ago: he was a very generous and loyal friend, and still much missed. And I have been thinking about him particularly this week, prompted by Tim Crane’s newly published biographical...
 
 
 [Equivalence via Surjections](https://golem.ph.utexas.edu/category/2025/08/equivalence_via_surjections.html)
@@ -453,6 +517,14 @@ IntroductionIn this inquiry, triangles are dissected into smaller triangles with
 Computational Complexity --- 8/24/2025
 
 (This post was inspired by George Foreman, who passed away March 21, 2025, at the age of 76.)About 10 years ago I asked my classWhat is the best invention or tech advance of the last 50 years?Here are the answers I got NOT ranked.1) The internet....
+
+
+[Footnotes to the week: Russians, Venetians, Van Gogh](https://www.logicmatters.net/2025/08/23/footnotes-to-the-week/)
+---
+
+Blog - Logic Matters --- 8/23/2025
+
+It is time to face the book problem again. We had to clear a whole floor-to-ceiling bay of bookshelves so our plumber could drop new pipework down at the back of the bay (long boring story). And we forced ourselves to be selective about what to...
 
 
 [The elementary theory of surreal arithmetic is bi-interpretable with set theory, Kobe, Japan, September 2025](https://jdh.hamkins.org/theory-of-surreal-arithmetic-bi-interpretable-with-set-theory-japan-september-2025/)
@@ -511,6 +583,14 @@ Computational Complexity --- 8/10/2025
 NICK: I read and enjoyed your blog post on Tom L (see here). I then spent 40 minutes down a rabbithole listening to his music on YouTube.BILL: You call that a rabbit hole?! A while back I spent 3 hours reading questions and answers on quora...
 
 
+[Postcard from Zürich](https://www.logicmatters.net/2025/08/09/postcard-from-zurich/)
+---
+
+Blog - Logic Matters --- 8/9/2025
+
+Five days in Zürich, mostly to have quality time with The Daughter. Hence more hours have been spent in long lunches and dinners, and strolling, and stops for mother/daughter shopping, than in ticking off the tourist top ten must-sees. Which has...
+
+
 [AI and ...](https://blog.computationalcomplexity.org/feeds/2751786907424371263/comments/default)
 ---
 
@@ -535,20 +615,20 @@ The n-Category Café --- 8/2/2025
 I hear that Jack Morava died on August 1, 2025.
 
 
+[IFL again, Gödel exercises, Purcell](https://www.logicmatters.net/2025/07/31/footnotes-godel-exercises-purcell/)
+---
+
+Blog - Logic Matters --- 7/31/2025
+
+I hadn’t planned to return to Introducing Formal Logic just yet. But the last week or so I’ve found myself tinkering with the opening chapters. And, sad to relate, I’ve been enjoying the tinkering. So I might continue doing just that. The first...
+
+
 [Tom Lehrer Passed Away at the Age of 97](https://blog.computationalcomplexity.org/feeds/6547507657809660654/comments/default)
 ---
 
 Computational Complexity --- 7/29/2025
 
 Tom Lehrer passed away on Saturday July 26 at the age of 97. (For other obits see this collection of ten obits here.)He worked in both of my fields of interest: Parody Songs and Mathematics. 1) He got a BA in Mathematics from Harvard, magna cum...
-
-
-[Answer to my GROUP ONE/GROUP TWO Prez question](https://blog.computationalcomplexity.org/feeds/4182221637455156553/comments/default)
----
-
-Computational Complexity --- 7/28/2025
-
-In a prior post I asked what criteria I used to place Prez and VP nominees since 1976 into two groups. In the book Abundance I read that since 1984 all of the Democratic nominees for Prez and VP except Tim Walz had gone to law school.  I decided to...
 
 
 [The Duflo Isomorphism and the Harmonic Oscillator Hamiltonian](https://golem.ph.utexas.edu/category/2025/07/the_duflo_isomorphism_and_the.html)
@@ -717,84 +797,4 @@ IntroductionIn this activity, we'll explore patterns by finding the remainders w
 Abuse of Notation --- 5/27/2025
 
 title: A monad layout: microblog category: microblog tags: programming haskell — A monad is when you know how to convert $M (M a)$ to $M a$, but not $M a$ to $a$.
-
-
-[The level of progress in programming language design](http://abuseofnotation.github.io/pl-design/)
----
-
-Abuse of Notation --- 5/27/2025
-
-The level of progress in programming language design: Shortly after the first ever programming language was created, it’s author said that the language’s whole paradigm is flawed and we should do functional programming instead*. That was 46 years...
-
-
-[I want to forget](http://abuseofnotation.github.io/forget/)
----
-
-Abuse of Notation --- 5/27/2025
-
-I want to forget Gaza. I want to forget the pain. I want to forget all dumb jokes, old song lyrics. I want to forget that most things ever happened, as remembering makes everything tedious. Forces you to become a bureaucrat of your memories, to...
-
-
-[Love](http://abuseofnotation.github.io/mushrooms/)
----
-
-Abuse of Notation --- 5/27/2025
-
-Every time you eat mushrooms, I have to try them too. Cause, if the mushrooms turn out to be poisonous and you die of slow and painful dead, I will die as well. I once dreamed that I was dying, You were beside me, I turned to you and said, “I don’t...
-
-
-[The road I walk](http://abuseofnotation.github.io/road/)
----
-
-Abuse of Notation --- 5/27/2025
-
-The road I walk is new. It’s made not of stone, but dirt. There are no road signs yet. And no bridges to cover the rivers. The road I walk is new, so people think that it is hard. “How do swim?” “Don’t you get dirty?” “How do you cope with all that...
-
-
-[Walk](http://abuseofnotation.github.io/walk/)
----
-
-Abuse of Notation --- 5/27/2025
-
-Out for a walk I let go and let the city dissolve me.
-
-
-[Using Automorphism Groups of Curves to Control the Slopes of their Jacobians](https://rin.io/gausssums/)
----
-
-Good Fibrations --- 5/23/2025
-
-I’ve felt for a long time that automorphisms of curves should control or at least exert serious force on the slopes on their Jacobians. Symmetry forces height, as I’ve written about previously in Models of Formal Groups Laws of Every Height, and...
-
-
-[Inquiries-Week 1: Circle Shading](https://www.fractalkitty.com/inquiries-week-1-circle-shading/)
----
-
-Fractal Kitty --- 5/20/2025
-
-This is the first of a series of guided inquiries in math.  If a document is preferred over a blog post, the pdf file is below:Inquiries-Week 1_ Circle ShadingInquiries-Week 1_ Circle Shading.pdf615...
-
-
-[Leibniz's Dream and Dijkstra's nightmare](https://www.jeremykun.com/shortform/2025-05-13-2107/)
----
-
-Math ∩ Programming --- 5/13/2025
-
-I was inspired to browse some of Edsger Dijkstra’s essays today, and came across his speech, “Under the spell of Leibniz’s Dream”. It’s the sort of personal history I love to read, which gives one person’s sense of the world over a period of...
-
-
-[Skolem’s paradox and the countable transitive submodel theorem, Leeds Set Theory Seminar, May 2025](https://jdh.hamkins.org/skolems-paradox-and-the-countable-transitive-submodel-theorem-leeds-set-theory-seminar-may-2025/)
----
-
-Joel David Hamkins --- 5/12/2025
-
-This will be an online talk for the Leeds Set Theory Seminar, 21 May 2025 1pm BST. Contact the organizers (Hope Duncan) for Teams access. Abstract: One can find in the philosophical research literature surrounding Skolem’s paradox a certain claim,...
-
-
-[My Graduate Career in Math](https://www.jeremykun.com/2025/05/12/my-graduate-career-in-math/)
----
-
-Math ∩ Programming --- 5/12/2025
-
-Editor’s note: This essay was originally published on Medium on 2016-03-05. I have made minor edits in this republishing and added a few small retrospective notes. 2010–2011 (Year 0) I had just switched my major at Cal Poly State University from...
 
