@@ -1,4 +1,12 @@
 
+[Applied Category Theory 2026](https://golem.ph.utexas.edu/category/2025/10/applied_category_theory_2026.html)
+---
+
+The n-Category Café --- 10/27/2025
+
+Applied Category Theory 2026 is taking place 6--10 July in Tallinn, Estonia, and it's preceded by the Adjoint School Research Week, 29 June -- 3 July.
+
+
 [Bill's Bad Advice](https://blog.computationalcomplexity.org/feeds/5504169307307453639/comments/default)
 ---
 
@@ -669,14 +677,6 @@ Announcing the Clowder Project: a wiki and reference work for category theory bu
 The n-Category Café --- 7/25/2025
 
 Did you know that Lawvere did classified work on arms control in the 1960s, back when he was writing his thesis?
-
-
-[Counting with Categories (Part 1)](https://golem.ph.utexas.edu/category/2025/06/counting_with_categories_part.html)
----
-
-The n-Category Café --- 7/24/2025
-
-First lecture in a 4.5-hour minicourse on combinatorics with species.
 
 
 [Counting with Categories (Part 2)](https://golem.ph.utexas.edu/category/2025/06/counting_with_categories_part_1.html)
