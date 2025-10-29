@@ -2,7 +2,7 @@
 [Applied Category Theory 2026](https://golem.ph.utexas.edu/category/2025/10/applied_category_theory_2026.html)
 ---
 
-The n-Category Café --- 10/27/2025
+The n-Category Café --- 10/28/2025
 
 Applied Category Theory 2026 is taking place 6--10 July in Tallinn, Estonia, and it's preceded by the Adjoint School Research Week, 29 June -- 3 July.
 
