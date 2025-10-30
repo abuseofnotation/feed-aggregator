@@ -1,4 +1,36 @@
 
+[Occasional paper:  A planet from 2007](https://crookedtimber.org/2025/10/29/occasional-paper-a-planet-from-2007/)
+---
+
+Crooked Timber --- 10/29/2025
+
+Bit of a joke there. What the paper is about is, we found a new planet, about 18.2 light years away. That means that we’re seeing the planet as it appeared 18.2 years ago, in the summer of 2007. Summer 2007: the first iPhone had just hit the...
+
+
+[AI and the Power of Nonuniform Circuits](https://blog.computationalcomplexity.org/feeds/6445154968975858368/comments/default)
+---
+
+Computational Complexity --- 10/29/2025
+
+The advances in artificial intelligence have changed the way we think about computing. For today's post, how nonuniformity plays a much larger role than I previously believed.First, some background. Circuit complexity gives a different, more...
+
+
+[Not Bergamo, Turing, PHQ again](https://www.logicmatters.net/2025/10/29/not-bergamo-turing-phq/)
+---
+
+Blog - Logic Matters --- 10/29/2025
+
+We were supposed to be in Bergamo for a few days. But when it came near the time, neither of us were feeling up to going — was it a recurrence of Covid? It was a rather good thing that we didn’t set off, as whatever virus it was led to sudden...
+
+
+[Double Maths First Thing: Issue 3C](https://aperiodical.com/2025/10/double-maths-first-thing-issue-3c/)
+---
+
+The Aperiodical --- 10/29/2025
+
+Double Maths First Thing is brought to you by ibuprofen and grandparents taking the kids Hello! My name is Colin and I am a mathematician on a mission to share and spread the joy in doing maths for its own sake. It’s half term down here in Dorset,...
+
+
 [Applied Category Theory 2026](https://golem.ph.utexas.edu/category/2025/10/applied_category_theory_2026.html)
 ---
 
@@ -247,14 +279,6 @@ Crooked Timber --- 10/3/2025
 (I wrote this piece a week or so ago, meant to do a bit more work but haven’t got around to it. Hence slightly dated allusions) The culmination of Donald Trump’s state visit to the UK was a press conference at which both American and British...
 
 
-[#mathober 2025](https://aperiodical.com/2025/10/mathober-2025/)
----
-
-The Aperiodical --- 10/2/2025
-
-We’ve gone crashing into October and that means it’s also #Mathober, an annual maths/art celebration taking place on the internet. If you’re into maths or art, or both, and would like to try producing something creative this month, on an informal...
-
-
 [Mathober 2025 Sketches](https://www.fractalkitty.com/mathober-2025-sketches/)
 ---
 
@@ -421,14 +445,6 @@ Mathober is almost here! I am looking forward to seeing everyone’s creativity 
 Computational Complexity --- 9/15/2025
 
 "I'll be on vacation so I won't be checking email.''"I can't be at the meeting since I will be out of town''Technology has made it so that:a) You really CAN get email when you are on vacation.b) You really CAN go to a meeting if you are out of town...
-
-
-[The Peter Principle, and the unintended consequences of financial work motivation](https://crookedtimber.org/2025/09/15/the-peter-principle-and-the-unintended-consequences-of-financial-work-motivation/)
----
-
-Crooked Timber --- 9/15/2025
-
-You’ve probably heard of the “Peter principle”: that employees get promoted until they reach a job they are no longer good at. And in political philosophy, there is a famous dispute between (the camps of) John Rawls and Jerry Cohen about the...
 
 
 [Greek readings](https://www.logicmatters.net/2025/09/13/footnotes-to-the-week-greek-readings/)
@@ -621,22 +637,6 @@ Comparing two mathematical notions of diversity.
 The n-Category Café --- 8/2/2025
 
 I hear that Jack Morava died on August 1, 2025.
-
-
-[IFL again, Gödel exercises, Purcell](https://www.logicmatters.net/2025/07/31/footnotes-godel-exercises-purcell/)
----
-
-Blog - Logic Matters --- 7/31/2025
-
-I hadn’t planned to return to Introducing Formal Logic just yet. But the last week or so I’ve found myself tinkering with the opening chapters. And, sad to relate, I’ve been enjoying the tinkering. So I might continue doing just that. The first...
-
-
-[Tom Lehrer Passed Away at the Age of 97](https://blog.computationalcomplexity.org/feeds/6547507657809660654/comments/default)
----
-
-Computational Complexity --- 7/29/2025
-
-Tom Lehrer passed away on Saturday July 26 at the age of 97. (For other obits see this collection of ten obits here.)He worked in both of my fields of interest: Parody Songs and Mathematics. 1) He got a BA in Mathematics from Harvard, magna cum...
 
 
 [The Duflo Isomorphism and the Harmonic Oscillator Hamiltonian](https://golem.ph.utexas.edu/category/2025/07/the_duflo_isomorphism_and_the.html)
