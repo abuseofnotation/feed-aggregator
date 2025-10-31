@@ -1,4 +1,12 @@
 
+[No (Despotic) Kings, but maybe Constitutional Monarchy?](https://crookedtimber.org/2025/10/30/no-despotic-kings-but-maybe-constitutional-monarchy/)
+---
+
+Crooked Timber --- 10/30/2025
+
+“An ELECTIVE DESPOTISM was not the government we fought for; but one which should not only be founded on free principles, but in which the powers of government should be so divided and balanced among several bodies of magistracy, as that no one...
+
+
 [Occasional paper:  A planet from 2007](https://crookedtimber.org/2025/10/29/occasional-paper-a-planet-from-2007/)
 ---
 
@@ -141,6 +149,14 @@ Briefly, Thomas Forster tells me that he has acquired funding for two studentshi
 Crooked Timber --- 10/16/2025
 
 One of the big puzzles in the last months, for those observing the politics in the US and elsewhere, is this: why is there apparently so little protest against the attacks on democracy and the rule of law, and why does it happen in some but not...
+
+
+[The case against boolean logic](http://abuseofnotation.github.io/boolean-thinking/)
+---
+
+Abuse of Notation --- 10/16/2025
+
+In my last post about generality, I tried to show how our ambition to discover ideas that are all-encompassing and eternal makes our worldview crumble, leaving us unable to think clearly even about simple issues with obvious solutions. Today, I...
 
 
 [Fall Jobs Post 2025](https://blog.computationalcomplexity.org/feeds/7268290965433194070/comments/default)
@@ -421,14 +437,6 @@ When announcing Open-AI's latest release last month, Sam Altman said "GPT-5 is t
 The n-Category Café --- 9/16/2025
 
 The octonions have nontrivial inner automorphisms of order 3.   Is this related to triality?
-
-
-[On the philosophical – moral implications of a 1989 Honda Civic](https://crookedtimber.org/2025/09/16/on-the-philosophical-moral-implications-of-a-1989-honda-civic/)
----
-
-Crooked Timber --- 9/16/2025
-
-A trolley problem, some personal stuff, a bit of Islamic jurisprudence, and then the Honda. 1) Trolley time. Let’s start with the trolley problem. People proposing trolley problems often do them in two parts. First, there’s the anodyne one...
 
 
 [Mathober 2025](https://www.fractalkitty.com/mathober-2025/)
@@ -789,12 +797,4 @@ This will be a lecture series at Peking University in Beijing in June 2025. Anno
 Fractal Kitty --- 6/3/2025
 
 IntroductionIn this activity, we'll explore patterns by finding the remainders when Fibonacci numbers are divided by other numbers.ModuloSometimes, the most interesting part of dividing numbers is what's left over—the remainder. This is where...
-
-
-[Monad](http://abuseofnotation.github.io/monad/)
----
-
-Abuse of Notation --- 5/27/2025
-
-title: A monad layout: microblog category: microblog tags: programming haskell — A monad is when you know how to convert $M (M a)$ to $M a$, but not $M a$ to $a$.
 
