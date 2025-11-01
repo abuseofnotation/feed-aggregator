@@ -1,4 +1,20 @@
 
+[AI and the Power of Nonuniform Circuits](https://blog.computationalcomplexity.org/feeds/6445154968975858368/comments/default)
+---
+
+Computational Complexity --- 10/31/2025
+
+The advances in artificial intelligence have changed the way we think about computing. For today's post, how nonuniformity plays a much larger role than I previously believed.First, some background. Circuit complexity gives a different, more...
+
+
+[Death and Capitalism (Part 3 of 4)](https://crookedtimber.org/2025/10/31/death-and-capitalism-part-3-of-4/)
+---
+
+Crooked Timber --- 10/31/2025
+
+In the Wilcannia cemetery a lot of plastic is on display. This cemetery is an important local monument not because it celebrates the working class, because it doesn’t. Unlike in Broken Hill, there are no tourist guides to the cemetery, no famous...
+
+
 [No (Despotic) Kings, but maybe Constitutional Monarchy?](https://crookedtimber.org/2025/10/30/no-despotic-kings-but-maybe-constitutional-monarchy/)
 ---
 
@@ -13,14 +29,6 @@ Crooked Timber --- 10/30/2025
 Crooked Timber --- 10/29/2025
 
 Bit of a joke there. What the paper is about is, we found a new planet, about 18.2 light years away. That means that we’re seeing the planet as it appeared 18.2 years ago, in the summer of 2007. Summer 2007: the first iPhone had just hit the...
-
-
-[AI and the Power of Nonuniform Circuits](https://blog.computationalcomplexity.org/feeds/6445154968975858368/comments/default)
----
-
-Computational Complexity --- 10/29/2025
-
-The advances in artificial intelligence have changed the way we think about computing. For today's post, how nonuniformity plays a much larger role than I previously believed.First, some background. Circuit complexity gives a different, more...
 
 
 [Not Bergamo, Turing, PHQ again](https://www.logicmatters.net/2025/10/29/not-bergamo-turing-phq/)
@@ -405,14 +413,6 @@ STUDENT: What did you do before the web to find papers?BILL: We went to the libr
 Crooked Timber --- 9/22/2025
 
 I’m in the midst of doing research, teaching, and outreach activities on a set of questions around economic growth and its relationship to what we value. My research team has Tim Jackson visiting tomorrow, who will give a talk on postgrowth...
-
-
-[Sunday photoblogging: Pézenas 1653 (some more)](https://crookedtimber.org/2025/09/21/sunday-photoblogging-pezenas-1653-some-more/)
----
-
-Crooked Timber --- 9/21/2025
-
-
 
 
 [Songs of passion.](https://www.logicmatters.net/2025/09/20/footnote-to-the-week-songs-of-passion/)
