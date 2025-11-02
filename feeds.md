@@ -1,4 +1,20 @@
 
+[Categorial update?](https://www.logicmatters.net/2025/11/01/categorial-update/)
+---
+
+Blog - Logic Matters --- 11/1/2025
+
+I’m slowly working on a corrected update of Introducing Category Theory, perhaps for early in the new year. But you can today download a new PDF version, without any of the revised content, but now with the bookmarks for chapters and sections...
+
+
+[The Revenge of Reason is here!](https://deontologistics.co/2025/11/01/the-revenge-of-reason-is-here/)
+---
+
+DEONTOLOGISTICS --- 11/1/2025
+
+It’s been a long time coming, but my second book, The Revenge of Reason, is finally available to buy. There are so many things in here that were written or given as talks long ago but never actually published, and it’s nice to know people will...
+
+
 [AI and the Power of Nonuniform Circuits](https://blog.computationalcomplexity.org/feeds/6445154968975858368/comments/default)
 ---
 
@@ -615,14 +631,6 @@ Computational Complexity --- 8/10/2025
 NICK: I read and enjoyed your blog post on Tom L (see here). I then spent 40 minutes down a rabbithole listening to his music on YouTube.BILL: You call that a rabbit hole?! A while back I spent 3 hours reading questions and answers on quora...
 
 
-[Postcard from Zürich](https://www.logicmatters.net/2025/08/09/postcard-from-zurich/)
----
-
-Blog - Logic Matters --- 8/9/2025
-
-Five days in Zürich, mostly to have quality time with The Daughter. Hence more hours have been spent in long lunches and dinners, and strolling, and stops for mother/daughter shopping, than in ticking off the tourist top ten must-sees. Which has...
-
-
 [AI and ...](https://blog.computationalcomplexity.org/feeds/2751786907424371263/comments/default)
 ---
 
@@ -789,12 +797,4 @@ Here’s a recent thread on philosophy of AI from Twitter/X, in which I address 
 Joel David Hamkins --- 6/11/2025
 
 This will be a lecture series at Peking University in Beijing in June 2025. Announcement at Peking University Course abstract. This will be a series of advanced lectures on set theory, treating diverse topics and particularly those illustrating how...
-
-
-[Inquiries-Week 2: Modular Fibonacci](https://www.fractalkitty.com/inquiries-week-2-modular-fibonacci/)
----
-
-Fractal Kitty --- 6/3/2025
-
-IntroductionIn this activity, we'll explore patterns by finding the remainders when Fibonacci numbers are divided by other numbers.ModuloSometimes, the most interesting part of dividing numbers is what's left over—the remainder. This is where...
 
