@@ -1,4 +1,12 @@
 
+[Dynamics in Jordan Algebras](https://golem.ph.utexas.edu/category/2025/11/dynamics_in_jordan_algebras.html)
+---
+
+The n-Category Café --- 11/2/2025
+
+You can tweak Heisenberg's equation so that instead of using a commutator it uses an associator!  Then it applies to Jordan algebras other than that of self-adjoint complex matrices.
+
+
 [Categorial update?](https://www.logicmatters.net/2025/11/01/categorial-update/)
 ---
 
@@ -693,14 +701,6 @@ Announcing the Clowder Project: a wiki and reference work for category theory bu
 The n-Category Café --- 7/25/2025
 
 Did you know that Lawvere did classified work on arms control in the 1960s, back when he was writing his thesis?
-
-
-[Counting with Categories (Part 2)](https://golem.ph.utexas.edu/category/2025/06/counting_with_categories_part_1.html)
----
-
-The n-Category Café --- 7/24/2025
-
-Second lecture in a 4.5-hour minicourse on combinatorics with species.
 
 
 [Counting with Categories (Part 3)](https://golem.ph.utexas.edu/category/2025/06/counting_with_categories_part_2.html)
