@@ -2,9 +2,25 @@
 [Dynamics in Jordan Algebras](https://golem.ph.utexas.edu/category/2025/11/dynamics_in_jordan_algebras.html)
 ---
 
-The n-Category Café --- 11/2/2025
+The n-Category Café --- 11/3/2025
 
 You can tweak Heisenberg's equation so that instead of using a commutator it uses an associator!  Then it applies to Jordan algebras other than that of self-adjoint complex matrices.
+
+
+[Carnival of Maths 245](https://aperiodical.com/2025/11/carnival-of-maths-245/)
+---
+
+The Aperiodical --- 11/3/2025
+
+The next issue of the Carnival of Mathematics, rounding up blog posts from the month of October 2025, is now online at Theorem of the Day. The Carnival rounds up maths blog posts from all over the internet, including some from our own Aperiodical....
+
+
+[Second Quantization and the Kepler Problem](https://golem.ph.utexas.edu/category/2025/11/second_quantization_and_the_ke.html)
+---
+
+The n-Category Café --- 11/3/2025
+
+Exploiting the secret 4-dimensional symmetry of the Kepler problem to think about the periodic table of elements in a new way.
 
 
 [Categorial update?](https://www.logicmatters.net/2025/11/01/categorial-update/)
@@ -309,14 +325,6 @@ The next issue of the Carnival of Mathematics, rounding up blog posts from the m
 The Aperiodical --- 10/3/2025
 
 Here’s a round-up of maths news stories from this month we haven’t otherwise covered on the Aperiodical (not including, of course, the important enneahedron news Christian just posted about). MathJax, a Javascript display engine for typesetting...
-
-
-[Breaking enneahedron news!](https://aperiodical.com/2025/10/breaking-enneahedron-news/)
----
-
-The Aperiodical --- 10/3/2025
-
-A nice person called Payton Asch sent me an email with an observation about the Herschel enneahedron: It looks like the underlying polytope for the enneahedron is a triangular bipyramid (two tetrahedra stacked on top of each other) or the dual...
 
 
 [Paper reactors and paper tigers](https://crookedtimber.org/2025/10/03/paper-reactors-and-paper-tigers/)
@@ -701,14 +709,6 @@ Announcing the Clowder Project: a wiki and reference work for category theory bu
 The n-Category Café --- 7/25/2025
 
 Did you know that Lawvere did classified work on arms control in the 1960s, back when he was writing his thesis?
-
-
-[Counting with Categories (Part 3)](https://golem.ph.utexas.edu/category/2025/06/counting_with_categories_part_2.html)
----
-
-The n-Category Café --- 7/24/2025
-
-First lecture in a 4.5-hour minicourse on combinatorics with species.
 
 
 [How to Count n-Ary Trees](https://golem.ph.utexas.edu/category/2025/07/counting_trees.html)
