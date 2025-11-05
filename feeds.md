@@ -1,10 +1,34 @@
 
+[Tuesday photoblogging: Hamburg crows](https://crookedtimber.org/2025/11/04/tuesday-photoblogging-hamburg-crows/)
+---
+
+Crooked Timber --- 11/4/2025
+
+I’ve been visiting family in Germany, with only a phone, so I couldn’t post on Sunday. But here are some crows from Hamburg.
+
+
 [Dynamics in Jordan Algebras](https://golem.ph.utexas.edu/category/2025/11/dynamics_in_jordan_algebras.html)
 ---
 
-The n-Category Café --- 11/3/2025
+The n-Category Café --- 11/4/2025
 
 You can tweak Heisenberg's equation so that instead of using a commutator it uses an associator!  Then it applies to Jordan algebras other than that of self-adjoint complex matrices.
+
+
+[Did Euclid exist? Is it okay to quote people that did not exist?](https://blog.computationalcomplexity.org/feeds/543908760734613436/comments/default)
+---
+
+Computational Complexity --- 11/4/2025
+
+The following excerpt from Abrahim Ladha's comment on Lance's post aboutAI and intro theory caught my attention:---------------------------BEGIN EXCERPTNot just with AI, but in theory and math courses, there have always been Bart Simpsonlevel...
+
+
+[What is your number? Logic puzzles for mathematicians – 2025 DePrima Memorial Lecture, Caltech](https://jdh.hamkins.org/what-is-your-number-logic-puzzles-for-mathematicians-deprima-lecture-caltech-2025/)
+---
+
+Joel David Hamkins --- 11/4/2025
+
+I am honored to be giving the 2025-26 Charles R. DePrima Memorial Lecture for the Mathematics Department of the California Institute of Technology. This lecture series aims to bring mathematical researchers to Caltech to give talks for a primarily...
 
 
 [Carnival of Maths 245](https://aperiodical.com/2025/11/carnival-of-maths-245/)
@@ -407,14 +431,6 @@ Computational Complexity --- 9/25/2025
 A few weeks ago I took an Uber to a regional airport and was picked up by a Tesla. The driver used FSD, so-called Full Self-Driving, never touching the steering wheel during the entire trip. Should you tip a driver who just sits there? In the end I...
 
 
-[Some thoughts on journals, refereeing, and the P vs NP problem](https://blog.computationalcomplexity.org/feeds/6022986968221528427/comments/default)
----
-
-Computational Complexity --- 9/25/2025
-
-A guest post by Eric Allender prompted by an (incorrect) P ≠ NP proof recently published in Springer Nature's Frontiers of Computer Science.For a time, I served as Editor-in-Chief of ACM Transactions on Computation Theory, and in this role I had to...
-
-
 [What is a Good Quantum Encoding? Part 1](https://www.math3ma.com/blog/what-is-a-good-quantum-encoding-part-1)
 ---
 
@@ -437,14 +453,6 @@ Next up on Good Reads: The Princeton Companion to Mathematics, edited by Fields 
 Computational Complexity --- 9/23/2025
 
 STUDENT: What did you do before the web to find papers?BILL: We went to the library and copied papers to read later.STUDENT: Did you read them later?BILL: Well, uh,hmm, ...BILL to a professor in his 80's: What did you do before copy...
-
-
-[The care economy, or radical economic growth?](https://crookedtimber.org/2025/09/22/the-care-economy-or-radical-economic-growth/)
----
-
-Crooked Timber --- 9/22/2025
-
-I’m in the midst of doing research, teaching, and outreach activities on a set of questions around economic growth and its relationship to what we value. My research team has Tim Jackson visiting tomorrow, who will give a talk on postgrowth...
 
 
 [Songs of passion.](https://www.logicmatters.net/2025/09/20/footnote-to-the-week-songs-of-passion/)
@@ -789,12 +797,4 @@ This will be a talk for the Conference on Infinity, a collaborative meeting of l
 DEONTOLOGISTICS --- 6/22/2025
 
 Here’s a recent thread on philosophy of AI from Twitter/X, in which I address rather popular arguments made by Emily Bender and others to the effect that LLM outputs are strictly speaking meaningless. I think these argument are flawed, as I explain...
-
-
-[Lectures on Set Theory, Beijing, June 2025](https://jdh.hamkins.org/lectures-on-set-theory-beijing-june-2025/)
----
-
-Joel David Hamkins --- 6/11/2025
-
-This will be a lecture series at Peking University in Beijing in June 2025. Announcement at Peking University Course abstract. This will be a series of advanced lectures on set theory, treating diverse topics and particularly those illustrating how...
 
