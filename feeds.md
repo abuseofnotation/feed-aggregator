@@ -1,4 +1,28 @@
 
+[Death and Capitalism (Part 4 of 4)](https://crookedtimber.org/2025/11/05/death-and-capitalism-part-4-of-4/)
+---
+
+Crooked Timber --- 11/5/2025
+
+Death comes for us all. We are outlived, as Barkandji man Woddy Harris would have it, by Mother Nature, who holds us in something that I think he would liken to ‘eternity’. By what logic, then, must Mother Nature also die? The Barkandji in...
+
+
+[The Inverse Cube Force Law](https://golem.ph.utexas.edu/category/2025/11/the_inverse_cube_force_law.html)
+---
+
+The n-Category Café --- 11/5/2025
+
+Here's a draft of my next column for the Notices of the American Mathematical Society. It's about the inverse cube force law in classical mechanics....
+
+
+[Double Maths First Thing: Issue 3D](https://aperiodical.com/2025/11/double-maths-first-thing-issue-3d/)
+---
+
+The Aperiodical --- 11/5/2025
+
+Double Maths First Thing is disappointed that it’s not that sort of plot you’re meant to remember. Hello! My name is Colin and I am a mathematician on a mission to spread the joy and delight in doing maths, even if today I am slightly despondent...
+
+
 [Tuesday photoblogging: Hamburg crows](https://crookedtimber.org/2025/11/04/tuesday-photoblogging-hamburg-crows/)
 ---
 
@@ -343,14 +367,6 @@ The Aperiodical --- 10/4/2025
 The next issue of the Carnival of Mathematics, rounding up blog posts from the month of September 2025, is now online at IoannaGeorgiou.com. The Carnival rounds up maths blog posts from all over the internet, including some from our...
 
 
-[Aperiodical News Roundup – August/September 2025](https://aperiodical.com/2025/10/aperiodical-news-roundup-august-september-2025/)
----
-
-The Aperiodical --- 10/3/2025
-
-Here’s a round-up of maths news stories from this month we haven’t otherwise covered on the Aperiodical (not including, of course, the important enneahedron news Christian just posted about). MathJax, a Javascript display engine for typesetting...
-
-
 [Paper reactors and paper tigers](https://crookedtimber.org/2025/10/03/paper-reactors-and-paper-tigers/)
 ---
 
@@ -405,14 +421,6 @@ Kristin Henry has been providing SciArtSeptember prompts each year. I incorporat
 Abuse of Notation --- 9/27/2025
 
 “My life is like a prison” I wrote this in my personal website when I was 14. I was quite correct in pinpointing the problem, pinpointing how I, and many other people, felt, but I was off at identifying the cause — I thought, that I was kept in...
-
-
-[Rambouillet, part 1:  The State of Play](https://crookedtimber.org/2025/09/26/rambouillet-part-1-the-state-of-play/)
----
-
-Crooked Timber --- 9/26/2025
-
-A while back I wrote a series of posts about the 1998-9 Kosovo conflict. If you’re interested, here they are: Prelude to War, The Serbian Ascendancy, Things Fall Apart, And So To War. This post continues that story up to the unsuccessful...
 
 
 [Math Storytelling Day 2025](https://www.fractalkitty.com/math-storytelling-day-2025/)
@@ -717,14 +725,6 @@ Announcing the Clowder Project: a wiki and reference work for category theory bu
 The n-Category Café --- 7/25/2025
 
 Did you know that Lawvere did classified work on arms control in the 1960s, back when he was writing his thesis?
-
-
-[How to Count n-Ary Trees](https://golem.ph.utexas.edu/category/2025/07/counting_trees.html)
----
-
-The n-Category Café --- 7/24/2025
-
-How do you count rooted planar n-ary trees with a given number of leaves?  Use Lagrange inversion!
 
 
 [Frequently Asked Questions about FHE](https://www.jeremykun.com/frequently-asked-questions-about-fhe/)
