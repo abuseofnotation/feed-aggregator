@@ -1,18 +1,34 @@
 
+[The Complexity Argument for Capitalism](https://blog.computationalcomplexity.org/feeds/4111861502485280164/comments/default)
+---
+
+Computational Complexity --- 11/6/2025
+
+We're seeing an attack on capitalism on both ends of the political spectrum with with the election of Democratic Socialist Zhoran Mamdani as mayor of New York, and Donald Trump trying to direct the economy through tariffs, less independency of the...
+
+
+[The Inverse Cube Force Law](https://golem.ph.utexas.edu/category/2025/11/the_inverse_cube_force_law.html)
+---
+
+The n-Category Café --- 11/6/2025
+
+Newton's Principia is famous for his investigations of the inverse square force law for gravity.  But he also studied the inverse cube law.  Why, and what is so good about this law?
+
+
+[Inquiries-Week 5: Triangles Emerge](https://www.fractalkitty.com/inquiries-week-5-triangles-emerge/)
+---
+
+Fractal Kitty --- 11/6/2025
+
+IntroductionIn this inquiry, nodes are connected one at a time. How many lines can you draw before a triangle emerges?Starting with FourLet's start with four nodes - draw them on a sheet of paper. How many lines (called edges) can you draw before a...
+
+
 [Death and Capitalism (Part 4 of 4)](https://crookedtimber.org/2025/11/05/death-and-capitalism-part-4-of-4/)
 ---
 
 Crooked Timber --- 11/5/2025
 
 Death comes for us all. We are outlived, as Barkandji man Woddy Harris would have it, by Mother Nature, who holds us in something that I think he would liken to ‘eternity’. By what logic, then, must Mother Nature also die? The Barkandji in...
-
-
-[The Inverse Cube Force Law](https://golem.ph.utexas.edu/category/2025/11/the_inverse_cube_force_law.html)
----
-
-The n-Category Café --- 11/5/2025
-
-Here's a draft of my next column for the Notices of the American Mathematical Society. It's about the inverse cube force law in classical mechanics....
 
 
 [Double Maths First Thing: Issue 3D](https://aperiodical.com/2025/11/double-maths-first-thing-issue-3d/)
@@ -663,14 +679,6 @@ Computational Complexity --- 8/10/2025
 NICK: I read and enjoyed your blog post on Tom L (see here). I then spent 40 minutes down a rabbithole listening to his music on YouTube.BILL: You call that a rabbit hole?! A while back I spent 3 hours reading questions and answers on quora...
 
 
-[AI and ...](https://blog.computationalcomplexity.org/feeds/2751786907424371263/comments/default)
----
-
-Computational Complexity --- 8/7/2025
-
-AI and VacationI'm back from my German vacation. This was my first AI vacation, by which I mean how I used AI to navigate a foreign country. Taking a picture of a hand-written menu board, not just to translate the dishes, but to get a description...
-
-
 [(BT) Diversity from (LC) Diversity](https://golem.ph.utexas.edu/category/2025/08/bt_diversity_from_lc_diversity.html)
 ---
 
@@ -789,12 +797,4 @@ IntroductionExplore the reflection and rotation of polygons to discover the patt
 Joel David Hamkins --- 6/23/2025
 
 This will be a talk for the Conference on Infinity, a collaborative meeting of logicians and specialists in Chinese philosophy here at Peking University, 24 June 2025, in the philosophy department. Abstract. I shall lay out a spectrum of...
-
-
-[TfE: On Post-Searlean Critiques of LLMs](https://deontologistics.co/2025/06/22/tfe-on-post-searlean-critiques-of-llms/)
----
-
-DEONTOLOGISTICS --- 6/22/2025
-
-Here’s a recent thread on philosophy of AI from Twitter/X, in which I address rather popular arguments made by Emily Bender and others to the effect that LLM outputs are strictly speaking meaningless. I think these argument are flawed, as I explain...
 
