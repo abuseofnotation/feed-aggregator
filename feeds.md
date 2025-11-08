@@ -1,4 +1,12 @@
 
+[Mathematical Objects: 3D wooden puzzle with Grant Sanderson](https://aperiodical.com/2025/11/mathematical-objects-3d-wooden-puzzle-with-grant-sanderson/)
+---
+
+The Aperiodical --- 11/7/2025
+
+A conversation about mathematics inspired by a 3D wooden puzzle. Presented by Katie Steckles and Peter Rowlett, with special guest Grant Sanderson.
+
+
 [The Complexity Argument for Capitalism](https://blog.computationalcomplexity.org/feeds/4111861502485280164/comments/default)
 ---
 
@@ -373,14 +381,6 @@ Crooked Timber --- 10/5/2025
 Blog - Logic Matters --- 10/4/2025
 
 Most of the writing I have actually done this last week or so has been in tinkering with the category theory notes. For, sad to relate, I still find myself occasionally working through them. Until yesterday, however, it has just been a matter of...
-
-
-[Carnival of Maths 244](https://aperiodical.com/2025/10/carnival-of-maths-244/)
----
-
-The Aperiodical --- 10/4/2025
-
-The next issue of the Carnival of Mathematics, rounding up blog posts from the month of September 2025, is now online at IoannaGeorgiou.com. The Carnival rounds up maths blog posts from all over the internet, including some from our...
 
 
 [Paper reactors and paper tigers](https://crookedtimber.org/2025/10/03/paper-reactors-and-paper-tigers/)
