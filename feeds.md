@@ -1,4 +1,12 @@
 
+[Sunday photoblogging: Hamburg cobblestones](https://crookedtimber.org/2025/11/09/sunday-photoblogging-hamburg-cobblestones/)
+---
+
+Crooked Timber --- 11/9/2025
+
+
+
+
 [somewhere here](https://www.fractalkitty.com/somewhere-here/)
 ---
 
@@ -21,14 +29,6 @@ A conversation about mathematics inspired by a 3D wooden puzzle. Presented by Ka
 Computational Complexity --- 11/6/2025
 
 We're seeing an attack on capitalism on both ends of the political spectrum with with the election of Democratic Socialist Zhoran Mamdani as mayor of New York, and Donald Trump trying to direct the economy through tariffs, less independency of the...
-
-
-[The Inverse Cube Force Law](https://golem.ph.utexas.edu/category/2025/11/the_inverse_cube_force_law.html)
----
-
-The n-Category Café --- 11/6/2025
-
-Newton's Principia is famous for his investigations of the inverse square force law for gravity.  But he also studied the inverse cube law.  Why, and what is so good about this law?
 
 
 [Inquiries-Week 5: Triangles Emerge](https://www.fractalkitty.com/inquiries-week-5-triangles-emerge/)
@@ -63,14 +63,6 @@ Crooked Timber --- 11/4/2025
 I’ve been visiting family in Germany, with only a phone, so I couldn’t post on Sunday. But here are some crows from Hamburg.
 
 
-[Dynamics in Jordan Algebras](https://golem.ph.utexas.edu/category/2025/11/dynamics_in_jordan_algebras.html)
----
-
-The n-Category Café --- 11/4/2025
-
-You can tweak Heisenberg's equation so that instead of using a commutator it uses an associator!  Then it applies to Jordan algebras other than that of self-adjoint complex matrices.
-
-
 [Did Euclid exist? Is it okay to quote people that did not exist?](https://blog.computationalcomplexity.org/feeds/543908760734613436/comments/default)
 ---
 
@@ -95,12 +87,12 @@ The Aperiodical --- 11/3/2025
 The next issue of the Carnival of Mathematics, rounding up blog posts from the month of October 2025, is now online at Theorem of the Day. The Carnival rounds up maths blog posts from all over the internet, including some from our own Aperiodical....
 
 
-[Second Quantization and the Kepler Problem](https://golem.ph.utexas.edu/category/2025/11/second_quantization_and_the_ke.html)
+[Categorial update?](https://www.logicmatters.net/2025/11/01/categorial-update/)
 ---
 
-The n-Category Café --- 11/3/2025
+Blog - Logic Matters --- 11/1/2025
 
-Exploiting the secret 4-dimensional symmetry of the Kepler problem to think about the periodic table of elements in a new way.
+I’m slowly working on a corrected update of Introducing Category Theory, perhaps for early in the new year. But you can today download a new PDF version, without any of the revised content, but now with the bookmarks for chapters and sections...
 
 
 [The Revenge of Reason is here!](https://deontologistics.co/2025/11/01/the-revenge-of-reason-is-here/)
@@ -143,20 +135,20 @@ Crooked Timber --- 10/29/2025
 Bit of a joke there. What the paper is about is, we found a new planet, about 18.2 light years away. That means that we’re seeing the planet as it appeared 18.2 years ago, in the summer of 2007. Summer 2007: the first iPhone had just hit the...
 
 
+[Not Bergamo, Turing, PHQ again](https://www.logicmatters.net/2025/10/29/not-bergamo-turing-phq/)
+---
+
+Blog - Logic Matters --- 10/29/2025
+
+We were supposed to be in Bergamo for a few days. But when it came near the time, neither of us were feeling up to going — was it a recurrence of Covid? It was a rather good thing that we didn’t set off, as whatever virus it was led to sudden...
+
+
 [Double Maths First Thing: Issue 3C](https://aperiodical.com/2025/10/double-maths-first-thing-issue-3c/)
 ---
 
 The Aperiodical --- 10/29/2025
 
 Double Maths First Thing is brought to you by ibuprofen and grandparents taking the kids Hello! My name is Colin and I am a mathematician on a mission to share and spread the joy in doing maths for its own sake. It’s half term down here in Dorset,...
-
-
-[Applied Category Theory 2026](https://golem.ph.utexas.edu/category/2025/10/applied_category_theory_2026.html)
----
-
-The n-Category Café --- 10/28/2025
-
-Applied Category Theory 2026 is taking place 6--10 July in Tallinn, Estonia, and it's preceded by the Adjoint School Research Week, 29 June -- 3 July.
 
 
 [Bill's Bad Advice](https://blog.computationalcomplexity.org/feeds/5504169307307453639/comments/default)
@@ -247,6 +239,14 @@ Computational Complexity --- 10/18/2025
 In 2001 I supervised Charles Lin's Master's Thesis, which was on Private Information Retrieval.In 2025 I supervised Charles Lin's Master's Thesis, which was on Ramsey Theory.These are different people. To celebrate the second one's thesis, I took...
 
 
+[Two Ph.D. studentships](https://www.logicmatters.net/2025/10/16/two-ph-d-studentships/)
+---
+
+Blog - Logic Matters --- 10/16/2025
+
+Briefly, Thomas Forster tells me that he has acquired funding for two studentships in Wellington NZ (a delightful place!) for students who want to do a Ph.D. in set theory, in particular working with him on NF or perhaps some adjacent topic. He has...
+
+
 [Does “forward” still make sense? A hypothesis on protest](https://crookedtimber.org/2025/10/16/does-forward-still-make-sense-a-hypothesis-on-protest/)
 ---
 
@@ -327,12 +327,12 @@ The Aperiodical --- 10/7/2025
 I’m trying something a bit different. Here’s a ten-minute video about a sequence I found on the OEIS. (I’ve also put this video on YouTube, but I’m anxious about having a copy of my videos somewhere that else) The sequence is A276573, the infinite...
 
 
-[A Complex Qutrit Inside an Octonionic One](https://golem.ph.utexas.edu/category/2025/10/a_complex_qutrit_inside_an_oct.html)
+[A very short, very blunt, book note](https://www.logicmatters.net/2025/10/06/a-very-short-very-blunt-book-note/)
 ---
 
-The n-Category Café --- 10/7/2025
+Blog - Logic Matters --- 10/6/2025
 
-I'm trying to better characterize two maximal subgroups of the group of automorphisms of the exceptional Jordan algebra, whose intersection is the Standard Model gauge group.
+An accessible, very readable, well-motivated, zestful book on ordinal analysis and proof theory would be a very good thing to have. Arai’s Ordinal Analysis with an Introduction to Proof Theory isn’t it. By a country mile. (I was asked for a...
 
 
 [If you use AI in your work do you brag about it or hide it?](https://blog.computationalcomplexity.org/feeds/1237477313397401620/comments/default)
@@ -349,6 +349,14 @@ You used AI in your work. Do you hide it or brag about it? 1) In 2002 there was
 Crooked Timber --- 10/5/2025
 
 
+
+
+[Footnotes to a fortnight: Category mistakes, Dutch courtyards, Martinů](https://www.logicmatters.net/2025/10/04/footnotes-to-a-couple-of-weeks-category-mistakes-dutch-courtyards-martinu/)
+---
+
+Blog - Logic Matters --- 10/4/2025
+
+Most of the writing I have actually done this last week or so has been in tinkering with the category theory notes. For, sad to relate, I still find myself occasionally working through them. Until yesterday, however, it has just been a matter of...
 
 
 [Paper reactors and paper tigers](https://crookedtimber.org/2025/10/03/paper-reactors-and-paper-tigers/)
@@ -373,14 +381,6 @@ This is the post I'll update with this year's Mathober art. Check back and see w
 Computational Complexity --- 10/1/2025
 
 I read through the new book If Anyone Builds It, Everyone Dies by Eliezer Yudkowsky and Nate Soares. "It" refers to Artificial Super Intelligence (ASI). A very short version of the authors' argument: You can view advanced AI as though it has its...
-
-
-[Against Campus ‘Debate’](https://crookedtimber.org/2025/10/01/against-campus-debate/)
----
-
-Crooked Timber --- 10/1/2025
-
-I have a long-standing pet peeve about the conflation of academic freedom and freedom of speech, especially in the context of (purported) campus debate. In order to illustrate why one should not conflate academic freedom and freedom of speech, I...
 
 
 [Clyde Kruskal talks about his Father Martin on Martin's 100th birthday](https://blog.computationalcomplexity.org/feeds/224845733811604907/comments/default)
@@ -447,20 +447,20 @@ Computational Complexity --- 9/23/2025
 STUDENT: What did you do before the web to find papers?BILL: We went to the library and copied papers to read later.STUDENT: Did you read them later?BILL: Well, uh,hmm, ...BILL to a professor in his 80's: What did you do before copy...
 
 
+[Songs of passion.](https://www.logicmatters.net/2025/09/20/footnote-to-the-week-songs-of-passion/)
+---
+
+Blog - Logic Matters --- 9/20/2025
+
+A great couple of days in London. The high point, a quite outstanding evening at Wigmore Hall — the wondrous Lea Desandre and Thomas Dunford (and the Jupiter ensemble) performing Dowland and Purcell. Their new CD is terrific, and the live version...
+
+
 [What is "PhD-Level Intelligence"?](https://blog.computationalcomplexity.org/feeds/4535460946790809118/comments/default)
 ---
 
 Computational Complexity --- 9/17/2025
 
 When announcing Open-AI's latest release last month, Sam Altman said "GPT-5 is the first time that it really feels like talking to an expert in any topic, like a PhD-level expert." Before we discuss whether GPT-5 got there, what does "PhD-Level...
-
-
-[A Shadow of Triality?](https://golem.ph.utexas.edu/category/2025/09/a_shadow_of_triality.html)
----
-
-The n-Category Café --- 9/16/2025
-
-The octonions have nontrivial inner automorphisms of order 3.   Is this related to triality?
 
 
 [Mathober 2025](https://www.fractalkitty.com/mathober-2025/)
@@ -479,12 +479,12 @@ Computational Complexity --- 9/15/2025
 "I'll be on vacation so I won't be checking email.''"I can't be at the meeting since I will be out of town''Technology has made it so that:a) You really CAN get email when you are on vacation.b) You really CAN go to a meeting if you are out of town...
 
 
-[Burrito Monads, Arrow Kitchens, and Freyd Category Recipes](https://golem.ph.utexas.edu/category/2025/08/burrito_monads_arrow_kitchens.html)
+[Greek readings](https://www.logicmatters.net/2025/09/13/footnotes-to-the-week-greek-readings/)
 ---
 
-The n-Category Café --- 9/13/2025
+Blog - Logic Matters --- 9/13/2025
 
-Adjoint School guest post by Khyathi Komalan and Andrew Krenz
+What have I been reading this week? I finished The Voyage Home, the most recent in Pat Barker’s wonderful series re-imaging episodes from the Trojan War. This time, it’s Agamemnon’s voyage home after the war, and his death at the hands of...
 
 
 [Is the Prob Method `Just Counting'- I say no and HELL NO](https://blog.computationalcomplexity.org/feeds/5578083384441572902/comments/default)
@@ -511,6 +511,14 @@ Computational Complexity --- 9/8/2025
 When I first became a professor I had it all planned out, I would do research, teach and supervise students, get tenure and do more research, teach more courses, and supervise more students for the rest of my life. But once I got tenure, instead of...
 
 
+[Footnotes to the week: Zen painting, the size of sets, Maddy](https://www.logicmatters.net/2025/09/06/footnotes-to-the-week-zen-painting-the-size-of-sets-maddy/)
+---
+
+Blog - Logic Matters --- 9/6/2025
+
+Just before we went off to Zürich, we had our house painted outside (the doors, the windows, and so forth). It took fourteen days, not because we have a mansion but because a lot of preparatory work was needed, cutting out minor rot, repairing,...
+
+
 [Guest Post on Why Coding Style is Important](https://blog.computationalcomplexity.org/feeds/2463554635336524401/comments/default)
 ---
 
@@ -519,12 +527,12 @@ Computational Complexity --- 9/2/2025
 Coding Style Is ImportantDoes coding style matter? We teach students how to write code and about algorithms. But, do we discuss coding style? Some people may say that style is just personal preference. But, there is undoubtedly good style and bad...
 
 
-[Equivalence via Surjections](https://golem.ph.utexas.edu/category/2025/08/equivalence_via_surjections.html)
+[Footnotes to the week: Mellor, Sets, Mozart](https://www.logicmatters.net/2025/08/30/footnotes-to-the-week-mellor-sets-mozart/)
 ---
 
-The n-Category Café --- 8/30/2025
+Blog - Logic Matters --- 8/30/2025
 
-All equivalences are generated by just the strict, literally surjective ones.
+It is difficult to believe that Hugh Mellor died over five years ago: he was a very generous and loyal friend, and still much missed. And I have been thinking about him particularly this week, prompted by Tim Crane’s newly published biographical...
 
 
 [The Logical Argument](https://blog.computationalcomplexity.org/feeds/2498048294680683670/comments/default)
@@ -549,6 +557,14 @@ IntroductionIn this inquiry, triangles are dissected into smaller triangles with
 Computational Complexity --- 8/24/2025
 
 (This post was inspired by George Foreman, who passed away March 21, 2025, at the age of 76.)About 10 years ago I asked my classWhat is the best invention or tech advance of the last 50 years?Here are the answers I got NOT ranked.1) The internet....
+
+
+[Footnotes to the week: Russians, Venetians, Van Gogh](https://www.logicmatters.net/2025/08/23/footnotes-to-the-week/)
+---
+
+Blog - Logic Matters --- 8/23/2025
+
+It is time to face the book problem again. We had to clear a whole floor-to-ceiling bay of bookshelves so our plumber could drop new pipework down at the back of the bay (long boring story). And we forced ourselves to be selective about what to...
 
 
 [The elementary theory of surreal arithmetic is bi-interpretable with set theory, Kobe, Japan, September 2025](https://jdh.hamkins.org/theory-of-surreal-arithmetic-bi-interpretable-with-set-theory-japan-september-2025/)
@@ -583,14 +599,6 @@ Computational Complexity --- 8/18/2025
 Tom Lehrer passed away on July 26, 2025, at the age of 97. I wrote a blog-obit here. One of my readers read the post and went down a rabbit hole (or did he?), which lead to a blog post about rabbit holes here. A few more notes about Tom L.1) When...
 
 
-[Safeguarded AI Meeting](https://golem.ph.utexas.edu/category/2025/08/safeguarded_ai_meeting.html)
----
-
-The n-Category Café --- 8/15/2025
-
-This week, 50 category theorists and software engineers working on "safeguarded AI" are meeting in Bristol.
-
-
 [Total Pixel Space](https://blog.computationalcomplexity.org/feeds/237849973695373988/comments/default)
 ---
 
@@ -607,60 +615,12 @@ Computational Complexity --- 8/10/2025
 NICK: I read and enjoyed your blog post on Tom L (see here). I then spent 40 minutes down a rabbithole listening to his music on YouTube.BILL: You call that a rabbit hole?! A while back I spent 3 hours reading questions and answers on quora...
 
 
-[(BT) Diversity from (LC) Diversity](https://golem.ph.utexas.edu/category/2025/08/bt_diversity_from_lc_diversity.html)
----
-
-The n-Category Café --- 8/5/2025
-
-Comparing two mathematical notions of diversity.
-
-
-[Jack Morava](https://golem.ph.utexas.edu/category/2025/08/jack_morava_1.html)
----
-
-The n-Category Café --- 8/2/2025
-
-I hear that Jack Morava died on August 1, 2025.
-
-
-[The Duflo Isomorphism and the Harmonic Oscillator Hamiltonian](https://golem.ph.utexas.edu/category/2025/07/the_duflo_isomorphism_and_the.html)
----
-
-The n-Category Café --- 7/28/2025
-
-Can the Duflo isomorphism explain the extra 1/2 in the Hamiltonian for the quantum harmonic oscillator?
-
-
-[2-Rig Conjectures Proved?](https://golem.ph.utexas.edu/category/2025/07/2rig_conjectures_proved.html)
----
-
-The n-Category Café --- 7/25/2025
-
-Kevin Coulembier has come out with a paper claiming to prove some conjectures on 2-rigs that Todd Trimble, Joe Moeller and I made.
-
-
 [FHE@PDX 2025](https://www.jeremykun.com/shortform/2025-07-25-0956/)
 ---
 
 Math ∩ Programming --- 7/25/2025
 
 On Monday, July 14th 2025, I hosted a mini-workshop on homomorphic encryption at Google’s Portland, Oregon office. Though Portland is a small city, it’s becoming a hub for homomorphic encryption. Intel and Google both have a presence here, as well...
-
-
-[The Clowder Project](https://golem.ph.utexas.edu/category/2025/07/the_clowder_project.html)
----
-
-The n-Category Café --- 7/25/2025
-
-Announcing the Clowder Project: a wiki and reference work for category theory built using the same general infrastructure and tag system of the Stacks Project.
-
-
-[Lawvere's Work on Arms Control](https://golem.ph.utexas.edu/category/2025/07/lawveres_work_on_arms_control.html)
----
-
-The n-Category Café --- 7/25/2025
-
-Did you know that Lawvere did classified work on arms control in the 1960s, back when he was writing his thesis?
 
 
 [Frequently Asked Questions about FHE](https://www.jeremykun.com/frequently-asked-questions-about-fhe/)
@@ -797,4 +757,44 @@ The road I walk is new. It’s made not of stone, but dirt. There are no road si
 Abuse of Notation --- 5/27/2025
 
 Out for a walk I let go and let the city dissolve me.
+
+
+[Using Automorphism Groups of Curves to Control the Slopes of their Jacobians](https://rin.io/gausssums/)
+---
+
+Good Fibrations --- 5/23/2025
+
+I’ve felt for a long time that automorphisms of curves should control or at least exert serious force on the slopes on their Jacobians. Symmetry forces height, as I’ve written about previously in Models of Formal Groups Laws of Every Height, and...
+
+
+[Inquiries-Week 1: Circle Shading](https://www.fractalkitty.com/inquiries-week-1-circle-shading/)
+---
+
+Fractal Kitty --- 5/20/2025
+
+This is the first of a series of guided inquiries in math.  If a document is preferred over a blog post, the pdf file is below:Inquiries-Week 1_ Circle ShadingInquiries-Week 1_ Circle Shading.pdf615...
+
+
+[Leibniz's Dream and Dijkstra's nightmare](https://www.jeremykun.com/shortform/2025-05-13-2107/)
+---
+
+Math ∩ Programming --- 5/13/2025
+
+I was inspired to browse some of Edsger Dijkstra’s essays today, and came across his speech, “Under the spell of Leibniz’s Dream”. It’s the sort of personal history I love to read, which gives one person’s sense of the world over a period of...
+
+
+[Skolem’s paradox and the countable transitive submodel theorem, Leeds Set Theory Seminar, May 2025](https://jdh.hamkins.org/skolems-paradox-and-the-countable-transitive-submodel-theorem-leeds-set-theory-seminar-may-2025/)
+---
+
+Joel David Hamkins --- 5/12/2025
+
+This will be an online talk for the Leeds Set Theory Seminar, 21 May 2025 1pm BST. Contact the organizers (Hope Duncan) for Teams access. Abstract: One can find in the philosophical research literature surrounding Skolem’s paradox a certain claim,...
+
+
+[My Graduate Career in Math](https://www.jeremykun.com/2025/05/12/my-graduate-career-in-math/)
+---
+
+Math ∩ Programming --- 5/12/2025
+
+Editor’s note: This essay was originally published on Medium on 2016-03-05. I have made minor edits in this republishing and added a few small retrospective notes. 2010–2011 (Year 0) I had just switched my major at Cal Poly State University from...
 
