@@ -4,7 +4,7 @@
 
 Crooked Timber --- 11/10/2025
 
-114 years ago, the guns fell silent on the Western Front, marking a temporary and partial end to the Great War which began in 1914, and has continued, in one form or another, ever since. I once hoped that I would live to see a peaceful world, but...
+107 years ago*, the guns fell silent on the Western Front, marking a temporary and partial end to the Great War which began in 1914, and has continued, in one form or another, ever since. I once hoped that I would live to see a peaceful world, but...
 
 
 [Fiction and non-fiction to move citizens on climate change](https://crookedtimber.org/2025/11/10/fiction-and-non-fiction-to-move-citizens-on-climate-change/)
