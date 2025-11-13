@@ -1,4 +1,28 @@
 
+[The elementary theory of surreal arithmetic is bi-interpretable with set theory, Notre Dame Logic Seminar, November 2025](https://jdh.hamkins.org/surreal-arithmetic-notre-dame-logic-seminar-nov-2025/)
+---
+
+Joel David Hamkins --- 11/12/2025
+
+This will be a talk for the Logic Seminar at the University of Notre Dame Abstract. I shall introduce what I call the first-order elementary theory of surreal arithmetic, a theory that is true in the surreal field when equipped with its birthday...
+
+
+[The Future of Teaching Assistants](https://blog.computationalcomplexity.org/feeds/6070689394445949241/comments/default)
+---
+
+Computational Complexity --- 11/12/2025
+
+In 2016, in the pre-transformer times, Georgia Tech professor Ashok Goel gave a prescient TEDx Talk on an AI teaching assistant for his large online Artificial Intelligence course. Students would ask questions to an online forum, and fellow...
+
+
+[Double Maths First Thing: Issue 3E](https://aperiodical.com/2025/11/double-maths-first-thing-issue-3e/)
+---
+
+The Aperiodical --- 11/12/2025
+
+Hello! My name is Colin and I am a mathematician on a mission to spread the joy and delight of getting stuck into maths. Let’s start with a lovely quote from Karen Uhlenbeck: “I think you can’t do mathematics without the ability to concentrate. But...
+
+
 [Armistice Day](https://crookedtimber.org/2025/11/10/armistice-day-9/)
 ---
 
@@ -375,14 +399,6 @@ The Aperiodical --- 10/8/2025
 DMFT is grateful for the last minute. Hello! My name is Colin and I am a mathematician on a mission to spread the joy and delight of doing maths and solving problems. Today I went to a school in Poole to talk about my career in maths and computing...
 
 
-[What on earth is the infinite least squares beanstalk?](https://aperiodical.com/2025/10/what-on-earth-is-the-infinite-least-squares-beanstalk/)
----
-
-The Aperiodical --- 10/7/2025
-
-I’m trying something a bit different. Here’s a ten-minute video about a sequence I found on the OEIS. (I’ve also put this video on YouTube, but I’m anxious about having a copy of my videos somewhere that else) The sequence is A276573, the infinite...
-
-
 [A Complex Qutrit Inside an Octonionic One](https://golem.ph.utexas.edu/category/2025/10/a_complex_qutrit_inside_an_oct.html)
 ---
 
@@ -679,14 +695,6 @@ The n-Category Café --- 8/15/2025
 This week, 50 category theorists and software engineers working on "safeguarded AI" are meeting in Bristol.
 
 
-[Total Pixel Space](https://blog.computationalcomplexity.org/feeds/237849973695373988/comments/default)
----
-
-Computational Complexity --- 8/13/2025
-
-Last month the New York Times highlighted some AI generated short movies, including Total Pixel Space, by Jacob Adler that gets philosophical about information, à la infinite monkeys. It imagines the finite number of images and video that contain...
-
-
 [(BT) Diversity from (LC) Diversity](https://golem.ph.utexas.edu/category/2025/08/bt_diversity_from_lc_diversity.html)
 ---
 
@@ -789,12 +797,4 @@ This will be a lecture series on the Philosophy of Mathematics at Fudan Universi
 Joel David Hamkins --- 7/9/2025
 
 This will be a talk for the International Conference on the Philosophy of Mathematics, held at Lanzhou University, China, 25-27 July 2025. How the continuum hypothesis might have been a fundamental axiom Abstract. I shall describe a...
-
-
-[Inquiries-Week 3: Reflect and Rotate](https://www.fractalkitty.com/inquiries-week-3-r-and-rotate/)
----
-
-Fractal Kitty --- 7/3/2025
-
-IntroductionExplore the reflection and rotation of polygons to discover the patterns that emerge.  Polygon PlayLet's start with a triangle ABC. We can rotate clockwise so that each vertex moves clockwise by one step: We can also reflect (or flip)...
 
