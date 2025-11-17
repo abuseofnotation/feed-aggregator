@@ -1,4 +1,20 @@
 
+[Test of Time Awards: A Good Idea but ....](https://blog.computationalcomplexity.org/feeds/4271664968383113403/comments/default)
+---
+
+Computational Complexity --- 11/16/2025
+
+Since there is now a CCC Test-of-Time Award, see here,  (CCC stands for Computational Complexity Conference), I decided to look at other Test-of-Time awards in computer science.Below is a list of various computer science Test-of-Time awards, along...
+
+
+[Sunday photoblogging: Clevedon pier shadow (2007)](https://crookedtimber.org/2025/11/16/sunday-photoblogging-clevedon-pier-shadow-2007/)
+---
+
+Crooked Timber --- 11/16/2025
+
+
+
+
 [The elementary theory of surreal arithmetic is bi-interpretable with set theory, Notre Dame Logic Seminar, November 2025](https://jdh.hamkins.org/surreal-arithmetic-notre-dame-logic-seminar-nov-2025/)
 ---
 
@@ -375,14 +391,6 @@ The Aperiodical --- 10/14/2025
 I was asked recently by a first-year maths undergrad student if I could recommend any books on problem-solving, as they were hoping to develop their problem-solving skills. Asking around some maths communication colleagues has resulted in an...
 
 
-[Delighted to be proved wrong](https://crookedtimber.org/2025/10/09/delighted-to-be-proved-wrong/)
----
-
-Crooked Timber --- 10/9/2025
-
-A European justice minister who does have principles! The EU “chat control” proposal I wrote about the other day has been scuppered by Germany’s justice ministry saying forcefully that it will never support this particular form of mass...
-
-
 [Big Bots Don't Cry](https://blog.computationalcomplexity.org/feeds/4977782246945115848/comments/default)
 ---
 
@@ -677,14 +685,6 @@ I've heard this story from a few places. A father watches Back to the Future II 
 Joel David Hamkins --- 8/18/2025
 
 This will be a talk I shall give for the History and Philosophy of Science (HPS) Colloquium at the University of Notre Dame, 17 October 2025, 12:30-1:30 pm, 201 O’Shaughnessy Hall. Did Turing ever halt? Abstract. Alan Turing’s 1936 paper … Continue...
-
-
-[A few more notes about Tom L](https://blog.computationalcomplexity.org/feeds/5043973110978673055/comments/default)
----
-
-Computational Complexity --- 8/18/2025
-
-Tom Lehrer passed away on July 26, 2025, at the age of 97. I wrote a blog-obit here. One of my readers read the post and went down a rabbit hole (or did he?), which lead to a blog post about rabbit holes here. A few more notes about Tom L.1) When...
 
 
 [Safeguarded AI Meeting](https://golem.ph.utexas.edu/category/2025/08/safeguarded_ai_meeting.html)
