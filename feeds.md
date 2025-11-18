@@ -1,4 +1,20 @@
 
+[Bicyclic Matrix-Matrix Multiplication in Fully Homomorphic Encryption](https://www.jeremykun.com/2025/11/17/bicyclic-matrix-matrix-multiplication-in-fully-homomorphic-encryption/)
+---
+
+Math ∩ Programming --- 11/17/2025
+
+In an earlier article, I covered the basic technique for performing matrix-vector multiplication in fully homomorphic encryption (FHE), known as the Halevi-Shoup diagonal method. This article covers a more recent method for matrix-matrix...
+
+
+[Online discussion on Lisa Herzog’s The Democratic Marketplace](https://crookedtimber.org/2025/11/17/online-discussion-on-lisa-herzogs-the-democratic-marketplace/)
+---
+
+Crooked Timber --- 11/17/2025
+
+If you want to know more about how the current form of capitalism is undermining (a thick conception of) democracy, and what can be done about this, then you should read Lisa Herzog’s latest book The Democratic Marketplace. The book is written for...
+
+
 [Test of Time Awards: A Good Idea but ....](https://blog.computationalcomplexity.org/feeds/4271664968383113403/comments/default)
 ---
 
@@ -349,14 +365,6 @@ In 2001 I supervised Charles Lin's Master's Thesis, which was on Private Informa
 Blog - Logic Matters --- 10/16/2025
 
 Briefly, Thomas Forster tells me that he has acquired funding for two studentships in Wellington NZ (a delightful place!) for students who want to do a Ph.D. in set theory, in particular working with him on NF or perhaps some adjacent topic. He has...
-
-
-[Does “forward” still make sense? A hypothesis on protest](https://crookedtimber.org/2025/10/16/does-forward-still-make-sense-a-hypothesis-on-protest/)
----
-
-Crooked Timber --- 10/16/2025
-
-One of the big puzzles in the last months, for those observing the politics in the US and elsewhere, is this: why is there apparently so little protest against the attacks on democracy and the rule of law, and why does it happen in some but not...
 
 
 [The case against boolean logic](http://abuseofnotation.github.io/boolean-thinking/)
@@ -789,12 +797,4 @@ Haiku + Codewith a second take dance with the first – tethered massorbiting en
 Joel David Hamkins --- 7/9/2025
 
 This will be a lecture series on the Philosophy of Mathematics at Fudan University in Shanghai, China, 30 June – 25 July 2025, as a part of the International Summer School program at Fudan University. Lectures given by Ruizhi Yang … Continue...
-
-
-[How the continuum hypothesis might have been a fundamental axiom, Lanzhou China, July 2025](https://jdh.hamkins.org/how-the-ch-might-have-been-fundamental-lanzhou-2025/)
----
-
-Joel David Hamkins --- 7/9/2025
-
-This will be a talk for the International Conference on the Philosophy of Mathematics, held at Lanzhou University, China, 25-27 July 2025. How the continuum hypothesis might have been a fundamental axiom Abstract. I shall describe a...
 
