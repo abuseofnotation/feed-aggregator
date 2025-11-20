@@ -1,4 +1,12 @@
 
+[Double Maths First Thing: Issue 3F](https://aperiodical.com/2025/11/double-maths-first-thing-issue-3f/)
+---
+
+The Aperiodical --- 11/19/2025
+
+Double Maths First Thing needs to collect its tickets, don’t let it forget. Hello! My name is Colin and I am a mathematician on a mission to spread the joy and delight of maths as far and wide as possible. This week, I’m steeling myself up for a...
+
+
 [Bicyclic Matrix-Matrix Multiplication in Fully Homomorphic Encryption](https://www.jeremykun.com/2025/11/17/bicyclic-matrix-matrix-multiplication-in-fully-homomorphic-encryption/)
 ---
 
@@ -405,14 +413,6 @@ I was asked recently by a first-year maths undergrad student if I could recommen
 Computational Complexity --- 10/8/2025
 
 A few comments to last week's post Computers Don't Want suggested that human brains are just advanced computers, yet still possess agency and desires. But are we just Turing machines? I wrote about this question before but let's revisit in the...
-
-
-[Double Maths First Thing: Issue 39](https://aperiodical.com/2025/10/double-maths-first-thing-issue-39/)
----
-
-The Aperiodical --- 10/8/2025
-
-DMFT is grateful for the last minute. Hello! My name is Colin and I am a mathematician on a mission to spread the joy and delight of doing maths and solving problems. Today I went to a school in Poole to talk about my career in maths and computing...
 
 
 [A Complex Qutrit Inside an Octonionic One](https://golem.ph.utexas.edu/category/2025/10/a_complex_qutrit_inside_an_oct.html)
