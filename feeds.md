@@ -1,4 +1,20 @@
 
+[“Core Protection”](https://crookedtimber.org/2025/11/20/core-protection/)
+---
+
+Crooked Timber --- 11/20/2025
+
+I have a piece over at the London Review of Books Blog about the UK government’s appalling changes to the way refugees are treated in the country. “After the home secretary, Shabana Mahmood, announced the government’s new policies for ‘Restoring...
+
+
+[Factoring Carmichael Numbers](https://blog.computationalcomplexity.org/feeds/7969406995688661287/comments/default)
+---
+
+Computational Complexity --- 11/20/2025
+
+Carmichael Numbers are the bane of probabilistic primality algorithms. You have to go through extra steps just to handle these relatively rare numbers. But did you know that the Miller-Rabin algorithm not only determines the compositeness of...
+
+
 [Double Maths First Thing: Issue 3F](https://aperiodical.com/2025/11/double-maths-first-thing-issue-3f/)
 ---
 
@@ -351,14 +367,6 @@ Crooked Timber --- 10/19/2025
 
 
 
-[Death and Capitalism (Part 1 of 4)](https://crookedtimber.org/2025/10/19/death-and-capitalism-part-1-of-4/)
----
-
-Crooked Timber --- 10/19/2025
-
-Within ten minutes I regretted my decision to walk to Creedon Street in the outback town of Broken Hill. At first, I thought it was the shoes. Stupid things I’d bought on the internet, they were little more than plastic-coated cardboard soles...
-
-
 [The Most Common Name in the World is Not Charles Lin. But It Seems That Way To Me.](https://blog.computationalcomplexity.org/feeds/4527299882170588164/comments/default)
 ---
 
@@ -677,14 +685,6 @@ It is time to face the book problem again. We had to clear a whole floor-to-ceil
 Joel David Hamkins --- 8/20/2025
 
 This will be a talk for the Conference on the occasion of Jörg Brendle’s 60th birthday at Kobe University in Kobe, Japan, 2-5 September 2025. Many years ago, I was a JSPS Fellow at Kobe University, at the same time … Continue reading →
-
-
-[The Phone](https://blog.computationalcomplexity.org/feeds/3715509466111296781/comments/default)
----
-
-Computational Complexity --- 8/20/2025
-
-I've heard this story from a few places. A father watches Back to the Future II with his kid. The 1989 movie view of 2015 looks entirely different when in fact not much has changed except for the fashion and the lack of mobile phones. This is...
 
 
 [Did Turing ever halt? HPS Colloquium, Notre Dame, October 2025](https://jdh.hamkins.org/did-turing-ever-halt-hps-colloquium-october-2025/)
