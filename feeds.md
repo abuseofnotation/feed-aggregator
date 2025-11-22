@@ -1,4 +1,12 @@
 
+[Mathematical Objects: Roman dodecahedron](https://aperiodical.com/2025/11/mathematical-objects-roman-dodecahedron/)
+---
+
+The Aperiodical --- 11/21/2025
+
+A conversation about mathematics, history, games and more, inspired by a Roman dodecahedron. Presented by Katie Steckles and Peter Rowlett.
+
+
 [“Core Protection”](https://crookedtimber.org/2025/11/20/core-protection/)
 ---
 
@@ -124,7 +132,7 @@ Crooked Timber --- 11/9/2025
 
 Fractal Kitty --- 11/8/2025
 
-A coded poem and trackThe Track:Initiated on a piano, and realized on an OP-1 Field. somewhere here0:00/101.302857142857151×The Visual:Clean coded in p5js with p5sound - enjoy in fullscreen. Click here for the visual with music - (CW: Strobing...
+A coded poem and trackThe Track:Initiated on a piano, and realized on an OP-1 Field. somewhere here0:00/101.302857142857151×The Visual:Human coded in p5js with p5sound - enjoy in fullscreen. Click here for the visual with music - (CW: Strobing...
 
 
 [Mathematical Objects: 3D wooden puzzle with Grant Sanderson](https://aperiodical.com/2025/11/mathematical-objects-3d-wooden-puzzle-with-grant-sanderson/)
@@ -405,14 +413,6 @@ Each fall I try to predict the theory computer science faculty job market to com
 The Aperiodical --- 10/15/2025
 
 Double Maths First Thing almost forgot to put this line in! Hello! My name is Colin and I am a mathematician on a mission to spread the joy and delight of doing mathematical things. This week I am mainly getting to grips with reluctantly becoming...
-
-
-[Books to Recommend to Maths Students](https://aperiodical.com/2025/10/books-to-recommend-to-maths-students/)
----
-
-The Aperiodical --- 10/14/2025
-
-I was asked recently by a first-year maths undergrad student if I could recommend any books on problem-solving, as they were hoping to develop their problem-solving skills. Asking around some maths communication colleagues has resulted in an...
 
 
 [Big Bots Don't Cry](https://blog.computationalcomplexity.org/feeds/4977782246945115848/comments/default)
