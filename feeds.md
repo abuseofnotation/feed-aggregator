@@ -1,4 +1,28 @@
 
+[Footnotes to a long month: Books of the year?](https://www.logicmatters.net/2025/11/22/footnotes-to-a-long-month-books-of-the-year/)
+---
+
+Blog - Logic Matters --- 11/22/2025
+
+Not the best few weeks. Old people have health issues. Who knew? We were planning to go to Italy in a week or so, in particular to see the wonderful-sounding Fra Angelico exhibition at Palazzo Strozzi. Hopefully we will still be able to catch that...
+
+
+[Beyond the Geometry of Music](https://golem.ph.utexas.edu/category/2025/11/beyond_the_geometry_of_music.html)
+---
+
+The n-Category Café --- 11/22/2025
+
+Tymoczko gave a good talk on the math of music theory.
+
+
+[Musk’s last grift](https://crookedtimber.org/2025/11/22/musks-last-grift/)
+---
+
+Crooked Timber --- 11/22/2025
+
+The US is one big grift these days: the Trump Administration, traditional and social media, corporations, crypto, financial markets are all selling some kind of spurious promise. It’s hard to pick the most egregious example. But for me, it’s hard...
+
+
 [Mathematical Objects: Roman dodecahedron](https://aperiodical.com/2025/11/mathematical-objects-roman-dodecahedron/)
 ---
 
@@ -367,14 +391,6 @@ Math ∩ Programming --- 10/19/2025
 Polyhedral optimization is a tool used in compilers for optimizing loop nests. While the major compilers that use this implement polyhedral optimizations from scratch,1 there is a generally-applicable open source C library called the Integer Set...
 
 
-[Sunday photoblogging: Pézenas](https://crookedtimber.org/2025/10/19/sunday-photoblogging-pezenas-6/)
----
-
-Crooked Timber --- 10/19/2025
-
-
-
-
 [The Most Common Name in the World is Not Charles Lin. But It Seems That Way To Me.](https://blog.computationalcomplexity.org/feeds/4527299882170588164/comments/default)
 ---
 
@@ -671,14 +687,6 @@ Computational Complexity --- 8/24/2025
 (This post was inspired by George Foreman, who passed away March 21, 2025, at the age of 76.)About 10 years ago I asked my classWhat is the best invention or tech advance of the last 50 years?Here are the answers I got NOT ranked.1) The internet....
 
 
-[Footnotes to the week: Russians, Venetians, Van Gogh](https://www.logicmatters.net/2025/08/23/footnotes-to-the-week/)
----
-
-Blog - Logic Matters --- 8/23/2025
-
-It is time to face the book problem again. We had to clear a whole floor-to-ceiling bay of bookshelves so our plumber could drop new pipework down at the back of the bay (long boring story). And we forced ourselves to be selective about what to...
-
-
 [The elementary theory of surreal arithmetic is bi-interpretable with set theory, Kobe, Japan, September 2025](https://jdh.hamkins.org/theory-of-surreal-arithmetic-bi-interpretable-with-set-theory-japan-september-2025/)
 ---
 
@@ -749,14 +757,6 @@ On Monday, July 14th 2025, I hosted a mini-workshop on homomorphic encryption at
 The n-Category Café --- 7/25/2025
 
 Announcing the Clowder Project: a wiki and reference work for category theory built using the same general infrastructure and tag system of the Stacks Project.
-
-
-[Lawvere's Work on Arms Control](https://golem.ph.utexas.edu/category/2025/07/lawveres_work_on_arms_control.html)
----
-
-The n-Category Café --- 7/25/2025
-
-Did you know that Lawvere did classified work on arms control in the 1960s, back when he was writing his thesis?
 
 
 [Frequently Asked Questions about FHE](https://www.jeremykun.com/frequently-asked-questions-about-fhe/)
