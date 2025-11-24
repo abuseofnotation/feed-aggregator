@@ -1,4 +1,12 @@
 
+[Beach Spectres update – I’ve made a big tile!](https://aperiodical.com/2025/11/beach-spectres-update-ive-made-a-big-tile/)
+---
+
+The Aperiodical --- 11/23/2025
+
+Here’s an update on my progress in the Beach Spectres project. I’ve put out two update videos since the last post but failed to write a post here. I promise I’m trying my best to be more organised than usual! Update 2: it’s all coming together!...
+
+
 [Footnotes to a long month: Books of the year?](https://www.logicmatters.net/2025/11/22/footnotes-to-a-long-month-books-of-the-year/)
 ---
 
@@ -421,14 +429,6 @@ In my last post about generality, I tried to show how our ambition to discover i
 Computational Complexity --- 10/15/2025
 
 Each fall I try to predict the theory computer science faculty job market to come and give suggestions to those going after them. Get set for a rocky ride, with AI’s disruption of computer science, fiscal stress at universities, and new U.S....
-
-
-[Double Maths First Thing: Issue 3A](https://aperiodical.com/2025/10/double-maths-first-thing-issue-3a/)
----
-
-The Aperiodical --- 10/15/2025
-
-Double Maths First Thing almost forgot to put this line in! Hello! My name is Colin and I am a mathematician on a mission to spread the joy and delight of doing mathematical things. This week I am mainly getting to grips with reluctantly becoming...
 
 
 [Big Bots Don't Cry](https://blog.computationalcomplexity.org/feeds/4977782246945115848/comments/default)
