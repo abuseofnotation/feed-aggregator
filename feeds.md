@@ -1,4 +1,12 @@
 
+[The Little Theorems](https://blog.computationalcomplexity.org/feeds/7804395595306792417/comments/default)
+---
+
+Computational Complexity --- 11/24/2025
+
+Last week we had a talk by Purdue philosophy professor Eamon Duede Tail Novelty, Knowledge Collapse, and Useful Frictions in Science. In part of the talk he argued that if AI makes writing technical papers easier, researchers will write up small...
+
+
 [Beach Spectres update – I’ve made a big tile!](https://aperiodical.com/2025/11/beach-spectres-update-ive-made-a-big-tile/)
 ---
 
@@ -677,14 +685,6 @@ This will be one of a series of posts that I've always wanted to write but I nee
 Fractal Kitty --- 8/26/2025
 
 IntroductionIn this inquiry, triangles are dissected into smaller triangles with vertices labeled as either light (L), medium (M), or dark (D). Any triangles that are LMD triangles are shaded with color. Triangle playLet's start with a triangle...
-
-
-[Was the George Foreman Grill The Best Invention of the last 50 Years?](https://blog.computationalcomplexity.org/feeds/6463255190197618046/comments/default)
----
-
-Computational Complexity --- 8/24/2025
-
-(This post was inspired by George Foreman, who passed away March 21, 2025, at the age of 76.)About 10 years ago I asked my classWhat is the best invention or tech advance of the last 50 years?Here are the answers I got NOT ranked.1) The internet....
 
 
 [The elementary theory of surreal arithmetic is bi-interpretable with set theory, Kobe, Japan, September 2025](https://jdh.hamkins.org/theory-of-surreal-arithmetic-bi-interpretable-with-set-theory-japan-september-2025/)
