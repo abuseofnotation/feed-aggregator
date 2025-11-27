@@ -1,4 +1,12 @@
 
+[Double Maths First Thing: Issue 40](https://aperiodical.com/2025/11/double-maths-first-thing-issue-40/)
+---
+
+The Aperiodical --- 11/26/2025
+
+DMFT reckons it must be downhill from here Hello! My name is Colin and I am a mathematician on a mission to find and disseminate the joy in doing maths, solving puzzles and getting to the root of things in general. I’m back from an excellent...
+
+
 [The Little Theorems](https://blog.computationalcomplexity.org/feeds/7804395595306792417/comments/default)
 ---
 
@@ -389,14 +397,6 @@ Double Maths First Thing is beautiful, it’s simple and it’s wrong Hello! My 
 Computational Complexity --- 10/21/2025
 
 Several people emailed me that September 16, 2025---written as 9-16-25 in the US---represents the integer side lengths of a right triangle.9-16-25 is the only such triple that is also a valid date. This kind of mathematical alignment only happens...
-
-
-[Let’s go to the beach and make an aperiodic tiling!](https://aperiodical.com/2025/10/lets-go-to-the-beach-and-make-an-aperiodic-tiling/)
----
-
-The Aperiodical --- 10/20/2025
-
-Somehow, I’ve been awarded the MEGA grant, from Matt Parker and Talking Maths in Public, for a ridiculous public maths project. I’d better get on that, then! My plan is to go to the beach and use great big cookie cutters in the shape of the spectre...
 
 
 [Integer Set Library (ISL) - A Primer](https://www.jeremykun.com/2025/10/19/isl-a-primer/)
