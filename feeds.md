@@ -1,4 +1,20 @@
 
+[Occasional artwork:  Because It’s The Dream](https://crookedtimber.org/2025/11/27/occasional-artwork-because-its-the-dream/)
+---
+
+Crooked Timber --- 11/27/2025
+
+“I am especially to speak to you of the character and mission of the United States, with special reference to the question whether we are the better or the worse for being composed of different races of men.” — Frederick Douglass, Composite Nation,...
+
+
+[Your Thanksgiving Gen AI use case](https://crookedtimber.org/2025/11/27/your-thanksgiving-gen-ai-use-case/)
+---
+
+Crooked Timber --- 11/27/2025
+
+I think a fair bit about how generative AI can help our everydays. (I also think a lot about its challenges, but this post is not about that.) Here is a good example for how it can be useful with a complex meal prep situation for which Thanksgiving...
+
+
 [Double Maths First Thing: Issue 40](https://aperiodical.com/2025/11/double-maths-first-thing-issue-40/)
 ---
 
@@ -21,14 +37,6 @@ Last week we had a talk by Purdue philosophy professor Eamon Duede Tail Novelty
 The Aperiodical --- 11/23/2025
 
 Here’s an update on my progress in the Beach Spectres project. I’ve put out two update videos since the last post but failed to write a post here. I promise I’m trying my best to be more organised than usual! Update 2: it’s all coming together!...
-
-
-[Footnotes to a long month: Books of the year?](https://www.logicmatters.net/2025/11/22/footnotes-to-a-long-month-books-of-the-year/)
----
-
-Blog - Logic Matters --- 11/22/2025
-
-Not the best few weeks. Old people have health issues. Who knew? We were planning to go to Italy in a week or so, in particular to see the wonderful-sounding Fra Angelico exhibition at Palazzo Strozzi. Hopefully we will still be able to catch that...
 
 
 [Beyond the Geometry of Music](https://golem.ph.utexas.edu/category/2025/11/beyond_the_geometry_of_music.html)
@@ -279,14 +287,6 @@ The n-Category Café --- 11/3/2025
 Exploiting the secret 4-dimensional symmetry of the Kepler problem to think about the periodic table of elements in a new way.
 
 
-[Categorial update?](https://www.logicmatters.net/2025/11/01/categorial-update/)
----
-
-Blog - Logic Matters --- 11/1/2025
-
-I’m slowly working on a corrected update of Introducing Category Theory, perhaps for early in the new year. But you can today download a new PDF version, without any of the revised content, but now with the bookmarks for chapters and sections...
-
-
 [The Revenge of Reason is here!](https://deontologistics.co/2025/11/01/the-revenge-of-reason-is-here/)
 ---
 
@@ -327,14 +327,6 @@ Crooked Timber --- 10/29/2025
 Bit of a joke there. What the paper is about is, we found a new planet, about 18.2 light years away. That means that we’re seeing the planet as it appeared 18.2 years ago, in the summer of 2007. Summer 2007: the first iPhone had just hit the...
 
 
-[Not Bergamo, Turing, PHQ again](https://www.logicmatters.net/2025/10/29/not-bergamo-turing-phq/)
----
-
-Blog - Logic Matters --- 10/29/2025
-
-We were supposed to be in Bergamo for a few days. But when it came near the time, neither of us were feeling up to going — was it a recurrence of Covid? It was a rather good thing that we didn’t set off, as whatever virus it was led to sudden...
-
-
 [Double Maths First Thing: Issue 3C](https://aperiodical.com/2025/10/double-maths-first-thing-issue-3c/)
 ---
 
@@ -357,22 +349,6 @@ Applied Category Theory 2026 is taking place 6--10 July in Tallinn, Estonia, and
 Computational Complexity --- 10/27/2025
 
 I sometimes give the following advice for research which I label Bill's Bad Advice. We will later see who it might be good advice for. Spoiler alert: the number of people for whom it is good advice is shrinking but might include Lance especially...
-
-
-[Sunday photoblogging: Pézenas bunting](https://crookedtimber.org/2025/10/26/sunday-photoblogging-pezenas-bunting/)
----
-
-Crooked Timber --- 10/26/2025
-
-
-
-
-[Death and Capitalism (Part 2 of 4)](https://crookedtimber.org/2025/10/24/death-and-capitalism-part-2-of-4/)
----
-
-Crooked Timber --- 10/24/2025
-
-On the longer time scale that we feel in nature, the violence of colonial capitalism seems almost fleeting. ‘Mother Nature will outlast all of this’, Barkandji man Woddy Harris told me, gesturing across his hometown of Wilcannia, two hours’ drive...
 
 
 [AI and Intro Theory](https://blog.computationalcomplexity.org/feeds/4343181318710262656/comments/default)
@@ -415,14 +391,6 @@ Computational Complexity --- 10/18/2025
 In 2001 I supervised Charles Lin's Master's Thesis, which was on Private Information Retrieval.In 2025 I supervised Charles Lin's Master's Thesis, which was on Ramsey Theory.These are different people. To celebrate the second one's thesis, I took...
 
 
-[Two Ph.D. studentships](https://www.logicmatters.net/2025/10/16/two-ph-d-studentships/)
----
-
-Blog - Logic Matters --- 10/16/2025
-
-Briefly, Thomas Forster tells me that he has acquired funding for two studentships in Wellington NZ (a delightful place!) for students who want to do a Ph.D. in set theory, in particular working with him on NF or perhaps some adjacent topic. He has...
-
-
 [The case against boolean logic](http://abuseofnotation.github.io/boolean-thinking/)
 ---
 
@@ -455,28 +423,12 @@ The n-Category Café --- 10/7/2025
 I'm trying to better characterize two maximal subgroups of the group of automorphisms of the exceptional Jordan algebra, whose intersection is the Standard Model gauge group.
 
 
-[A very short, very blunt, book note](https://www.logicmatters.net/2025/10/06/a-very-short-very-blunt-book-note/)
----
-
-Blog - Logic Matters --- 10/6/2025
-
-An accessible, very readable, well-motivated, zestful book on ordinal analysis and proof theory would be a very good thing to have. Arai’s Ordinal Analysis with an Introduction to Proof Theory isn’t it. By a country mile. (I was asked for a...
-
-
 [If you use AI in your work do you brag about it or hide it?](https://blog.computationalcomplexity.org/feeds/1237477313397401620/comments/default)
 ---
 
 Computational Complexity --- 10/5/2025
 
 You used AI in your work. Do you hide it or brag about it? 1) In 2002 there was a movie Simone about an actress who is really an AI. The Wikipedia entry tells the entire plot. I saved time by reading it in two minutes rather than watching it in 2...
-
-
-[Footnotes to a fortnight: Category mistakes, Dutch courtyards, Martinů](https://www.logicmatters.net/2025/10/04/footnotes-to-a-couple-of-weeks-category-mistakes-dutch-courtyards-martinu/)
----
-
-Blog - Logic Matters --- 10/4/2025
-
-Most of the writing I have actually done this last week or so has been in tinkering with the category theory notes. For, sad to relate, I still find myself occasionally working through them. Until yesterday, however, it has just been a matter of...
 
 
 [Mathober 2025 Sketches](https://www.fractalkitty.com/mathober-2025-sketches/)
@@ -559,14 +511,6 @@ Computational Complexity --- 9/23/2025
 STUDENT: What did you do before the web to find papers?BILL: We went to the library and copied papers to read later.STUDENT: Did you read them later?BILL: Well, uh,hmm, ...BILL to a professor in his 80's: What did you do before copy...
 
 
-[Songs of passion.](https://www.logicmatters.net/2025/09/20/footnote-to-the-week-songs-of-passion/)
----
-
-Blog - Logic Matters --- 9/20/2025
-
-A great couple of days in London. The high point, a quite outstanding evening at Wigmore Hall — the wondrous Lea Desandre and Thomas Dunford (and the Jupiter ensemble) performing Dowland and Purcell. Their new CD is terrific, and the live version...
-
-
 [What is "PhD-Level Intelligence"?](https://blog.computationalcomplexity.org/feeds/4535460946790809118/comments/default)
 ---
 
@@ -597,14 +541,6 @@ Mathober is almost here! I am looking forward to seeing everyone’s creativity 
 Computational Complexity --- 9/15/2025
 
 "I'll be on vacation so I won't be checking email.''"I can't be at the meeting since I will be out of town''Technology has made it so that:a) You really CAN get email when you are on vacation.b) You really CAN go to a meeting if you are out of town...
-
-
-[Greek readings](https://www.logicmatters.net/2025/09/13/footnotes-to-the-week-greek-readings/)
----
-
-Blog - Logic Matters --- 9/13/2025
-
-What have I been reading this week? I finished The Voyage Home, the most recent in Pat Barker’s wonderful series re-imaging episodes from the Trojan War. This time, it’s Agamemnon’s voyage home after the war, and his death at the hands of...
 
 
 [Burrito Monads, Arrow Kitchens, and Freyd Category Recipes](https://golem.ph.utexas.edu/category/2025/08/burrito_monads_arrow_kitchens.html)
@@ -639,28 +575,12 @@ Computational Complexity --- 9/8/2025
 When I first became a professor I had it all planned out, I would do research, teach and supervise students, get tenure and do more research, teach more courses, and supervise more students for the rest of my life. But once I got tenure, instead of...
 
 
-[Footnotes to the week: Zen painting, the size of sets, Maddy](https://www.logicmatters.net/2025/09/06/footnotes-to-the-week-zen-painting-the-size-of-sets-maddy/)
----
-
-Blog - Logic Matters --- 9/6/2025
-
-Just before we went off to Zürich, we had our house painted outside (the doors, the windows, and so forth). It took fourteen days, not because we have a mansion but because a lot of preparatory work was needed, cutting out minor rot, repairing,...
-
-
 [Guest Post on Why Coding Style is Important](https://blog.computationalcomplexity.org/feeds/2463554635336524401/comments/default)
 ---
 
 Computational Complexity --- 9/2/2025
 
 Coding Style Is ImportantDoes coding style matter? We teach students how to write code and about algorithms. But, do we discuss coding style? Some people may say that style is just personal preference. But, there is undoubtedly good style and bad...
-
-
-[Footnotes to the week: Mellor, Sets, Mozart](https://www.logicmatters.net/2025/08/30/footnotes-to-the-week-mellor-sets-mozart/)
----
-
-Blog - Logic Matters --- 8/30/2025
-
-It is difficult to believe that Hugh Mellor died over five years ago: he was a very generous and loyal friend, and still much missed. And I have been thinking about him particularly this week, prompted by Tim Crane’s newly published biographical...
 
 
 [Equivalence via Surjections](https://golem.ph.utexas.edu/category/2025/08/equivalence_via_surjections.html)
@@ -797,4 +717,84 @@ Haiku + Codewith a second take dance with the first – tethered massorbiting en
 Joel David Hamkins --- 7/9/2025
 
 This will be a lecture series on the Philosophy of Mathematics at Fudan University in Shanghai, China, 30 June – 25 July 2025, as a part of the International Summer School program at Fudan University. Lectures given by Ruizhi Yang … Continue...
+
+
+[How the continuum hypothesis might have been a fundamental axiom, Lanzhou China, July 2025](https://jdh.hamkins.org/how-the-ch-might-have-been-fundamental-lanzhou-2025/)
+---
+
+Joel David Hamkins --- 7/9/2025
+
+This will be a talk for the International Conference on the Philosophy of Mathematics, held at Lanzhou University, China, 25-27 July 2025. How the continuum hypothesis might have been a fundamental axiom Abstract. I shall describe a...
+
+
+[Inquiries-Week 3: Reflect and Rotate](https://www.fractalkitty.com/inquiries-week-3-r-and-rotate/)
+---
+
+Fractal Kitty --- 7/3/2025
+
+IntroductionExplore the reflection and rotation of polygons to discover the patterns that emerge.  Polygon PlayLet's start with a triangle ABC. We can rotate clockwise so that each vertex moves clockwise by one step: We can also reflect (or flip)...
+
+
+[Potentialist conceptions of infinity, Peking University, June 2025](https://jdh.hamkins.org/potentialist-conceptions-of-infinity-peking-university-june-2025/)
+---
+
+Joel David Hamkins --- 6/23/2025
+
+This will be a talk for the Conference on Infinity, a collaborative meeting of logicians and specialists in Chinese philosophy here at Peking University, 24 June 2025, in the philosophy department. Abstract. I shall lay out a spectrum of...
+
+
+[TfE: On Post-Searlean Critiques of LLMs](https://deontologistics.co/2025/06/22/tfe-on-post-searlean-critiques-of-llms/)
+---
+
+DEONTOLOGISTICS --- 6/22/2025
+
+Here’s a recent thread on philosophy of AI from Twitter/X, in which I address rather popular arguments made by Emily Bender and others to the effect that LLM outputs are strictly speaking meaningless. I think these argument are flawed, as I explain...
+
+
+[Lectures on Set Theory, Beijing, June 2025](https://jdh.hamkins.org/lectures-on-set-theory-beijing-june-2025/)
+---
+
+Joel David Hamkins --- 6/11/2025
+
+This will be a lecture series at Peking University in Beijing in June 2025. Announcement at Peking University Course abstract. This will be a series of advanced lectures on set theory, treating diverse topics and particularly those illustrating how...
+
+
+[Inquiries-Week 2: Modular Fibonacci](https://www.fractalkitty.com/inquiries-week-2-modular-fibonacci/)
+---
+
+Fractal Kitty --- 6/3/2025
+
+IntroductionIn this activity, we'll explore patterns by finding the remainders when Fibonacci numbers are divided by other numbers.ModuloSometimes, the most interesting part of dividing numbers is what's left over—the remainder. This is where...
+
+
+[Monad](http://abuseofnotation.github.io/monad/)
+---
+
+Abuse of Notation --- 5/27/2025
+
+title: A monad layout: microblog category: microblog tags: programming haskell — A monad is when you know how to convert $M (M a)$ to $M a$, but not $M a$ to $a$.
+
+
+[The level of progress in programming language design](http://abuseofnotation.github.io/pl-design/)
+---
+
+Abuse of Notation --- 5/27/2025
+
+The level of progress in programming language design: Shortly after the first ever programming language was created, it’s author said that the language’s whole paradigm is flawed and we should do functional programming instead*. That was 46 years...
+
+
+[I want to forget](http://abuseofnotation.github.io/forget/)
+---
+
+Abuse of Notation --- 5/27/2025
+
+I want to forget Gaza. I want to forget the pain. I want to forget all dumb jokes, old song lyrics. I want to forget that most things ever happened, as remembering makes everything tedious. Forces you to become a bureaucrat of your memories, to...
+
+
+[Love](http://abuseofnotation.github.io/mushrooms/)
+---
+
+Abuse of Notation --- 5/27/2025
+
+Every time you eat mushrooms, I have to try them too. Cause, if the mushrooms turn out to be poisonous and you die of slow and painful dead, I will die as well. I once dreamed that I was dying, You were beside me, I turned to you and said, “I don’t...
 
