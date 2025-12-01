@@ -1,4 +1,28 @@
 
+[Will Fewer Kids mean Fewer Scientists*](https://crookedtimber.org/2025/11/30/will-fewer-kids-mean-fewer-scientists/)
+---
+
+Crooked Timber --- 11/30/2025
+
+I’ve been seeing more and more alarmism about the idea that, on current demographic trends, the world’s population might shrink to a billion in a century or two. That distant prospect is producing lots of advocacy for policies to increase birth...
+
+
+[Beyond the Geometry of Music](https://golem.ph.utexas.edu/category/2025/11/beyond_the_geometry_of_music.html)
+---
+
+The n-Category Café --- 11/30/2025
+
+Tymoczko gave a good talk on the math of music theory.
+
+
+[Sunday photoblogging: Altona pavement and leaves](https://crookedtimber.org/2025/11/30/sunday-photoblogging-altona-pavement-and-leaves/)
+---
+
+Crooked Timber --- 11/30/2025
+
+
+
+
 [Occasional artwork:  Because It’s The Dream](https://crookedtimber.org/2025/11/27/occasional-artwork-because-its-the-dream/)
 ---
 
@@ -45,14 +69,6 @@ Here’s an update on my progress in the Beach Spectres project. I’ve put out 
 Blog - Logic Matters --- 11/22/2025
 
 Not the best few weeks. Old people have health issues. Who knew? We were planning to go to Italy in a week or so, in particular to see the wonderful-sounding Fra Angelico exhibition at Palazzo Strozzi. Hopefully we will still be able to catch that...
-
-
-[Beyond the Geometry of Music](https://golem.ph.utexas.edu/category/2025/11/beyond_the_geometry_of_music.html)
----
-
-The n-Category Café --- 11/22/2025
-
-Tymoczko gave a good talk on the math of music theory.
 
 
 [Musk’s last grift](https://crookedtimber.org/2025/11/22/musks-last-grift/)
@@ -325,22 +341,6 @@ The advances in artificial intelligence have changed the way we think about comp
 Crooked Timber --- 10/31/2025
 
 In the Wilcannia cemetery a lot of plastic is on display. This cemetery is an important local monument not because it celebrates the working class, because it doesn’t. Unlike in Broken Hill, there are no tourist guides to the cemetery, no famous...
-
-
-[No (Despotic) Kings, but maybe Constitutional Monarchy?](https://crookedtimber.org/2025/10/30/no-despotic-kings-but-maybe-constitutional-monarchy/)
----
-
-Crooked Timber --- 10/30/2025
-
-“An ELECTIVE DESPOTISM was not the government we fought for; but one which should not only be founded on free principles, but in which the powers of government should be so divided and balanced among several bodies of magistracy, as that no one...
-
-
-[Occasional paper:  A planet from 2007](https://crookedtimber.org/2025/10/29/occasional-paper-a-planet-from-2007/)
----
-
-Crooked Timber --- 10/29/2025
-
-Bit of a joke there. What the paper is about is, we found a new planet, about 18.2 light years away. That means that we’re seeing the planet as it appeared 18.2 years ago, in the summer of 2007. Summer 2007: the first iPhone had just hit the...
 
 
 [Not Bergamo, Turing, PHQ again](https://www.logicmatters.net/2025/10/29/not-bergamo-turing-phq/)
