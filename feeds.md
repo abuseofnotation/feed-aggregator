@@ -1,4 +1,28 @@
 
+[log|x| + C revisited](https://golem.ph.utexas.edu/category/2025/12/logx_c_revisited.html)
+---
+
+The n-Category Café --- 12/3/2025
+
+A complex-analytic perspective on the indefinite integral of 1/x.
+
+
+[Double Maths First Thing: Issue 41](https://aperiodical.com/2025/12/double-maths-first-thing-issue-41/)
+---
+
+The Aperiodical --- 12/3/2025
+
+Double Maths First Thing is making a list but not checking it. Hello! My name is Colin and I am a mathematician on a mission to spread mathematical joy and delight, even when I’m not feeling much of either. December is a tough month for me:...
+
+
+[The Pub at the End of the University](https://crookedtimber.org/2025/12/03/the-pub-at-the-end-of-the-university/)
+---
+
+Crooked Timber --- 12/3/2025
+
+I heard a rumour that London IT professionals have selected the pub where they will meet when the internet goes down. It is apocalyptic thinking, perhaps, but it also feels plausible. Though the internet feels permanent, stable and sufficiently...
+
+
 [Octonions and the Standard Model (Part 12)](https://golem.ph.utexas.edu/category/2025/11/the_bioctonionic_plane.html)
 ---
 
@@ -343,14 +367,6 @@ Joel David Hamkins --- 11/4/2025
 I am honored to be giving the 2025-26 Charles R. DePrima Memorial Lecture for the Mathematics Department of the California Institute of Technology. This lecture series aims to bring mathematical researchers to Caltech to give talks for a primarily...
 
 
-[Carnival of Maths 245](https://aperiodical.com/2025/11/carnival-of-maths-245/)
----
-
-The Aperiodical --- 11/3/2025
-
-The next issue of the Carnival of Mathematics, rounding up blog posts from the month of October 2025, is now online at Theorem of the Day. The Carnival rounds up maths blog posts from all over the internet, including some from our own Aperiodical....
-
-
 [Second Quantization and the Kepler Problem](https://golem.ph.utexas.edu/category/2025/11/second_quantization_and_the_ke.html)
 ---
 
@@ -381,14 +397,6 @@ It’s been a long time coming, but my second book, The Revenge of Reason, is fi
 Computational Complexity --- 10/31/2025
 
 The advances in artificial intelligence have changed the way we think about computing. For today's post, how nonuniformity plays a much larger role than I previously believed.First, some background. Circuit complexity gives a different, more...
-
-
-[Death and Capitalism (Part 3 of 4)](https://crookedtimber.org/2025/10/31/death-and-capitalism-part-3-of-4/)
----
-
-Crooked Timber --- 10/31/2025
-
-In the Wilcannia cemetery a lot of plastic is on display. This cemetery is an important local monument not because it celebrates the working class, because it doesn’t. Unlike in Broken Hill, there are no tourist guides to the cemetery, no famous...
 
 
 [Not Bergamo, Turing, PHQ again](https://www.logicmatters.net/2025/10/29/not-bergamo-turing-phq/)
@@ -765,14 +773,6 @@ Can the Duflo isomorphism explain the extra 1/2 in the Hamiltonian for the quant
 Math ∩ Programming --- 7/25/2025
 
 On Monday, July 14th 2025, I hosted a mini-workshop on homomorphic encryption at Google’s Portland, Oregon office. Though Portland is a small city, it’s becoming a hub for homomorphic encryption. Intel and Google both have a presence here, as well...
-
-
-[The Clowder Project](https://golem.ph.utexas.edu/category/2025/07/the_clowder_project.html)
----
-
-The n-Category Café --- 7/25/2025
-
-Announcing the Clowder Project: a wiki and reference work for category theory built using the same general infrastructure and tag system of the Stacks Project.
 
 
 [Frequently Asked Questions about FHE](https://www.jeremykun.com/frequently-asked-questions-about-fhe/)
