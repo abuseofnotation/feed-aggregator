@@ -1,4 +1,28 @@
 
+[Octonions and the Standard Model (Part 12)](https://golem.ph.utexas.edu/category/2025/11/the_bioctonionic_plane.html)
+---
+
+The n-Category Café --- 12/4/2025
+
+An introduction to the bioctonionic plane and the mathematics needed to understand it.
+
+
+[The Most Common Name in the World is Not Charles Lin. But It Seems That Way To Me.](https://blog.computationalcomplexity.org/feeds/4527299882170588164/comments/default)
+---
+
+Computational Complexity --- 12/4/2025
+
+(ADDED LATER- a Sad Note. The older Charles Lin passed away in December of 2025.)In 2001 I supervised Charles Lin's Master's Thesis, which was on Private Information Retrieval.In 2025 I supervised Charles Lin's Master's Thesis, which was on Ramsey...
+
+
+[Finding Papers Before the Web](https://blog.computationalcomplexity.org/feeds/2352040348662852045/comments/default)
+---
+
+Computational Complexity --- 12/4/2025
+
+Inspired by Daniel Litt's X PostStarted asking mathematicians whose career started before the internet if they think Google, email, etc. have sped up the pace of math research. Wide variety of opinions but the broad consensus seems to be “yes,”...
+
+
 [log|x| + C revisited](https://golem.ph.utexas.edu/category/2025/12/logx_c_revisited.html)
 ---
 
@@ -21,14 +45,6 @@ Double Maths First Thing is making a list but not checking it. Hello! My name is
 Crooked Timber --- 12/3/2025
 
 I heard a rumour that London IT professionals have selected the pub where they will meet when the internet goes down. It is apocalyptic thinking, perhaps, but it also feels plausible. Though the internet feels permanent, stable and sufficiently...
-
-
-[Octonions and the Standard Model (Part 12)](https://golem.ph.utexas.edu/category/2025/11/the_bioctonionic_plane.html)
----
-
-The n-Category Café --- 12/2/2025
-
-An introduction to the bioctonionic plane and the mathematics needed to understand it.
 
 
 [Carnival of Maths 246](https://aperiodical.com/2025/12/carnival-of-maths-246/)
@@ -447,14 +463,6 @@ Math ∩ Programming --- 10/19/2025
 Polyhedral optimization is a tool used in compilers for optimizing loop nests. While the major compilers that use this implement polyhedral optimizations from scratch,1 there is a generally-applicable open source C library called the Integer Set...
 
 
-[The Most Common Name in the World is Not Charles Lin. But It Seems That Way To Me.](https://blog.computationalcomplexity.org/feeds/4527299882170588164/comments/default)
----
-
-Computational Complexity --- 10/18/2025
-
-In 2001 I supervised Charles Lin's Master's Thesis, which was on Private Information Retrieval.In 2025 I supervised Charles Lin's Master's Thesis, which was on Ramsey Theory.These are different people. To celebrate the second one's thesis, I took...
-
-
 [Two Ph.D. studentships](https://www.logicmatters.net/2025/10/16/two-ph-d-studentships/)
 ---
 
@@ -685,14 +693,6 @@ When I first became a professor I had it all planned out, I would do research, t
 Blog - Logic Matters --- 9/6/2025
 
 Just before we went off to Zürich, we had our house painted outside (the doors, the windows, and so forth). It took fourteen days, not because we have a mansion but because a lot of preparatory work was needed, cutting out minor rot, repairing,...
-
-
-[Guest Post on Why Coding Style is Important](https://blog.computationalcomplexity.org/feeds/2463554635336524401/comments/default)
----
-
-Computational Complexity --- 9/2/2025
-
-Coding Style Is ImportantDoes coding style matter? We teach students how to write code and about algorithms. But, do we discuss coding style? Some people may say that style is just personal preference. But, there is undoubtedly good style and bad...
 
 
 [Footnotes to the week: Mellor, Sets, Mozart](https://www.logicmatters.net/2025/08/30/footnotes-to-the-week-mellor-sets-mozart/)
