@@ -1,4 +1,20 @@
 
+[l’Établi](https://crookedtimber.org/2025/12/05/letabli/)
+---
+
+Crooked Timber --- 12/5/2025
+
+I spent a good chunk of the afternoon watching l’Etabli, the film of Robert Linhart’s book (which I own but have never read). It is an arresting depiction of the brutality of the assembly-line and the racalialised hierarchies at work in the...
+
+
+[Mathematical Objects: Cardioid with Dominika Vasilkova](https://aperiodical.com/2025/12/mathematical-objects-cardioid/)
+---
+
+The Aperiodical --- 12/5/2025
+
+A conversation about mathematics inspired by a light pattern in a tea cup. Presented by Katie Steckles and Peter Rowlett, with special guest Dominika Vasilkova. Cardioids in coffee cups – Chalkdust Cardioids in Coffee Cups – Numberphile
+
+
 [Octonions and the Standard Model (Part 12)](https://golem.ph.utexas.edu/category/2025/11/the_bioctonionic_plane.html)
 ---
 
@@ -341,22 +357,6 @@ IntroductionIn this inquiry, nodes are connected one at a time. How many lines c
 Crooked Timber --- 11/5/2025
 
 Death comes for us all. We are outlived, as Barkandji man Woddy Harris would have it, by Mother Nature, who holds us in something that I think he would liken to ‘eternity’. By what logic, then, must Mother Nature also die? The Barkandji in...
-
-
-[Double Maths First Thing: Issue 3D](https://aperiodical.com/2025/11/double-maths-first-thing-issue-3d/)
----
-
-The Aperiodical --- 11/5/2025
-
-Double Maths First Thing is disappointed that it’s not that sort of plot you’re meant to remember. Hello! My name is Colin and I am a mathematician on a mission to spread the joy and delight in doing maths, even if today I am slightly despondent...
-
-
-[Tuesday photoblogging: Hamburg crows](https://crookedtimber.org/2025/11/04/tuesday-photoblogging-hamburg-crows/)
----
-
-Crooked Timber --- 11/4/2025
-
-I’ve been visiting family in Germany, with only a phone, so I couldn’t post on Sunday. But here are some crows from Hamburg.
 
 
 [Dynamics in Jordan Algebras](https://golem.ph.utexas.edu/category/2025/11/dynamics_in_jordan_algebras.html)
