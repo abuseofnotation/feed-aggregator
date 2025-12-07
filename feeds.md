@@ -1,4 +1,12 @@
 
+[Footnotes to a fortnight: ETCS, logic questions, late Beethoven](https://www.logicmatters.net/2025/12/06/footnotes-to-a-fortnight-etcs-logic-help-late-beethoven/)
+---
+
+Blog - Logic Matters --- 12/6/2025
+
+I’m still hoping to get a new version of Introducing Category Theory out in January. I want to rewrite the chapter on power objects which is a bit dense, and also carefully read through Part II once more for reader-friendliness: but changes should...
+
+
 [l’Établi](https://crookedtimber.org/2025/12/05/letabli/)
 ---
 
@@ -693,14 +701,6 @@ When I first became a professor I had it all planned out, I would do research, t
 Blog - Logic Matters --- 9/6/2025
 
 Just before we went off to Zürich, we had our house painted outside (the doors, the windows, and so forth). It took fourteen days, not because we have a mansion but because a lot of preparatory work was needed, cutting out minor rot, repairing,...
-
-
-[Footnotes to the week: Mellor, Sets, Mozart](https://www.logicmatters.net/2025/08/30/footnotes-to-the-week-mellor-sets-mozart/)
----
-
-Blog - Logic Matters --- 8/30/2025
-
-It is difficult to believe that Hugh Mellor died over five years ago: he was a very generous and loyal friend, and still much missed. And I have been thinking about him particularly this week, prompted by Tim Crane’s newly published biographical...
 
 
 [Equivalence via Surjections](https://golem.ph.utexas.edu/category/2025/08/equivalence_via_surjections.html)
