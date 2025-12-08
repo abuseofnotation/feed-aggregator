@@ -1,4 +1,20 @@
 
+[Tom Stoppard 1937-2025](https://blog.computationalcomplexity.org/feeds/7138578487238084097/comments/default)
+---
+
+Computational Complexity --- 12/7/2025
+
+The playwright Tom Stoppard passed away at the age of 88 on Nov. 29, 2025.ONE) He wrote many plays and some movies. Below I highlight his works whose themes I think will be of interest to my readers (Or at least to me—your mileage may...
+
+
+[Sunday photoblogging: Braunton Road](https://crookedtimber.org/2025/12/07/sunday-photoblogging-braunton-road-2/)
+---
+
+Crooked Timber --- 12/7/2025
+
+
+
+
 [Footnotes to a fortnight: ETCS, logic questions, late Beethoven](https://www.logicmatters.net/2025/12/06/footnotes-to-a-fortnight-etcs-logic-help-late-beethoven/)
 ---
 
@@ -359,14 +375,6 @@ Fractal Kitty --- 11/6/2025
 IntroductionIn this inquiry, nodes are connected one at a time. How many lines can you draw before a triangle emerges?Starting with FourLet's start with four nodes - draw them on a sheet of paper. How many lines (called edges) can you draw before a...
 
 
-[Death and Capitalism (Part 4 of 4)](https://crookedtimber.org/2025/11/05/death-and-capitalism-part-4-of-4/)
----
-
-Crooked Timber --- 11/5/2025
-
-Death comes for us all. We are outlived, as Barkandji man Woddy Harris would have it, by Mother Nature, who holds us in something that I think he would liken to ‘eternity’. By what logic, then, must Mother Nature also die? The Barkandji in...
-
-
 [Dynamics in Jordan Algebras](https://golem.ph.utexas.edu/category/2025/11/dynamics_in_jordan_algebras.html)
 ---
 
@@ -685,14 +693,6 @@ Computational Complexity --- 9/11/2025
 Joel David Hamkins --- 9/10/2025
 
 Recently I had the pleasure to give a talk at the Conference on the occasion of Jörg Brendle’s 60th birthday at Kobe University in Japan, and I was invited to make remarks at the conference banquet given in his honor. … Continue reading →
-
-
-[A Restless Soul](https://blog.computationalcomplexity.org/feeds/5083131184997402115/comments/default)
----
-
-Computational Complexity --- 9/8/2025
-
-When I first became a professor I had it all planned out, I would do research, teach and supervise students, get tenure and do more research, teach more courses, and supervise more students for the rest of my life. But once I got tenure, instead of...
 
 
 [Footnotes to the week: Zen painting, the size of sets, Maddy](https://www.logicmatters.net/2025/09/06/footnotes-to-the-week-zen-painting-the-size-of-sets-maddy/)
