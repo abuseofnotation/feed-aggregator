@@ -1,4 +1,12 @@
 
+[200 3D printed shapes, 480 children, and a lot of paint 😬](https://aperiodical.com/2025/12/200-3d-printed-shapes-480-children-and-a-lot-of-paint-%f0%9f%98%ac/)
+---
+
+The Aperiodical --- 12/8/2025
+
+Maths Week England happened a couple of weeks ago. I had put my name on the speaker directory, and sure enough a maths lead from a primary school in County Durham emailed me to ask if I could go in and do something for them. It’s been a few years...
+
+
 [Tom Stoppard 1937-2025](https://blog.computationalcomplexity.org/feeds/7138578487238084097/comments/default)
 ---
 
@@ -36,7 +44,7 @@ I spent a good chunk of the afternoon watching l’Etabli, the film of Robert Li
 
 The Aperiodical --- 12/5/2025
 
-A conversation about mathematics inspired by a light pattern in a tea cup. Presented by Katie Steckles and Peter Rowlett, with special guest Dominika Vasilkova. Cardioids in coffee cups – Chalkdust Cardioids in Coffee Cups – Numberphile
+A conversation about mathematics inspired by a light pattern in a tea cup. Presented by Katie Steckles and Peter Rowlett, with special guest Dominika Vasilkova. Cardioids in coffee cups – Chalkdust Cardioids in Coffee Cups – Numberphile...
 
 
 [Octonions and the Standard Model (Part 12)](https://golem.ph.utexas.edu/category/2025/11/the_bioctonionic_plane.html)
@@ -341,14 +349,6 @@ Crooked Timber --- 11/9/2025
 Fractal Kitty --- 11/8/2025
 
 A coded poem and trackThe Track:Initiated on a piano, and realized on an OP-1 Field. somewhere here0:00/101.302857142857151×The Visual:Human coded in p5js with p5sound - enjoy in fullscreen. Click here for the visual with music - (CW: Strobing...
-
-
-[Mathematical Objects: 3D wooden puzzle with Grant Sanderson](https://aperiodical.com/2025/11/mathematical-objects-3d-wooden-puzzle-with-grant-sanderson/)
----
-
-The Aperiodical --- 11/7/2025
-
-A conversation about mathematics inspired by a 3D wooden puzzle. Presented by Katie Steckles and Peter Rowlett, with special guest Grant Sanderson.
 
 
 [The Complexity Argument for Capitalism](https://blog.computationalcomplexity.org/feeds/4111861502485280164/comments/default)
