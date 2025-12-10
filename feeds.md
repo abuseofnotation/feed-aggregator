@@ -1,4 +1,12 @@
 
+[Adventures with Deep Research: success then failure](https://crookedtimber.org/2025/12/09/adventures-with-deep-research-success-then-failure/)
+---
+
+Crooked Timber --- 12/9/2025
+
+I’ve long been interested in the topic of housework, as you can see from this CT post, which produced a long and unusually productive discussion thread [fn1]. The issue came up again in relation to the prospects for humanoid robots. It’s also at...
+
+
 [200 3D printed shapes, 480 children, and a lot of paint 😬](https://aperiodical.com/2025/12/200-3d-printed-shapes-480-children-and-a-lot-of-paint-%f0%9f%98%ac/)
 ---
 
@@ -333,14 +341,6 @@ A friend of mine told me that in the last six months, the last grandchild of one
 Crooked Timber --- 11/10/2025
 
 If you’ve ever been at a Dutch PhD ceremony, you’ve come across the toga – which is, unfortunately not a Greek or Roman toga as pictured here. Instead, it’s a kind of black gown, made from heavy cloth, with velvet facings, accompanied by a white...
-
-
-[Sunday photoblogging: Hamburg cobblestones](https://crookedtimber.org/2025/11/09/sunday-photoblogging-hamburg-cobblestones/)
----
-
-Crooked Timber --- 11/9/2025
-
-
 
 
 [somewhere here](https://www.fractalkitty.com/somewhere-here/)
