@@ -1,4 +1,28 @@
 
+[Double Maths First Thing: Issue 42](https://aperiodical.com/2025/12/double-maths-first-thing-issue-42/)
+---
+
+The Aperiodical --- 12/10/2025
+
+Double Maths First Thing knows where its towel is Hello! My name is Colin and I am a mathematician on a mission to spread the joy and delight of puzzling stuff out. It’s a busy week here, with client work, children at carol services, Christmas...
+
+
+[Bankers (not money) make the world go around? Towards a labour/tech history of finance](https://crookedtimber.org/2025/12/10/bankers-not-money-make-the-world-go-around-towards-a-labour-tech-history-of-finance/)
+---
+
+Crooked Timber --- 12/10/2025
+
+I am at the airport in Melbourne (again). I’m sitting in the window eating one of those excellent boxes of kale, broccoli, beans, seeds, peas and a boiled egg that I am grateful are now available at airports. Next to me a father and daughter are...
+
+
+[Housework for singles](https://crookedtimber.org/2025/12/10/housework-for-singles/)
+---
+
+Crooked Timber --- 12/10/2025
+
+My last post described my attempt to generate a report on housework using Deep Research, and the way it came to a crashing halt. Over the fold, I’ve given the summary from the last version before the crash. You can read the whole report here,...
+
+
 [Adventures with Deep Research: success then failure](https://crookedtimber.org/2025/12/09/adventures-with-deep-research-success-then-failure/)
 ---
 
@@ -303,14 +327,6 @@ Computational Complexity --- 11/12/2025
 In 2016, in the pre-transformer times, Georgia Tech professor Ashok Goel gave a prescient TEDx Talk on an AI teaching assistant for his large online Artificial Intelligence course. Students would ask questions to an online forum, and fellow...
 
 
-[Double Maths First Thing: Issue 3E](https://aperiodical.com/2025/11/double-maths-first-thing-issue-3e/)
----
-
-The Aperiodical --- 11/12/2025
-
-Hello! My name is Colin and I am a mathematician on a mission to spread the joy and delight of getting stuck into maths. Let’s start with a lovely quote from Karen Uhlenbeck: “I think you can’t do mathematics without the ability to concentrate. But...
-
-
 [Armistice Day](https://crookedtimber.org/2025/11/10/armistice-day-9/)
 ---
 
@@ -319,28 +335,12 @@ Crooked Timber --- 11/10/2025
 107 years ago*, the guns fell silent on the Western Front, marking a temporary and partial end to the Great War which began in 1914, and has continued, in one form or another, ever since. I once hoped that I would live to see a peaceful world, but...
 
 
-[Fiction and non-fiction to move citizens on climate change](https://crookedtimber.org/2025/11/10/fiction-and-non-fiction-to-move-citizens-on-climate-change/)
----
-
-Crooked Timber --- 11/10/2025
-
-With another COP starting today, and the question of climate change having played no role at all in the Dutch elections recently, and, well, for a zillion different reasons – it seems like a good time to ask the question: what books can help to...
-
-
 [A Presidential Trivia Question, how I tried to solve it](https://blog.computationalcomplexity.org/feeds/1413899550370295449/comments/default)
 ---
 
 Computational Complexity --- 11/10/2025
 
 A friend of mine told me that in the last six months, the last grandchild of one of our former presidents (who had already passed away) died.I tried to deduce who it was without checking the web directly. For example, I looked up when various...
-
-
-[What should academics wear? Musings on regalia](https://crookedtimber.org/2025/11/10/what-should-academics-wear-musings-on-regalia/)
----
-
-Crooked Timber --- 11/10/2025
-
-If you’ve ever been at a Dutch PhD ceremony, you’ve come across the toga – which is, unfortunately not a Greek or Roman toga as pictured here. Instead, it’s a kind of black gown, made from heavy cloth, with velvet facings, accompanied by a white...
 
 
 [somewhere here](https://www.fractalkitty.com/somewhere-here/)
