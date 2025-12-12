@@ -1,4 +1,12 @@
 
+[Learning the Mathematical Process](https://blog.computationalcomplexity.org/feeds/6316448212914286001/comments/default)
+---
+
+Computational Complexity --- 12/11/2025
+
+Watching Mathematicians at Work (AI generated)The Smithsonian Natural History Museum has a FossiLab where visitors can peek through windows watching scientists prepare fossils for conservation. Maybe we should have a similar exhibit at math museums...
+
+
 [Double Maths First Thing: Issue 42](https://aperiodical.com/2025/12/double-maths-first-thing-issue-42/)
 ---
 
@@ -677,14 +685,6 @@ What have I been reading this week? I finished The Voyage Home, the most recent 
 The n-Category Café --- 9/13/2025
 
 Adjoint School guest post by Khyathi Komalan and Andrew Krenz
-
-
-[Is the Prob Method `Just Counting'- I say no and HELL NO](https://blog.computationalcomplexity.org/feeds/5578083384441572902/comments/default)
----
-
-Computational Complexity --- 9/11/2025
-
-(After I wrote this post Lance tweeted a pointer to a great talk by Ronald de Wolf with more examples, and also examples of quantum proofs, see here.)I was teaching the prob method for lower bounds on Ramsey Numbers (see my slides here).As often...
 
 
 [The Sannomiya incident—how Jörg Brendle hit the big stage in Japanese art](https://jdh.hamkins.org/the-sannomiya-incident-how-jorg-brendle-hit-the-big-stage-in-japanese-art/)
