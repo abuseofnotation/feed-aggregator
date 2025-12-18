@@ -1,4 +1,20 @@
 
+[A Place Away From Tech](https://blog.computationalcomplexity.org/feeds/8936109000133530298/comments/default)
+---
+
+Computational Complexity --- 12/17/2025
+
+The Fine Arts BuildingLast week, I partook of the second Fridays open house in the The Fine Arts Building, ten floors of offices all related to the arts and creatives in some way. Art studios of all kinds, from fine art to photography, music...
+
+
+[Double Maths First Thing: Issue 43](https://aperiodical.com/2025/12/double-maths-first-thing-issue-43/)
+---
+
+The Aperiodical --- 12/17/2025
+
+Double Maths First Thing is not, and has never been, a Grade 2* listed building. Hello! My name is Colin and I am a mathematician on a mission to spread joy and delight in learning, understanding and doing maths. I’ve just had an excellent long...
+
+
 [Weird Al vs Weird AI](https://blog.computationalcomplexity.org/feeds/3670198861399289974/comments/default)
 ---
 
@@ -279,14 +295,6 @@ Crooked Timber --- 11/22/2025
 The US is one big grift these days: the Trump Administration, traditional and social media, corporations, crypto, financial markets are all selling some kind of spurious promise. It’s hard to pick the most egregious example. But for me, it’s hard...
 
 
-[Mathematical Objects: Roman dodecahedron](https://aperiodical.com/2025/11/mathematical-objects-roman-dodecahedron/)
----
-
-The Aperiodical --- 11/21/2025
-
-A conversation about mathematics, history, games and more, inspired by a Roman dodecahedron. Presented by Katie Steckles and Peter Rowlett.
-
-
 [“Core Protection”](https://crookedtimber.org/2025/11/20/core-protection/)
 ---
 
@@ -301,14 +309,6 @@ I have a piece over at the London Review of Books Blog about the UK government�
 Computational Complexity --- 11/20/2025
 
 Carmichael Numbers are the bane of probabilistic primality algorithms. You have to go through extra steps just to handle these relatively rare numbers. But did you know that the Miller-Rabin algorithm not only determines the compositeness of...
-
-
-[Bicyclic Matrix-Matrix Multiplication in Fully Homomorphic Encryption](https://www.jeremykun.com/2025/11/17/bicyclic-matrix-matrix-multiplication-in-fully-homomorphic-encryption/)
----
-
-Math ∩ Programming --- 11/17/2025
-
-In an earlier article, I covered the basic technique for performing matrix-vector multiplication in fully homomorphic encryption (FHE), known as the Halevi-Shoup diagonal method. This article covers a more recent method for matrix-matrix...
 
 
 [Online discussion on Lisa Herzog’s The Democratic Marketplace](https://crookedtimber.org/2025/11/17/online-discussion-on-lisa-herzogs-the-democratic-marketplace/)
@@ -487,14 +487,6 @@ Computational Complexity --- 10/21/2025
 Several people emailed me that September 16, 2025---written as 9-16-25 in the US---represents the integer side lengths of a right triangle.9-16-25 is the only such triple that is also a valid date. This kind of mathematical alignment only happens...
 
 
-[Integer Set Library (ISL) - A Primer](https://www.jeremykun.com/2025/10/19/isl-a-primer/)
----
-
-Math ∩ Programming --- 10/19/2025
-
-Polyhedral optimization is a tool used in compilers for optimizing loop nests. While the major compilers that use this implement polyhedral optimizations from scratch,1 there is a generally-applicable open source C library called the Integer Set...
-
-
 [Two Ph.D. studentships](https://www.logicmatters.net/2025/10/16/two-ph-d-studentships/)
 ---
 
@@ -647,14 +639,6 @@ Blog - Logic Matters --- 9/20/2025
 A great couple of days in London. The high point, a quite outstanding evening at Wigmore Hall — the wondrous Lea Desandre and Thomas Dunford (and the Jupiter ensemble) performing Dowland and Purcell. Their new CD is terrific, and the live version...
 
 
-[What is "PhD-Level Intelligence"?](https://blog.computationalcomplexity.org/feeds/4535460946790809118/comments/default)
----
-
-Computational Complexity --- 9/17/2025
-
-When announcing Open-AI's latest release last month, Sam Altman said "GPT-5 is the first time that it really feels like talking to an expert in any topic, like a PhD-level expert." Before we discuss whether GPT-5 got there, what does "PhD-Level...
-
-
 [A Shadow of Triality?](https://golem.ph.utexas.edu/category/2025/09/a_shadow_of_triality.html)
 ---
 
@@ -767,22 +751,6 @@ The n-Category Café --- 7/28/2025
 Can the Duflo isomorphism explain the extra 1/2 in the Hamiltonian for the quantum harmonic oscillator?
 
 
-[FHE@PDX 2025](https://www.jeremykun.com/shortform/2025-07-25-0956/)
----
-
-Math ∩ Programming --- 7/25/2025
-
-On Monday, July 14th 2025, I hosted a mini-workshop on homomorphic encryption at Google’s Portland, Oregon office. Though Portland is a small city, it’s becoming a hub for homomorphic encryption. Intel and Google both have a presence here, as well...
-
-
-[Frequently Asked Questions about FHE](https://www.jeremykun.com/frequently-asked-questions-about-fhe/)
----
-
-Math ∩ Programming --- 7/18/2025
-
-I work on homomorphic encryption (HE or FHE for “fully” homomorphic encryption) and I have written a lot about it on this blog (see the relevant tag). This article is a collection of short answers to questions I see on various threads and news...
-
-
 [The computable surreal numbers, Fudan University, July 2025](https://jdh.hamkins.org/the-computable-surreal-numbers-fudan-university-july-2025/)
 ---
 
@@ -797,4 +765,36 @@ This will be a talk for the Fudan Logic Seminar at Fudan University, to be follo
 Joel David Hamkins --- 7/14/2025
 
 This will be a talk for the Seminar on Frontier Issues in Logic and Philosophy The First Forum on Logic and Philosophy 逻辑与哲学前沿问题研究”学术研讨会暨第一届逻辑与哲学论坛 Changchun, China, 18-20 July 2025 Pointwise definable end-extensions of models of arithmetic and set...
+
+
+[Take Two](https://www.fractalkitty.com/take-two-2/)
+---
+
+Fractal Kitty --- 7/11/2025
+
+Haiku + Codewith a second take dance with the first – tethered massorbiting encores .iframe-container {   position: relative;   width: 100%;   height: 0;   padding-bottom: 100%; /* 1:1 aspect ratio - square */   overflow: hidden;  ...
+
+
+[Lecture series on the philosophy of mathematics](https://jdh.hamkins.org/lecture-series-on-the-philosophy-of-mathematics/)
+---
+
+Joel David Hamkins --- 7/9/2025
+
+This will be a lecture series on the Philosophy of Mathematics at Fudan University in Shanghai, China, 30 June – 25 July 2025, as a part of the International Summer School program at Fudan University. Lectures given by Ruizhi Yang … Continue...
+
+
+[How the continuum hypothesis might have been a fundamental axiom, Lanzhou China, July 2025](https://jdh.hamkins.org/how-the-ch-might-have-been-fundamental-lanzhou-2025/)
+---
+
+Joel David Hamkins --- 7/9/2025
+
+This will be a talk for the International Conference on the Philosophy of Mathematics, held at Lanzhou University, China, 25-27 July 2025. How the continuum hypothesis might have been a fundamental axiom Abstract. I shall describe a...
+
+
+[Inquiries-Week 3: Reflect and Rotate](https://www.fractalkitty.com/inquiries-week-3-r-and-rotate/)
+---
+
+Fractal Kitty --- 7/3/2025
+
+IntroductionExplore the reflection and rotation of polygons to discover the patterns that emerge.  Polygon PlayLet's start with a triangle ABC. We can rotate clockwise so that each vertex moves clockwise by one step: We can also reflect (or flip)...
 
