@@ -1,4 +1,20 @@
 
+[Octonions and the Standard Model (Part 13)](https://golem.ph.utexas.edu/category/2025/12/octonions_and_the_standard_mod_11.html)
+---
+
+The n-Category Café --- 12/18/2025
+
+There are two ways to stick SU(2) × SU(3) in Spin(10).   One is good for physics; the other, alas, is easily obtained using the octonions.
+
+
+[L’Établi (2): the book](https://crookedtimber.org/2025/12/18/letabli-2-the-book/)
+---
+
+Crooked Timber --- 12/18/2025
+
+Having watched the film, I thought I’d get Robert Linhart’s book off the shelf and finally read it. I think I bought it in Oxford in the early 80s. To remind you, it depicts Linhart’s experience as a Maoist cadre who has chosen to get a job in a...
+
+
 [A Place Away From Tech](https://blog.computationalcomplexity.org/feeds/8936109000133530298/comments/default)
 ---
 
@@ -311,6 +327,14 @@ Computational Complexity --- 11/20/2025
 Carmichael Numbers are the bane of probabilistic primality algorithms. You have to go through extra steps just to handle these relatively rare numbers. But did you know that the Miller-Rabin algorithm not only determines the compositeness of...
 
 
+[Bicyclic Matrix-Matrix Multiplication in Fully Homomorphic Encryption](https://www.jeremykun.com/2025/11/17/bicyclic-matrix-matrix-multiplication-in-fully-homomorphic-encryption/)
+---
+
+Math ∩ Programming --- 11/17/2025
+
+In an earlier article, I covered the basic technique for performing matrix-vector multiplication in fully homomorphic encryption (FHE), known as the Halevi-Shoup diagonal method. This article covers a more recent method for matrix-matrix...
+
+
 [Online discussion on Lisa Herzog’s The Democratic Marketplace](https://crookedtimber.org/2025/11/17/online-discussion-on-lisa-herzogs-the-democratic-marketplace/)
 ---
 
@@ -325,14 +349,6 @@ If you want to know more about how the current form of capitalism is undermining
 Computational Complexity --- 11/16/2025
 
 Since there is now a CCC Test-of-Time Award, see here,  (CCC stands for Computational Complexity Conference), I decided to look at other Test-of-Time awards in computer science.Below is a list of various computer science Test-of-Time awards, along...
-
-
-[Sunday photoblogging: Clevedon pier shadow (2007)](https://crookedtimber.org/2025/11/16/sunday-photoblogging-clevedon-pier-shadow-2007/)
----
-
-Crooked Timber --- 11/16/2025
-
-
 
 
 [The elementary theory of surreal arithmetic is bi-interpretable with set theory, Notre Dame Logic Seminar, November 2025](https://jdh.hamkins.org/surreal-arithmetic-notre-dame-logic-seminar-nov-2025/)
@@ -485,6 +501,14 @@ This fall, for the first time at Illinois Tech, I'm teaching Introduction to The
 Computational Complexity --- 10/21/2025
 
 Several people emailed me that September 16, 2025---written as 9-16-25 in the US---represents the integer side lengths of a right triangle.9-16-25 is the only such triple that is also a valid date. This kind of mathematical alignment only happens...
+
+
+[Integer Set Library (ISL) - A Primer](https://www.jeremykun.com/2025/10/19/isl-a-primer/)
+---
+
+Math ∩ Programming --- 10/19/2025
+
+Polyhedral optimization is a tool used in compilers for optimizing loop nests. While the major compilers that use this implement polyhedral optimizations from scratch,1 there is a generally-applicable open source C library called the Integer Set...
 
 
 [Two Ph.D. studentships](https://www.logicmatters.net/2025/10/16/two-ph-d-studentships/)
@@ -743,12 +767,20 @@ The n-Category Café --- 8/2/2025
 I hear that Jack Morava died on August 1, 2025.
 
 
-[The Duflo Isomorphism and the Harmonic Oscillator Hamiltonian](https://golem.ph.utexas.edu/category/2025/07/the_duflo_isomorphism_and_the.html)
+[FHE@PDX 2025](https://www.jeremykun.com/shortform/2025-07-25-0956/)
 ---
 
-The n-Category Café --- 7/28/2025
+Math ∩ Programming --- 7/25/2025
 
-Can the Duflo isomorphism explain the extra 1/2 in the Hamiltonian for the quantum harmonic oscillator?
+On Monday, July 14th 2025, I hosted a mini-workshop on homomorphic encryption at Google’s Portland, Oregon office. Though Portland is a small city, it’s becoming a hub for homomorphic encryption. Intel and Google both have a presence here, as well...
+
+
+[Frequently Asked Questions about FHE](https://www.jeremykun.com/frequently-asked-questions-about-fhe/)
+---
+
+Math ∩ Programming --- 7/18/2025
+
+I work on homomorphic encryption (HE or FHE for “fully” homomorphic encryption) and I have written a lot about it on this blog (see the relevant tag). This article is a collection of short answers to questions I see on various threads and news...
 
 
 [The computable surreal numbers, Fudan University, July 2025](https://jdh.hamkins.org/the-computable-surreal-numbers-fudan-university-july-2025/)
@@ -765,36 +797,4 @@ This will be a talk for the Fudan Logic Seminar at Fudan University, to be follo
 Joel David Hamkins --- 7/14/2025
 
 This will be a talk for the Seminar on Frontier Issues in Logic and Philosophy The First Forum on Logic and Philosophy 逻辑与哲学前沿问题研究”学术研讨会暨第一届逻辑与哲学论坛 Changchun, China, 18-20 July 2025 Pointwise definable end-extensions of models of arithmetic and set...
-
-
-[Take Two](https://www.fractalkitty.com/take-two-2/)
----
-
-Fractal Kitty --- 7/11/2025
-
-Haiku + Codewith a second take dance with the first – tethered massorbiting encores .iframe-container {   position: relative;   width: 100%;   height: 0;   padding-bottom: 100%; /* 1:1 aspect ratio - square */   overflow: hidden;  ...
-
-
-[Lecture series on the philosophy of mathematics](https://jdh.hamkins.org/lecture-series-on-the-philosophy-of-mathematics/)
----
-
-Joel David Hamkins --- 7/9/2025
-
-This will be a lecture series on the Philosophy of Mathematics at Fudan University in Shanghai, China, 30 June – 25 July 2025, as a part of the International Summer School program at Fudan University. Lectures given by Ruizhi Yang … Continue...
-
-
-[How the continuum hypothesis might have been a fundamental axiom, Lanzhou China, July 2025](https://jdh.hamkins.org/how-the-ch-might-have-been-fundamental-lanzhou-2025/)
----
-
-Joel David Hamkins --- 7/9/2025
-
-This will be a talk for the International Conference on the Philosophy of Mathematics, held at Lanzhou University, China, 25-27 July 2025. How the continuum hypothesis might have been a fundamental axiom Abstract. I shall describe a...
-
-
-[Inquiries-Week 3: Reflect and Rotate](https://www.fractalkitty.com/inquiries-week-3-r-and-rotate/)
----
-
-Fractal Kitty --- 7/3/2025
-
-IntroductionExplore the reflection and rotation of polygons to discover the patterns that emerge.  Polygon PlayLet's start with a triangle ABC. We can rotate clockwise so that each vertex moves clockwise by one step: We can also reflect (or flip)...
 
