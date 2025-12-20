@@ -2,9 +2,25 @@
 [Octonions and the Standard Model (Part 13)](https://golem.ph.utexas.edu/category/2025/12/octonions_and_the_standard_mod_11.html)
 ---
 
-The n-Category Café --- 12/18/2025
+The n-Category Café --- 12/19/2025
 
 There are two ways to stick SU(2) × SU(3) in Spin(10).   One is good for physics; the other, alas, is easily obtained using the octonions.
+
+
+[Revised 2nd edition of ICT](https://www.logicmatters.net/2025/12/19/revised-2nd-edition-of-ict/)
+---
+
+Blog - Logic Matters --- 12/19/2025
+
+I have just uploaded a PDF of the current draft of a revised second edition of Introducing Category Theory. I will tinker with the draft over the next few weeks, proof-reading with some help from Gemini this time, but also — more importantly —...
+
+
+[Mathematical Objects: Slice of pizza](https://aperiodical.com/2025/12/mathematical-objects-slice-of-pizza/)
+---
+
+The Aperiodical --- 12/19/2025
+
+A conversation about mathematics inspired by a slice of pizza. Presented by Katie Steckles and Peter Rowlett.
 
 
 [L’Établi (2): the book](https://crookedtimber.org/2025/12/18/letabli-2-the-book/)
@@ -285,14 +301,6 @@ DMFT reckons it must be downhill from here Hello! My name is Colin and I am a ma
 Computational Complexity --- 11/24/2025
 
 Last week we had a talk by Purdue philosophy professor Eamon Duede Tail Novelty, Knowledge Collapse, and Useful Frictions in Science. In part of the talk he argued that if AI makes writing technical papers easier, researchers will write up small...
-
-
-[Beach Spectres update – I’ve made a big tile!](https://aperiodical.com/2025/11/beach-spectres-update-ive-made-a-big-tile/)
----
-
-The Aperiodical --- 11/23/2025
-
-Here’s an update on my progress in the Beach Spectres project. I’ve put out two update videos since the last post but failed to write a post here. I promise I’m trying my best to be more organised than usual! Update 2: it’s all coming together!...
 
 
 [Footnotes to a long month: Books of the year?](https://www.logicmatters.net/2025/11/22/footnotes-to-a-long-month-books-of-the-year/)
@@ -701,14 +709,6 @@ Adjoint School guest post by Khyathi Komalan and Andrew Krenz
 Joel David Hamkins --- 9/10/2025
 
 Recently I had the pleasure to give a talk at the Conference on the occasion of Jörg Brendle’s 60th birthday at Kobe University in Japan, and I was invited to make remarks at the conference banquet given in his honor. … Continue reading →
-
-
-[Footnotes to the week: Zen painting, the size of sets, Maddy](https://www.logicmatters.net/2025/09/06/footnotes-to-the-week-zen-painting-the-size-of-sets-maddy/)
----
-
-Blog - Logic Matters --- 9/6/2025
-
-Just before we went off to Zürich, we had our house painted outside (the doors, the windows, and so forth). It took fourteen days, not because we have a mansion but because a lot of preparatory work was needed, cutting out minor rot, repairing,...
 
 
 [Equivalence via Surjections](https://golem.ph.utexas.edu/category/2025/08/equivalence_via_surjections.html)
