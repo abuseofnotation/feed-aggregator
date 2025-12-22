@@ -2,9 +2,17 @@
 [Octonions and the Standard Model (Part 13)](https://golem.ph.utexas.edu/category/2025/12/octonions_and_the_standard_mod_11.html)
 ---
 
-The n-Category Café --- 12/19/2025
+The n-Category Café --- 12/21/2025
 
 There are two ways to stick SU(2) × SU(3) in Spin(10).   One is good for physics; the other, alas, is easily obtained using the octonions.
+
+
+[Sunday photoblogging: Hebron Road](https://crookedtimber.org/2025/12/21/sunday-photoblogging-hebron-road-3/)
+---
+
+Crooked Timber --- 12/21/2025
+
+
 
 
 [Revised 2nd edition of ICT](https://www.logicmatters.net/2025/12/19/revised-2nd-edition-of-ict/)
@@ -341,14 +349,6 @@ Carmichael Numbers are the bane of probabilistic primality algorithms. You have 
 Math ∩ Programming --- 11/17/2025
 
 In an earlier article, I covered the basic technique for performing matrix-vector multiplication in fully homomorphic encryption (FHE), known as the Halevi-Shoup diagonal method. This article covers a more recent method for matrix-matrix...
-
-
-[Online discussion on Lisa Herzog’s The Democratic Marketplace](https://crookedtimber.org/2025/11/17/online-discussion-on-lisa-herzogs-the-democratic-marketplace/)
----
-
-Crooked Timber --- 11/17/2025
-
-If you want to know more about how the current form of capitalism is undermining (a thick conception of) democracy, and what can be done about this, then you should read Lisa Herzog’s latest book The Democratic Marketplace. The book is written for...
 
 
 [Test of Time Awards: A Good Idea but ....](https://blog.computationalcomplexity.org/feeds/4271664968383113403/comments/default)
