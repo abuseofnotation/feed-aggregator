@@ -1,4 +1,12 @@
 
+[Complexity Year in Review](https://blog.computationalcomplexity.org/feeds/5552138026125457614/comments/default)
+---
+
+Computational Complexity --- 12/22/2025
+
+An easy choice for paper of the year, a paper that has nothing to do with randomness, interaction, quantum, circuits or codes. Just a near quadratic improvement in the amount of memory you need to simulate time.Simulating Time with Square-Root...
+
+
 [Octonions and the Standard Model (Part 13)](https://golem.ph.utexas.edu/category/2025/12/octonions_and_the_standard_mod_11.html)
 ---
 
@@ -653,14 +661,6 @@ Over the past couple of years, I've been learning a little about the world of qu
 Math3ma --- 9/25/2025
 
 Next up on Good Reads: The Princeton Companion to Mathematics, edited by Fields medalist Timothy Gowers. This book is an exceptional resource! With over 1,000 pages of mathematics explained by the experts for the layperson, it's like an...
-
-
-[We can find more papers on the web than we used to. Are we reading them?](https://blog.computationalcomplexity.org/feeds/7921020221266926027/comments/default)
----
-
-Computational Complexity --- 9/23/2025
-
-STUDENT: What did you do before the web to find papers?BILL: We went to the library and copied papers to read later.STUDENT: Did you read them later?BILL: Well, uh,hmm, ...BILL to a professor in his 80's: What did you do before copy...
 
 
 [Songs of passion.](https://www.logicmatters.net/2025/09/20/footnote-to-the-week-songs-of-passion/)
