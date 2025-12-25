@@ -1,4 +1,36 @@
 
+[A Christmas card](https://www.logicmatters.net/2025/12/24/a-christmas-card-14/)
+---
+
+Blog - Logic Matters --- 12/24/2025
+
+Sadly, we still haven’t yet been, as we planned, to the Fra Angelico exhibition at the Palazzo Strozzi and San Marco in Florence. “Momentous and inexpressibly beautiful … a miracle of an event” said the NYT review: others have similarly extolled...
+
+
+[Double Maths First Thing: Issue 44](https://aperiodical.com/2025/12/double-maths-first-thing-issue-44/)
+---
+
+The Aperiodical --- 12/24/2025
+
+Double Maths First Thing is not stirring. Hello! My name is Colin and I am a mathematician on a mission to spread joy and delight in mathematical creativity. It’s Christmas Eve (babe), which means I probably need to switch off from looking out for...
+
+
+[Fear of the future](http://abuseofnotation.github.io/future-self/)
+---
+
+Abuse of Notation --- 12/24/2025
+
+Everything we do to secure ourselves, every decision we make out of fear of the future, ends up destroying us, ends up making our future a little more bleak — the closer we are to the public ideal of “success”, the farther we go from our own...
+
+
+[When the tower crumbles](http://abuseofnotation.github.io/when-the-tower-crumbles/)
+---
+
+Abuse of Notation --- 12/24/2025
+
+When the tower crumbles, some will laugh some will cry, some will fall from the top, some will be buried below. When the tower crumbles, better not be around better go all the way down, so you can run away.
+
+
 [Complexity Year in Review](https://blog.computationalcomplexity.org/feeds/5552138026125457614/comments/default)
 ---
 
@@ -301,14 +333,6 @@ Crooked Timber --- 11/27/2025
 Crooked Timber --- 11/27/2025
 
 I think a fair bit about how generative AI can help our everydays. (I also think a lot about its challenges, but this post is not about that.) Here is a good example for how it can be useful with a complex meal prep situation for which Thanksgiving...
-
-
-[Double Maths First Thing: Issue 40](https://aperiodical.com/2025/11/double-maths-first-thing-issue-40/)
----
-
-The Aperiodical --- 11/26/2025
-
-DMFT reckons it must be downhill from here Hello! My name is Colin and I am a mathematician on a mission to find and disseminate the joy in doing maths, solving puzzles and getting to the root of things in general. I’m back from an excellent...
 
 
 [The Little Theorems](https://blog.computationalcomplexity.org/feeds/7804395595306792417/comments/default)
@@ -687,14 +711,6 @@ Fractal Kitty --- 9/16/2025
 Mathober is almost here! I am looking forward to seeing everyone’s creativity and take on this year’s prompts. If you’ve never participated before, now’s the perfect time to jump in!The goal of Mathober is simple: have fun, learn, grow, and play
 
 
-[Greek readings](https://www.logicmatters.net/2025/09/13/footnotes-to-the-week-greek-readings/)
----
-
-Blog - Logic Matters --- 9/13/2025
-
-What have I been reading this week? I finished The Voyage Home, the most recent in Pat Barker’s wonderful series re-imaging episodes from the Trojan War. This time, it’s Agamemnon’s voyage home after the war, and his death at the hands of...
-
-
 [Burrito Monads, Arrow Kitchens, and Freyd Category Recipes](https://golem.ph.utexas.edu/category/2025/08/burrito_monads_arrow_kitchens.html)
 ---
 
@@ -781,20 +797,4 @@ On Monday, July 14th 2025, I hosted a mini-workshop on homomorphic encryption at
 Math ∩ Programming --- 7/18/2025
 
 I work on homomorphic encryption (HE or FHE for “fully” homomorphic encryption) and I have written a lot about it on this blog (see the relevant tag). This article is a collection of short answers to questions I see on various threads and news...
-
-
-[The computable surreal numbers, Fudan University, July 2025](https://jdh.hamkins.org/the-computable-surreal-numbers-fudan-university-july-2025/)
----
-
-Joel David Hamkins --- 7/16/2025
-
-This will be a talk for the Fudan Logic Seminar at Fudan University, to be followed immediately by two talks for the Fudan Logic student seminar, forming a mini-conference for the logic group on 23 July 2025. Abstract. I shall … Continue reading →
-
-
-[Pointwise definable end-extensions of models of arithmetic and set theory, Changchun, China, July 2025](https://jdh.hamkins.org/pointwise-definable-end-extensions-of-models-of-arithmetic-and-set-theory-changchun-china-july-2025/)
----
-
-Joel David Hamkins --- 7/14/2025
-
-This will be a talk for the Seminar on Frontier Issues in Logic and Philosophy The First Forum on Logic and Philosophy 逻辑与哲学前沿问题研究”学术研讨会暨第一届逻辑与哲学论坛 Changchun, China, 18-20 July 2025 Pointwise definable end-extensions of models of arithmetic and set...
 
