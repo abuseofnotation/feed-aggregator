@@ -1,4 +1,20 @@
 
+[AI proof reading again](https://www.logicmatters.net/2025/12/28/ai-proof-reading-again/)
+---
+
+Blog - Logic Matters --- 12/28/2025
+
+It was only a bit over six months ago that I was using ChatGPT and Claude as proof-reading assistants as I prepared the second edition of Introducing Category Theory. I certainly found them pretty useful even if far from glitch-free, so I am again...
+
+
+[A Christmas card](https://www.logicmatters.net/2025/12/24/a-christmas-card-14/)
+---
+
+Blog - Logic Matters --- 12/24/2025
+
+Sadly, we still haven’t yet been, as we planned, to the Fra Angelico exhibition at the Palazzo Strozzi and San Marco in Florence. “Momentous and inexpressibly beautiful … a miracle of an event” said the NYT review: others have similarly extolled...
+
+
 [Double Maths First Thing: Issue 44](https://aperiodical.com/2025/12/double-maths-first-thing-issue-44/)
 ---
 
@@ -45,6 +61,14 @@ There are two ways to stick SU(2) × SU(3) in Spin(10).   One is good for physic
 Crooked Timber --- 12/21/2025
 
 
+
+
+[Revised 2nd edition of ICT](https://www.logicmatters.net/2025/12/19/revised-2nd-edition-of-ict/)
+---
+
+Blog - Logic Matters --- 12/19/2025
+
+I have just uploaded a PDF of the current draft of a revised second edition of Introducing Category Theory. I will tinker with the draft over the next few weeks, proof-reading with some help from Gemini this time, but also — more importantly —...
 
 
 [Mathematical Objects: Slice of pizza](https://aperiodical.com/2025/12/mathematical-objects-slice-of-pizza/)
@@ -165,6 +189,14 @@ Maths Week England happened a couple of weeks ago. I had put my name on the spea
 Crooked Timber --- 12/7/2025
 
 
+
+
+[Footnotes to a fortnight: ETCS, logic questions, late Beethoven](https://www.logicmatters.net/2025/12/06/footnotes-to-a-fortnight-etcs-logic-help-late-beethoven/)
+---
+
+Blog - Logic Matters --- 12/6/2025
+
+I’m still hoping to get a new version of Introducing Category Theory out in January. I want to rewrite the chapter on power objects which is a bit dense, and also carefully read through Part II once more for reader-friendliness: but changes should...
 
 
 [l’Établi](https://crookedtimber.org/2025/12/05/letabli/)
@@ -319,6 +351,14 @@ Computational Complexity --- 11/24/2025
 Last week we had a talk by Purdue philosophy professor Eamon Duede Tail Novelty, Knowledge Collapse, and Useful Frictions in Science. In part of the talk he argued that if AI makes writing technical papers easier, researchers will write up small...
 
 
+[Footnotes to a long month: Books of the year?](https://www.logicmatters.net/2025/11/22/footnotes-to-a-long-month-books-of-the-year/)
+---
+
+Blog - Logic Matters --- 11/22/2025
+
+Not the best few weeks. Old people have health issues. Who knew? We were planning to go to Italy in a week or so, in particular to see the wonderful-sounding Fra Angelico exhibition at Palazzo Strozzi. Hopefully we will still be able to catch that...
+
+
 [Musk’s last grift](https://crookedtimber.org/2025/11/22/musks-last-grift/)
 ---
 
@@ -341,6 +381,14 @@ I have a piece over at the London Review of Books Blog about the UK government�
 Computational Complexity --- 11/20/2025
 
 Carmichael Numbers are the bane of probabilistic primality algorithms. You have to go through extra steps just to handle these relatively rare numbers. But did you know that the Miller-Rabin algorithm not only determines the compositeness of...
+
+
+[Bicyclic Matrix-Matrix Multiplication in Fully Homomorphic Encryption](https://www.jeremykun.com/2025/11/17/bicyclic-matrix-matrix-multiplication-in-fully-homomorphic-encryption/)
+---
+
+Math ∩ Programming --- 11/17/2025
+
+In an earlier article, I covered the basic technique for performing matrix-vector multiplication in fully homomorphic encryption (FHE), known as the Halevi-Shoup diagonal method. This article covers a more recent method for matrix-matrix...
 
 
 [Test of Time Awards: A Good Idea but ....](https://blog.computationalcomplexity.org/feeds/4271664968383113403/comments/default)
@@ -439,6 +487,14 @@ The n-Category Café --- 11/3/2025
 Exploiting the secret 4-dimensional symmetry of the Kepler problem to think about the periodic table of elements in a new way.
 
 
+[Categorial update?](https://www.logicmatters.net/2025/11/01/categorial-update/)
+---
+
+Blog - Logic Matters --- 11/1/2025
+
+I’m slowly working on a corrected update of Introducing Category Theory, perhaps for early in the new year. But you can today download a new PDF version, without any of the revised content, but now with the bookmarks for chapters and sections...
+
+
 [The Revenge of Reason is here!](https://deontologistics.co/2025/11/01/the-revenge-of-reason-is-here/)
 ---
 
@@ -453,6 +509,14 @@ It’s been a long time coming, but my second book, The Revenge of Reason, is fi
 Computational Complexity --- 10/31/2025
 
 The advances in artificial intelligence have changed the way we think about computing. For today's post, how nonuniformity plays a much larger role than I previously believed.First, some background. Circuit complexity gives a different, more...
+
+
+[Not Bergamo, Turing, PHQ again](https://www.logicmatters.net/2025/10/29/not-bergamo-turing-phq/)
+---
+
+Blog - Logic Matters --- 10/29/2025
+
+We were supposed to be in Bergamo for a few days. But when it came near the time, neither of us were feeling up to going — was it a recurrence of Covid? It was a rather good thing that we didn’t set off, as whatever virus it was led to sudden...
 
 
 [Applied Category Theory 2026](https://golem.ph.utexas.edu/category/2025/10/applied_category_theory_2026.html)
@@ -487,6 +551,22 @@ Computational Complexity --- 10/21/2025
 Several people emailed me that September 16, 2025---written as 9-16-25 in the US---represents the integer side lengths of a right triangle.9-16-25 is the only such triple that is also a valid date. This kind of mathematical alignment only happens...
 
 
+[Integer Set Library (ISL) - A Primer](https://www.jeremykun.com/2025/10/19/isl-a-primer/)
+---
+
+Math ∩ Programming --- 10/19/2025
+
+Polyhedral optimization is a tool used in compilers for optimizing loop nests. While the major compilers that use this implement polyhedral optimizations from scratch,1 there is a generally-applicable open source C library called the Integer Set...
+
+
+[Two Ph.D. studentships](https://www.logicmatters.net/2025/10/16/two-ph-d-studentships/)
+---
+
+Blog - Logic Matters --- 10/16/2025
+
+Briefly, Thomas Forster tells me that he has acquired funding for two studentships in Wellington NZ (a delightful place!) for students who want to do a Ph.D. in set theory, in particular working with him on NF or perhaps some adjacent topic. He has...
+
+
 [The case against boolean logic](http://abuseofnotation.github.io/boolean-thinking/)
 ---
 
@@ -519,12 +599,28 @@ The n-Category Café --- 10/7/2025
 I'm trying to better characterize two maximal subgroups of the group of automorphisms of the exceptional Jordan algebra, whose intersection is the Standard Model gauge group.
 
 
+[A very short, very blunt, book note](https://www.logicmatters.net/2025/10/06/a-very-short-very-blunt-book-note/)
+---
+
+Blog - Logic Matters --- 10/6/2025
+
+An accessible, very readable, well-motivated, zestful book on ordinal analysis and proof theory would be a very good thing to have. Arai’s Ordinal Analysis with an Introduction to Proof Theory isn’t it. By a country mile. (I was asked for a...
+
+
 [If you use AI in your work do you brag about it or hide it?](https://blog.computationalcomplexity.org/feeds/1237477313397401620/comments/default)
 ---
 
 Computational Complexity --- 10/5/2025
 
 You used AI in your work. Do you hide it or brag about it? 1) In 2002 there was a movie Simone about an actress who is really an AI. The Wikipedia entry tells the entire plot. I saved time by reading it in two minutes rather than watching it in 2...
+
+
+[Footnotes to a fortnight: Category mistakes, Dutch courtyards, Martinů](https://www.logicmatters.net/2025/10/04/footnotes-to-a-couple-of-weeks-category-mistakes-dutch-courtyards-martinu/)
+---
+
+Blog - Logic Matters --- 10/4/2025
+
+Most of the writing I have actually done this last week or so has been in tinkering with the category theory notes. For, sad to relate, I still find myself occasionally working through them. Until yesterday, however, it has just been a matter of...
 
 
 [Mathober 2025 Sketches](https://www.fractalkitty.com/mathober-2025-sketches/)
@@ -687,114 +783,18 @@ The n-Category Café --- 8/2/2025
 I hear that Jack Morava died on August 1, 2025.
 
 
-[The computable surreal numbers, Fudan University, July 2025](https://jdh.hamkins.org/the-computable-surreal-numbers-fudan-university-july-2025/)
+[FHE@PDX 2025](https://www.jeremykun.com/shortform/2025-07-25-0956/)
 ---
 
-Joel David Hamkins --- 7/16/2025
+Math ∩ Programming --- 7/25/2025
 
-This will be a talk for the Fudan Logic Seminar at Fudan University, to be followed immediately by two talks for the Fudan Logic student seminar, forming a mini-conference for the logic group on 23 July 2025. Abstract. I shall … Continue reading →
+On Monday, July 14th 2025, I hosted a mini-workshop on homomorphic encryption at Google’s Portland, Oregon office. Though Portland is a small city, it’s becoming a hub for homomorphic encryption. Intel and Google both have a presence here, as well...
 
 
-[Pointwise definable end-extensions of models of arithmetic and set theory, Changchun, China, July 2025](https://jdh.hamkins.org/pointwise-definable-end-extensions-of-models-of-arithmetic-and-set-theory-changchun-china-july-2025/)
+[Frequently Asked Questions about FHE](https://www.jeremykun.com/frequently-asked-questions-about-fhe/)
 ---
 
-Joel David Hamkins --- 7/14/2025
+Math ∩ Programming --- 7/18/2025
 
-This will be a talk for the Seminar on Frontier Issues in Logic and Philosophy The First Forum on Logic and Philosophy 逻辑与哲学前沿问题研究”学术研讨会暨第一届逻辑与哲学论坛 Changchun, China, 18-20 July 2025 Pointwise definable end-extensions of models of arithmetic and set...
-
-
-[Take Two](https://www.fractalkitty.com/take-two-2/)
----
-
-Fractal Kitty --- 7/11/2025
-
-Haiku + Codewith a second take dance with the first – tethered massorbiting encores .iframe-container {   position: relative;   width: 100%;   height: 0;   padding-bottom: 100%; /* 1:1 aspect ratio - square */   overflow: hidden;  ...
-
-
-[Lecture series on the philosophy of mathematics](https://jdh.hamkins.org/lecture-series-on-the-philosophy-of-mathematics/)
----
-
-Joel David Hamkins --- 7/9/2025
-
-This will be a lecture series on the Philosophy of Mathematics at Fudan University in Shanghai, China, 30 June – 25 July 2025, as a part of the International Summer School program at Fudan University. Lectures given by Ruizhi Yang … Continue...
-
-
-[How the continuum hypothesis might have been a fundamental axiom, Lanzhou China, July 2025](https://jdh.hamkins.org/how-the-ch-might-have-been-fundamental-lanzhou-2025/)
----
-
-Joel David Hamkins --- 7/9/2025
-
-This will be a talk for the International Conference on the Philosophy of Mathematics, held at Lanzhou University, China, 25-27 July 2025. How the continuum hypothesis might have been a fundamental axiom Abstract. I shall describe a...
-
-
-[Inquiries-Week 3: Reflect and Rotate](https://www.fractalkitty.com/inquiries-week-3-r-and-rotate/)
----
-
-Fractal Kitty --- 7/3/2025
-
-IntroductionExplore the reflection and rotation of polygons to discover the patterns that emerge.  Polygon PlayLet's start with a triangle ABC. We can rotate clockwise so that each vertex moves clockwise by one step: We can also reflect (or flip)...
-
-
-[Potentialist conceptions of infinity, Peking University, June 2025](https://jdh.hamkins.org/potentialist-conceptions-of-infinity-peking-university-june-2025/)
----
-
-Joel David Hamkins --- 6/23/2025
-
-This will be a talk for the Conference on Infinity, a collaborative meeting of logicians and specialists in Chinese philosophy here at Peking University, 24 June 2025, in the philosophy department. Abstract. I shall lay out a spectrum of...
-
-
-[TfE: On Post-Searlean Critiques of LLMs](https://deontologistics.co/2025/06/22/tfe-on-post-searlean-critiques-of-llms/)
----
-
-DEONTOLOGISTICS --- 6/22/2025
-
-Here’s a recent thread on philosophy of AI from Twitter/X, in which I address rather popular arguments made by Emily Bender and others to the effect that LLM outputs are strictly speaking meaningless. I think these argument are flawed, as I explain...
-
-
-[Lectures on Set Theory, Beijing, June 2025](https://jdh.hamkins.org/lectures-on-set-theory-beijing-june-2025/)
----
-
-Joel David Hamkins --- 6/11/2025
-
-This will be a lecture series at Peking University in Beijing in June 2025. Announcement at Peking University Course abstract. This will be a series of advanced lectures on set theory, treating diverse topics and particularly those illustrating how...
-
-
-[Inquiries-Week 2: Modular Fibonacci](https://www.fractalkitty.com/inquiries-week-2-modular-fibonacci/)
----
-
-Fractal Kitty --- 6/3/2025
-
-IntroductionIn this activity, we'll explore patterns by finding the remainders when Fibonacci numbers are divided by other numbers.ModuloSometimes, the most interesting part of dividing numbers is what's left over—the remainder. This is where...
-
-
-[Monad](http://abuseofnotation.github.io/monad/)
----
-
-Abuse of Notation --- 5/27/2025
-
-title: A monad layout: microblog category: microblog tags: programming haskell — A monad is when you know how to convert $M (M a)$ to $M a$, but not $M a$ to $a$.
-
-
-[The level of progress in programming language design](http://abuseofnotation.github.io/pl-design/)
----
-
-Abuse of Notation --- 5/27/2025
-
-The level of progress in programming language design: Shortly after the first ever programming language was created, it’s author said that the language’s whole paradigm is flawed and we should do functional programming instead*. That was 46 years...
-
-
-[I want to forget](http://abuseofnotation.github.io/forget/)
----
-
-Abuse of Notation --- 5/27/2025
-
-I want to forget Gaza. I want to forget the pain. I want to forget all dumb jokes, old song lyrics. I want to forget that most things ever happened, as remembering makes everything tedious. Forces you to become a bureaucrat of your memories, to...
-
-
-[Love](http://abuseofnotation.github.io/mushrooms/)
----
-
-Abuse of Notation --- 5/27/2025
-
-Every time you eat mushrooms, I have to try them too. Cause, if the mushrooms turn out to be poisonous and you die of slow and painful dead, I will die as well. I once dreamed that I was dying, You were beside me, I turned to you and said, “I don’t...
+I work on homomorphic encryption (HE or FHE for “fully” homomorphic encryption) and I have written a lot about it on this blog (see the relevant tag). This article is a collection of short answers to questions I see on various threads and news...
 
