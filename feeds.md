@@ -1,4 +1,12 @@
 
+[Some thoughts on charitable donations](https://crookedtimber.org/2025/12/29/some-thoughts-on-charitable-donations/)
+---
+
+Crooked Timber --- 12/29/2025
+
+I read a post on one of the social media platforms written by a professor who was sharing his experience with giving away ten percent of his income, after he signed the “Ten percent giving pledge” many years ago. In deciding what or whom to give...
+
+
 [AI proof reading again](https://www.logicmatters.net/2025/12/28/ai-proof-reading-again/)
 ---
 
@@ -55,6 +63,14 @@ The n-Category Café --- 12/21/2025
 There are two ways to stick SU(2) × SU(3) in Spin(10).   One is good for physics; the other, alas, is easily obtained using the octonions.
 
 
+[Sunday photoblogging: Hebron Road](https://crookedtimber.org/2025/12/21/sunday-photoblogging-hebron-road-3/)
+---
+
+Crooked Timber --- 12/21/2025
+
+
+
+
 [Revised 2nd edition of ICT](https://www.logicmatters.net/2025/12/19/revised-2nd-edition-of-ict/)
 ---
 
@@ -69,6 +85,14 @@ I have just uploaded a PDF of the current draft of a revised second edition of I
 The Aperiodical --- 12/19/2025
 
 A conversation about mathematics inspired by a slice of pizza. Presented by Katie Steckles and Peter Rowlett.
+
+
+[L’Établi (2): the book](https://crookedtimber.org/2025/12/18/letabli-2-the-book/)
+---
+
+Crooked Timber --- 12/18/2025
+
+Having watched the film, I thought I’d get Robert Linhart’s book off the shelf and finally read it. I think I bought it in Oxford in the early 80s. To remind you, it depicts Linhart’s experience as a Maoist cadre who has chosen to get a job in a...
 
 
 [A Place Away From Tech](https://blog.computationalcomplexity.org/feeds/8936109000133530298/comments/default)
@@ -103,6 +127,14 @@ The Aperiodical --- 12/14/2025
 We chatted to Chris Dawson – the creator of Jigsy, a shape-based puzzle app which we’ve enjoyed playing – to find out more about where it came from and how it was developed. What is Jigsy? A brand new spatial reasoning visual puzzle concept. At its...
 
 
+[Sunday photoblogging: Southville houses](https://crookedtimber.org/2025/12/14/sunday-photoblogging-southville-houses/)
+---
+
+Crooked Timber --- 12/14/2025
+
+
+
+
 [Tom Stoppard 1937-2025](https://blog.computationalcomplexity.org/feeds/7138578487238084097/comments/default)
 ---
 
@@ -127,6 +159,30 @@ The Aperiodical --- 12/10/2025
 Double Maths First Thing knows where its towel is Hello! My name is Colin and I am a mathematician on a mission to spread the joy and delight of puzzling stuff out. It’s a busy week here, with client work, children at carol services, Christmas...
 
 
+[Bankers (not money) make the world go around? Towards a labour/tech history of finance](https://crookedtimber.org/2025/12/10/bankers-not-money-make-the-world-go-around-towards-a-labour-tech-history-of-finance/)
+---
+
+Crooked Timber --- 12/10/2025
+
+I am at the airport in Melbourne (again). I’m sitting in the window eating one of those excellent boxes of kale, broccoli, beans, seeds, peas and a boiled egg that I am grateful are now available at airports. Next to me a father and daughter are...
+
+
+[Housework for singles](https://crookedtimber.org/2025/12/10/housework-for-singles/)
+---
+
+Crooked Timber --- 12/10/2025
+
+My last post described my attempt to generate a report on housework using Deep Research, and the way it came to a crashing halt. Over the fold, I’ve given the summary from the last version before the crash. You can read the whole report here,...
+
+
+[Adventures with Deep Research: success then failure](https://crookedtimber.org/2025/12/09/adventures-with-deep-research-success-then-failure/)
+---
+
+Crooked Timber --- 12/9/2025
+
+I’ve long been interested in the topic of housework, as you can see from this CT post, which produced a long and unusually productive discussion thread [fn1]. The issue came up again in relation to the prospects for humanoid robots. It’s also at...
+
+
 [200 3D printed shapes, 480 children, and a lot of paint 😬](https://aperiodical.com/2025/12/200-3d-printed-shapes-480-children-and-a-lot-of-paint-%f0%9f%98%ac/)
 ---
 
@@ -135,12 +191,28 @@ The Aperiodical --- 12/8/2025
 Maths Week England happened a couple of weeks ago. I had put my name on the speaker directory, and sure enough a maths lead from a primary school in County Durham emailed me to ask if I could go in and do something for them. It’s been a few years...
 
 
+[Sunday photoblogging: Braunton Road](https://crookedtimber.org/2025/12/07/sunday-photoblogging-braunton-road-2/)
+---
+
+Crooked Timber --- 12/7/2025
+
+
+
+
 [Footnotes to a fortnight: ETCS, logic questions, late Beethoven](https://www.logicmatters.net/2025/12/06/footnotes-to-a-fortnight-etcs-logic-help-late-beethoven/)
 ---
 
 Blog - Logic Matters --- 12/6/2025
 
 I’m still hoping to get a new version of Introducing Category Theory out in January. I want to rewrite the chapter on power objects which is a bit dense, and also carefully read through Part II once more for reader-friendliness: but changes should...
+
+
+[l’Établi](https://crookedtimber.org/2025/12/05/letabli/)
+---
+
+Crooked Timber --- 12/5/2025
+
+I spent a good chunk of the afternoon watching l’Etabli, the film of Robert Linhart’s book (which I own but have never read). It is an arresting depiction of the brutality of the assembly-line and the racalialised hierarchies at work in the...
 
 
 [Mathematical Objects: Cardioid with Dominika Vasilkova](https://aperiodical.com/2025/12/mathematical-objects-cardioid/)
@@ -191,6 +263,14 @@ The Aperiodical --- 12/3/2025
 Double Maths First Thing is making a list but not checking it. Hello! My name is Colin and I am a mathematician on a mission to spread mathematical joy and delight, even when I’m not feeling much of either. December is a tough month for me:...
 
 
+[The Pub at the End of the University](https://crookedtimber.org/2025/12/03/the-pub-at-the-end-of-the-university/)
+---
+
+Crooked Timber --- 12/3/2025
+
+I heard a rumour that London IT professionals have selected the pub where they will meet when the internet goes down. It is apocalyptic thinking, perhaps, but it also feels plausible. Though the internet feels permanent, stable and sufficiently...
+
+
 [Carnival of Maths 246](https://aperiodical.com/2025/12/carnival-of-maths-246/)
 ---
 
@@ -231,12 +311,44 @@ Abuse of Notation --- 12/1/2025
 I should stop doing category theory. What’s the point?
 
 
+[Will Fewer Kids mean Fewer Scientists*](https://crookedtimber.org/2025/11/30/will-fewer-kids-mean-fewer-scientists/)
+---
+
+Crooked Timber --- 11/30/2025
+
+I’ve been seeing more and more alarmism about the idea that, on current demographic trends, the world’s population might shrink to a billion in a century or two. That distant prospect is producing lots of advocacy for policies to increase birth...
+
+
 [Beyond the Geometry of Music](https://golem.ph.utexas.edu/category/2025/11/beyond_the_geometry_of_music.html)
 ---
 
 The n-Category Café --- 11/30/2025
 
 Tymoczko gave a good talk on the math of music theory.
+
+
+[Sunday photoblogging: Altona pavement and leaves](https://crookedtimber.org/2025/11/30/sunday-photoblogging-altona-pavement-and-leaves/)
+---
+
+Crooked Timber --- 11/30/2025
+
+
+
+
+[Occasional artwork:  Because It’s The Dream](https://crookedtimber.org/2025/11/27/occasional-artwork-because-its-the-dream/)
+---
+
+Crooked Timber --- 11/27/2025
+
+“I am especially to speak to you of the character and mission of the United States, with special reference to the question whether we are the better or the worse for being composed of different races of men.” — Frederick Douglass, Composite Nation,...
+
+
+[Your Thanksgiving Gen AI use case](https://crookedtimber.org/2025/11/27/your-thanksgiving-gen-ai-use-case/)
+---
+
+Crooked Timber --- 11/27/2025
+
+I think a fair bit about how generative AI can help our everydays. (I also think a lot about its challenges, but this post is not about that.) Here is a good example for how it can be useful with a complex meal prep situation for which Thanksgiving...
 
 
 [The Little Theorems](https://blog.computationalcomplexity.org/feeds/7804395595306792417/comments/default)
@@ -253,6 +365,14 @@ Last week we had a talk by Purdue philosophy professor Eamon Duede Tail Novelty
 Blog - Logic Matters --- 11/22/2025
 
 Not the best few weeks. Old people have health issues. Who knew? We were planning to go to Italy in a week or so, in particular to see the wonderful-sounding Fra Angelico exhibition at Palazzo Strozzi. Hopefully we will still be able to catch that...
+
+
+[Musk’s last grift](https://crookedtimber.org/2025/11/22/musks-last-grift/)
+---
+
+Crooked Timber --- 11/22/2025
+
+The US is one big grift these days: the Trump Administration, traditional and social media, corporations, crypto, financial markets are all selling some kind of spurious promise. It’s hard to pick the most egregious example. But for me, it’s hard...
 
 
 [Factoring Carmichael Numbers](https://blog.computationalcomplexity.org/feeds/7969406995688661287/comments/default)
@@ -277,6 +397,14 @@ In an earlier article, I covered the basic technique for performing matrix-vecto
 Computational Complexity --- 11/16/2025
 
 Since there is now a CCC Test-of-Time Award, see here,  (CCC stands for Computational Complexity Conference), I decided to look at other Test-of-Time awards in computer science.Below is a list of various computer science Test-of-Time awards, along...
+
+
+[The elementary theory of surreal arithmetic is bi-interpretable with set theory, Notre Dame Logic Seminar, November 2025](https://jdh.hamkins.org/surreal-arithmetic-notre-dame-logic-seminar-nov-2025/)
+---
+
+Joel David Hamkins --- 11/12/2025
+
+This will be a talk for the Logic Seminar at the University of Notre Dame, Tuesday 18 November 20215 2pm 125 Hayes-Healy Building. Abstract. I shall introduce what I call the first-order elementary theory of surreal arithmetic, a theory that is...
 
 
 [The Future of Teaching Assistants](https://blog.computationalcomplexity.org/feeds/6070689394445949241/comments/default)
@@ -341,6 +469,14 @@ You can tweak Heisenberg's equation so that instead of using a commutator it use
 Computational Complexity --- 11/4/2025
 
 The following excerpt from Abrahim Ladha's comment on Lance's post aboutAI and intro theory caught my attention:---------------------------BEGIN EXCERPTNot just with AI, but in theory and math courses, there have always been Bart Simpsonlevel...
+
+
+[What is your number? Logic puzzles for mathematicians – 2025 DePrima Memorial Lecture, Caltech](https://jdh.hamkins.org/what-is-your-number-logic-puzzles-for-mathematicians-deprima-lecture-caltech-2025/)
+---
+
+Joel David Hamkins --- 11/4/2025
+
+I am honored to be giving the 2025-26 Charles R. DePrima Memorial Lecture for the Mathematics Department of the California Institute of Technology. This lecture series aims to bring mathematical researchers to Caltech to give talks for a primarily...
 
 
 [Second Quantization and the Kepler Problem](https://golem.ph.utexas.edu/category/2025/11/second_quantization_and_the_ke.html)
@@ -583,6 +719,14 @@ The n-Category Café --- 9/13/2025
 Adjoint School guest post by Khyathi Komalan and Andrew Krenz
 
 
+[The Sannomiya incident—how Jörg Brendle hit the big stage in Japanese art](https://jdh.hamkins.org/the-sannomiya-incident-how-jorg-brendle-hit-the-big-stage-in-japanese-art/)
+---
+
+Joel David Hamkins --- 9/10/2025
+
+Recently I had the pleasure to give a talk at the Conference on the occasion of Jörg Brendle’s 60th birthday at Kobe University in Japan, and I was invited to make remarks at the conference banquet given in his honor. … Continue reading →
+
+
 [Equivalence via Surjections](https://golem.ph.utexas.edu/category/2025/08/equivalence_via_surjections.html)
 ---
 
@@ -597,6 +741,22 @@ All equivalences are generated by just the strict, literally surjective ones.
 Fractal Kitty --- 8/26/2025
 
 IntroductionIn this inquiry, triangles are dissected into smaller triangles with vertices labeled as either light (L), medium (M), or dark (D). Any triangles that are LMD triangles are shaded with color. Triangle playLet's start with a triangle...
+
+
+[The elementary theory of surreal arithmetic is bi-interpretable with set theory, Kobe, Japan, September 2025](https://jdh.hamkins.org/theory-of-surreal-arithmetic-bi-interpretable-with-set-theory-japan-september-2025/)
+---
+
+Joel David Hamkins --- 8/20/2025
+
+This will be a talk for the Conference on the occasion of Jörg Brendle’s 60th birthday at Kobe University in Kobe, Japan, 2-5 September 2025. Many years ago, I was a JSPS Fellow at Kobe University, at the same time … Continue reading →
+
+
+[Did Turing ever halt? HPS Colloquium, Notre Dame, October 2025](https://jdh.hamkins.org/did-turing-ever-halt-hps-colloquium-october-2025/)
+---
+
+Joel David Hamkins --- 8/18/2025
+
+This will be a talk I shall give for the History and Philosophy of Science (HPS) Colloquium at the University of Notre Dame, 17 October 2025, 12:30-1:30 pm, 201 O’Shaughnessy Hall. Did Turing ever halt? Abstract. Alan Turing’s 1936 paper … Continue...
 
 
 [Safeguarded AI Meeting](https://golem.ph.utexas.edu/category/2025/08/safeguarded_ai_meeting.html)
@@ -637,164 +797,4 @@ On Monday, July 14th 2025, I hosted a mini-workshop on homomorphic encryption at
 Math ∩ Programming --- 7/18/2025
 
 I work on homomorphic encryption (HE or FHE for “fully” homomorphic encryption) and I have written a lot about it on this blog (see the relevant tag). This article is a collection of short answers to questions I see on various threads and news...
-
-
-[Take Two](https://www.fractalkitty.com/take-two-2/)
----
-
-Fractal Kitty --- 7/11/2025
-
-Haiku + Codewith a second take dance with the first – tethered massorbiting encores .iframe-container {   position: relative;   width: 100%;   height: 0;   padding-bottom: 100%; /* 1:1 aspect ratio - square */   overflow: hidden;  ...
-
-
-[Inquiries-Week 3: Reflect and Rotate](https://www.fractalkitty.com/inquiries-week-3-r-and-rotate/)
----
-
-Fractal Kitty --- 7/3/2025
-
-IntroductionExplore the reflection and rotation of polygons to discover the patterns that emerge.  Polygon PlayLet's start with a triangle ABC. We can rotate clockwise so that each vertex moves clockwise by one step: We can also reflect (or flip)...
-
-
-[TfE: On Post-Searlean Critiques of LLMs](https://deontologistics.co/2025/06/22/tfe-on-post-searlean-critiques-of-llms/)
----
-
-DEONTOLOGISTICS --- 6/22/2025
-
-Here’s a recent thread on philosophy of AI from Twitter/X, in which I address rather popular arguments made by Emily Bender and others to the effect that LLM outputs are strictly speaking meaningless. I think these argument are flawed, as I explain...
-
-
-[Inquiries-Week 2: Modular Fibonacci](https://www.fractalkitty.com/inquiries-week-2-modular-fibonacci/)
----
-
-Fractal Kitty --- 6/3/2025
-
-IntroductionIn this activity, we'll explore patterns by finding the remainders when Fibonacci numbers are divided by other numbers.ModuloSometimes, the most interesting part of dividing numbers is what's left over—the remainder. This is where...
-
-
-[Monad](http://abuseofnotation.github.io/monad/)
----
-
-Abuse of Notation --- 5/27/2025
-
-title: A monad layout: microblog category: microblog tags: programming haskell — A monad is when you know how to convert $M (M a)$ to $M a$, but not $M a$ to $a$.
-
-
-[The level of progress in programming language design](http://abuseofnotation.github.io/pl-design/)
----
-
-Abuse of Notation --- 5/27/2025
-
-The level of progress in programming language design: Shortly after the first ever programming language was created, it’s author said that the language’s whole paradigm is flawed and we should do functional programming instead*. That was 46 years...
-
-
-[I want to forget](http://abuseofnotation.github.io/forget/)
----
-
-Abuse of Notation --- 5/27/2025
-
-I want to forget Gaza. I want to forget the pain. I want to forget all dumb jokes, old song lyrics. I want to forget that most things ever happened, as remembering makes everything tedious. Forces you to become a bureaucrat of your memories, to...
-
-
-[Love](http://abuseofnotation.github.io/mushrooms/)
----
-
-Abuse of Notation --- 5/27/2025
-
-Every time you eat mushrooms, I have to try them too. Cause, if the mushrooms turn out to be poisonous and you die of slow and painful dead, I will die as well. I once dreamed that I was dying, You were beside me, I turned to you and said, “I don’t...
-
-
-[The road I walk](http://abuseofnotation.github.io/road/)
----
-
-Abuse of Notation --- 5/27/2025
-
-The road I walk is new. It’s made not of stone, but dirt. There are no road signs yet. And no bridges to cover the rivers. The road I walk is new, so people think that it is hard. “How do swim?” “Don’t you get dirty?” “How do you cope with all that...
-
-
-[Using Automorphism Groups of Curves to Control the Slopes of their Jacobians](https://rin.io/gausssums/)
----
-
-Good Fibrations --- 5/23/2025
-
-I’ve felt for a long time that automorphisms of curves should control or at least exert serious force on the slopes on their Jacobians. Symmetry forces height, as I’ve written about previously in Models of Formal Groups Laws of Every Height, and...
-
-
-[Inquiries-Week 1: Circle Shading](https://www.fractalkitty.com/inquiries-week-1-circle-shading/)
----
-
-Fractal Kitty --- 5/20/2025
-
-This is the first of a series of guided inquiries in math.  If a document is preferred over a blog post, the pdf file is below:Inquiries-Week 1_ Circle ShadingInquiries-Week 1_ Circle Shading.pdf615...
-
-
-[Leibniz's Dream and Dijkstra's nightmare](https://www.jeremykun.com/shortform/2025-05-13-2107/)
----
-
-Math ∩ Programming --- 5/13/2025
-
-I was inspired to browse some of Edsger Dijkstra’s essays today, and came across his speech, “Under the spell of Leibniz’s Dream”. It’s the sort of personal history I love to read, which gives one person’s sense of the world over a period of...
-
-
-[My Graduate Career in Math](https://www.jeremykun.com/2025/05/12/my-graduate-career-in-math/)
----
-
-Math ∩ Programming --- 5/12/2025
-
-Editor’s note: This essay was originally published on Medium on 2016-03-05. I have made minor edits in this republishing and added a few small retrospective notes. 2010–2011 (Year 0) I had just switched my major at Cal Poly State University from...
-
-
-[China and I](http://proses.id/china/)
----
-
-Proses.ID --- 4/18/2025
-
-lately I’ve been watching a lot of videos on YouTube about China. it’s partly due to all the chaos around Trump’s tariff, but mostly these…
-
-
-[HEIR talk at FHE.org](https://www.jeremykun.com/shortform/2025-04-15-1239/)
----
-
-Math ∩ Programming --- 4/15/2025
-
-Last month I gave a talk on the HEIR compiler project at the FHE.org conference in Sofia, Bulgaria. The video is on YouTube now, and the slides are public. I plan to write more about HEIR in the coming months, because it’s been an exciting and...
-
-
-[238th Carnival of Mathematics](https://www.fractalkitty.com/238th-carnival-of-mathematic/)
----
-
-Fractal Kitty --- 4/4/2025
-
-Wow! It's the 238th Carnival of Mathematics organized by Aperiodical. This has been a fun month with lots of submissions and lots of beautiful math art. To start let's jump into the number 238 itself.238 is: 2 × 7 × 17.the sum of the
-
-
-[Does Baby Have Hat](https://www.jeremykun.com/2025/04/01/does-baby-have-hat/)
----
-
-Math ∩ Programming --- 4/1/2025
-
-It’s April Cools! Last year I wrote about parenting, in 2023 about friendship bracelets. and in 2022 about cocktails. This year it’s a bit of a meandering stroll through some ideas around mutual aid and self-reliance. Maternity wards If you walk...
-
-
-[Time at the Recurse Center](https://www.fractalkitty.com/time-at-the-recurse-center/)
----
-
-Fractal Kitty --- 3/25/2025
-
-In January, I kicked off a journey of reflection and growth at the Recurse Center (RC) – a retreat where you work at the edge of your abilities with wonderful peers to pair program, study with, and grow.  My goals in participating were to learn and...
-
-
-[The Four Realities We Live In: Ursula Franklin’s Framework](http://proses.id/four-realities/)
----
-
-Proses.ID --- 3/17/2025
-
-What is reality? It might seem like a straightforward question, but Ursula Franklin, a pioneering thinker in technology and society, saw it as layered and…
-
-
-[My 4-year-old declares 36 the best number](https://www.jeremykun.com/shortform/2025-02-23-1057/)
----
-
-Math ∩ Programming --- 2/23/2025
-
-My four-year-old son has declared 36 to be the best number. His reason: 36 is the only number (he knows of) that is both a square and a staircase number AND an up-and-down-staircase number. “Staircase numbers” are what he calls triangular numbers...
 
