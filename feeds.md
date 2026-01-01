@@ -1,4 +1,28 @@
 
+[Particularly mathematical New Years Honours 2026](https://aperiodical.com/2025/12/particularly-mathematical-new-years-honours-2026/)
+---
+
+The Aperiodical --- 12/31/2025
+
+The UK Government have announced the latest list of honours, and we’ve taken a look for the particularly mathematical entries. Here is the selection for this year – if you spot any more, let us know in the comments and we’ll add to the list. Get...
+
+
+[Double Maths First Thing: Issue 45](https://aperiodical.com/2025/12/double-maths-first-thing-issue-45/)
+---
+
+The Aperiodical --- 12/31/2025
+
+Double Maths First Thing is looking for the man with the noses. Hello! My name is Colin and I am a mathematician on a mission to show that maths, proper maths, is a joyful and creative endeavour. I’m also on a mission to shift a stinker of a cold....
+
+
+[Inquiries-Week 6: Beautiful Chords](https://www.fractalkitty.com/inquiries-week-6-beautiful-chords/)
+---
+
+Fractal Kitty --- 12/31/2025
+
+IntroductionIn this inquiry, we explore chords, which are lines drawn across circles, using different rules to create various patterns, curves, and shapes. This inquiry will be different from those in the Inquiries Series in that it will be more...
+
+
 [Some thoughts on charitable donations](https://crookedtimber.org/2025/12/29/some-thoughts-on-charitable-donations/)
 ---
 
@@ -271,28 +295,12 @@ Crooked Timber --- 12/3/2025
 I heard a rumour that London IT professionals have selected the pub where they will meet when the internet goes down. It is apocalyptic thinking, perhaps, but it also feels plausible. Though the internet feels permanent, stable and sufficiently...
 
 
-[Carnival of Maths 246](https://aperiodical.com/2025/12/carnival-of-maths-246/)
----
-
-The Aperiodical --- 12/2/2025
-
-The next issue of the Carnival of Mathematics, rounding up blog posts from the month of November 2025, is now online at TomMaths. The Carnival rounds up maths blog posts from all over the internet, including some from our own Aperiodical. See...
-
-
 [December Adventure Log](https://www.fractalkitty.com/december-adventure-log/)
 ---
 
 Fractal Kitty --- 12/2/2025
 
 December Adventure was started by Eli_oat at Oatmeal.  I love seeing what others do this month - here is a log of logs.This December, I plan to make a generative quilt, play with origami,  doodle some mossy mandalas, set up next year's journal, and...
-
-
-[Aperiodical News Roundup – October & November 2025](https://aperiodical.com/2025/12/aperiodical-news-roundup-october-november-2025/)
----
-
-The Aperiodical --- 12/1/2025
-
-Here’s a round-up of maths news from October and November 2025 which we didn’t otherwise cover on the site. Awards and Grants Applications for participation in the 13th Heidelberg Laureate Forum for Outstanding Young Researchers in Mathematics and...
 
 
 [Does ChatGPT really help programmers?](https://blog.computationalcomplexity.org/feeds/1600293661378473276/comments/default)
@@ -789,12 +797,4 @@ I hear that Jack Morava died on August 1, 2025.
 Math ∩ Programming --- 7/25/2025
 
 On Monday, July 14th 2025, I hosted a mini-workshop on homomorphic encryption at Google’s Portland, Oregon office. Though Portland is a small city, it’s becoming a hub for homomorphic encryption. Intel and Google both have a presence here, as well...
-
-
-[Frequently Asked Questions about FHE](https://www.jeremykun.com/frequently-asked-questions-about-fhe/)
----
-
-Math ∩ Programming --- 7/18/2025
-
-I work on homomorphic encryption (HE or FHE for “fully” homomorphic encryption) and I have written a lot about it on this blog (see the relevant tag). This article is a collection of short answers to questions I see on various threads and news...
 
