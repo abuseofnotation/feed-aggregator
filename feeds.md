@@ -1,4 +1,28 @@
 
+[Genuary 2026](https://www.fractalkitty.com/genuary-2026/)
+---
+
+Fractal Kitty --- 1/1/2026
+
+Happy New Year! It's time for Genuary 2026! I am not sure how many prompts I will do (or combine), but I hope to share my code and progress here. I hope to get at least 5-10 done this year with a mix of different languages and approaches.
+
+
+[The Big Red Logic Books – last year, this year.](https://www.logicmatters.net/2026/01/01/the-big-red-logic-books-last-year-this-year/)
+---
+
+Blog - Logic Matters --- 1/1/2026
+
+As I have said more than once before, self-publishing was exactly appropriate for the Big Red Logic Books. I am way past the stage of needing the brownie points that are gained by continuing conventional publication. The books are aimed at...
+
+
+[For 2026, let’s hope…](https://crookedtimber.org/2026/01/01/for-2026-lets-hope/)
+---
+
+Crooked Timber --- 1/1/2026
+
+To all of you – a healthy, flourishing, and meaningful 2026! To the world – I am less sure where to begin, since 2025 was, politically and morally speaking, one of the worst years since long. Let’s hope for peace, definitely. Responsible leaders...
+
+
 [Particularly mathematical New Years Honours 2026](https://aperiodical.com/2025/12/particularly-mathematical-new-years-honours-2026/)
 ---
 
@@ -375,14 +399,6 @@ Blog - Logic Matters --- 11/22/2025
 Not the best few weeks. Old people have health issues. Who knew? We were planning to go to Italy in a week or so, in particular to see the wonderful-sounding Fra Angelico exhibition at Palazzo Strozzi. Hopefully we will still be able to catch that...
 
 
-[Musk’s last grift](https://crookedtimber.org/2025/11/22/musks-last-grift/)
----
-
-Crooked Timber --- 11/22/2025
-
-The US is one big grift these days: the Trump Administration, traditional and social media, corporations, crypto, financial markets are all selling some kind of spurious promise. It’s hard to pick the most egregious example. But for me, it’s hard...
-
-
 [Factoring Carmichael Numbers](https://blog.computationalcomplexity.org/feeds/7969406995688661287/comments/default)
 ---
 
@@ -623,14 +639,6 @@ Computational Complexity --- 10/5/2025
 You used AI in your work. Do you hide it or brag about it? 1) In 2002 there was a movie Simone about an actress who is really an AI. The Wikipedia entry tells the entire plot. I saved time by reading it in two minutes rather than watching it in 2...
 
 
-[Footnotes to a fortnight: Category mistakes, Dutch courtyards, Martinů](https://www.logicmatters.net/2025/10/04/footnotes-to-a-couple-of-weeks-category-mistakes-dutch-courtyards-martinu/)
----
-
-Blog - Logic Matters --- 10/4/2025
-
-Most of the writing I have actually done this last week or so has been in tinkering with the category theory notes. For, sad to relate, I still find myself occasionally working through them. Until yesterday, however, it has just been a matter of...
-
-
 [Mathober 2025 Sketches](https://www.fractalkitty.com/mathober-2025-sketches/)
 ---
 
@@ -789,12 +797,4 @@ Comparing two mathematical notions of diversity.
 The n-Category Café --- 8/2/2025
 
 I hear that Jack Morava died on August 1, 2025.
-
-
-[FHE@PDX 2025](https://www.jeremykun.com/shortform/2025-07-25-0956/)
----
-
-Math ∩ Programming --- 7/25/2025
-
-On Monday, July 14th 2025, I hosted a mini-workshop on homomorphic encryption at Google’s Portland, Oregon office. Though Portland is a small city, it’s becoming a hub for homomorphic encryption. Intel and Google both have a presence here, as well...
 
