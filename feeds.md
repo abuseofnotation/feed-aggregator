@@ -1,4 +1,12 @@
 
+[The Betty White Award for 2025](https://blog.computationalcomplexity.org/feeds/7492939098467142478/comments/default)
+---
+
+Computational Complexity --- 1/3/2026
+
+The Betty White Award goes to people who die at the end of the year--- too late to be on those articles with titles like                              people we lost this year.The point of the award is that news...
+
+
 [A note on the threat to art from AI](https://crookedtimber.org/2026/01/02/a-note-on-the-threat-to-art-from-ai/)
 ---
 
@@ -621,14 +629,6 @@ Martin Kruskal was born Sept 28, 1925 and passed away on Dec 26, 2006, at the ag
 Abuse of Notation --- 9/27/2025
 
 “My life is like a prison” I wrote this in my personal website when I was 14. I was quite correct in pinpointing the problem, pinpointing how I, and many other people, felt, but I was off at identifying the cause — I thought, that I was kept in...
-
-
-[Self-Driving Cars](https://blog.computationalcomplexity.org/feeds/9068207505523155791/comments/default)
----
-
-Computational Complexity --- 9/25/2025
-
-A few weeks ago I took an Uber to a regional airport and was picked up by a Tesla. The driver used FSD, so-called Full Self-Driving, never touching the steering wheel during the entire trip. Should you tip a driver who just sits there? In the end I...
 
 
 [What is a Good Quantum Encoding? Part 1](https://www.math3ma.com/blog/what-is-a-good-quantum-encoding-part-1)
