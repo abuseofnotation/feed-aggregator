@@ -1,4 +1,20 @@
 
+[Two books to miss? Brandom and Bardi](https://www.logicmatters.net/2026/01/04/two-books-to-miss-brandom-and-bardi/)
+---
+
+Blog - Logic Matters --- 1/4/2026
+
+More than twenty years ago, Robert Brandom wrote Making it Explicit, a 762 page ramble of hand-waving pretentiousness. The sort of philosophical tome I detest. His shortened version Articulating Reasons just exposed how creaky the whole Brandomian...
+
+
+[Sunday photoblogging: Windmill Hill](https://crookedtimber.org/2026/01/04/sunday-photoblogging-windmill-hill/)
+---
+
+Crooked Timber --- 1/4/2026
+
+
+
+
 [The Betty White Award for 2025](https://blog.computationalcomplexity.org/feeds/7492939098467142478/comments/default)
 ---
 
@@ -21,6 +37,14 @@ Over the past few days I’ve found myself mulling the question of whether AI wi
 The Aperiodical --- 1/2/2026
 
 A conversation about mathematics inspired by a Venn diagram. Presented by Katie Steckles and Peter Rowlett, with special guest Keisha Thompson. Katie mentioned the MathForEquality badges and pins.
+
+
+[Genuary 2026](https://www.fractalkitty.com/genuary-2026/)
+---
+
+Fractal Kitty --- 1/1/2026
+
+Happy New Year! It's time for Genuary 2026! I am not sure how many prompts I will do (or combine), but I hope to share my code and progress here. I hope to get at least 5-10 done this year with a mix of different languages and approaches.
 
 
 [The Big Red Logic Books – last year, this year.](https://www.logicmatters.net/2026/01/01/the-big-red-logic-books-last-year-this-year/)
@@ -53,6 +77,14 @@ The UK Government have announced the latest list of honours, and we’ve taken a
 The Aperiodical --- 12/31/2025
 
 Double Maths First Thing is looking for the man with the noses. Hello! My name is Colin and I am a mathematician on a mission to show that maths, proper maths, is a joyful and creative endeavour. I’m also on a mission to shift a stinker of a cold....
+
+
+[Inquiries-Week 6: Beautiful Chords](https://www.fractalkitty.com/inquiries-week-6-beautiful-chords/)
+---
+
+Fractal Kitty --- 12/31/2025
+
+IntroductionIn this inquiry, we explore chords, which are lines drawn across circles, using different rules to create various patterns, curves, and shapes. This inquiry will be different from those in the Inquiries Series in that it will be more...
 
 
 [Some thoughts on charitable donations](https://crookedtimber.org/2025/12/29/some-thoughts-on-charitable-donations/)
@@ -319,6 +351,14 @@ Crooked Timber --- 12/3/2025
 I heard a rumour that London IT professionals have selected the pub where they will meet when the internet goes down. It is apocalyptic thinking, perhaps, but it also feels plausible. Though the internet feels permanent, stable and sufficiently...
 
 
+[December Adventure Log](https://www.fractalkitty.com/december-adventure-log/)
+---
+
+Fractal Kitty --- 12/2/2025
+
+December Adventure was started by Eli_oat at Oatmeal.  I love seeing what others do this month - here is a log of logs.This December, I plan to make a generative quilt, play with origami,  doodle some mossy mandalas, set up next year's journal, and...
+
+
 [Does ChatGPT really help programmers?](https://blog.computationalcomplexity.org/feeds/1600293661378473276/comments/default)
 ---
 
@@ -357,14 +397,6 @@ Tymoczko gave a good talk on the math of music theory.
 Crooked Timber --- 11/30/2025
 
 
-
-
-[Occasional artwork:  Because It’s The Dream](https://crookedtimber.org/2025/11/27/occasional-artwork-because-its-the-dream/)
----
-
-Crooked Timber --- 11/27/2025
-
-“I am especially to speak to you of the character and mission of the United States, with special reference to the question whether we are the better or the worse for being composed of different races of men.” — Frederick Douglass, Composite Nation,...
 
 
 [The Little Theorems](https://blog.computationalcomplexity.org/feeds/7804395595306792417/comments/default)
@@ -431,6 +463,14 @@ Computational Complexity --- 11/10/2025
 A friend of mine told me that in the last six months, the last grandchild of one of our former presidents (who had already passed away) died.I tried to deduce who it was without checking the web directly. For example, I looked up when various...
 
 
+[somewhere here](https://www.fractalkitty.com/somewhere-here/)
+---
+
+Fractal Kitty --- 11/8/2025
+
+A coded poem and trackThe Track:Initiated on a piano, and realized on an OP-1 Field. somewhere here0:00/101.302857142857151×The Visual:Human coded in p5js with p5sound - enjoy in fullscreen. Click here for the visual with music - (CW: Strobing...
+
+
 [The Complexity Argument for Capitalism](https://blog.computationalcomplexity.org/feeds/4111861502485280164/comments/default)
 ---
 
@@ -445,6 +485,14 @@ We're seeing an attack on capitalism on both ends of the political spectrum with
 The n-Category Café --- 11/6/2025
 
 Newton's Principia is famous for his investigations of the inverse square force law for gravity.  But he also studied the inverse cube law.  Why, and what is so good about this law?
+
+
+[Inquiries-Week 5: Triangles Emerge](https://www.fractalkitty.com/inquiries-week-5-triangles-emerge/)
+---
+
+Fractal Kitty --- 11/6/2025
+
+IntroductionIn this inquiry, nodes are connected one at a time. How many lines can you draw before a triangle emerges?Starting with FourLet's start with four nodes - draw them on a sheet of paper. How many lines (called edges) can you draw before a...
 
 
 [Dynamics in Jordan Algebras](https://golem.ph.utexas.edu/category/2025/11/dynamics_in_jordan_algebras.html)
@@ -591,20 +639,20 @@ The n-Category Café --- 10/7/2025
 I'm trying to better characterize two maximal subgroups of the group of automorphisms of the exceptional Jordan algebra, whose intersection is the Standard Model gauge group.
 
 
-[A very short, very blunt, book note](https://www.logicmatters.net/2025/10/06/a-very-short-very-blunt-book-note/)
----
-
-Blog - Logic Matters --- 10/6/2025
-
-An accessible, very readable, well-motivated, zestful book on ordinal analysis and proof theory would be a very good thing to have. Arai’s Ordinal Analysis with an Introduction to Proof Theory isn’t it. By a country mile. (I was asked for a...
-
-
 [If you use AI in your work do you brag about it or hide it?](https://blog.computationalcomplexity.org/feeds/1237477313397401620/comments/default)
 ---
 
 Computational Complexity --- 10/5/2025
 
 You used AI in your work. Do you hide it or brag about it? 1) In 2002 there was a movie Simone about an actress who is really an AI. The Wikipedia entry tells the entire plot. I saved time by reading it in two minutes rather than watching it in 2...
+
+
+[Mathober 2025 Sketches](https://www.fractalkitty.com/mathober-2025-sketches/)
+---
+
+Fractal Kitty --- 10/1/2025
+
+This is the post I'll update with this year's Mathober art. Check back and see what's been added throughout the month. Link, Deviation, PolyhedronStrongly, Digraph Sink, Partial SumNotation (find the sigma)P5.js sketchesLink, Deviation,...
 
 
 [Computers Don't Want](https://blog.computationalcomplexity.org/feeds/634164649673020320/comments/default)
@@ -623,12 +671,28 @@ Computational Complexity --- 9/29/2025
 Martin Kruskal was born Sept 28, 1925 and passed away on Dec 26, 2006, at the age of 81 (we did two posts for his memorial, here and here). Today, Sept 28, 2025, is his 100th birthday. His son Clyde Kruskal wrote today's blog post as a tribute to...
 
 
+[Sci Art September](https://www.fractalkitty.com/sci-art-september/)
+---
+
+Fractal Kitty --- 9/28/2025
+
+Kristin Henry has been providing SciArtSeptember prompts each year. I incorporated all of the prompts into a single sketch this year. 1. Fluid 2. Coral 3. Inertia 4. Diffusion 5. Skeleton 6. Growth 7. Virus 8. Permutation 9. Element 10. Algae 11....
+
+
 [My life is like a Prison](http://abuseofnotation.github.io/prison/)
 ---
 
 Abuse of Notation --- 9/27/2025
 
 “My life is like a prison” I wrote this in my personal website when I was 14. I was quite correct in pinpointing the problem, pinpointing how I, and many other people, felt, but I was off at identifying the cause — I thought, that I was kept in...
+
+
+[Math Storytelling Day 2025](https://www.fractalkitty.com/math-storytelling-day-2025/)
+---
+
+Fractal Kitty --- 9/25/2025
+
+Today is math storytelling day, so I thought I would make a visual coloring sheet as a prompt for others. What characters live in this world? What stories are there to tell? What number system would you have? What mathemagical spells would you...
 
 
 [What is a Good Quantum Encoding? Part 1](https://www.math3ma.com/blog/what-is-a-good-quantum-encoding-part-1)
@@ -655,6 +719,14 @@ The n-Category Café --- 9/16/2025
 The octonions have nontrivial inner automorphisms of order 3.   Is this related to triality?
 
 
+[Mathober 2025](https://www.fractalkitty.com/mathober-2025/)
+---
+
+Fractal Kitty --- 9/16/2025
+
+Mathober is almost here! I am looking forward to seeing everyone’s creativity and take on this year’s prompts. If you’ve never participated before, now’s the perfect time to jump in!The goal of Mathober is simple: have fun, learn, grow, and play
+
+
 [Burrito Monads, Arrow Kitchens, and Freyd Category Recipes](https://golem.ph.utexas.edu/category/2025/08/burrito_monads_arrow_kitchens.html)
 ---
 
@@ -677,6 +749,14 @@ Recently I had the pleasure to give a talk at the Conference on the occasion of 
 The n-Category Café --- 8/30/2025
 
 All equivalences are generated by just the strict, literally surjective ones.
+
+
+[Inquiries-Week 4: Triangulate the Triangle](https://www.fractalkitty.com/inquiries-week-4-triangulate-the-triangle/)
+---
+
+Fractal Kitty --- 8/26/2025
+
+IntroductionIn this inquiry, triangles are dissected into smaller triangles with vertices labeled as either light (L), medium (M), or dark (D). Any triangles that are LMD triangles are shaded with color. Triangle playLet's start with a triangle...
 
 
 [The elementary theory of surreal arithmetic is bi-interpretable with set theory, Kobe, Japan, September 2025](https://jdh.hamkins.org/theory-of-surreal-arithmetic-bi-interpretable-with-set-theory-japan-september-2025/)
@@ -717,84 +797,4 @@ Comparing two mathematical notions of diversity.
 The n-Category Café --- 8/2/2025
 
 I hear that Jack Morava died on August 1, 2025.
-
-
-[FHE@PDX 2025](https://www.jeremykun.com/shortform/2025-07-25-0956/)
----
-
-Math ∩ Programming --- 7/25/2025
-
-On Monday, July 14th 2025, I hosted a mini-workshop on homomorphic encryption at Google’s Portland, Oregon office. Though Portland is a small city, it’s becoming a hub for homomorphic encryption. Intel and Google both have a presence here, as well...
-
-
-[Frequently Asked Questions about FHE](https://www.jeremykun.com/frequently-asked-questions-about-fhe/)
----
-
-Math ∩ Programming --- 7/18/2025
-
-I work on homomorphic encryption (HE or FHE for “fully” homomorphic encryption) and I have written a lot about it on this blog (see the relevant tag). This article is a collection of short answers to questions I see on various threads and news...
-
-
-[The computable surreal numbers, Fudan University, July 2025](https://jdh.hamkins.org/the-computable-surreal-numbers-fudan-university-july-2025/)
----
-
-Joel David Hamkins --- 7/16/2025
-
-This will be a talk for the Fudan Logic Seminar at Fudan University, to be followed immediately by two talks for the Fudan Logic student seminar, forming a mini-conference for the logic group on 23 July 2025. Abstract. I shall … Continue reading →
-
-
-[Pointwise definable end-extensions of models of arithmetic and set theory, Changchun, China, July 2025](https://jdh.hamkins.org/pointwise-definable-end-extensions-of-models-of-arithmetic-and-set-theory-changchun-china-july-2025/)
----
-
-Joel David Hamkins --- 7/14/2025
-
-This will be a talk for the Seminar on Frontier Issues in Logic and Philosophy The First Forum on Logic and Philosophy 逻辑与哲学前沿问题研究”学术研讨会暨第一届逻辑与哲学论坛 Changchun, China, 18-20 July 2025 Pointwise definable end-extensions of models of arithmetic and set...
-
-
-[Lecture series on the philosophy of mathematics](https://jdh.hamkins.org/lecture-series-on-the-philosophy-of-mathematics/)
----
-
-Joel David Hamkins --- 7/9/2025
-
-This will be a lecture series on the Philosophy of Mathematics at Fudan University in Shanghai, China, 30 June – 25 July 2025, as a part of the International Summer School program at Fudan University. Lectures given by Ruizhi Yang … Continue...
-
-
-[How the continuum hypothesis might have been a fundamental axiom, Lanzhou China, July 2025](https://jdh.hamkins.org/how-the-ch-might-have-been-fundamental-lanzhou-2025/)
----
-
-Joel David Hamkins --- 7/9/2025
-
-This will be a talk for the International Conference on the Philosophy of Mathematics, held at Lanzhou University, China, 25-27 July 2025. How the continuum hypothesis might have been a fundamental axiom Abstract. I shall describe a...
-
-
-[Potentialist conceptions of infinity, Peking University, June 2025](https://jdh.hamkins.org/potentialist-conceptions-of-infinity-peking-university-june-2025/)
----
-
-Joel David Hamkins --- 6/23/2025
-
-This will be a talk for the Conference on Infinity, a collaborative meeting of logicians and specialists in Chinese philosophy here at Peking University, 24 June 2025, in the philosophy department. Abstract. I shall lay out a spectrum of...
-
-
-[TfE: On Post-Searlean Critiques of LLMs](https://deontologistics.co/2025/06/22/tfe-on-post-searlean-critiques-of-llms/)
----
-
-DEONTOLOGISTICS --- 6/22/2025
-
-Here’s a recent thread on philosophy of AI from Twitter/X, in which I address rather popular arguments made by Emily Bender and others to the effect that LLM outputs are strictly speaking meaningless. I think these argument are flawed, as I explain...
-
-
-[Lectures on Set Theory, Beijing, June 2025](https://jdh.hamkins.org/lectures-on-set-theory-beijing-june-2025/)
----
-
-Joel David Hamkins --- 6/11/2025
-
-This will be a lecture series at Peking University in Beijing in June 2025. Announcement at Peking University Course abstract. This will be a series of advanced lectures on set theory, treating diverse topics and particularly those illustrating how...
-
-
-[Monad](http://abuseofnotation.github.io/monad/)
----
-
-Abuse of Notation --- 5/27/2025
-
-title: A monad layout: microblog category: microblog tags: programming haskell — A monad is when you know how to convert $M (M a)$ to $M a$, but not $M a$ to $a$.
 
