@@ -1,4 +1,28 @@
 
+[AI and Research Papers](https://blog.computationalcomplexity.org/feeds/6806290820861117665/comments/default)
+---
+
+Computational Complexity --- 1/5/2026
+
+2026 will be a year of AI disruption across all of academia. Let's start by talking about AI is changing how we write research papers. Not the research itself (another post), just about the dissemination thereof.Technology has changed research...
+
+
+[New Issue: Journal for the Philosophy of Mathematics](https://www.logicmatters.net/2026/01/05/new-issue-journal-for-the-philosophy-of-mathematics/)
+---
+
+Blog - Logic Matters --- 1/5/2026
+
+The first issue of the new Journal for the Philosophy of Mathematics appeared back in September 2024. A second issue, now edited by Alex Passau, has now appeared, just a day before the end of 2025. This is a collection of just seven, again mostly...
+
+
+[Carnival of Maths 247](https://aperiodical.com/2026/01/carnival-of-maths-247/)
+---
+
+The Aperiodical --- 1/5/2026
+
+The next issue of the Carnival of Mathematics, rounding up blog posts from the month of December 2025, is now online at The Scribble Board. The Carnival rounds up maths blog posts from all over the internet, including some from our own Aperiodical....
+
+
 [Two books to miss? Brandom and Bardi](https://www.logicmatters.net/2026/01/04/two-books-to-miss-brandom-and-bardi/)
 ---
 
@@ -303,14 +327,6 @@ Crooked Timber --- 12/5/2025
 I spent a good chunk of the afternoon watching l’Etabli, the film of Robert Linhart’s book (which I own but have never read). It is an arresting depiction of the brutality of the assembly-line and the racalialised hierarchies at work in the...
 
 
-[Mathematical Objects: Cardioid with Dominika Vasilkova](https://aperiodical.com/2025/12/mathematical-objects-cardioid/)
----
-
-The Aperiodical --- 12/5/2025
-
-A conversation about mathematics inspired by a light pattern in a tea cup. Presented by Katie Steckles and Peter Rowlett, with special guest Dominika Vasilkova. Cardioids in coffee cups – Chalkdust Cardioids in Coffee Cups – Numberphile...
-
-
 [Octonions and the Standard Model (Part 12)](https://golem.ph.utexas.edu/category/2025/11/the_bioctonionic_plane.html)
 ---
 
@@ -599,14 +615,6 @@ Math ∩ Programming --- 10/19/2025
 Polyhedral optimization is a tool used in compilers for optimizing loop nests. While the major compilers that use this implement polyhedral optimizations from scratch,1 there is a generally-applicable open source C library called the Integer Set...
 
 
-[Two Ph.D. studentships](https://www.logicmatters.net/2025/10/16/two-ph-d-studentships/)
----
-
-Blog - Logic Matters --- 10/16/2025
-
-Briefly, Thomas Forster tells me that he has acquired funding for two studentships in Wellington NZ (a delightful place!) for students who want to do a Ph.D. in set theory, in particular working with him on NF or perhaps some adjacent topic. He has...
-
-
 [The case against boolean logic](http://abuseofnotation.github.io/boolean-thinking/)
 ---
 
@@ -661,14 +669,6 @@ This is the post I'll update with this year's Mathober art. Check back and see w
 Computational Complexity --- 10/1/2025
 
 I read through the new book If Anyone Builds It, Everyone Dies by Eliezer Yudkowsky and Nate Soares. "It" refers to Artificial Super Intelligence (ASI). A very short version of the authors' argument: You can view advanced AI as though it has its...
-
-
-[Clyde Kruskal talks about his Father Martin on Martin's 100th birthday](https://blog.computationalcomplexity.org/feeds/224845733811604907/comments/default)
----
-
-Computational Complexity --- 9/29/2025
-
-Martin Kruskal was born Sept 28, 1925 and passed away on Dec 26, 2006, at the age of 81 (we did two posts for his memorial, here and here). Today, Sept 28, 2025, is his 100th birthday. His son Clyde Kruskal wrote today's blog post as a tribute to...
 
 
 [Sci Art September](https://www.fractalkitty.com/sci-art-september/)
