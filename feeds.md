@@ -1,4 +1,20 @@
 
+[Coxeter and Dynkin Diagrams](https://golem.ph.utexas.edu/category/2026/01/coxeter_and_dynkin_diagrams.html)
+---
+
+The n-Category Café --- 1/6/2026
+
+Dynkin diagrams have always fascinated me. They are magically potent language --- you can do so much with them!...
+
+
+[Aperiodical News Roundup – December 2025](https://aperiodical.com/2026/01/aperiodical-news-roundup-december-2025/)
+---
+
+The Aperiodical --- 1/6/2026
+
+Here’s some mathematical news from last month we didn’t otherwise report on here. Awards and Honours The European Mathematical Society has awarded the 2025 Fermat prize to Vesselin Dimitrov and Vlad Vicol, “for breakthroughs in number theory,...
+
+
 [AI and Research Papers](https://blog.computationalcomplexity.org/feeds/6806290820861117665/comments/default)
 ---
 
@@ -12,7 +28,7 @@ Computational Complexity --- 1/5/2026
 
 Blog - Logic Matters --- 1/5/2026
 
-The first issue of the new Journal for the Philosophy of Mathematics appeared back in September 2024. A second issue, now edited by Alex Passau, has now appeared, just a day before the end of 2025. This is a collection of just seven, again mostly...
+The first issue of the new Journal for the Philosophy of Mathematics appeared back in September 2024. A second issue, now edited by Alex Paseau, has now appeared, just a day before the end of 2025. This is a collection of just seven, again mostly...
 
 
 [Carnival of Maths 247](https://aperiodical.com/2026/01/carnival-of-maths-247/)
@@ -293,14 +309,6 @@ My last post described my attempt to generate a report on housework using Deep R
 Crooked Timber --- 12/9/2025
 
 I’ve long been interested in the topic of housework, as you can see from this CT post, which produced a long and unusually productive discussion thread [fn1]. The issue came up again in relation to the prospects for humanoid robots. It’s also at...
-
-
-[200 3D printed shapes, 480 children, and a lot of paint 😬](https://aperiodical.com/2025/12/200-3d-printed-shapes-480-children-and-a-lot-of-paint-%f0%9f%98%ac/)
----
-
-The Aperiodical --- 12/8/2025
-
-Maths Week England happened a couple of weeks ago. I had put my name on the speaker directory, and sure enough a maths lead from a primary school in County Durham emailed me to ask if I could go in and do something for them. It’s been a few years...
 
 
 [Sunday photoblogging: Braunton Road](https://crookedtimber.org/2025/12/07/sunday-photoblogging-braunton-road-2/)
@@ -789,12 +797,4 @@ This week, 50 category theorists and software engineers working on "safeguarded 
 The n-Category Café --- 8/5/2025
 
 Comparing two mathematical notions of diversity.
-
-
-[Jack Morava](https://golem.ph.utexas.edu/category/2025/08/jack_morava_1.html)
----
-
-The n-Category Café --- 8/2/2025
-
-I hear that Jack Morava died on August 1, 2025.
 
