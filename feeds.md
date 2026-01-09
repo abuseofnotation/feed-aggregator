@@ -1,4 +1,12 @@
 
+[How to make sure the writing gets done](https://crookedtimber.org/2026/01/08/how-to-make-sure-the-writing-gets-done/)
+---
+
+Crooked Timber --- 1/8/2026
+
+I’ve been asked by a couple of friends, who have signed contracts to write nonfiction trade books, whether I have any advice on how to make sure the book gets written. I think in general non-fiction trade writing is quite a different challenge from...
+
+
 [Changing beliefs, moving house – suggestion for a change of metaphor](https://crookedtimber.org/2026/01/07/changing-beliefs-moving-house-suggestion-for-a-change-of-metaphor/)
 ---
 
@@ -381,14 +389,6 @@ BILL: I honestly do not know whether ChatGPT will make programmers more producti
 Abuse of Notation --- 12/1/2025
 
 I should stop doing category theory. What’s the point?
-
-
-[Will Fewer Kids mean Fewer Scientists*](https://crookedtimber.org/2025/11/30/will-fewer-kids-mean-fewer-scientists/)
----
-
-Crooked Timber --- 11/30/2025
-
-I’ve been seeing more and more alarmism about the idea that, on current demographic trends, the world’s population might shrink to a billion in a century or two. That distant prospect is producing lots of advocacy for policies to increase birth...
 
 
 [Beyond the Geometry of Music](https://golem.ph.utexas.edu/category/2025/11/beyond_the_geometry_of_music.html)
