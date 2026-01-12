@@ -1,4 +1,20 @@
 
+[Is `smells like' commutative?](https://blog.computationalcomplexity.org/feeds/4989772021160346430/comments/default)
+---
+
+Computational Complexity --- 1/12/2026
+
+1) Smells Like... SomethingIn many TV shows having to do with murder (and there are plenty of them), I’ve heard the following exchange:    His breath smells like bitter almonds. So he was poisoned with cyanideThey’re either saying    bitter...
+
+
+[Sunday photoblogging: Derrynane Strand, Co. Kerry](https://crookedtimber.org/2026/01/11/sunday-photoblogging-derrynane-strand-co-kerry/)
+---
+
+Crooked Timber --- 1/11/2026
+
+
+
+
 [Computational Depth](https://blog.computationalcomplexity.org/feeds/4919048703370573194/comments/default)
 ---
 
@@ -391,14 +407,6 @@ The n-Category Café --- 12/3/2025
 A complex-analytic perspective on the indefinite integral of 1/x.
 
 
-[The Pub at the End of the University](https://crookedtimber.org/2025/12/03/the-pub-at-the-end-of-the-university/)
----
-
-Crooked Timber --- 12/3/2025
-
-I heard a rumour that London IT professionals have selected the pub where they will meet when the internet goes down. It is apocalyptic thinking, perhaps, but it also feels plausible. Though the internet feels permanent, stable and sufficiently...
-
-
 [December Adventure Log](https://www.fractalkitty.com/december-adventure-log/)
 ---
 
@@ -661,14 +669,6 @@ A few comments to last week's post Computers Don't Want suggested that human br
 The n-Category Café --- 10/7/2025
 
 I'm trying to better characterize two maximal subgroups of the group of automorphisms of the exceptional Jordan algebra, whose intersection is the Standard Model gauge group.
-
-
-[If you use AI in your work do you brag about it or hide it?](https://blog.computationalcomplexity.org/feeds/1237477313397401620/comments/default)
----
-
-Computational Complexity --- 10/5/2025
-
-You used AI in your work. Do you hide it or brag about it? 1) In 2002 there was a movie Simone about an actress who is really an AI. The Wikipedia entry tells the entire plot. I saved time by reading it in two minutes rather than watching it in 2...
 
 
 [Mathober 2025 Sketches](https://www.fractalkitty.com/mathober-2025-sketches/)
