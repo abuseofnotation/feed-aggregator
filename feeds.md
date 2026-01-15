@@ -1,4 +1,28 @@
 
+[Rational Functions Solved!](https://blog.computationalcomplexity.org/feeds/2815795544721958882/comments/default)
+---
+
+Computational Complexity --- 1/14/2026
+
+It's not every day that one of my open problems is solved, especially one that I asked about over three decades ago. Matt Kovacs-Deak, Daochen Wang and Rain Zimin Yang just posted a paper showing that if you have a Boolean function \(f\) and two...
+
+
+[Double Maths First Thing: Issue 47](https://aperiodical.com/2026/01/double-maths-first-thing-issue-47/)
+---
+
+The Aperiodical --- 1/14/2026
+
+Double Maths First Thing’s call is, apparently, important to someone Hello! My name is Colin and I am a mathematician on a mission to spread the joy, delight and – after a reminder from Sam Langford – hope in doing maths. I’m currently up to my...
+
+
+[Utilitarianism: it all went wrong with Sidgwick](https://crookedtimber.org/2026/01/14/utilitarianism-it-all-went-wrong-with-sidgwick/)
+---
+
+Crooked Timber --- 1/14/2026
+
+As part of my critique of pro-natalism, I’m looking at the philosophical foundations of the idea. Most of the explicit discussion takes place within the framework of consequentialism (the idea that the best actions or policies are those with the...
+
+
 [On West Coast Straussianism and the Imperial Presidency](https://crookedtimber.org/2026/01/13/on-west-coast-straussianism-and-the-imperial-presidency/)
 ---
 
@@ -319,14 +343,6 @@ Computational Complexity --- 12/14/2025
 ONEThe following headline confused me:         Trump, 79, Deletes Weird AI Video Shilling Magic Beds (see here). Was Weird Al selling magic beds? Magic beds?! How does that relate to President Trump? What’s going on?The problem is the...
 
 
-[Interview: Jigsy puzzle app](https://aperiodical.com/2025/12/interview-jigsy-puzzle-app/)
----
-
-The Aperiodical --- 12/14/2025
-
-We chatted to Chris Dawson – the creator of Jigsy, a shape-based puzzle app which we’ve enjoyed playing – to find out more about where it came from and how it was developed. What is Jigsy? A brand new spatial reasoning visual puzzle concept. At its...
-
-
 [Sunday photoblogging: Southville houses](https://crookedtimber.org/2025/12/14/sunday-photoblogging-southville-houses/)
 ---
 
@@ -365,14 +381,6 @@ I am at the airport in Melbourne (again). I’m sitting in the window eating one
 Crooked Timber --- 12/10/2025
 
 My last post described my attempt to generate a report on housework using Deep Research, and the way it came to a crashing halt. Over the fold, I’ve given the summary from the last version before the crash. You can read the whole report here,...
-
-
-[Adventures with Deep Research: success then failure](https://crookedtimber.org/2025/12/09/adventures-with-deep-research-success-then-failure/)
----
-
-Crooked Timber --- 12/9/2025
-
-I’ve long been interested in the topic of housework, as you can see from this CT post, which produced a long and unusually productive discussion thread [fn1]. The issue came up again in relation to the prospects for humanoid robots. It’s also at...
 
 
 [Footnotes to a fortnight: ETCS, logic questions, late Beethoven](https://www.logicmatters.net/2025/12/06/footnotes-to-a-fortnight-etcs-logic-help-late-beethoven/)
@@ -653,14 +661,6 @@ In my last post about generality, I tried to show how our ambition to discover i
 Computational Complexity --- 10/15/2025
 
 Each fall I try to predict the theory computer science faculty job market to come and give suggestions to those going after them. Get set for a rocky ride, with AI’s disruption of computer science, fiscal stress at universities, and new U.S....
-
-
-[Big Bots Don't Cry](https://blog.computationalcomplexity.org/feeds/4977782246945115848/comments/default)
----
-
-Computational Complexity --- 10/8/2025
-
-A few comments to last week's post Computers Don't Want suggested that human brains are just advanced computers, yet still possess agency and desires. But are we just Turing machines? I wrote about this question before but let's revisit in the...
 
 
 [A Complex Qutrit Inside an Octonionic One](https://golem.ph.utexas.edu/category/2025/10/a_complex_qutrit_inside_an_oct.html)
