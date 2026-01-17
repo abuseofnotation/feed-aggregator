@@ -1,4 +1,12 @@
 
+[Mathematical Objects: A taxicab](https://aperiodical.com/2026/01/mathematical-objects-a-taxicab/)
+---
+
+The Aperiodical --- 1/16/2026
+
+A conversation about mathematics inspired by a taxicab. Presented by Katie Steckles and Peter Rowlett.
+
+
 [Rational Functions Solved!](https://blog.computationalcomplexity.org/feeds/2815795544721958882/comments/default)
 ---
 
@@ -325,14 +333,6 @@ Having watched the film, I thought I’d get Robert Linhart’s book off the she
 Computational Complexity --- 12/17/2025
 
 The Fine Arts BuildingLast week, I partook of the second Fridays open house in the The Fine Arts Building, ten floors of offices all related to the arts and creatives in some way. Art studios of all kinds, from fine art to photography, music...
-
-
-[Double Maths First Thing: Issue 43](https://aperiodical.com/2025/12/double-maths-first-thing-issue-43/)
----
-
-The Aperiodical --- 12/17/2025
-
-Double Maths First Thing is not, and has never been, a Grade 2* listed building. Hello! My name is Colin and I am a mathematician on a mission to spread joy and delight in learning, understanding and doing maths. I’ve just had an excellent long...
 
 
 [Weird Al vs Weird AI](https://blog.computationalcomplexity.org/feeds/3670198861399289974/comments/default)
