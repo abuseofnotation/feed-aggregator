@@ -1,4 +1,12 @@
 
+[Sunday photoblogging: East Street](https://crookedtimber.org/2026/01/18/sunday-photoblogging-east-street/)
+---
+
+Crooked Timber --- 1/18/2026
+
+
+
+
 [Mathematical Objects: A taxicab](https://aperiodical.com/2026/01/mathematical-objects-a-taxicab/)
 ---
 
@@ -373,14 +381,6 @@ Watching Mathematicians at Work (AI generated)The Smithsonian Natural History Mu
 Crooked Timber --- 12/10/2025
 
 I am at the airport in Melbourne (again). I’m sitting in the window eating one of those excellent boxes of kale, broccoli, beans, seeds, peas and a boiled egg that I am grateful are now available at airports. Next to me a father and daughter are...
-
-
-[Housework for singles](https://crookedtimber.org/2025/12/10/housework-for-singles/)
----
-
-Crooked Timber --- 12/10/2025
-
-My last post described my attempt to generate a report on housework using Deep Research, and the way it came to a crashing halt. Over the fold, I’ve given the summary from the last version before the crash. You can read the whole report here,...
 
 
 [Footnotes to a fortnight: ETCS, logic questions, late Beethoven](https://www.logicmatters.net/2025/12/06/footnotes-to-a-fortnight-etcs-logic-help-late-beethoven/)
