@@ -1,4 +1,12 @@
 
+[Gödel’s Theorems (and logicisms) revisited](https://www.logicmatters.net/2026/01/19/godels-theorems-and-logicisms-revisited/)
+---
+
+Blog - Logic Matters --- 1/19/2026
+
+I didn’t at all intend to return to my Introduction to Gödel’s Theorems (which I’ve not really read for a dozen years, apart from correcting a small handful of typos in the PDF). But I had occasion to look something up, and — hey, ho! — I’ve found...
+
+
 [Sunday photoblogging: East Street](https://crookedtimber.org/2026/01/18/sunday-photoblogging-east-street/)
 ---
 
@@ -581,14 +589,6 @@ I am honored to be giving the 2025-26 Charles R. DePrima Memorial Lecture for th
 The n-Category Café --- 11/3/2025
 
 Exploiting the secret 4-dimensional symmetry of the Kepler problem to think about the periodic table of elements in a new way.
-
-
-[Categorial update?](https://www.logicmatters.net/2025/11/01/categorial-update/)
----
-
-Blog - Logic Matters --- 11/1/2025
-
-I’m slowly working on a corrected update of Introducing Category Theory, perhaps for early in the new year. But you can today download a new PDF version, without any of the revised content, but now with the bookmarks for chapters and sections...
 
 
 [The Revenge of Reason is here!](https://deontologistics.co/2025/11/01/the-revenge-of-reason-is-here/)
