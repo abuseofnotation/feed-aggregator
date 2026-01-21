@@ -1,4 +1,12 @@
 
+[What to do about students using ChatGPT to do their homework?](https://blog.computationalcomplexity.org/feeds/586031718707873202/comments/default)
+---
+
+Computational Complexity --- 1/20/2026
+
+Students are using ChatGPT to do their HW. Here are things I've heard and some of my thoughts on the issue (Lance also added some comments). I have no strong opinions on the issue. Some of what I say here applies to any AI or, for that matter,...
+
+
 [Gödel’s Theorems (and logicisms) revisited](https://www.logicmatters.net/2026/01/19/godels-theorems-and-logicisms-revisited/)
 ---
 
@@ -405,14 +413,6 @@ I’m still hoping to get a new version of Introducing Category Theory out in Ja
 The n-Category Café --- 12/4/2025
 
 An introduction to the bioctonionic plane and the mathematics needed to understand it.
-
-
-[The Most Common Name in the World is Not Charles Lin. But It Seems That Way To Me.](https://blog.computationalcomplexity.org/feeds/4527299882170588164/comments/default)
----
-
-Computational Complexity --- 12/4/2025
-
-(ADDED LATER- a Sad Note. The older Charles Lin passed away in December of 2025.)In 2001 I supervised Charles Lin's Master's Thesis, which was on Private Information Retrieval.In 2025 I supervised Charles Lin's Master's Thesis, which was on Ramsey...
 
 
 [Finding Papers Before the Web](https://blog.computationalcomplexity.org/feeds/2352040348662852045/comments/default)
