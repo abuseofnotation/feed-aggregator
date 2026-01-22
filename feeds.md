@@ -1,4 +1,12 @@
 
+[Double Maths First Thing: Issue 48](https://aperiodical.com/2026/01/double-maths-first-thing-issue-48/)
+---
+
+The Aperiodical --- 1/21/2026
+
+Double Maths First Thing is off on a nerdy day trip Hello! My name is Colin and I am a mathematician on a mission to spread the joy and delight of mathematical thinking and practice. I’m currently embroiled in discussions over an observation shared...
+
+
 [What to do about students using ChatGPT to do their homework?](https://blog.computationalcomplexity.org/feeds/586031718707873202/comments/default)
 ---
 
@@ -333,14 +341,6 @@ Crooked Timber --- 12/21/2025
 Blog - Logic Matters --- 12/19/2025
 
 I have just uploaded a PDF of the current draft of a revised second edition of Introducing Category Theory. I will tinker with the draft over the next few weeks, proof-reading with some help from Gemini this time, but also — more importantly —...
-
-
-[Mathematical Objects: Slice of pizza](https://aperiodical.com/2025/12/mathematical-objects-slice-of-pizza/)
----
-
-The Aperiodical --- 12/19/2025
-
-A conversation about mathematics inspired by a slice of pizza. Presented by Katie Steckles and Peter Rowlett.
 
 
 [L’Établi (2): the book](https://crookedtimber.org/2025/12/18/letabli-2-the-book/)
