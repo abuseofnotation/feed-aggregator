@@ -1,4 +1,20 @@
 
+[Community](https://blog.computationalcomplexity.org/feeds/6176336781531476506/comments/default)
+---
+
+Computational Complexity --- 1/22/2026
+
+I once had a provost who felt that academic departments hindered the university as they tended to silo the faculty. He would argue we should eliminate departments and that would increase cross-disciplinary work. That went nowhere of course.He...
+
+
+[Tom Stoppard 1937-2025](https://blog.computationalcomplexity.org/feeds/7138578487238084097/comments/default)
+---
+
+Computational Complexity --- 1/22/2026
+
+The playwright Tom Stoppard passed away at the age of 88 on Nov. 29, 2025.ONE) He wrote many plays and some movies. Below I highlight his works whose themes I think will be of interest to my readers (Or at least to me—your mileage may...
+
+
 [Double Maths First Thing: Issue 48](https://aperiodical.com/2026/01/double-maths-first-thing-issue-48/)
 ---
 
@@ -375,14 +391,6 @@ Crooked Timber --- 12/14/2025
 
 
 
-[Tom Stoppard 1937-2025](https://blog.computationalcomplexity.org/feeds/7138578487238084097/comments/default)
----
-
-Computational Complexity --- 12/13/2025
-
-The playwright Tom Stoppard passed away at the age of 88 on Nov. 29, 2025.ONE) He wrote many plays and some movies. Below I highlight his works whose themes I think will be of interest to my readers (Or at least to me—your mileage may...
-
-
 [Learning the Mathematical Process](https://blog.computationalcomplexity.org/feeds/6316448212914286001/comments/default)
 ---
 
@@ -653,14 +661,6 @@ Polyhedral optimization is a tool used in compilers for optimizing loop nests. W
 Abuse of Notation --- 10/16/2025
 
 In my last post about generality, I tried to show how our ambition to discover ideas that are all-encompassing and eternal makes our worldview crumble, leaving us unable to think clearly even about simple issues with obvious solutions. Today, I...
-
-
-[Fall Jobs Post 2025](https://blog.computationalcomplexity.org/feeds/7268290965433194070/comments/default)
----
-
-Computational Complexity --- 10/15/2025
-
-Each fall I try to predict the theory computer science faculty job market to come and give suggestions to those going after them. Get set for a rocky ride, with AI’s disruption of computer science, fiscal stress at universities, and new U.S....
 
 
 [A Complex Qutrit Inside an Octonionic One](https://golem.ph.utexas.edu/category/2025/10/a_complex_qutrit_inside_an_oct.html)
