@@ -1,4 +1,12 @@
 
+[The social media ban that wasn’t](https://crookedtimber.org/2026/01/23/the-social-media-ban-what-wasnt/)
+---
+
+Crooked Timber --- 1/23/2026
+
+The Australian government’s legislation seeking to ban access to social media for people under 16 has received plenty of attention in International media, mostly leading with the government’s that 4.7 million accounts were banned or deactivated...
+
+
 [Community](https://blog.computationalcomplexity.org/feeds/6176336781531476506/comments/default)
 ---
 
@@ -397,14 +405,6 @@ Crooked Timber --- 12/14/2025
 Computational Complexity --- 12/11/2025
 
 Watching Mathematicians at Work (AI generated)The Smithsonian Natural History Museum has a FossiLab where visitors can peek through windows watching scientists prepare fossils for conservation. Maybe we should have a similar exhibit at math museums...
-
-
-[Bankers (not money) make the world go around? Towards a labour/tech history of finance](https://crookedtimber.org/2025/12/10/bankers-not-money-make-the-world-go-around-towards-a-labour-tech-history-of-finance/)
----
-
-Crooked Timber --- 12/10/2025
-
-I am at the airport in Melbourne (again). I’m sitting in the window eating one of those excellent boxes of kale, broccoli, beans, seeds, peas and a boiled egg that I am grateful are now available at airports. Next to me a father and daughter are...
 
 
 [Footnotes to a fortnight: ETCS, logic questions, late Beethoven](https://www.logicmatters.net/2025/12/06/footnotes-to-a-fortnight-etcs-logic-help-late-beethoven/)
