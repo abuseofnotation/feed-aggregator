@@ -1,4 +1,20 @@
 
+[Online Talks on Accessible Theorems!](https://blog.computationalcomplexity.org/feeds/3304264127696534335/comments/default)
+---
+
+Computational Complexity --- 1/24/2026
+
+Bogdan Grechuk has written a book Landscapes of 21st Century Mathematics that came out in 2021. There is a revised version coming out soon. The theme is that he takes theorems whose statements can be understood and describes them in 5–10 pages. No...
+
+
+[A short post about heroin voice](https://crookedtimber.org/2026/01/24/a-very-short-post-about-heroin-voice/)
+---
+
+Crooked Timber --- 1/24/2026
+
+This was triggered by a post over at our long-term friendly-rival blog, LGM. That post, in turn, was triggered by something stupid that Robert F. Kennedy Jr. said recently. What Kennedy said: he thinks his distinctive hoarse, raspy voice is...
+
+
 [The social media ban that wasn’t](https://crookedtimber.org/2026/01/23/the-social-media-ban-what-wasnt/)
 ---
 
@@ -391,14 +407,6 @@ Computational Complexity --- 12/14/2025
 ONEThe following headline confused me:         Trump, 79, Deletes Weird AI Video Shilling Magic Beds (see here). Was Weird Al selling magic beds? Magic beds?! How does that relate to President Trump? What’s going on?The problem is the...
 
 
-[Sunday photoblogging: Southville houses](https://crookedtimber.org/2025/12/14/sunday-photoblogging-southville-houses/)
----
-
-Crooked Timber --- 12/14/2025
-
-
-
-
 [Learning the Mathematical Process](https://blog.computationalcomplexity.org/feeds/6316448212914286001/comments/default)
 ---
 
@@ -637,14 +645,6 @@ I sometimes give the following advice for research which I label Bill's Bad Advi
 Computational Complexity --- 10/23/2025
 
 This fall, for the first time at Illinois Tech, I'm teaching Introduction to Theory of Computation. While I've taught a variation of this course a couple dozen times, I last taught this class Spring 2016 at Georgia Tech. Intro Theory is a course...
-
-
-[Sept 16, 2025 was Pythagorean Day](https://blog.computationalcomplexity.org/feeds/905023585123347331/comments/default)
----
-
-Computational Complexity --- 10/21/2025
-
-Several people emailed me that September 16, 2025---written as 9-16-25 in the US---represents the integer side lengths of a right triangle.9-16-25 is the only such triple that is also a valid date. This kind of mathematical alignment only happens...
 
 
 [Integer Set Library (ISL) - A Primer](https://www.jeremykun.com/2025/10/19/isl-a-primer/)
