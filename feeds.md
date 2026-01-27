@@ -1,4 +1,20 @@
 
+[Gödel, Lean, Fra Angelico, Schubert](https://www.logicmatters.net/2026/01/26/godel-lean-fra-angelico-schubert/)
+---
+
+Blog - Logic Matters --- 1/26/2026
+
+So far — but then I am still in the foothills, tinkering with early chapters — I have found just a couple of minor expositional stumbles in An Introduction to Gödel’s Theorems. I have spotted, though, quite a few places where I can make the text...
+
+
+[WHO: An anecdote](https://crookedtimber.org/2026/01/26/who-an-anecdote/)
+---
+
+Crooked Timber --- 1/26/2026
+
+So the Trump administration has just pulled the US out of the World Health Organization, WHO. WHO is the biggest and most important international health organization. It’s an arm of the United Nations. It’s been around since 1948. Almost every...
+
+
 [Categorifying Riemann's Functional Equation](https://golem.ph.utexas.edu/category/2026/01/categorifying_riemanns_functio.html)
 ---
 
@@ -71,6 +87,14 @@ Computational Complexity --- 1/20/2026
 Students are using ChatGPT to do their HW. Here are things I've heard and some of my thoughts on the issue (Lance also added some comments). I have no strong opinions on the issue. Some of what I say here applies to any AI or, for that matter,...
 
 
+[Gödel’s Theorems (and logicisms) revisited](https://www.logicmatters.net/2026/01/19/godels-theorems-and-logicisms-revisited/)
+---
+
+Blog - Logic Matters --- 1/19/2026
+
+I didn’t at all intend to return to my Introduction to Gödel’s Theorems (which I’ve not really read for a dozen years, apart from correcting a small handful of typos in the PDF). But I had occasion to look something up, and — hey, ho! — I’ve found...
+
+
 [Sunday photoblogging: East Street](https://crookedtimber.org/2026/01/18/sunday-photoblogging-east-street/)
 ---
 
@@ -117,6 +141,14 @@ As part of my critique of pro-natalism, I’m looking at the philosophical found
 Crooked Timber --- 1/13/2026
 
 It is undisputed that Leo Strauss (1899 – 1973), a German exile, who, after a long stint at The New School reached prominence at The University of Chicago, became the founder of a ‘school’ of academics who found a home mostly in political theory,...
+
+
+[ICT, the third edition](https://www.logicmatters.net/2026/01/13/ict-the-third-edition/)
+---
+
+Blog - Logic Matters --- 1/13/2026
+
+There comes a tipping point, when the prospect of yet another round of proof-reading becomes intolerable and you think, dammit, the book as it is will now just have to do! So I have drawn a line, put the latest version of Introducing Category...
 
 
 [The Tories are dead, long live the Tories (Reform version)!](https://crookedtimber.org/2026/01/12/the-tories-are-dead-long-live-the-tories-reform-version/)
@@ -199,12 +231,28 @@ Computational Complexity --- 1/5/2026
 2026 will be a year of AI disruption across all of academia. Let's start by talking about AI is changing how we write research papers. Not the research itself (another post), just about the dissemination thereof.Technology has changed research...
 
 
+[New Issue: Journal for the Philosophy of Mathematics](https://www.logicmatters.net/2026/01/05/new-issue-journal-for-the-philosophy-of-mathematics/)
+---
+
+Blog - Logic Matters --- 1/5/2026
+
+The first issue of the new Journal for the Philosophy of Mathematics appeared back in September 2024. A second issue, now edited by Alex Paseau, has now appeared, just a day before the end of 2025. This is a collection of just seven, again mostly...
+
+
 [Carnival of Maths 247](https://aperiodical.com/2026/01/carnival-of-maths-247/)
 ---
 
 The Aperiodical --- 1/5/2026
 
 The next issue of the Carnival of Mathematics, rounding up blog posts from the month of December 2025, is now online at The Scribble Board. The Carnival rounds up maths blog posts from all over the internet, including some from our own Aperiodical....
+
+
+[Two books to miss? Brandom and Bardi](https://www.logicmatters.net/2026/01/04/two-books-to-miss-brandom-and-bardi/)
+---
+
+Blog - Logic Matters --- 1/4/2026
+
+More than twenty years ago, Robert Brandom wrote Making it Explicit, a 762 page ramble of hand-waving pretentiousness. The sort of philosophical tome I detest. His shortened version Articulating Reasons just exposed how creaky the whole Brandomian...
 
 
 [Sunday photoblogging: Windmill Hill](https://crookedtimber.org/2026/01/04/sunday-photoblogging-windmill-hill/)
@@ -247,6 +295,14 @@ Fractal Kitty --- 1/1/2026
 Happy New Year! It's time for Genuary 2026! I am not sure how many prompts I will do (or combine), but I hope to share my code and progress here. I hope to get at least 5-10 done this year with a mix of different languages and approaches.
 
 
+[The Big Red Logic Books – last year, this year.](https://www.logicmatters.net/2026/01/01/the-big-red-logic-books-last-year-this-year/)
+---
+
+Blog - Logic Matters --- 1/1/2026
+
+As I have said more than once before, self-publishing was exactly appropriate for the Big Red Logic Books. I am way past the stage of needing the brownie points that are gained by continuing conventional publication. The books are aimed at...
+
+
 [For 2026, let’s hope…](https://crookedtimber.org/2026/01/01/for-2026-lets-hope/)
 ---
 
@@ -285,6 +341,22 @@ IntroductionIn this inquiry, we explore chords, which are lines drawn across cir
 Crooked Timber --- 12/29/2025
 
 I read a post on one of the social media platforms written by a professor who was sharing his experience with giving away ten percent of his income, after he signed the “Ten percent giving pledge” many years ago. In deciding what or whom to give...
+
+
+[AI proof reading again](https://www.logicmatters.net/2025/12/28/ai-proof-reading-again/)
+---
+
+Blog - Logic Matters --- 12/28/2025
+
+It was only a bit over six months ago that I was using ChatGPT and Claude as proof-reading assistants as I prepared the second edition of Introducing Category Theory. I certainly found them pretty useful even if far from glitch-free, so I am again...
+
+
+[A Christmas card](https://www.logicmatters.net/2025/12/24/a-christmas-card-14/)
+---
+
+Blog - Logic Matters --- 12/24/2025
+
+Sadly, we still haven’t yet been, as we planned, to the Fra Angelico exhibition at the Palazzo Strozzi and San Marco in Florence. “Momentous and inexpressibly beautiful … a miracle of an event” said the NYT review: others have similarly extolled...
 
 
 [Double Maths First Thing: Issue 44](https://aperiodical.com/2025/12/double-maths-first-thing-issue-44/)
@@ -327,12 +399,12 @@ The n-Category Café --- 12/21/2025
 There are two ways to stick SU(2) × SU(3) in Spin(10).   One is good for physics; the other, alas, is easily obtained using the octonions.
 
 
-[Sunday photoblogging: Hebron Road](https://crookedtimber.org/2025/12/21/sunday-photoblogging-hebron-road-3/)
+[Revised 2nd edition of ICT](https://www.logicmatters.net/2025/12/19/revised-2nd-edition-of-ict/)
 ---
 
-Crooked Timber --- 12/21/2025
+Blog - Logic Matters --- 12/19/2025
 
-
+I have just uploaded a PDF of the current draft of a revised second edition of Introducing Category Theory. I will tinker with the draft over the next few weeks, proof-reading with some help from Gemini this time, but also — more importantly —...
 
 
 [A Place Away From Tech](https://blog.computationalcomplexity.org/feeds/8936109000133530298/comments/default)
@@ -357,6 +429,14 @@ ONEThe following headline confused me:         Trump, 79, Deletes Weird AI Video
 Computational Complexity --- 12/11/2025
 
 Watching Mathematicians at Work (AI generated)The Smithsonian Natural History Museum has a FossiLab where visitors can peek through windows watching scientists prepare fossils for conservation. Maybe we should have a similar exhibit at math museums...
+
+
+[Footnotes to a fortnight: ETCS, logic questions, late Beethoven](https://www.logicmatters.net/2025/12/06/footnotes-to-a-fortnight-etcs-logic-help-late-beethoven/)
+---
+
+Blog - Logic Matters --- 12/6/2025
+
+I’m still hoping to get a new version of Introducing Category Theory out in January. I want to rewrite the chapter on power objects which is a bit dense, and also carefully read through Part II once more for reader-friendliness: but changes should...
 
 
 [Octonions and the Standard Model (Part 12)](https://golem.ph.utexas.edu/category/2025/11/the_bioctonionic_plane.html)
@@ -717,84 +797,4 @@ This will be a talk I shall give for the History and Philosophy of Science (HPS)
 The n-Category Café --- 8/15/2025
 
 This week, 50 category theorists and software engineers working on "safeguarded AI" are meeting in Bristol.
-
-
-[FHE@PDX 2025](https://www.jeremykun.com/shortform/2025-07-25-0956/)
----
-
-Math ∩ Programming --- 7/25/2025
-
-On Monday, July 14th 2025, I hosted a mini-workshop on homomorphic encryption at Google’s Portland, Oregon office. Though Portland is a small city, it’s becoming a hub for homomorphic encryption. Intel and Google both have a presence here, as well...
-
-
-[Frequently Asked Questions about FHE](https://www.jeremykun.com/frequently-asked-questions-about-fhe/)
----
-
-Math ∩ Programming --- 7/18/2025
-
-I work on homomorphic encryption (HE or FHE for “fully” homomorphic encryption) and I have written a lot about it on this blog (see the relevant tag). This article is a collection of short answers to questions I see on various threads and news...
-
-
-[The computable surreal numbers, Fudan University, July 2025](https://jdh.hamkins.org/the-computable-surreal-numbers-fudan-university-july-2025/)
----
-
-Joel David Hamkins --- 7/16/2025
-
-This will be a talk for the Fudan Logic Seminar at Fudan University, to be followed immediately by two talks for the Fudan Logic student seminar, forming a mini-conference for the logic group on 23 July 2025. Abstract. I shall … Continue reading →
-
-
-[Pointwise definable end-extensions of models of arithmetic and set theory, Changchun, China, July 2025](https://jdh.hamkins.org/pointwise-definable-end-extensions-of-models-of-arithmetic-and-set-theory-changchun-china-july-2025/)
----
-
-Joel David Hamkins --- 7/14/2025
-
-This will be a talk for the Seminar on Frontier Issues in Logic and Philosophy The First Forum on Logic and Philosophy 逻辑与哲学前沿问题研究”学术研讨会暨第一届逻辑与哲学论坛 Changchun, China, 18-20 July 2025 Pointwise definable end-extensions of models of arithmetic and set...
-
-
-[Take Two](https://www.fractalkitty.com/take-two-2/)
----
-
-Fractal Kitty --- 7/11/2025
-
-Haiku + Codewith a second take dance with the first – tethered massorbiting encores .iframe-container {   position: relative;   width: 100%;   height: 0;   padding-bottom: 100%; /* 1:1 aspect ratio - square */   overflow: hidden;  ...
-
-
-[Lecture series on the philosophy of mathematics](https://jdh.hamkins.org/lecture-series-on-the-philosophy-of-mathematics/)
----
-
-Joel David Hamkins --- 7/9/2025
-
-This will be a lecture series on the Philosophy of Mathematics at Fudan University in Shanghai, China, 30 June – 25 July 2025, as a part of the International Summer School program at Fudan University. Lectures given by Ruizhi Yang … Continue...
-
-
-[How the continuum hypothesis might have been a fundamental axiom, Lanzhou China, July 2025](https://jdh.hamkins.org/how-the-ch-might-have-been-fundamental-lanzhou-2025/)
----
-
-Joel David Hamkins --- 7/9/2025
-
-This will be a talk for the International Conference on the Philosophy of Mathematics, held at Lanzhou University, China, 25-27 July 2025. How the continuum hypothesis might have been a fundamental axiom Abstract. I shall describe a...
-
-
-[Inquiries-Week 3: Reflect and Rotate](https://www.fractalkitty.com/inquiries-week-3-r-and-rotate/)
----
-
-Fractal Kitty --- 7/3/2025
-
-IntroductionExplore the reflection and rotation of polygons to discover the patterns that emerge.  Polygon PlayLet's start with a triangle ABC. We can rotate clockwise so that each vertex moves clockwise by one step: We can also reflect (or flip)...
-
-
-[Potentialist conceptions of infinity, Peking University, June 2025](https://jdh.hamkins.org/potentialist-conceptions-of-infinity-peking-university-june-2025/)
----
-
-Joel David Hamkins --- 6/23/2025
-
-This will be a talk for the Conference on Infinity, a collaborative meeting of logicians and specialists in Chinese philosophy here at Peking University, 24 June 2025, in the philosophy department. Abstract. I shall lay out a spectrum of...
-
-
-[TfE: On Post-Searlean Critiques of LLMs](https://deontologistics.co/2025/06/22/tfe-on-post-searlean-critiques-of-llms/)
----
-
-DEONTOLOGISTICS --- 6/22/2025
-
-Here’s a recent thread on philosophy of AI from Twitter/X, in which I address rather popular arguments made by Emily Bender and others to the effect that LLM outputs are strictly speaking meaningless. I think these argument are flawed, as I explain...
 
