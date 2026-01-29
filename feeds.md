@@ -1,4 +1,28 @@
 
+[A New Hope](https://crookedtimber.org/2026/01/28/a-new-hope/)
+---
+
+Crooked Timber --- 1/28/2026
+
+Ever since it became evident that Trump was likely to be re-elected, I’ve been among the most pessimistic of commentators on the likely course of US politics (most recently here for example). I’ve also been nowhere near pessimistic enough. I...
+
+
+[Double Maths First Thing: Issue 49](https://aperiodical.com/2026/01/double-maths-first-thing-issue-49/)
+---
+
+The Aperiodical --- 1/28/2026
+
+Double Maths First Thing is still confused about the ladybird. Hello! My name is Colin and I am a mathematician on a mission to find and spread joy in doing maths. This week, I’ve been thinking about the ladybug puzzle featured on 3b1b recently....
+
+
+[The Fighting Temeraire (Re)visited](https://blog.computationalcomplexity.org/feeds/2570650255506895667/comments/default)
+---
+
+Computational Complexity --- 1/28/2026
+
+The Fighting Temeraire by JWM TurnerA year ago I wrote about an experiment I ran to learn about the modern period of art from ChatGPT. Chatty picked four paintings to discuss and I wrote about Joseph Mallord William Turner's The Fighting Temeraire....
+
+
 [Gödel, Lean, Fra Angelico, Schubert](https://www.logicmatters.net/2026/01/26/godel-lean-fra-angelico-schubert/)
 ---
 
@@ -335,14 +359,6 @@ Fractal Kitty --- 12/31/2025
 IntroductionIn this inquiry, we explore chords, which are lines drawn across circles, using different rules to create various patterns, curves, and shapes. This inquiry will be different from those in the Inquiries Series in that it will be more...
 
 
-[Some thoughts on charitable donations](https://crookedtimber.org/2025/12/29/some-thoughts-on-charitable-donations/)
----
-
-Crooked Timber --- 12/29/2025
-
-I read a post on one of the social media platforms written by a professor who was sharing his experience with giving away ten percent of his income, after he signed the “Ten percent giving pledge” many years ago. In deciding what or whom to give...
-
-
 [AI proof reading again](https://www.logicmatters.net/2025/12/28/ai-proof-reading-again/)
 ---
 
@@ -357,14 +373,6 @@ It was only a bit over six months ago that I was using ChatGPT and Claude as pro
 Blog - Logic Matters --- 12/24/2025
 
 Sadly, we still haven’t yet been, as we planned, to the Fra Angelico exhibition at the Palazzo Strozzi and San Marco in Florence. “Momentous and inexpressibly beautiful … a miracle of an event” said the NYT review: others have similarly extolled...
-
-
-[Double Maths First Thing: Issue 44](https://aperiodical.com/2025/12/double-maths-first-thing-issue-44/)
----
-
-The Aperiodical --- 12/24/2025
-
-Double Maths First Thing is not stirring. Hello! My name is Colin and I am a mathematician on a mission to spread joy and delight in mathematical creativity. It’s Christmas Eve (babe), which means I probably need to switch off from looking out for...
 
 
 [Fear of the future](http://abuseofnotation.github.io/future-self/)
@@ -645,14 +653,6 @@ Applied Category Theory 2026 is taking place 6--10 July in Tallinn, Estonia, and
 Computational Complexity --- 10/27/2025
 
 I sometimes give the following advice for research which I label Bill's Bad Advice. We will later see who it might be good advice for. Spoiler alert: the number of people for whom it is good advice is shrinking but might include Lance especially...
-
-
-[AI and Intro Theory](https://blog.computationalcomplexity.org/feeds/4343181318710262656/comments/default)
----
-
-Computational Complexity --- 10/23/2025
-
-This fall, for the first time at Illinois Tech, I'm teaching Introduction to Theory of Computation. While I've taught a variation of this course a couple dozen times, I last taught this class Spring 2016 at Georgia Tech. Intro Theory is a course...
 
 
 [Integer Set Library (ISL) - A Primer](https://www.jeremykun.com/2025/10/19/isl-a-primer/)
