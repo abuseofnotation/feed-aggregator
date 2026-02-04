@@ -1,4 +1,12 @@
 
+[Occasional reason to be cheerful:  Babies](https://crookedtimber.org/2026/02/03/occasional-reason-to-be-cheerful-babies/)
+---
+
+Crooked Timber --- 2/3/2026
+
+Healthy babies, to be specific. Because worldwide, infant and child mortality has fallen greatly; and is still falling; and will almost certainly continue to fall. In premodern societies, meaning pretty much the entire world before 1820 or so,...
+
+
 [A big thank you …](https://crookedtimber.org/2026/02/03/a-big-thank-you/)
 ---
 
@@ -269,14 +277,6 @@ Crooked Timber --- 1/11/2026
 Crooked Timber --- 1/8/2026
 
 I’ve been asked by a couple of friends, who have signed contracts to write nonfiction trade books, whether I have any advice on how to make sure the book gets written. I think in general non-fiction trade writing is quite a different challenge from...
-
-
-[Changing beliefs, moving house – suggestion for a change of metaphor](https://crookedtimber.org/2026/01/07/changing-beliefs-moving-house-suggestion-for-a-change-of-metaphor/)
----
-
-Crooked Timber --- 1/7/2026
-
-In political epistemology, there is a lot of criticism of the metaphor of the “marketplace of ideas,” the thought that people somehow “trade” in arguments or ideas and thereby arrive at true beliefs.* The longer you think about it, the less sense...
 
 
 [Double Maths First Thing: Issue 46](https://aperiodical.com/2026/01/double-maths-first-thing-issue-46/)
