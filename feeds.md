@@ -1,10 +1,26 @@
 
-[Filtering Snowflakes](https://www.fractalkitty.com/filtering-snowflakes/)
+[Number Builder: can you build up from 1 to the target?](https://aperiodical.com/2026/02/number-builder-can-you-build-up-from-1-to-the-target/)
 ---
 
-Fractal Kitty --- 2/6/2026
+The Aperiodical --- 2/9/2026
 
-Whether you call this triangle Pascal's triangle, Binomial Expansion Coefficients, Yang Hui's triangle, or any other name, it is beautiful.Finding patterns in this triangle is fun - from counting numbers, to looking at parity (even/odd-ness), to...
+Here’s a question that’s been in the back of my head for a while: Starting from 1 and with just the arithmetic operations + – × ÷ available to you , how quickly can you build up to a given target number? You can do this on pen and paper, or even...
+
+
+[Aperiodical News Roundup – January 2026](https://aperiodical.com/2026/02/aperiodical-news-roundup-january-2026/)
+---
+
+The Aperiodical --- 2/9/2026
+
+Here’s some mathematical news from last month that we didn’t otherwise report here. Sad news Dr Gladys West, one of the “Hidden Figures” behind developing the maths of GPS, has died. She was 95. (via A. Rivera). Metafilter has a comprehensive post...
+
+
+[I used to think historians in the future will have too much to work with. I could be wrong](https://blog.computationalcomplexity.org/feeds/4405451768911601340/comments/default)
+---
+
+Computational Complexity --- 2/9/2026
+
+(I thought I had already posted this but the blogger system we use says I didn't. Apologies if I did. Most likely is that I posted something similar. When you blog for X years you forget what you've already blogged on.) Historians who study ancient...
 
 
 [Surreal arithmetic is bi-interpretable with set theory, CUNY Logic Workshop, March 2026](https://jdh.hamkins.org/surreal-arithmetic-cuny-logic-workshop-march-2026/)
@@ -101,14 +117,6 @@ I’ve been down a rabbit hole for the past few months, obsessed with a single q
 The Aperiodical --- 1/30/2026
 
 A conversation about mathematics and communicating mathematics inspired by a ‘Certified Mathematical Object’ sticker. Presented by Katie Steckles and Peter Rowlett, with special guest Chris Nho from Public-Math.org.
-
-
-[Finished! A Jellyroll GenQuilt](https://www.fractalkitty.com/finished-a-jellyroll-genquilt/)
----
-
-Fractal Kitty --- 1/29/2026
-
-Have you ever been to a quilt store and bought fabric without a plan? You just saw the pretty colors and patterns and went for it? Well, I did - with a jelly roll of white, beige, grays, and black with mathy patterns (Note: A jelly roll is a roll
 
 
 [A New Hope](https://crookedtimber.org/2026/01/28/a-new-hope/)
@@ -359,14 +367,6 @@ Blog - Logic Matters --- 1/5/2026
 The first issue of the new Journal for the Philosophy of Mathematics appeared back in September 2024. A second issue, now edited by Alex Paseau, has now appeared, just a day before the end of 2025. This is a collection of just seven, again mostly...
 
 
-[Carnival of Maths 247](https://aperiodical.com/2026/01/carnival-of-maths-247/)
----
-
-The Aperiodical --- 1/5/2026
-
-The next issue of the Carnival of Mathematics, rounding up blog posts from the month of December 2025, is now online at The Scribble Board. The Carnival rounds up maths blog posts from all over the internet, including some from our own Aperiodical....
-
-
 [Two books to miss? Brandom and Bardi](https://www.logicmatters.net/2026/01/04/two-books-to-miss-brandom-and-bardi/)
 ---
 
@@ -383,36 +383,12 @@ Computational Complexity --- 1/3/2026
 The Betty White Award goes to people who die at the end of the year--- too late to be on those articles with titles like                              people we lost this year.The point of the award is that news...
 
 
-[Mathematical Objects: Venn diagram with Keisha Thompson](https://aperiodical.com/2026/01/mathematical-objects-venn-diagram-with-keisha-thompson/)
----
-
-The Aperiodical --- 1/2/2026
-
-A conversation about mathematics inspired by a Venn diagram. Presented by Katie Steckles and Peter Rowlett, with special guest Keisha Thompson. Katie mentioned the MathForEquality badges and pins.
-
-
-[Genuary 2026](https://www.fractalkitty.com/genuary-2026/)
----
-
-Fractal Kitty --- 1/1/2026
-
-Happy New Year! It's time for Genuary 2026! I am not sure how many prompts I will do (or combine), but I hope to share my code and progress here. I hope to get at least 5-10 done this year with a mix of different languages and approaches.
-
-
 [The Big Red Logic Books – last year, this year.](https://www.logicmatters.net/2026/01/01/the-big-red-logic-books-last-year-this-year/)
 ---
 
 Blog - Logic Matters --- 1/1/2026
 
 As I have said more than once before, self-publishing was exactly appropriate for the Big Red Logic Books. I am way past the stage of needing the brownie points that are gained by continuing conventional publication. The books are aimed at...
-
-
-[Inquiries-Week 6: Beautiful Chords](https://www.fractalkitty.com/inquiries-week-6-beautiful-chords/)
----
-
-Fractal Kitty --- 12/31/2025
-
-IntroductionIn this inquiry, we explore chords, which are lines drawn across circles, using different rules to create various patterns, curves, and shapes. This inquiry will be different from those in the Inquiries Series in that it will be more...
 
 
 [AI proof reading again](https://www.logicmatters.net/2025/12/28/ai-proof-reading-again/)
@@ -527,14 +503,6 @@ The n-Category Café --- 12/3/2025
 A complex-analytic perspective on the indefinite integral of 1/x.
 
 
-[December Adventure Log](https://www.fractalkitty.com/december-adventure-log/)
----
-
-Fractal Kitty --- 12/2/2025
-
-December Adventure was started by Eli_oat at Oatmeal.  I love seeing what others do this month - here is a log of logs.This December, I plan to make a generative quilt, play with origami,  doodle some mossy mandalas, set up next year's journal, and...
-
-
 [Does ChatGPT really help programmers?](https://blog.computationalcomplexity.org/feeds/1600293661378473276/comments/default)
 ---
 
@@ -615,14 +583,6 @@ Computational Complexity --- 11/10/2025
 A friend of mine told me that in the last six months, the last grandchild of one of our former presidents (who had already passed away) died.I tried to deduce who it was without checking the web directly. For example, I looked up when various...
 
 
-[somewhere here](https://www.fractalkitty.com/somewhere-here/)
----
-
-Fractal Kitty --- 11/8/2025
-
-A coded poem and trackThe Track:Initiated on a piano, and realized on an OP-1 Field. somewhere here0:00/101.302857142857151×The Visual:Human coded in p5js with p5sound - enjoy in fullscreen. Click here for the visual with music - (CW: Strobing...
-
-
 [The Complexity Argument for Capitalism](https://blog.computationalcomplexity.org/feeds/4111861502485280164/comments/default)
 ---
 
@@ -639,28 +599,12 @@ The n-Category Café --- 11/6/2025
 Newton's Principia is famous for his investigations of the inverse square force law for gravity.  But he also studied the inverse cube law.  Why, and what is so good about this law?
 
 
-[Inquiries-Week 5: Triangles Emerge](https://www.fractalkitty.com/inquiries-week-5-triangles-emerge/)
----
-
-Fractal Kitty --- 11/6/2025
-
-IntroductionIn this inquiry, nodes are connected one at a time. How many lines can you draw before a triangle emerges?Starting with FourLet's start with four nodes - draw them on a sheet of paper. How many lines (called edges) can you draw before a...
-
-
 [Dynamics in Jordan Algebras](https://golem.ph.utexas.edu/category/2025/11/dynamics_in_jordan_algebras.html)
 ---
 
 The n-Category Café --- 11/4/2025
 
 You can tweak Heisenberg's equation so that instead of using a commutator it uses an associator!  Then it applies to Jordan algebras other than that of self-adjoint complex matrices.
-
-
-[Did Euclid exist? Is it okay to quote people that did not exist?](https://blog.computationalcomplexity.org/feeds/543908760734613436/comments/default)
----
-
-Computational Complexity --- 11/4/2025
-
-The following excerpt from Abrahim Ladha's comment on Lance's post aboutAI and intro theory caught my attention:---------------------------BEGIN EXCERPTNot just with AI, but in theory and math courses, there have always been Bart Simpsonlevel...
 
 
 [What is your number? Logic puzzles for mathematicians – 2025 DePrima Memorial Lecture, Caltech](https://jdh.hamkins.org/what-is-your-number-logic-puzzles-for-mathematicians-deprima-lecture-caltech-2025/)
@@ -719,36 +663,12 @@ The n-Category Café --- 10/7/2025
 I'm trying to better characterize two maximal subgroups of the group of automorphisms of the exceptional Jordan algebra, whose intersection is the Standard Model gauge group.
 
 
-[Mathober 2025 Sketches](https://www.fractalkitty.com/mathober-2025-sketches/)
----
-
-Fractal Kitty --- 10/1/2025
-
-This is the post I'll update with this year's Mathober art. Check back and see what's been added throughout the month. Link, Deviation, PolyhedronStrongly, Digraph Sink, Partial SumNotation (find the sigma)P5.js sketchesLink, Deviation,...
-
-
-[Sci Art September](https://www.fractalkitty.com/sci-art-september/)
----
-
-Fractal Kitty --- 9/28/2025
-
-Kristin Henry has been providing SciArtSeptember prompts each year. I incorporated all of the prompts into a single sketch this year. 1. Fluid 2. Coral 3. Inertia 4. Diffusion 5. Skeleton 6. Growth 7. Virus 8. Permutation 9. Element 10. Algae 11....
-
-
 [My life is like a Prison](http://abuseofnotation.github.io/prison/)
 ---
 
 Abuse of Notation --- 9/27/2025
 
 “My life is like a prison” I wrote this in my personal website when I was 14. I was quite correct in pinpointing the problem, pinpointing how I, and many other people, felt, but I was off at identifying the cause — I thought, that I was kept in...
-
-
-[Math Storytelling Day 2025](https://www.fractalkitty.com/math-storytelling-day-2025/)
----
-
-Fractal Kitty --- 9/25/2025
-
-Today is math storytelling day, so I thought I would make a visual coloring sheet as a prompt for others. What characters live in this world? What stories are there to tell? What number system would you have? What mathemagical spells would you...
 
 
 [What is a Good Quantum Encoding? Part 1](https://www.math3ma.com/blog/what-is-a-good-quantum-encoding-part-1)
@@ -775,14 +695,6 @@ The n-Category Café --- 9/16/2025
 The octonions have nontrivial inner automorphisms of order 3.   Is this related to triality?
 
 
-[Mathober 2025](https://www.fractalkitty.com/mathober-2025/)
----
-
-Fractal Kitty --- 9/16/2025
-
-Mathober is almost here! I am looking forward to seeing everyone’s creativity and take on this year’s prompts. If you’ve never participated before, now’s the perfect time to jump in!The goal of Mathober is simple: have fun, learn, grow, and play
-
-
 [Burrito Monads, Arrow Kitchens, and Freyd Category Recipes](https://golem.ph.utexas.edu/category/2025/08/burrito_monads_arrow_kitchens.html)
 ---
 
@@ -797,4 +709,92 @@ Adjoint School guest post by Khyathi Komalan and Andrew Krenz
 Joel David Hamkins --- 9/10/2025
 
 Recently I had the pleasure to give a talk at the Conference on the occasion of Jörg Brendle’s 60th birthday at Kobe University in Japan, and I was invited to make remarks at the conference banquet given in his honor. … Continue reading →
+
+
+[Equivalence via Surjections](https://golem.ph.utexas.edu/category/2025/08/equivalence_via_surjections.html)
+---
+
+The n-Category Café --- 8/30/2025
+
+All equivalences are generated by just the strict, literally surjective ones.
+
+
+[The elementary theory of surreal arithmetic is bi-interpretable with set theory, Kobe, Japan, September 2025](https://jdh.hamkins.org/theory-of-surreal-arithmetic-bi-interpretable-with-set-theory-japan-september-2025/)
+---
+
+Joel David Hamkins --- 8/20/2025
+
+This will be a talk for the Conference on the occasion of Jörg Brendle’s 60th birthday at Kobe University in Kobe, Japan, 2-5 September 2025. Many years ago, I was a JSPS Fellow at Kobe University, at the same time … Continue reading →
+
+
+[Did Turing ever halt? HPS Colloquium, Notre Dame, October 2025](https://jdh.hamkins.org/did-turing-ever-halt-hps-colloquium-october-2025/)
+---
+
+Joel David Hamkins --- 8/18/2025
+
+This will be a talk I shall give for the History and Philosophy of Science (HPS) Colloquium at the University of Notre Dame, 17 October 2025, 12:30-1:30 pm, 201 O’Shaughnessy Hall. Did Turing ever halt? Abstract. Alan Turing’s 1936 paper … Continue...
+
+
+[Safeguarded AI Meeting](https://golem.ph.utexas.edu/category/2025/08/safeguarded_ai_meeting.html)
+---
+
+The n-Category Café --- 8/15/2025
+
+This week, 50 category theorists and software engineers working on "safeguarded AI" are meeting in Bristol.
+
+
+[FHE@PDX 2025](https://www.jeremykun.com/shortform/2025-07-25-0956/)
+---
+
+Math ∩ Programming --- 7/25/2025
+
+On Monday, July 14th 2025, I hosted a mini-workshop on homomorphic encryption at Google’s Portland, Oregon office. Though Portland is a small city, it’s becoming a hub for homomorphic encryption. Intel and Google both have a presence here, as well...
+
+
+[Frequently Asked Questions about FHE](https://www.jeremykun.com/frequently-asked-questions-about-fhe/)
+---
+
+Math ∩ Programming --- 7/18/2025
+
+I work on homomorphic encryption (HE or FHE for “fully” homomorphic encryption) and I have written a lot about it on this blog (see the relevant tag). This article is a collection of short answers to questions I see on various threads and news...
+
+
+[The computable surreal numbers, Fudan University, July 2025](https://jdh.hamkins.org/the-computable-surreal-numbers-fudan-university-july-2025/)
+---
+
+Joel David Hamkins --- 7/16/2025
+
+This will be a talk for the Fudan Logic Seminar at Fudan University, to be followed immediately by two talks for the Fudan Logic student seminar, forming a mini-conference for the logic group on 23 July 2025. Abstract. I shall … Continue reading →
+
+
+[Pointwise definable end-extensions of models of arithmetic and set theory, Changchun, China, July 2025](https://jdh.hamkins.org/pointwise-definable-end-extensions-of-models-of-arithmetic-and-set-theory-changchun-china-july-2025/)
+---
+
+Joel David Hamkins --- 7/14/2025
+
+This will be a talk for the Seminar on Frontier Issues in Logic and Philosophy The First Forum on Logic and Philosophy 逻辑与哲学前沿问题研究”学术研讨会暨第一届逻辑与哲学论坛 Changchun, China, 18-20 July 2025 Pointwise definable end-extensions of models of arithmetic and set...
+
+
+[Lecture series on the philosophy of mathematics](https://jdh.hamkins.org/lecture-series-on-the-philosophy-of-mathematics/)
+---
+
+Joel David Hamkins --- 7/9/2025
+
+This will be a lecture series on the Philosophy of Mathematics at Fudan University in Shanghai, China, 30 June – 25 July 2025, as a part of the International Summer School program at Fudan University. Lectures given by Ruizhi Yang … Continue...
+
+
+[How the continuum hypothesis might have been a fundamental axiom, Lanzhou China, July 2025](https://jdh.hamkins.org/how-the-ch-might-have-been-fundamental-lanzhou-2025/)
+---
+
+Joel David Hamkins --- 7/9/2025
+
+This will be a talk for the International Conference on the Philosophy of Mathematics, held at Lanzhou University, China, 25-27 July 2025. How the continuum hypothesis might have been a fundamental axiom Abstract. I shall describe a...
+
+
+[Potentialist conceptions of infinity, Peking University, June 2025](https://jdh.hamkins.org/potentialist-conceptions-of-infinity-peking-university-june-2025/)
+---
+
+Joel David Hamkins --- 6/23/2025
+
+This will be a talk for the Conference on Infinity, a collaborative meeting of logicians and specialists in Chinese philosophy here at Peking University, 24 June 2025, in the philosophy department. Abstract. I shall lay out a spectrum of...
 
