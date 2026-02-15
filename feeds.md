@@ -1,4 +1,12 @@
 
+[Book Launch, Substack, and Other News](https://deontologistics.co/2026/02/14/book-launch-substack-and-other-news/)
+---
+
+DEONTOLOGISTICS --- 2/14/2026
+
+A couple updates for readers. There will be an impromptu book launch for The Revenge of Reason at Newcastle University on the 25th of February, from 5-7pm in HDB.1.02 in the Henry Daysh Building. I’ll be having a conversation about the book with...
+
+
 [Runciman’s Rawls](https://crookedtimber.org/2026/02/13/runcimans-rawls/)
 ---
 
@@ -757,14 +765,6 @@ This is the post I'll update with this year's Mathober art. Check back and see w
 Fractal Kitty --- 9/28/2025
 
 Kristin Henry has been providing SciArtSeptember prompts each year. I incorporated all of the prompts into a single sketch this year. 1. Fluid 2. Coral 3. Inertia 4. Diffusion 5. Skeleton 6. Growth 7. Virus 8. Permutation 9. Element 10. Algae 11....
-
-
-[My life is like a Prison](http://abuseofnotation.github.io/prison/)
----
-
-Abuse of Notation --- 9/27/2025
-
-“My life is like a prison” I wrote this in my personal website when I was 14. I was quite correct in pinpointing the problem, pinpointing how I, and many other people, felt, but I was off at identifying the cause — I thought, that I was kept in...
 
 
 [Math Storytelling Day 2025](https://www.fractalkitty.com/math-storytelling-day-2025/)
