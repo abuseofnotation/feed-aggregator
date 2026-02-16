@@ -1,4 +1,20 @@
 
+[Assigning Open Problems in Class](https://blog.computationalcomplexity.org/feeds/5900084073913115515/comments/default)
+---
+
+Computational Complexity --- 2/15/2026
+
+I sometimes assign open problems as extra credit problems. Some thoughts:1) Do you tell the students the problems are open?YES- it would be unfair for a student to work on something they almost surely won't get.NO- Some Open Problems are open...
+
+
+[Sunday photoblogging: Hebron Road](https://crookedtimber.org/2026/02/15/sunday-photoblogging-hebron-road-4/)
+---
+
+Crooked Timber --- 2/15/2026
+
+
+
+
 [Book Launch, Substack, and Other News](https://deontologistics.co/2026/02/14/book-launch-substack-and-other-news/)
 ---
 
@@ -367,14 +383,6 @@ Crooked Timber --- 1/14/2026
 As part of my critique of pro-natalism, I’m looking at the philosophical foundations of the idea. Most of the explicit discussion takes place within the framework of consequentialism (the idea that the best actions or policies are those with the...
 
 
-[On West Coast Straussianism and the Imperial Presidency](https://crookedtimber.org/2026/01/13/on-west-coast-straussianism-and-the-imperial-presidency/)
----
-
-Crooked Timber --- 1/13/2026
-
-It is undisputed that Leo Strauss (1899 – 1973), a German exile, who, after a long stint at The New School reached prominence at The University of Chicago, became the founder of a ‘school’ of academics who found a home mostly in political theory,...
-
-
 [ICT, the third edition](https://www.logicmatters.net/2026/01/13/ict-the-third-edition/)
 ---
 
@@ -653,14 +661,6 @@ This will be a talk for the Logic Seminar at the University of Notre Dame, Tuesd
 Computational Complexity --- 11/12/2025
 
 In 2016, in the pre-transformer times, Georgia Tech professor Ashok Goel gave a prescient TEDx Talk on an AI teaching assistant for his large online Artificial Intelligence course. Students would ask questions to an online forum, and fellow...
-
-
-[A Presidential Trivia Question, how I tried to solve it](https://blog.computationalcomplexity.org/feeds/1413899550370295449/comments/default)
----
-
-Computational Complexity --- 11/10/2025
-
-A friend of mine told me that in the last six months, the last grandchild of one of our former presidents (who had already passed away) died.I tried to deduce who it was without checking the web directly. For example, I looked up when various...
 
 
 [somewhere here](https://www.fractalkitty.com/somewhere-here/)
