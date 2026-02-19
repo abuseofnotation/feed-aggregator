@@ -1,4 +1,28 @@
 
+[A Wittgenstein problem …](https://www.logicmatters.net/2026/02/18/a-wittgenstein-problem/)
+---
+
+Blog - Logic Matters --- 2/18/2026
+
+It is time at last to redecorate my small but now rather depressingly shabby study. Already books from the top shelves are piled in a hallway, and the rest are covered in plastic sheeting as I start tackling the late Victorian ceiling (which isn’t...
+
+
+[Joe Halpern (1953-2026)](https://blog.computationalcomplexity.org/feeds/2442546540829531257/comments/default)
+---
+
+Computational Complexity --- 2/18/2026
+
+Computer Science Professor Joseph Halpern passed away on Friday after a long battle with cancer. He was a leader in the mathematical reasoning about knowledge. His paper with Yoram Moses, Knowledge and Common Knowledge in a Distributed Environment,...
+
+
+[Double Maths First Thing: Issue 4C](https://aperiodical.com/2026/02/double-maths-first-thing-issue-4c/)
+---
+
+The Aperiodical --- 2/18/2026
+
+Double Maths First Thing is giving up sacrifice for Lent Hello! My name is Colin and I am a mathematician on a mission to spread joy and delight in doing and understanding maths. I’ve given a few classes this week where a student has suddenly lit...
+
+
 [Assigning Open Problems in Class](https://blog.computationalcomplexity.org/feeds/5900084073913115515/comments/default)
 ---
 
@@ -359,14 +383,6 @@ Crooked Timber --- 1/18/2026
 
 
 
-[Mathematical Objects: A taxicab](https://aperiodical.com/2026/01/mathematical-objects-a-taxicab/)
----
-
-The Aperiodical --- 1/16/2026
-
-A conversation about mathematics inspired by a taxicab. Presented by Katie Steckles and Peter Rowlett.
-
-
 [Rational Functions Solved!](https://blog.computationalcomplexity.org/feeds/2815795544721958882/comments/default)
 ---
 
@@ -551,14 +567,6 @@ Computational Complexity --- 12/11/2025
 Watching Mathematicians at Work (AI generated)The Smithsonian Natural History Museum has a FossiLab where visitors can peek through windows watching scientists prepare fossils for conservation. Maybe we should have a similar exhibit at math museums...
 
 
-[Footnotes to a fortnight: ETCS, logic questions, late Beethoven](https://www.logicmatters.net/2025/12/06/footnotes-to-a-fortnight-etcs-logic-help-late-beethoven/)
----
-
-Blog - Logic Matters --- 12/6/2025
-
-I’m still hoping to get a new version of Introducing Category Theory out in January. I want to rewrite the chapter on power objects which is a bit dense, and also carefully read through Part II once more for reader-friendliness: but changes should...
-
-
 [Octonions and the Standard Model (Part 12)](https://golem.ph.utexas.edu/category/2025/11/the_bioctonionic_plane.html)
 ---
 
@@ -653,14 +661,6 @@ Since there is now a CCC Test-of-Time Award, see here,  (CCC stands for Compu
 Joel David Hamkins --- 11/12/2025
 
 This will be a talk for the Logic Seminar at the University of Notre Dame, Tuesday 18 November 20215 2pm 125 Hayes-Healy Building. Abstract. I shall introduce what I call the first-order elementary theory of surreal arithmetic, a theory that is...
-
-
-[The Future of Teaching Assistants](https://blog.computationalcomplexity.org/feeds/6070689394445949241/comments/default)
----
-
-Computational Complexity --- 11/12/2025
-
-In 2016, in the pre-transformer times, Georgia Tech professor Ashok Goel gave a prescient TEDx Talk on an AI teaching assistant for his large online Artificial Intelligence course. Students would ask questions to an online forum, and fellow...
 
 
 [somewhere here](https://www.fractalkitty.com/somewhere-here/)
