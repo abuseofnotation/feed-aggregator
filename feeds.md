@@ -1,4 +1,12 @@
 
+[Imperia: A European Culture Story, Part 1](https://crookedtimber.org/2026/02/21/imperia-a-european-culture-story-part-1/)
+---
+
+Crooked Timber --- 2/21/2026
+
+Just north of the Alps, on the border between Germany and Switzerland, lies beautiful Lake Constance. And on the northwest shore of the lake is the lovely small city of Constance, Germany. Constance is well worth a visit. A lot of German cities...
+
+
 [A Wittgenstein problem …](https://www.logicmatters.net/2026/02/18/a-wittgenstein-problem/)
 ---
 
@@ -389,14 +397,6 @@ Crooked Timber --- 1/18/2026
 Computational Complexity --- 1/14/2026
 
 It's not every day that one of my open problems is solved, especially one that I asked about over three decades ago. Matt Kovacs-Deak, Daochen Wang and Rain Zimin Yang just posted a paper showing that if you have a Boolean function \(f\) and two...
-
-
-[Utilitarianism: it all went wrong with Sidgwick](https://crookedtimber.org/2026/01/14/utilitarianism-it-all-went-wrong-with-sidgwick/)
----
-
-Crooked Timber --- 1/14/2026
-
-As part of my critique of pro-natalism, I’m looking at the philosophical foundations of the idea. Most of the explicit discussion takes place within the framework of consequentialism (the idea that the best actions or policies are those with the...
 
 
 [ICT, the third edition](https://www.logicmatters.net/2026/01/13/ict-the-third-edition/)
