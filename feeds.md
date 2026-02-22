@@ -1,4 +1,12 @@
 
+[The US state has proved itself dispensable](https://crookedtimber.org/2026/02/21/the-us-state-has-proved-itself-dispensable/)
+---
+
+Crooked Timber --- 2/21/2026
+
+Not long after Trump took office, I observed that the status of the US as the “indispensable nation” could not be sustained. A year later, the US, considered strictly as a state actor, is already dispensable and has, in fact, been largely dispensed...
+
+
 [Imperia: A European Culture Story, Part 1](https://crookedtimber.org/2026/02/21/imperia-a-european-culture-story-part-1/)
 ---
 
@@ -381,14 +389,6 @@ Students are using ChatGPT to do their HW. Here are things I've heard and some o
 Blog - Logic Matters --- 1/19/2026
 
 I didn’t at all intend to return to my Introduction to Gödel’s Theorems (which I’ve not really read for a dozen years, apart from correcting a small handful of typos in the PDF). But I had occasion to look something up, and — hey, ho! — I’ve found...
-
-
-[Sunday photoblogging: East Street](https://crookedtimber.org/2026/01/18/sunday-photoblogging-east-street/)
----
-
-Crooked Timber --- 1/18/2026
-
-
 
 
 [Rational Functions Solved!](https://blog.computationalcomplexity.org/feeds/2815795544721958882/comments/default)
