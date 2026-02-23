@@ -1,4 +1,28 @@
 
+[ChatGPT gets an easy math problem wrong (I got it right). How is that possible?](https://blog.computationalcomplexity.org/feeds/5220881189742625792/comments/default)
+---
+
+Computational Complexity --- 2/22/2026
+
+A commenter on this post asked for me (or anyone) to solve the problem without AI:A,B,C,D,E are digits (the poster said A could be 0 but I took A to be nonzero) such thatABCDE + BCDE + CDE + DE + E = 20320.I solved it completely by hand. You can...
+
+
+[Sunday photoblogging: Life in the UK](https://crookedtimber.org/2026/02/22/sunday-photoblogging-life-in-the-uk/)
+---
+
+Crooked Timber --- 2/22/2026
+
+It has been like this for weeks and weeks. And not just in the UK, but across much of Western Europe.
+
+
+[The Univalence Principle](https://golem.ph.utexas.edu/category/2026/02/the_univalence_principle.html)
+---
+
+The n-Category Café --- 2/22/2026
+
+Making precise the idea that equivalent structures are indistinguishable.
+
+
 [The US state has proved itself dispensable](https://crookedtimber.org/2026/02/21/the-us-state-has-proved-itself-dispensable/)
 ---
 
@@ -101,14 +125,6 @@ I am honored to be invited to give the Owen G. Owens Memorial Lecture at Wayne S
 Joel David Hamkins --- 2/11/2026
 
 I have been asked by the ASL to fill in as a last-minute substitute speaker for the ASL session at the upcoming 2026 APA Central Division Meeting in Chicago, February 18-21, 2026, due to a late cancellation of one of … Continue reading →
-
-
-[The Univalence Principle](https://golem.ph.utexas.edu/category/2026/02/the_univalence_principle.html)
----
-
-The n-Category Café --- 2/11/2026
-
-Making precise the idea that equivalent structures are indistinguishable.
 
 
 [Carnival of Maths 248](https://aperiodical.com/2026/02/carnival-of-maths-248/)
@@ -341,14 +357,6 @@ Bogdan Grechuk has written a book Landscapes of 21st Century Mathematics that ca
 Crooked Timber --- 1/24/2026
 
 This was triggered by a post over at our long-term friendly-rival blog, LGM. That post, in turn, was triggered by something stupid that Robert F. Kennedy Jr. said recently. What Kennedy said: he thinks his distinctive hoarse, raspy voice is...
-
-
-[The social media ban that wasn’t](https://crookedtimber.org/2026/01/23/the-social-media-ban-what-wasnt/)
----
-
-Crooked Timber --- 1/23/2026
-
-The Australian government’s legislation seeking to ban access to social media for people under 16 has received plenty of attention in International media, mostly leading with the government’s that 4.7 million accounts were banned or deactivated...
 
 
 [Community](https://blog.computationalcomplexity.org/feeds/6176336781531476506/comments/default)
@@ -645,14 +653,6 @@ Carmichael Numbers are the bane of probabilistic primality algorithms. You have 
 Math ∩ Programming --- 11/17/2025
 
 In an earlier article, I covered the basic technique for performing matrix-vector multiplication in fully homomorphic encryption (FHE), known as the Halevi-Shoup diagonal method. This article covers a more recent method for matrix-matrix...
-
-
-[Test of Time Awards: A Good Idea but ....](https://blog.computationalcomplexity.org/feeds/4271664968383113403/comments/default)
----
-
-Computational Complexity --- 11/16/2025
-
-Since there is now a CCC Test-of-Time Award, see here,  (CCC stands for Computational Complexity Conference), I decided to look at other Test-of-Time awards in computer science.Below is a list of various computer science Test-of-Time awards, along...
 
 
 [The elementary theory of surreal arithmetic is bi-interpretable with set theory, Notre Dame Logic Seminar, November 2025](https://jdh.hamkins.org/surreal-arithmetic-notre-dame-logic-seminar-nov-2025/)
