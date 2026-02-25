@@ -2,9 +2,17 @@
 [ChatGPT gets an easy math problem wrong (I got it right). How is that possible?](https://blog.computationalcomplexity.org/feeds/5220881189742625792/comments/default)
 ---
 
-Computational Complexity --- 2/22/2026
+Computational Complexity --- 2/25/2026
 
-A commenter on this post asked for me (or anyone) to solve the problem without AI:A,B,C,D,E are digits (the poster said A could be 0 but I took A to be nonzero) such thatABCDE + BCDE + CDE + DE + E = 20320.I solved it completely by hand. You can...
+A commenter on this post asked for me (or anyone) to solve the problem without AI:A,B,C,D,E are digits (the poster said A could be 0 but I took A to be nonzero) such thatABCDE + BCDE + CDE + DE + E = 20320.(CLARIFICATION ADDED LATER: We allow two...
+
+
+[Imperia: A European Culture Story, Part 2](https://crookedtimber.org/2026/02/24/imperia-a-european-culture-story-part-2/)
+---
+
+Crooked Timber --- 2/24/2026
+
+Some Americans have been talking about our shared European culture lately! As CT’s resident American-in-Europe, I feel I must respond. So, here’s a European culture story. (This is Part 2, You can find Part 1 here.) Okay, so Imperia! Big...
 
 
 [Sunday photoblogging: Life in the UK](https://crookedtimber.org/2026/02/22/sunday-photoblogging-life-in-the-uk/)
@@ -349,14 +357,6 @@ Crooked Timber --- 1/25/2026
 Computational Complexity --- 1/24/2026
 
 Bogdan Grechuk has written a book Landscapes of 21st Century Mathematics that came out in 2021. There is a revised version coming out soon. The theme is that he takes theorems whose statements can be understood and describes them in 5–10 pages. No...
-
-
-[A short post about heroin voice](https://crookedtimber.org/2026/01/24/a-very-short-post-about-heroin-voice/)
----
-
-Crooked Timber --- 1/24/2026
-
-This was triggered by a post over at our long-term friendly-rival blog, LGM. That post, in turn, was triggered by something stupid that Robert F. Kennedy Jr. said recently. What Kennedy said: he thinks his distinctive hoarse, raspy voice is...
 
 
 [Community](https://blog.computationalcomplexity.org/feeds/6176336781531476506/comments/default)
