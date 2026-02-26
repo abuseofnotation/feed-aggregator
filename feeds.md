@@ -1,4 +1,20 @@
 
+[A Probability Challenge](https://blog.computationalcomplexity.org/feeds/1458051687028993555/comments/default)
+---
+
+Computational Complexity --- 2/25/2026
+
+Last week I had the pleasure of meeting Alex Bellos in Oxford. Among other things Bellos writes the Guardian Monday puzzle column. He gave me a copy of his latest book, Puzzle Me Twice, where the obvious answer is not correct. I got more right than...
+
+
+[Double Maths First Thing: Issue 4D](https://aperiodical.com/2026/02/double-maths-first-thing-issue-4d/)
+---
+
+The Aperiodical --- 2/25/2026
+
+Double Maths First Thing is trying to be good. Hello! My name is Colin and I am a mathematician on a mission to spread the joy and delight of doing maths. I had an “oo! oo! oo!” moment at MathsJam last week, figuring out a neat solution to a...
+
+
 [ChatGPT gets an easy math problem wrong (I got it right). How is that possible?](https://blog.computationalcomplexity.org/feeds/5220881189742625792/comments/default)
 ---
 
@@ -375,14 +391,6 @@ Computational Complexity --- 1/22/2026
 The playwright Tom Stoppard passed away at the age of 88 on Nov. 29, 2025.ONE) He wrote many plays and some movies. Below I highlight his works whose themes I think will be of interest to my readers (Or at least to me—your mileage may...
 
 
-[Double Maths First Thing: Issue 48](https://aperiodical.com/2026/01/double-maths-first-thing-issue-48/)
----
-
-The Aperiodical --- 1/21/2026
-
-Double Maths First Thing is off on a nerdy day trip Hello! My name is Colin and I am a mathematician on a mission to spread the joy and delight of mathematical thinking and practice. I’m currently embroiled in discussions over an observation shared...
-
-
 [What to do about students using ChatGPT to do their homework?](https://blog.computationalcomplexity.org/feeds/586031718707873202/comments/default)
 ---
 
@@ -637,14 +645,6 @@ Tymoczko gave a good talk on the math of music theory.
 Computational Complexity --- 11/24/2025
 
 Last week we had a talk by Purdue philosophy professor Eamon Duede Tail Novelty, Knowledge Collapse, and Useful Frictions in Science. In part of the talk he argued that if AI makes writing technical papers easier, researchers will write up small...
-
-
-[Factoring Carmichael Numbers](https://blog.computationalcomplexity.org/feeds/7969406995688661287/comments/default)
----
-
-Computational Complexity --- 11/20/2025
-
-Carmichael Numbers are the bane of probabilistic primality algorithms. You have to go through extra steps just to handle these relatively rare numbers. But did you know that the Miller-Rabin algorithm not only determines the compositeness of...
 
 
 [Bicyclic Matrix-Matrix Multiplication in Fully Homomorphic Encryption](https://www.jeremykun.com/2025/11/17/bicyclic-matrix-matrix-multiplication-in-fully-homomorphic-encryption/)
