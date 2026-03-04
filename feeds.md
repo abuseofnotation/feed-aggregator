@@ -1,4 +1,12 @@
 
+[Golden (missed) opportunities](https://crookedtimber.org/2026/03/03/golden-missed-opportunities/)
+---
+
+Crooked Timber --- 3/3/2026
+
+She told me she’d be ten minutes late, which was fine. But when it was nearly twenty minutes I messaged – where are you? Shall I walk towards you? My daughter sent a picture of a bit of the state library she was in, people at desks etc. We’re here,...
+
+
 [Goodhart's law: Ken Jennings and Types of Knowledge](https://blog.computationalcomplexity.org/feeds/3785437420338624202/comments/default)
 ---
 
@@ -349,14 +357,6 @@ A conversation about mathematics and communicating mathematics inspired by a ‘
 Fractal Kitty --- 1/29/2026
 
 Have you ever been to a quilt store and bought fabric without a plan? You just saw the pretty colors and patterns and went for it? Well, I did - with a jelly roll of white, beige, grays, and black with mathy patterns (Note: A jelly roll is a roll
-
-
-[A New Hope](https://crookedtimber.org/2026/01/28/a-new-hope/)
----
-
-Crooked Timber --- 1/28/2026
-
-Ever since it became evident that Trump was likely to be re-elected, I’ve been among the most pessimistic of commentators on the likely course of US politics (most recently here for example). I’ve also been nowhere near pessimistic enough. I...
 
 
 [The Fighting Temeraire (Re)visited](https://blog.computationalcomplexity.org/feeds/2570650255506895667/comments/default)
