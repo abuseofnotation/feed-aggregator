@@ -1,4 +1,36 @@
 
+[Ex America bona quaedam](https://www.logicmatters.net/2026/03/04/ex-america-bona-quaedam/)
+---
+
+Blog - Logic Matters --- 3/4/2026
+
+Some good things come out of America — Dvořák’s String Quintet Op. 97, for example, written while he was staying in a Czech-speaking community in Iowa for the summer of 1893. And there was a quite joyous performance a few days ago at Wigmore Hall...
+
+
+[Aperiodical News Roundup – February 2026](https://aperiodical.com/2026/03/aperiodical-news-roundup-february-2026/)
+---
+
+The Aperiodical --- 3/4/2026
+
+Here’s a short round-up of mathematical and maths-adjacent news from this month. The LMS are seeking Outreach Lecturers, who must work in UK HE mathematics, and will receive a two-year post during which they’re expected to deliver talks to a...
+
+
+[Double Maths First Thing: Issue 4E](https://aperiodical.com/2026/03/double-maths-first-thing-issue-4e/)
+---
+
+The Aperiodical --- 3/4/2026
+
+Double Maths First Thing is spinning plates Hello! My name is Colin and I am a mathematician on a mission to spread the joy and delight of doing maths. This week’s “oo!” moment was this lovely observation by Ruud de Rooij, followed by an “oh wow!”...
+
+
+[The Purpose of Proofs](https://blog.computationalcomplexity.org/feeds/5335444581424836410/comments/default)
+---
+
+Computational Complexity --- 3/4/2026
+
+In discussions of AI and Mathematics, the discussion often goes to mathematical proofs, such as the the First Proof challenge. So let's look at the role of proofs in mathematics.Without a proof, you don't even know whether a theorem is true or...
+
+
 [Golden (missed) opportunities](https://crookedtimber.org/2026/03/03/golden-missed-opportunities/)
 ---
 
@@ -279,14 +311,6 @@ Crooked Timber --- 2/4/2026
 Which jobs will be replaced by AI? Here is a modest proposal.* Replace higher management by AI. Not “management” in the sense of the teamleader who works alongside their colleagues with a bit more responsibility to make decisions and mediate...
 
 
-[Double Maths First Thing: Issue 4A](https://aperiodical.com/2026/02/double-maths-first-thing-issue-4a/)
----
-
-The Aperiodical --- 2/4/2026
-
-Double Maths First Thing is cranking the handle to bash a stop sign into a boot. Hello! My name is Colin and I am a mathematician on a mission to spread joy and delight in mathematical thinking and process. This week, I am mainly recovering from...
-
-
 [Occasional reason to be cheerful:  Babies](https://crookedtimber.org/2026/02/03/occasional-reason-to-be-cheerful-babies/)
 ---
 
@@ -341,14 +365,6 @@ I miss writing. That’s a strange thing to say because I’ve been employed as 
 Proses.ID --- 1/31/2026
 
 I’ve been down a rabbit hole for the past few months, obsessed with a single question: “What makes a writing human?” It started, ironically, because…
-
-
-[Mathematical Objects: Certified Mathematical Object sticker with Chris Nho](https://aperiodical.com/2026/01/mathematical-objects-certified-mathematical-object-sticker-with-chris-nho/)
----
-
-The Aperiodical --- 1/30/2026
-
-A conversation about mathematics and communicating mathematics inspired by a ‘Certified Mathematical Object’ sticker. Presented by Katie Steckles and Peter Rowlett, with special guest Chris Nho from Public-Math.org.
 
 
 [Finished! A Jellyroll GenQuilt](https://www.fractalkitty.com/finished-a-jellyroll-genquilt/)
@@ -527,14 +543,6 @@ Blog - Logic Matters --- 12/28/2025
 It was only a bit over six months ago that I was using ChatGPT and Claude as proof-reading assistants as I prepared the second edition of Introducing Category Theory. I certainly found them pretty useful even if far from glitch-free, so I am again...
 
 
-[A Christmas card](https://www.logicmatters.net/2025/12/24/a-christmas-card-14/)
----
-
-Blog - Logic Matters --- 12/24/2025
-
-Sadly, we still haven’t yet been, as we planned, to the Fra Angelico exhibition at the Palazzo Strozzi and San Marco in Florence. “Momentous and inexpressibly beautiful … a miracle of an event” said the NYT review: others have similarly extolled...
-
-
 [Fear of the future](http://abuseofnotation.github.io/future-self/)
 ---
 
@@ -621,14 +629,6 @@ A complex-analytic perspective on the indefinite integral of 1/x.
 Fractal Kitty --- 12/2/2025
 
 December Adventure was started by Eli_oat at Oatmeal.  I love seeing what others do this month - here is a log of logs.This December, I plan to make a generative quilt, play with origami,  doodle some mossy mandalas, set up next year's journal, and...
-
-
-[Does ChatGPT really help programmers?](https://blog.computationalcomplexity.org/feeds/1600293661378473276/comments/default)
----
-
-Computational Complexity --- 12/1/2025
-
-BILL: I honestly do not know whether ChatGPT will make programmers more productive. (I am not touching question of whether it puts programmers out of work. That's a problem for Future Bill.) Who can I ask? I found two people who disagree on the...
 
 
 [I should stop doing category theory](http://abuseofnotation.github.io/whats-the-point/)
