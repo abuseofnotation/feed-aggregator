@@ -4,7 +4,7 @@
 
 Blog - Logic Matters --- 3/4/2026
 
-Some good things come out of America — Dvořák’s String Quintet Op. 97, for example, written while he was staying in a Czech-speaking community in Iowa for the summer of 1893. And there was a quite joyous performance a few days ago at Wigmore Hall...
+Some good things come out of America — Dvořák’s String Quintet Op. 97, for example, written while he was staying with a Czech-speaking community in Iowa for the summer of 1893. And there was a quite joyous performance a few days ago at Wigmore Hall...
 
 
 [Aperiodical News Roundup – February 2026](https://aperiodical.com/2026/03/aperiodical-news-roundup-february-2026/)
