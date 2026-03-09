@@ -1,4 +1,28 @@
 
+[How does AI do on Baseball-Brothers-Pitchers](https://blog.computationalcomplexity.org/feeds/8822847409328676415/comments/default)
+---
+
+Computational Complexity --- 3/8/2026
+
+In my graduate Ramsey Theory class I taught Kruskal's tree theorem (KTT) which was proven by Joe Kruskal in his PhD thesis in 1960. (Should that be in a graduate Ramsey Theory class? There are not enough people teaching such a course to get a...
+
+
+[Sunday photoblogging: VW reflection](https://crookedtimber.org/2026/03/08/sunday-photoblogging-vw-reflection/)
+---
+
+Crooked Timber --- 3/8/2026
+
+
+
+
+[Every child should be wanted](https://crookedtimber.org/2026/03/08/every-child-should-be-wanted/)
+---
+
+Crooked Timber --- 3/8/2026
+
+It’s a truism that every child should be wanted. While there are plenty of exceptions, the birth of an unwanted child often turns out badly for both mother and child (and father, if they are present). Sometimes, once a child is born, the fact that...
+
+
 [Ex America bona quaedam](https://www.logicmatters.net/2026/03/04/ex-america-bona-quaedam/)
 ---
 
@@ -335,22 +359,6 @@ Computational Complexity --- 2/2/2026
 Lance and I had a blog-debate about What to do about students using ChatGPT to do their Homework.Some commenters pointed out that we've been here before. I will now list past technologies that looked like they were a problem for student assignments...
 
 
-[20th anniversary of the Bar Steward Sons of Val Doonican.](https://crookedtimber.org/2026/02/02/20th-anniversary-of-the-bar-steward-sons-of-val-doonican/)
----
-
-Crooked Timber --- 2/2/2026
-
-My dad genuinely had no interest in music. Well, almost none – he did enjoy novelty songs from time to time, but not really for the music. Our friend Bob, who is otherwise quite sensible, used to try to convince him that listening to music would...
-
-
-[Sunday photoblogging: Cumberland Basin](https://crookedtimber.org/2026/02/01/sunday-photoblogging-cumberland-basin/)
----
-
-Crooked Timber --- 2/1/2026
-
-
-
-
 [I miss writing](http://proses.id/i-miss-writing/)
 ---
 
@@ -605,14 +613,6 @@ Watching Mathematicians at Work (AI generated)The Smithsonian Natural History Mu
 The n-Category Café --- 12/4/2025
 
 An introduction to the bioctonionic plane and the mathematics needed to understand it.
-
-
-[Finding Papers Before the Web](https://blog.computationalcomplexity.org/feeds/2352040348662852045/comments/default)
----
-
-Computational Complexity --- 12/4/2025
-
-Inspired by Daniel Litt's X PostStarted asking mathematicians whose career started before the internet if they think Google, email, etc. have sped up the pace of math research. Wide variety of opinions but the broad consensus seems to be “yes,”...
 
 
 [log|x| + C revisited](https://golem.ph.utexas.edu/category/2025/12/logx_c_revisited.html)
