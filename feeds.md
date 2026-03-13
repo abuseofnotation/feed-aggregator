@@ -2,9 +2,17 @@
 [A Typed Language for Agent Coordination](https://golem.ph.utexas.edu/category/2026/03/a_typed_language_for_agent_coordination.html)
 ---
 
-The n-Category Café --- 3/11/2026
+The n-Category Café --- 3/12/2026
 
 A category-theoretic approach to "agent frameworks": that is, frameworks for coordinating "agents" that are large language models.
+
+
+[Fifteen years after Fukushima](https://crookedtimber.org/2026/03/12/fifteen-years-after-fukushima/)
+---
+
+Crooked Timber --- 3/12/2026
+
+It’s the 15th anniversary of the Fukushima nuclear disaster, and any lessons from that event seem to have been forgotten by most. Political leaders of all stripes, from centre-left to far right have been keen to promote nuclear power as at least a...
 
 
 [Women have been crazy successful at building spaces for themselves in the economy. Thing is, that is often exploited too.](https://crookedtimber.org/2026/03/11/women-have-been-crazy-successful-at-building-spaces-for-themselves-in-the-economy-thing-is-that-is-often-exploited-too/)
@@ -357,14 +365,6 @@ Wandering around maze known as the Computer Science building at Oxford I found t
 Crooked Timber --- 2/4/2026
 
 Which jobs will be replaced by AI? Here is a modest proposal.* Replace higher management by AI. Not “management” in the sense of the teamleader who works alongside their colleagues with a bit more responsibility to make decisions and mediate...
-
-
-[Occasional reason to be cheerful:  Babies](https://crookedtimber.org/2026/02/03/occasional-reason-to-be-cheerful-babies/)
----
-
-Crooked Timber --- 2/3/2026
-
-Healthy babies, to be specific. Because worldwide, infant and child mortality has fallen greatly; and is still falling; and will almost certainly continue to fall. In premodern societies, meaning pretty much the entire world before 1820 or so,...
 
 
 [Before the ChatGPT-HW debate there were other ``If students use X to do their HW'' debates](https://blog.computationalcomplexity.org/feeds/8535117156528374971/comments/default)
