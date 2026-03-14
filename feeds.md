@@ -295,7 +295,7 @@ Joel David Hamkins --- 2/12/2026
 I am honored to be invited to give the Owen G. Owens Memorial Lecture at Wayne State University on 16 April 2026, joining a distinguished list of luminaries giving previous Owens lectures, including Gregory Margulis, John Milnor, Mikhael Gromov,...
 
 
-[Mathematicians do not agree on the essential structure of the complex numbers, ASL/APA Central Division Meeting, Chicago, February 2016](https://jdh.hamkins.org/essential-structure-of-the-complex-numbers-asl-apa-chicago-2016/)
+[Mathematicians do not agree on the essential structure of the complex numbers, ASL/APA Central Division Meeting, Chicago, February 2026](https://jdh.hamkins.org/essential-structure-of-the-complex-numbers-asl-apa-chicago-2026/)
 ---
 
 Joel David Hamkins --- 2/11/2026
