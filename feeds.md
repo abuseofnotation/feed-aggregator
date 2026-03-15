@@ -1,4 +1,12 @@
 
+[Imperia: A European Culture Story, Part 3 (and last)](https://crookedtimber.org/2026/03/14/imperia-a-european-culture-story-part-3-and-last/)
+---
+
+Crooked Timber --- 3/14/2026
+
+Third and last part of an article discussing Imperia, the large concrete statue of a semi-fictional medieval sex worker. Part 1 is here and Part 2 is here. A Clandestine Erection Imperia went up in April 1993, and I won’t even try to explain the...
+
+
 [A Typed Language for Agent Coordination](https://golem.ph.utexas.edu/category/2026/03/a_typed_language_for_agent_coordination.html)
 ---
 
@@ -357,14 +365,6 @@ This will be a talk at the CUNY Logic Workshop on 13 March 2026, held at the CUN
 Computational Complexity --- 2/4/2026
 
 Wandering around maze known as the Computer Science building at Oxford I found the computer science library. Rarely these days do you see a library (and a librarian) devoted to computer science. The librarian found their copy of The Golden Ticket...
-
-
-[A modest proposal for the use of AI](https://crookedtimber.org/2026/02/04/a-modest-proposal-for-the-use-of-ai/)
----
-
-Crooked Timber --- 2/4/2026
-
-Which jobs will be replaced by AI? Here is a modest proposal.* Replace higher management by AI. Not “management” in the sense of the teamleader who works alongside their colleagues with a bit more responsibility to make decisions and mediate...
 
 
 [Before the ChatGPT-HW debate there were other ``If students use X to do their HW'' debates](https://blog.computationalcomplexity.org/feeds/8535117156528374971/comments/default)
