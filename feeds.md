@@ -1,4 +1,28 @@
 
+[For \(R^3\) the problem is open. That's too bad. We live in \(R^3\)](https://blog.computationalcomplexity.org/feeds/1789534997257914710/comments/default)
+---
+
+Computational Complexity --- 3/16/2026
+
+(If you live in Montgomery County Maryland OR if you care about Education, you MUST read this guest blog by Daniel Gottesman on Scott Aaronson's blog HERE.) (This post is a sequel to a prior post on this topic that was here. However, this post is...
+
+
+[Sunday photoblogging: shed](https://crookedtimber.org/2026/03/15/sunday-photoblogging-shed/)
+---
+
+Crooked Timber --- 3/15/2026
+
+
+
+
+[10 years of the “Is this prime?” game – time to analyse more results](https://aperiodical.com/2026/03/10-years-of-the-is-this-prime-game-time-to-analyse-more-results/)
+---
+
+The Aperiodical --- 3/15/2026
+
+Can you believe it’s been 10 years since I made the “Is this prime?” game? I sort of can, because I set myself a reminder about it in my calendar. Back in 2016, the game had been played 350,000 times and I wrote a post looking at the collected...
+
+
 [Imperia: A European Culture Story, Part 3 (and last)](https://crookedtimber.org/2026/03/14/imperia-a-european-culture-story-part-3-and-last/)
 ---
 
@@ -319,22 +343,6 @@ The Aperiodical --- 2/11/2026
 The next issue of the Carnival of Mathematics, rounding up blog posts from the month of January 2026, is now online at Letters and Words. The Carnival rounds up maths blog posts from all over the internet, including some from our own Aperiodical....
 
 
-[The Stone Pillars of the Sons of Seth](https://crookedtimber.org/2026/02/11/the-stone-pillars-of-the-sons-of-seth/)
----
-
-Crooked Timber --- 2/11/2026
-
-Now this Seth… did leave children behind him who imitated his virtues…. They also were the inventors of that peculiar sort of wisdom which is concerned with the heavenly bodies, and their order. And that their inventions might not be lost before...
-
-
-[Double Maths First Thing: Issue 4B](https://aperiodical.com/2026/02/double-maths-first-thing-issue-4b/)
----
-
-The Aperiodical --- 2/11/2026
-
-Double Maths First Thing still has PRE earworms Hello! My name is Colin and I am a mathematician on a mission to spread the joy and delight that comes from engaging whole-heartedly with maths. I’ve been in Peterborough this weekend playing with the...
-
-
 [I used to think historians in the future will have too much to work with. I could be wrong](https://blog.computationalcomplexity.org/feeds/4405451768911601340/comments/default)
 ---
 
@@ -605,14 +613,6 @@ The Fine Arts BuildingLast week, I partook of the second Fridays open house in t
 Computational Complexity --- 12/14/2025
 
 ONEThe following headline confused me:         Trump, 79, Deletes Weird AI Video Shilling Magic Beds (see here). Was Weird Al selling magic beds? Magic beds?! How does that relate to President Trump? What’s going on?The problem is the...
-
-
-[Learning the Mathematical Process](https://blog.computationalcomplexity.org/feeds/6316448212914286001/comments/default)
----
-
-Computational Complexity --- 12/11/2025
-
-Watching Mathematicians at Work (AI generated)The Smithsonian Natural History Museum has a FossiLab where visitors can peek through windows watching scientists prepare fossils for conservation. Maybe we should have a similar exhibit at math museums...
 
 
 [Octonions and the Standard Model (Part 12)](https://golem.ph.utexas.edu/category/2025/11/the_bioctonionic_plane.html)
