@@ -1,4 +1,12 @@
 
+[Hoffmann, Limits of Mathematics](https://www.logicmatters.net/2026/03/16/hoffmann-limits-of-mathematics/)
+---
+
+Blog - Logic Matters --- 3/16/2026
+
+In the last couple of years, Dirk Hoffmann has published English translations of two of his books which originally appeared in German. In 2024, he gave us Gödel’s Incompleteness Theorems (Springer), which I will discuss in a future post. And then...
+
+
 [For \(R^3\) the problem is open. That's too bad. We live in \(R^3\)](https://blog.computationalcomplexity.org/feeds/1789534997257914710/comments/default)
 ---
 
@@ -557,14 +565,6 @@ As I have said more than once before, self-publishing was exactly appropriate fo
 Fractal Kitty --- 12/31/2025
 
 IntroductionIn this inquiry, we explore chords, which are lines drawn across circles, using different rules to create various patterns, curves, and shapes. This inquiry will be different from those in the Inquiries Series in that it will be more...
-
-
-[AI proof reading again](https://www.logicmatters.net/2025/12/28/ai-proof-reading-again/)
----
-
-Blog - Logic Matters --- 12/28/2025
-
-It was only a bit over six months ago that I was using ChatGPT and Claude as proof-reading assistants as I prepared the second edition of Introducing Category Theory. I certainly found them pretty useful even if far from glitch-free, so I am again...
 
 
 [Fear of the future](http://abuseofnotation.github.io/future-self/)
