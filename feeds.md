@@ -1,4 +1,28 @@
 
+[Bennett and Brassard Win the Turing Award](https://blog.computationalcomplexity.org/feeds/5927640531093807966/comments/default)
+---
+
+Computational Complexity --- 3/18/2026
+
+Gilles Brassard and Charlie BennettCharlie Bennett and Gilles Brassard will receive the 2025 ACM Turing Award for their work on the foundations of quantum information science, the first Turing award for quantum. Read all about it in The New York...
+
+
+[Habermas, democratic discourse, and class](https://crookedtimber.org/2026/03/18/habermas-democratic-discourse-and-class/)
+---
+
+Crooked Timber --- 3/18/2026
+
+Jürgen Habermas has died, at the age of 96, and traditional and social media are full of obituaries and memories. For outsiders, it is maybe hard to gauge the omnipresence of his name in West Germany,* but his influence on democratic theory more...
+
+
+[Double Maths First Thing: Issue 50](https://aperiodical.com/2026/03/double-maths-first-thing-issue-50/)
+---
+
+The Aperiodical --- 3/18/2026
+
+Double Maths First Thing is singing powerful songs Hello! My name is Colin and I am a mathematician on a mission to spread the joy, delight and frustration of doing maths. Welcome to episode 50! That’s excitement, not factorial. I enjoyed the...
+
+
 [Hoffmann, Limits of Mathematics](https://www.logicmatters.net/2026/03/16/hoffmann-limits-of-mathematics/)
 ---
 
@@ -303,14 +327,6 @@ DEONTOLOGISTICS --- 2/14/2026
 A couple updates for readers. There will be an impromptu book launch for The Revenge of Reason at Newcastle University on the 25th of February, from 5-7pm in HDB.1.02 in the Henry Daysh Building. I’ll be having a conversation about the book with...
 
 
-[Runciman’s Rawls](https://crookedtimber.org/2026/02/13/runcimans-rawls/)
----
-
-Crooked Timber --- 2/13/2026
-
-I’m not a Rawlsian, though I would admit to certain affinities, and, indeed, I’ve used the device associated with Rawls (though not invented by him) of the veil of ignorance in my own work. But when I disagree with Rawls, I hope I at least take the...
-
-
 [Mathematical Objects: A Norbert Wiener Story](https://aperiodical.com/2026/02/mathematical-objects-a-norbert-wiener-story/)
 ---
 
@@ -341,14 +357,6 @@ I am honored to be invited to give the Owen G. Owens Memorial Lecture at Wayne S
 Joel David Hamkins --- 2/11/2026
 
 I have been asked by the ASL to fill in as a last-minute substitute speaker for the ASL session at the upcoming 2026 APA Central Division Meeting in Chicago, February 18-21, 2026, due to a late cancellation of one of … Continue reading →
-
-
-[Carnival of Maths 248](https://aperiodical.com/2026/02/carnival-of-maths-248/)
----
-
-The Aperiodical --- 2/11/2026
-
-The next issue of the Carnival of Mathematics, rounding up blog posts from the month of January 2026, is now online at Letters and Words. The Carnival rounds up maths blog posts from all over the internet, including some from our own Aperiodical....
 
 
 [I used to think historians in the future will have too much to work with. I could be wrong](https://blog.computationalcomplexity.org/feeds/4405451768911601340/comments/default)
@@ -605,14 +613,6 @@ There are two ways to stick SU(2) × SU(3) in Spin(10).   One is good for physic
 Computational Complexity --- 12/17/2025
 
 The Fine Arts BuildingLast week, I partook of the second Fridays open house in the The Fine Arts Building, ten floors of offices all related to the arts and creatives in some way. Art studios of all kinds, from fine art to photography, music...
-
-
-[Weird Al vs Weird AI](https://blog.computationalcomplexity.org/feeds/3670198861399289974/comments/default)
----
-
-Computational Complexity --- 12/14/2025
-
-ONEThe following headline confused me:         Trump, 79, Deletes Weird AI Video Shilling Magic Beds (see here). Was Weird Al selling magic beds? Magic beds?! How does that relate to President Trump? What’s going on?The problem is the...
 
 
 [Octonions and the Standard Model (Part 12)](https://golem.ph.utexas.edu/category/2025/11/the_bioctonionic_plane.html)
