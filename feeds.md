@@ -1,4 +1,20 @@
 
+[The Agent That Doesn't Know Itself](https://golem.ph.utexas.edu/category/2026/03/the_agent_that_doesnt_know_its.html)
+---
+
+The n-Category Café --- 3/20/2026
+
+A large language model has very little self-awareness.  But it is easy to give it some rudimentary but useful forms of self-awareness using the "plumbing" language.
+
+
+[A Statement on my Art](https://www.fractalkitty.com/a-statement-on-my-art/)
+---
+
+Fractal Kitty --- 3/20/2026
+
+When I create art, I do so for many reasons. Some of these are:to engage in an expression of beingto explore a concept or experiment with an ideato grow as a person through creativity and struggleto immerse myself in a spiritual actto have a coping
+
+
 [Bennett and Brassard Win the Turing Award](https://blog.computationalcomplexity.org/feeds/5927640531093807966/comments/default)
 ---
 
@@ -781,20 +797,4 @@ Kristin Henry has been providing SciArtSeptember prompts each year. I incorporat
 Fractal Kitty --- 9/25/2025
 
 Today is math storytelling day, so I thought I would make a visual coloring sheet as a prompt for others. What characters live in this world? What stories are there to tell? What number system would you have? What mathemagical spells would you...
-
-
-[What is a Good Quantum Encoding? Part 1](https://www.math3ma.com/blog/what-is-a-good-quantum-encoding-part-1)
----
-
-Math3ma --- 9/25/2025
-
-Over the past couple of years, I've been learning a little about the world of quantum machine learning (QML) and the sorts of things people are thinking about there. I recently gave an high-level talk on some of these ideas in connection to a...
-
-
-[Good Reads: The Princeton Companion to Mathematics](https://www.math3ma.com/blog/good-reads-the-princeton-companion-to-mathematics)
----
-
-Math3ma --- 9/25/2025
-
-Next up on Good Reads: The Princeton Companion to Mathematics, edited by Fields medalist Timothy Gowers. This book is an exceptional resource! With over 1,000 pages of mathematics explained by the experts for the layperson, it's like an...
 
