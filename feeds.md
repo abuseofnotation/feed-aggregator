@@ -1,4 +1,28 @@
 
+[Since it is the Feast of the Annunciation …](https://www.logicmatters.net/2026/03/25/since-it-is-the-feast-of-the-annunciation/)
+---
+
+Blog - Logic Matters --- 3/25/2026
+
+Some of my very favourite paintings are Annunciations … the stunning Leonardo and Botticelli in the Uffizi, the lovely small painting from a predella by Domenico Veneziano close to home in the Fitzwilliam, the wonderful Filippo Lippi in the...
+
+
+[My Oxford Term](https://blog.computationalcomplexity.org/feeds/8538887691585638145/comments/default)
+---
+
+Computational Complexity --- 3/25/2026
+
+High table dinner at MagdalenMy time in Oxford has come to an end and I head back to Chicago this week. I was a visiting Fellow at Magdalen (pronounced "maudlin") College for the Hilary Term.There's a six week break between the eight-week Hilary...
+
+
+[Double Maths First Thing: Issue 51](https://aperiodical.com/2026/03/double-maths-first-thing-issue-51/)
+---
+
+The Aperiodical --- 3/25/2026
+
+Double Maths First Thing saw two shooting stars last night Hello! My name is Colin and I am a mathematician on a mission to spread the joy of thinking mathematically, solving problems and generally doing creative things with one’s brain. Such as,...
+
+
 [A $100 gift card could be legit. A $1000 is obviously a Scam. What should scammers do?](https://blog.computationalcomplexity.org/feeds/588154071188826518/comments/default)
 ---
 
@@ -295,6 +319,14 @@ The n-Category Café --- 2/22/2026
 Making precise the idea that equivalent structures are indistinguishable.
 
 
+[True and correct](http://abuseofnotation.github.io/true-correct/)
+---
+
+Abuse of Notation --- 2/22/2026
+
+In the 19th century, Copernicus, Newton, Galilei et al pushed a revolutionary new idea that reshaped the way we think… but no, it’s not talking about cosmology, but about theology. This idea, (which was also the real reason they were in so much...
+
+
 [The US state has proved itself dispensable](https://crookedtimber.org/2026/02/21/the-us-state-has-proved-itself-dispensable/)
 ---
 
@@ -349,14 +381,6 @@ I sometimes assign open problems as extra credit problems. Some thoughts:1) Do y
 DEONTOLOGISTICS --- 2/14/2026
 
 A couple updates for readers. There will be an impromptu book launch for The Revenge of Reason at Newcastle University on the 25th of February, from 5-7pm in HDB.1.02 in the Henry Daysh Building. I’ll be having a conversation about the book with...
-
-
-[Mathematical Objects: A Norbert Wiener Story](https://aperiodical.com/2026/02/mathematical-objects-a-norbert-wiener-story/)
----
-
-The Aperiodical --- 2/13/2026
-
-A conversation about mathematics inspired by a piece of folklore. Presented by Katie Steckles and Peter Rowlett.
 
 
 [The Future of Mathematics and Mathematicians](https://blog.computationalcomplexity.org/feeds/2624712198943727249/comments/default)
@@ -583,14 +607,6 @@ Fractal Kitty --- 1/1/2026
 Happy New Year! It's time for Genuary 2026! I am not sure how many prompts I will do (or combine), but I hope to share my code and progress here. I hope to get at least 5-10 done this year with a mix of different languages and approaches.
 
 
-[The Big Red Logic Books – last year, this year.](https://www.logicmatters.net/2026/01/01/the-big-red-logic-books-last-year-this-year/)
----
-
-Blog - Logic Matters --- 1/1/2026
-
-As I have said more than once before, self-publishing was exactly appropriate for the Big Red Logic Books. I am way past the stage of needing the brownie points that are gained by continuing conventional publication. The books are aimed at...
-
-
 [Inquiries-Week 6: Beautiful Chords](https://www.fractalkitty.com/inquiries-week-6-beautiful-chords/)
 ---
 
@@ -613,14 +629,6 @@ Everything we do to secure ourselves, every decision we make out of fear of the 
 Abuse of Notation --- 12/24/2025
 
 When the tower crumbles, some will laugh some will cry, some will fall from the top, some will be buried below. When the tower crumbles, better not be around better go all the way down, so you can run away.
-
-
-[Complexity Year in Review](https://blog.computationalcomplexity.org/feeds/5552138026125457614/comments/default)
----
-
-Computational Complexity --- 12/22/2025
-
-An easy choice for paper of the year, a paper that has nothing to do with randomness, interaction, quantum, circuits or codes. Just a near quadratic improvement in the amount of memory you need to simulate time.Simulating Time with Square-Root...
 
 
 [Octonions and the Standard Model (Part 13)](https://golem.ph.utexas.edu/category/2025/12/octonions_and_the_standard_mod_11.html)
@@ -789,12 +797,4 @@ This is the post I'll update with this year's Mathober art. Check back and see w
 Fractal Kitty --- 9/28/2025
 
 Kristin Henry has been providing SciArtSeptember prompts each year. I incorporated all of the prompts into a single sketch this year. 1. Fluid 2. Coral 3. Inertia 4. Diffusion 5. Skeleton 6. Growth 7. Virus 8. Permutation 9. Element 10. Algae 11....
-
-
-[Math Storytelling Day 2025](https://www.fractalkitty.com/math-storytelling-day-2025/)
----
-
-Fractal Kitty --- 9/25/2025
-
-Today is math storytelling day, so I thought I would make a visual coloring sheet as a prompt for others. What characters live in this world? What stories are there to tell? What number system would you have? What mathemagical spells would you...
 
