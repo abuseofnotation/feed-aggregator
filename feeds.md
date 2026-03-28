@@ -1,4 +1,12 @@
 
+[Geometry and the Exceptional Jordan Algebra](https://golem.ph.utexas.edu/category/2026/03/geometry_and_the_exceptional_j.html)
+---
+
+The n-Category Café --- 3/27/2026
+
+Slides for a talk on features of the octonionic projective plane.
+
+
 [Since it is the Feast of the Annunciation …](https://www.logicmatters.net/2026/03/25/since-it-is-the-feast-of-the-annunciation/)
 ---
 
@@ -789,12 +797,4 @@ I'm trying to better characterize two maximal subgroups of the group of automorp
 Fractal Kitty --- 10/1/2025
 
 This is the post I'll update with this year's Mathober art. Check back and see what's been added throughout the month. Link, Deviation, PolyhedronStrongly, Digraph Sink, Partial SumNotation (find the sigma)P5.js sketchesLink, Deviation,...
-
-
-[Sci Art September](https://www.fractalkitty.com/sci-art-september/)
----
-
-Fractal Kitty --- 9/28/2025
-
-Kristin Henry has been providing SciArtSeptember prompts each year. I incorporated all of the prompts into a single sketch this year. 1. Fluid 2. Coral 3. Inertia 4. Diffusion 5. Skeleton 6. Growth 7. Virus 8. Permutation 9. Element 10. Algae 11....
 
