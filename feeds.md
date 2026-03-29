@@ -1,4 +1,12 @@
 
+[The Book of Infinity, MIT Press, 2026](https://jdh.hamkins.org/the-book-of-infinity/)
+---
+
+Joel David Hamkins --- 3/28/2026
+
+I am very pleased to announce that The Book of Infinity is now available for pre-order. Check it out at your favorite booksellers. From the preface: Come, let us explore infinity! We shall visit all my favorite paradoxes and conundrums. The ancient...
+
+
 [Geometry and the Exceptional Jordan Algebra](https://golem.ph.utexas.edu/category/2026/03/geometry_and_the_exceptional_j.html)
 ---
 
@@ -789,12 +797,4 @@ In my last post about generality, I tried to show how our ambition to discover i
 The n-Category Café --- 10/7/2025
 
 I'm trying to better characterize two maximal subgroups of the group of automorphisms of the exceptional Jordan algebra, whose intersection is the Standard Model gauge group.
-
-
-[Mathober 2025 Sketches](https://www.fractalkitty.com/mathober-2025-sketches/)
----
-
-Fractal Kitty --- 10/1/2025
-
-This is the post I'll update with this year's Mathober art. Check back and see what's been added throughout the month. Link, Deviation, PolyhedronStrongly, Digraph Sink, Partial SumNotation (find the sigma)P5.js sketchesLink, Deviation,...
 
