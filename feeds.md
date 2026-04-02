@@ -1,4 +1,36 @@
 
+[I helped the  Pope's with his latest Encyclical (His Math Background Helped)](https://blog.computationalcomplexity.org/feeds/4381271450317761501/comments/default)
+---
+
+Computational Complexity --- 4/1/2026
+
+I blogged about Pope Leo XIV here. Pope Leo XIV has an undergraduate degree in mathematics. He saw my post and asked for my help with his latest encyclical. LEO: Let's have lunch together at Popeyes.BILL: Why Popeyes?LEO: The name is Pope-yes so I...
+
+
+[Double Maths First Thing: Issue 52](https://aperiodical.com/2026/04/double-maths-first-thing-issue-52/)
+---
+
+The Aperiodical --- 4/1/2026
+
+Double Maths First Thing insists it’s March 32nd Hello! My name is Colin and I am a mathematician on a mission to spread the joy and delight in mathematical thinking. After the clock change and a trip to that London – we chanced on a Rob Eastaway...
+
+
+[The Irrational Decision—A Book Review](https://www.jeremykun.com/2026/04/01/irrational-decision-book-review/)
+---
+
+Math ∩ Programming --- 4/1/2026
+
+It’s the 5th annual April Cools! Here are my previous April Cools articles This year it’s a book review of Ben Recht’s book, The Irrational Decision: How We Gave Computers the Power to Choose For us, released Mar 10, 2026. The publishing industry...
+
+
+[Inquiries-Week 7: EOOEOEEO](https://www.fractalkitty.com/inquiries-week-7-eooeoeeo/)
+---
+
+Fractal Kitty --- 4/1/2026
+
+IntroductionLet's start with E. Its opposite is O. So if we flip E, we get O. Let's make a pattern. EE OE O O EE O O E O E E OHow is this pattern constructed?  What comes next? Write
+
+
 [Ravens and robots](https://crookedtimber.org/2026/03/30/ravens-and-robots/)
 ---
 
@@ -383,14 +415,6 @@ Computational Complexity --- 2/18/2026
 Computer Science Professor Joseph Halpern passed away on Friday after a long battle with cancer. He was a leader in the mathematical reasoning about knowledge. His paper with Yoram Moses, Knowledge and Common Knowledge in a Distributed Environment,...
 
 
-[Double Maths First Thing: Issue 4C](https://aperiodical.com/2026/02/double-maths-first-thing-issue-4c/)
----
-
-The Aperiodical --- 2/18/2026
-
-Double Maths First Thing is giving up sacrifice for Lent Hello! My name is Colin and I am a mathematician on a mission to spread joy and delight in doing and understanding maths. I’ve given a few classes this week where a student has suddenly lit...
-
-
 [Assigning Open Problems in Class](https://blog.computationalcomplexity.org/feeds/5900084073913115515/comments/default)
 ---
 
@@ -591,14 +615,6 @@ The n-Category Café --- 1/6/2026
 Dynkin diagrams have always fascinated me. They are magically potent language --- you can do so much with them!...
 
 
-[AI and Research Papers](https://blog.computationalcomplexity.org/feeds/6806290820861117665/comments/default)
----
-
-Computational Complexity --- 1/5/2026
-
-2026 will be a year of AI disruption across all of academia. Let's start by talking about AI is changing how we write research papers. Not the research itself (another post), just about the dissemination thereof.Technology has changed research...
-
-
 [New Issue: Journal for the Philosophy of Mathematics](https://www.logicmatters.net/2026/01/05/new-issue-journal-for-the-philosophy-of-mathematics/)
 ---
 
@@ -781,20 +797,4 @@ Applied Category Theory 2026 is taking place 6--10 July in Tallinn, Estonia, and
 Math ∩ Programming --- 10/19/2025
 
 Polyhedral optimization is a tool used in compilers for optimizing loop nests. While the major compilers that use this implement polyhedral optimizations from scratch,1 there is a generally-applicable open source C library called the Integer Set...
-
-
-[The case against boolean logic](http://abuseofnotation.github.io/boolean-thinking/)
----
-
-Abuse of Notation --- 10/16/2025
-
-In my last post about generality, I tried to show how our ambition to discover ideas that are all-encompassing and eternal makes our worldview crumble, leaving us unable to think clearly even about simple issues with obvious solutions. Today, I...
-
-
-[A Complex Qutrit Inside an Octonionic One](https://golem.ph.utexas.edu/category/2025/10/a_complex_qutrit_inside_an_oct.html)
----
-
-The n-Category Café --- 10/7/2025
-
-I'm trying to better characterize two maximal subgroups of the group of automorphisms of the exceptional Jordan algebra, whose intersection is the Standard Model gauge group.
 
