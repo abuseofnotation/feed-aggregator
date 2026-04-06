@@ -1,4 +1,12 @@
 
+[Fun Little Solutions](https://blog.computationalcomplexity.org/feeds/435654699921431615/comments/default)
+---
+
+Computational Complexity --- 4/5/2026
+
+Here are the solutions to the problems I posted last week. Problem 1  A language \(L\) is commutative if for all \(u\), \(v\) in \(L\), \(uv = vu\). Show that  \(L\) is commutative if and only if \(L\) is a subset of \(w^*\) for some string...
+
+
 [The spectrum of consistency strengths for membership in a computably enumerable set, Notre Dame Logic Seminar, April 2026](https://jdh.hamkins.org/consistency-strengths-for-membership-in-a-ce-set-notre-dame-logic-seminar-april-2026/)
 ---
 
@@ -29,14 +37,6 @@ I blogged about Pope Leo XIV here. Pope Leo XIV has an undergraduate degree in 
 The Aperiodical --- 4/1/2026
 
 Double Maths First Thing insists it’s March 32nd Hello! My name is Colin and I am a mathematician on a mission to spread the joy and delight in mathematical thinking. After the clock change and a trip to that London – we chanced on a Rob Eastaway...
-
-
-[The Irrational Decision—A Book Review](https://www.jeremykun.com/2026/04/01/irrational-decision-book-review/)
----
-
-Math ∩ Programming --- 4/1/2026
-
-It’s the 5th annual April Cools! Here are my previous April Cools articles This year it’s a book review of Ben Recht’s book, The Irrational Decision: How We Gave Computers the Power to Choose For us, released Mar 10, 2026. The publishing industry...
 
 
 [Inquiries-Week 7: EOOEOEEO](https://www.fractalkitty.com/inquiries-week-7-eooeoeeo/)
@@ -607,14 +607,6 @@ Blog - Logic Matters --- 1/13/2026
 There comes a tipping point, when the prospect of yet another round of proof-reading becomes intolerable and you think, dammit, the book as it is will now just have to do! So I have drawn a line, put the latest version of Introducing Category...
 
 
-[Computational Depth](https://blog.computationalcomplexity.org/feeds/4919048703370573194/comments/default)
----
-
-Computational Complexity --- 1/12/2026
-
-I'm posting from Oxford University where I will be spending the "Hilary Term" (through late March) as a visiting fellow at Magdalen College. If you are relatively local, reach out if you'd like to connect.I plan to get back into research after...
-
-
 [Is `smells like' commutative?](https://blog.computationalcomplexity.org/feeds/4989772021160346430/comments/default)
 ---
 
@@ -719,14 +711,6 @@ The n-Category Café --- 11/30/2025
 Tymoczko gave a good talk on the math of music theory.
 
 
-[Bicyclic Matrix-Matrix Multiplication in Fully Homomorphic Encryption](https://www.jeremykun.com/2025/11/17/bicyclic-matrix-matrix-multiplication-in-fully-homomorphic-encryption/)
----
-
-Math ∩ Programming --- 11/17/2025
-
-In an earlier article, I covered the basic technique for performing matrix-vector multiplication in fully homomorphic encryption (FHE), known as the Halevi-Shoup diagonal method. This article covers a more recent method for matrix-matrix...
-
-
 [The elementary theory of surreal arithmetic is bi-interpretable with set theory, Notre Dame Logic Seminar, November 2025](https://jdh.hamkins.org/surreal-arithmetic-notre-dame-logic-seminar-nov-2025/)
 ---
 
@@ -797,4 +781,20 @@ It’s been a long time coming, but my second book, The Revenge of Reason, is fi
 The n-Category Café --- 10/28/2025
 
 Applied Category Theory 2026 is taking place 6--10 July in Tallinn, Estonia, and it's preceded by the Adjoint School Research Week, 29 June -- 3 July.
+
+
+[The case against boolean logic](http://abuseofnotation.github.io/boolean-thinking/)
+---
+
+Abuse of Notation --- 10/16/2025
+
+In my last post about generality, I tried to show how our ambition to discover ideas that are all-encompassing and eternal makes our worldview crumble, leaving us unable to think clearly even about simple issues with obvious solutions. Today, I...
+
+
+[A Complex Qutrit Inside an Octonionic One](https://golem.ph.utexas.edu/category/2025/10/a_complex_qutrit_inside_an_oct.html)
+---
+
+The n-Category Café --- 10/7/2025
+
+I'm trying to better characterize two maximal subgroups of the group of automorphisms of the exceptional Jordan algebra, whose intersection is the Standard Model gauge group.
 
