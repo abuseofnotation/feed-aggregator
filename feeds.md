@@ -1,4 +1,12 @@
 
+[Partial functions and Church’s Thesis](https://www.logicmatters.net/2026/04/06/partial-functions-and-churchs-thesis/)
+---
+
+Blog - Logic Matters --- 4/6/2026
+
+Alex Oliver and Tim Smiley’s magnum opus Plural Logic runs to some 340 pages before the end matter in the second edition. The final chapters are heavy going, involving detailed developments of some cumbersome (indeed, uninviting) formal theories. I...
+
+
 [Fun Little Solutions](https://blog.computationalcomplexity.org/feeds/435654699921431615/comments/default)
 ---
 
@@ -37,6 +45,14 @@ I blogged about Pope Leo XIV here. Pope Leo XIV has an undergraduate degree in 
 The Aperiodical --- 4/1/2026
 
 Double Maths First Thing insists it’s March 32nd Hello! My name is Colin and I am a mathematician on a mission to spread the joy and delight in mathematical thinking. After the clock change and a trip to that London – we chanced on a Rob Eastaway...
+
+
+[The Irrational Decision—A Book Review](https://www.jeremykun.com/2026/04/01/irrational-decision-book-review/)
+---
+
+Math ∩ Programming --- 4/1/2026
+
+It’s the 5th annual April Cools! Here are my previous April Cools articles This year it’s a book review of Ben Recht’s book, The Irrational Decision: How We Gave Computers the Power to Choose For us, released Mar 10, 2026. The publishing industry...
 
 
 [Inquiries-Week 7: EOOEOEEO](https://www.fractalkitty.com/inquiries-week-7-eooeoeeo/)
@@ -623,14 +639,6 @@ The n-Category Café --- 1/6/2026
 Dynkin diagrams have always fascinated me. They are magically potent language --- you can do so much with them!...
 
 
-[New Issue: Journal for the Philosophy of Mathematics](https://www.logicmatters.net/2026/01/05/new-issue-journal-for-the-philosophy-of-mathematics/)
----
-
-Blog - Logic Matters --- 1/5/2026
-
-The first issue of the new Journal for the Philosophy of Mathematics appeared back in September 2024. A second issue, now edited by Alex Paseau, has now appeared, just a day before the end of 2025. This is a collection of just seven, again mostly...
-
-
 [Genuary 2026](https://www.fractalkitty.com/genuary-2026/)
 ---
 
@@ -711,6 +719,14 @@ The n-Category Café --- 11/30/2025
 Tymoczko gave a good talk on the math of music theory.
 
 
+[Bicyclic Matrix-Matrix Multiplication in Fully Homomorphic Encryption](https://www.jeremykun.com/2025/11/17/bicyclic-matrix-matrix-multiplication-in-fully-homomorphic-encryption/)
+---
+
+Math ∩ Programming --- 11/17/2025
+
+In an earlier article, I covered the basic technique for performing matrix-vector multiplication in fully homomorphic encryption (FHE), known as the Halevi-Shoup diagonal method. This article covers a more recent method for matrix-matrix...
+
+
 [The elementary theory of surreal arithmetic is bi-interpretable with set theory, Notre Dame Logic Seminar, November 2025](https://jdh.hamkins.org/surreal-arithmetic-notre-dame-logic-seminar-nov-2025/)
 ---
 
@@ -781,20 +797,4 @@ It’s been a long time coming, but my second book, The Revenge of Reason, is fi
 The n-Category Café --- 10/28/2025
 
 Applied Category Theory 2026 is taking place 6--10 July in Tallinn, Estonia, and it's preceded by the Adjoint School Research Week, 29 June -- 3 July.
-
-
-[The case against boolean logic](http://abuseofnotation.github.io/boolean-thinking/)
----
-
-Abuse of Notation --- 10/16/2025
-
-In my last post about generality, I tried to show how our ambition to discover ideas that are all-encompassing and eternal makes our worldview crumble, leaving us unable to think clearly even about simple issues with obvious solutions. Today, I...
-
-
-[A Complex Qutrit Inside an Octonionic One](https://golem.ph.utexas.edu/category/2025/10/a_complex_qutrit_inside_an_oct.html)
----
-
-The n-Category Café --- 10/7/2025
-
-I'm trying to better characterize two maximal subgroups of the group of automorphisms of the exceptional Jordan algebra, whose intersection is the Standard Model gauge group.
 
