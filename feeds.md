@@ -1,4 +1,12 @@
 
+[Double Maths First Thing: Issue 53](https://aperiodical.com/2026/04/double-maths-first-thing-issue-53/)
+---
+
+The Aperiodical --- 4/8/2026
+
+Double Maths First Thing could be Rotterdam or anywhere Hello! My name is Colin and I am a mathematician on a mission to spread the joy and delight in doing maths. I’m on a bit of a buzz at the moment – I went to my local open mic on Friday and had...
+
+
 [Deterministic Primality Testing for Limited Bit Width](https://www.jeremykun.com/2026/04/07/deterministic-miller-rabin/)
 ---
 
@@ -15,6 +23,14 @@ Crooked Timber --- 4/7/2026
 (A piece I wrote for the Guardian) A couple of weeks ago, just before my 70th birthday, I completed the Mooloolaba standard distance triathlon (1,500m swim, 40km cycle, 10km run). There was nothing exceptional about my performance, placing 1,509...
 
 
+[Partial functions and Church’s Thesis](https://www.logicmatters.net/2026/04/06/partial-functions-and-churchs-thesis/)
+---
+
+Blog - Logic Matters --- 4/6/2026
+
+Alex Oliver and Tim Smiley’s magnum opus Plural Logic runs to some 340 pages before the end matter in the second edition. The final chapters are heavy going, involving detailed developments of some cumbersome (indeed, uninviting) formal theories. I...
+
+
 [Fun Little Solutions](https://blog.computationalcomplexity.org/feeds/435654699921431615/comments/default)
 ---
 
@@ -29,6 +45,14 @@ Here are the solutions to the problems I posted last week. Problem 1  A language
 Joel David Hamkins --- 4/4/2026
 
 This will be a talk for the Logic Seminar at the University of Notre Dame, 14 April 2026, 2pm, Room 125 Hayes-Healey. Abstract After establishing several general features of the hierarchy of consistency strength, we shall consider the possible...
+
+
+[Great expectations](https://www.logicmatters.net/2026/04/02/great-expectations/)
+---
+
+Blog - Logic Matters --- 4/2/2026
+
+Well, that all took rather longer than expected … A lot of repairing and filling and preparation (the joys of a late Victorian house). But at last the miniature room that counts as my study is redecorated. A carpet remains to be laid in ten days,...
 
 
 [I helped the  Pope's with his latest Encyclical (His Math Background Helped)](https://blog.computationalcomplexity.org/feeds/4381271450317761501/comments/default)
@@ -93,6 +117,14 @@ I am very pleased to announce that The Book of Infinity is now available for p
 The n-Category Café --- 3/27/2026
 
 Slides for a talk on features of the octonionic projective plane.
+
+
+[Since it is the Feast of the Annunciation …](https://www.logicmatters.net/2026/03/25/since-it-is-the-feast-of-the-annunciation/)
+---
+
+Blog - Logic Matters --- 3/25/2026
+
+Some of my very favourite paintings are Annunciations … the stunning Leonardo and Botticelli in the Uffizi, the lovely small painting from a predella by Domenico Veneziano close to home in the Fitzwilliam, the wonderful Filippo Lippi in the...
 
 
 [My Oxford Term](https://blog.computationalcomplexity.org/feeds/8538887691585638145/comments/default)
@@ -165,6 +197,14 @@ Jürgen Habermas has died, at the age of 96, and traditional and social media ar
 The Aperiodical --- 3/18/2026
 
 Double Maths First Thing is singing powerful songs Hello! My name is Colin and I am a mathematician on a mission to spread the joy, delight and frustration of doing maths. Welcome to episode 50! That’s excitement, not factorial. I enjoyed the...
+
+
+[Hoffmann, Limits of Mathematics](https://www.logicmatters.net/2026/03/16/hoffmann-limits-of-mathematics/)
+---
+
+Blog - Logic Matters --- 3/16/2026
+
+In the last couple of years, Dirk Hoffmann has published English translations of two of his books which originally appeared in German. In 2024, he gave us Gödel’s Incompleteness Theorems (Springer), which I will discuss in a future post. And then...
 
 
 [For \(R^3\) the problem is open. That's too bad. We live in \(R^3\)](https://blog.computationalcomplexity.org/feeds/1789534997257914710/comments/default)
@@ -271,6 +311,14 @@ Crooked Timber --- 3/8/2026
 It’s a truism that every child should be wanted. While there are plenty of exceptions, the birth of an unwanted child often turns out badly for both mother and child (and father, if they are present). Sometimes, once a child is born, the fact that...
 
 
+[Ex America bona quaedam](https://www.logicmatters.net/2026/03/04/ex-america-bona-quaedam/)
+---
+
+Blog - Logic Matters --- 3/4/2026
+
+Some good things come out of America — Dvořák’s String Quintet Op. 97, for example, written while he was staying with a Czech-speaking community in Iowa for the summer of 1893. And there was a quite joyous performance a few days ago at Wigmore Hall...
+
+
 [Aperiodical News Roundup – February 2026](https://aperiodical.com/2026/03/aperiodical-news-roundup-february-2026/)
 ---
 
@@ -327,6 +375,14 @@ Crooked Timber --- 3/1/2026
 
 
 
+[Gödel, slowly …](https://www.logicmatters.net/2026/02/28/godel-slowly/)
+---
+
+Blog - Logic Matters --- 2/28/2026
+
+As I said some weeks ago, I am slowly revising my Introduction to Gödel’s Theorems; I am still only about a third of the way through. I haven’t yet spotted any real horrors, but I’ve found some ways of re-arranging the material for the better, and...
+
+
 [Prime time: now with annoying notifications!](https://aperiodical.com/2026/02/prime-time-now-with-annoying-notifications/)
 ---
 
@@ -341,14 +397,6 @@ A while ago I added a clock to my “Is this prime?” website: it shows you whe
 Computational Complexity --- 2/25/2026
 
 Last week I had the pleasure of meeting Alex Bellos in Oxford. Among other things Bellos writes the Guardian Monday puzzle column. He gave me a copy of his latest book, Puzzle Me Twice, where the obvious answer is not correct. I got more right than...
-
-
-[Double Maths First Thing: Issue 4D](https://aperiodical.com/2026/02/double-maths-first-thing-issue-4d/)
----
-
-The Aperiodical --- 2/25/2026
-
-Double Maths First Thing is trying to be good. Hello! My name is Colin and I am a mathematician on a mission to spread the joy and delight of doing maths. I had an “oo! oo! oo!” moment at MathsJam last week, figuring out a neat solution to a...
 
 
 [ChatGPT gets an easy math problem wrong (I got it right). How is that possible?](https://blog.computationalcomplexity.org/feeds/5220881189742625792/comments/default)
@@ -389,6 +437,14 @@ Making precise the idea that equivalent structures are indistinguishable.
 Abuse of Notation --- 2/22/2026
 
 In the 19th century, Copernicus, Newton, Galilei et al pushed a revolutionary new idea that reshaped the way we think… but no, it’s not talking about cosmology, but about theology. This idea, (which was also the real reason they were in so much...
+
+
+[A Wittgenstein problem …](https://www.logicmatters.net/2026/02/18/a-wittgenstein-problem/)
+---
+
+Blog - Logic Matters --- 2/18/2026
+
+It is time at last to redecorate my small but now rather depressingly shabby study. Already books from the top shelves are piled in a hallway, and the rest are covered in plastic sheeting as I start tackling the late Victorian ceiling (which isn’t...
 
 
 [Joe Halpern (1953-2026)](https://blog.computationalcomplexity.org/feeds/2442546540829531257/comments/default)
@@ -511,6 +567,14 @@ Computational Complexity --- 1/28/2026
 The Fighting Temeraire by JWM TurnerA year ago I wrote about an experiment I ran to learn about the modern period of art from ChatGPT. Chatty picked four paintings to discuss and I wrote about Joseph Mallord William Turner's The Fighting Temeraire....
 
 
+[Gödel, Lean, Fra Angelico, Schubert](https://www.logicmatters.net/2026/01/26/godel-lean-fra-angelico-schubert/)
+---
+
+Blog - Logic Matters --- 1/26/2026
+
+So far — but then I am still in the foothills, tinkering with early chapters — I have found just a couple of minor expositional stumbles in An Introduction to Gödel’s Theorems. I have spotted, though, quite a few places where I can make the text...
+
+
 [Categorifying Riemann's Functional Equation](https://golem.ph.utexas.edu/category/2026/01/categorifying_riemanns_functio.html)
 ---
 
@@ -543,12 +607,28 @@ Computational Complexity --- 1/20/2026
 Students are using ChatGPT to do their HW. Here are things I've heard and some of my thoughts on the issue (Lance also added some comments). I have no strong opinions on the issue. Some of what I say here applies to any AI or, for that matter,...
 
 
+[Gödel’s Theorems (and logicisms) revisited](https://www.logicmatters.net/2026/01/19/godels-theorems-and-logicisms-revisited/)
+---
+
+Blog - Logic Matters --- 1/19/2026
+
+I didn’t at all intend to return to my Introduction to Gödel’s Theorems (which I’ve not really read for a dozen years, apart from correcting a small handful of typos in the PDF). But I had occasion to look something up, and — hey, ho! — I’ve found...
+
+
 [Rational Functions Solved!](https://blog.computationalcomplexity.org/feeds/2815795544721958882/comments/default)
 ---
 
 Computational Complexity --- 1/14/2026
 
 It's not every day that one of my open problems is solved, especially one that I asked about over three decades ago. Matt Kovacs-Deak, Daochen Wang and Rain Zimin Yang just posted a paper showing that if you have a Boolean function \(f\) and two...
+
+
+[ICT, the third edition](https://www.logicmatters.net/2026/01/13/ict-the-third-edition/)
+---
+
+Blog - Logic Matters --- 1/13/2026
+
+There comes a tipping point, when the prospect of yet another round of proof-reading becomes intolerable and you think, dammit, the book as it is will now just have to do! So I have drawn a line, put the latest version of Introducing Category...
 
 
 [Is `smells like' commutative?](https://blog.computationalcomplexity.org/feeds/4989772021160346430/comments/default)
@@ -717,84 +797,4 @@ Exploiting the secret 4-dimensional symmetry of the Kepler problem to think abou
 DEONTOLOGISTICS --- 11/1/2025
 
 It’s been a long time coming, but my second book, The Revenge of Reason, is finally available to buy. There are so many things in here that were written or given as talks long ago but never actually published, and it’s nice to know people will...
-
-
-[Applied Category Theory 2026](https://golem.ph.utexas.edu/category/2025/10/applied_category_theory_2026.html)
----
-
-The n-Category Café --- 10/28/2025
-
-Applied Category Theory 2026 is taking place 6--10 July in Tallinn, Estonia, and it's preceded by the Adjoint School Research Week, 29 June -- 3 July.
-
-
-[Integer Set Library (ISL) - A Primer](https://www.jeremykun.com/2025/10/19/isl-a-primer/)
----
-
-Math ∩ Programming --- 10/19/2025
-
-Polyhedral optimization is a tool used in compilers for optimizing loop nests. While the major compilers that use this implement polyhedral optimizations from scratch,1 there is a generally-applicable open source C library called the Integer Set...
-
-
-[The case against boolean logic](http://abuseofnotation.github.io/boolean-thinking/)
----
-
-Abuse of Notation --- 10/16/2025
-
-In my last post about generality, I tried to show how our ambition to discover ideas that are all-encompassing and eternal makes our worldview crumble, leaving us unable to think clearly even about simple issues with obvious solutions. Today, I...
-
-
-[A Complex Qutrit Inside an Octonionic One](https://golem.ph.utexas.edu/category/2025/10/a_complex_qutrit_inside_an_oct.html)
----
-
-The n-Category Café --- 10/7/2025
-
-I'm trying to better characterize two maximal subgroups of the group of automorphisms of the exceptional Jordan algebra, whose intersection is the Standard Model gauge group.
-
-
-[Mathober 2025 Sketches](https://www.fractalkitty.com/mathober-2025-sketches/)
----
-
-Fractal Kitty --- 10/1/2025
-
-This is the post I'll update with this year's Mathober art. Check back and see what's been added throughout the month. Link, Deviation, PolyhedronStrongly, Digraph Sink, Partial SumNotation (find the sigma)P5.js sketchesLink, Deviation,...
-
-
-[Sci Art September](https://www.fractalkitty.com/sci-art-september/)
----
-
-Fractal Kitty --- 9/28/2025
-
-Kristin Henry has been providing SciArtSeptember prompts each year. I incorporated all of the prompts into a single sketch this year. 1. Fluid 2. Coral 3. Inertia 4. Diffusion 5. Skeleton 6. Growth 7. Virus 8. Permutation 9. Element 10. Algae 11....
-
-
-[Math Storytelling Day 2025](https://www.fractalkitty.com/math-storytelling-day-2025/)
----
-
-Fractal Kitty --- 9/25/2025
-
-Today is math storytelling day, so I thought I would make a visual coloring sheet as a prompt for others. What characters live in this world? What stories are there to tell? What number system would you have? What mathemagical spells would you...
-
-
-[What is a Good Quantum Encoding? Part 1](https://www.math3ma.com/blog/what-is-a-good-quantum-encoding-part-1)
----
-
-Math3ma --- 9/25/2025
-
-Over the past couple of years, I've been learning a little about the world of quantum machine learning (QML) and the sorts of things people are thinking about there. I recently gave an high-level talk on some of these ideas in connection to a...
-
-
-[Good Reads: The Princeton Companion to Mathematics](https://www.math3ma.com/blog/good-reads-the-princeton-companion-to-mathematics)
----
-
-Math3ma --- 9/25/2025
-
-Next up on Good Reads: The Princeton Companion to Mathematics, edited by Fields medalist Timothy Gowers. This book is an exceptional resource! With over 1,000 pages of mathematics explained by the experts for the layperson, it's like an...
-
-
-[Mathober 2025](https://www.fractalkitty.com/mathober-2025/)
----
-
-Fractal Kitty --- 9/16/2025
-
-Mathober is almost here! I am looking forward to seeing everyone’s creativity and take on this year’s prompts. If you’ve never participated before, now’s the perfect time to jump in!The goal of Mathober is simple: have fun, learn, grow, and play
 
