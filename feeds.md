@@ -1,4 +1,36 @@
 
+[Afterthoughs on Banach Tarski and the Miracle of loaves and Fishes](https://blog.computationalcomplexity.org/feeds/6374167830611679533/comments/default)
+---
+
+Computational Complexity --- 4/10/2026
+
+I posted about using the Banach-Tarski Paradox(BT) to explain the miracle of Loaves and Fishes (LF) here.Darling says that whenever I fool my readers or my students then I have to tell them later, so I'll tell you now: The story about me meeting...
+
+
+[Cosmic Alchemy](https://crookedtimber.org/2026/04/10/cosmic-alchemy/)
+---
+
+Crooked Timber --- 4/10/2026
+
+The New South Wales gold rush began more than 400 million years ago. It was an age of fire, that ended with ice. Australia was part of the super-continent Gondwana, which was not yet south. By continent standards it was moving fast. By the end of...
+
+
+[The OEIS meta sequence and subway stations](https://www.jeremykun.com/shortform/2026-04-09-0556/)
+---
+
+Math ∩ Programming --- 4/9/2026
+
+A051070 is a sequence about OEIS sequences. a(n) is the n-th term in sequence A_n (or -1 if A_n doesn’t have enough terms). So the first term in A051070 is 1 because A000001 is the number of groups of order n, and that sequence has 1 as its entry...
+
+
+[Extreme wealth concentration — as strong as ever](https://crookedtimber.org/2026/04/09/extreme-wealth-concentration-as-strong-as-ever/)
+---
+
+Crooked Timber --- 4/9/2026
+
+A journalist from the Wall Street Journal wrote to me a week ago to ask what the numbers that I use in the opening pages of my book Limitarianism would look like today. In particular, she asked whether I could calculate for her the “lifetime...
+
+
 [Double Maths First Thing: Issue 53](https://aperiodical.com/2026/04/double-maths-first-thing-issue-53/)
 ---
 
@@ -407,22 +439,6 @@ Computational Complexity --- 2/25/2026
 A commenter on this post asked for me (or anyone) to solve the problem without AI:A,B,C,D,E are digits (the poster said A could be 0 but I took A to be nonzero) such thatABCDE + BCDE + CDE + DE + E = 20320.(CLARIFICATION ADDED LATER: We allow two...
 
 
-[Imperia: A European Culture Story, Part 2](https://crookedtimber.org/2026/02/24/imperia-a-european-culture-story-part-2/)
----
-
-Crooked Timber --- 2/24/2026
-
-Some Americans have been talking about our shared European culture lately! As CT’s resident American-in-Europe, I feel I must respond. So, here’s a European culture story. (This is Part 2, You can find Part 1 here.) Okay, so Imperia! Big...
-
-
-[Sunday photoblogging: Life in the UK](https://crookedtimber.org/2026/02/22/sunday-photoblogging-life-in-the-uk/)
----
-
-Crooked Timber --- 2/22/2026
-
-It has been like this for weeks and weeks. And not just in the UK, but across much of Western Europe.
-
-
 [The Univalence Principle](https://golem.ph.utexas.edu/category/2026/02/the_univalence_principle.html)
 ---
 
@@ -631,14 +647,6 @@ Blog - Logic Matters --- 1/13/2026
 There comes a tipping point, when the prospect of yet another round of proof-reading becomes intolerable and you think, dammit, the book as it is will now just have to do! So I have drawn a line, put the latest version of Introducing Category...
 
 
-[Is `smells like' commutative?](https://blog.computationalcomplexity.org/feeds/4989772021160346430/comments/default)
----
-
-Computational Complexity --- 1/12/2026
-
-1) Smells Like... SomethingIn many TV shows having to do with murder (and there are plenty of them), I’ve heard the following exchange:    His breath smells like bitter almonds. So he was poisoned with cyanideThey’re either saying    bitter...
-
-
 [Coxeter and Dynkin Diagrams](https://golem.ph.utexas.edu/category/2026/01/coxeter_and_dynkin_diagrams.html)
 ---
 
@@ -789,12 +797,4 @@ I am honored to be giving the 2025-26 Charles R. DePrima Memorial Lecture for th
 The n-Category Café --- 11/3/2025
 
 Exploiting the secret 4-dimensional symmetry of the Kepler problem to think about the periodic table of elements in a new way.
-
-
-[The Revenge of Reason is here!](https://deontologistics.co/2025/11/01/the-revenge-of-reason-is-here/)
----
-
-DEONTOLOGISTICS --- 11/1/2025
-
-It’s been a long time coming, but my second book, The Revenge of Reason, is finally available to buy. There are so many things in here that were written or given as talks long ago but never actually published, and it’s nice to know people will...
 
