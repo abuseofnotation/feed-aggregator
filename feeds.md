@@ -1,4 +1,20 @@
 
+[Sunday photoblogging: Pézenas, old town](https://crookedtimber.org/2026/04/12/sunday-photoblogging-pezenas-old-town/)
+---
+
+Crooked Timber --- 4/12/2026
+
+
+
+
+[Aperiodical News Roundup – March 2026](https://aperiodical.com/2026/04/aperiodical-news-roundup-march-2026/)
+---
+
+The Aperiodical --- 4/12/2026
+
+Here’s a quick round-up of maths internet news this month! Progress has been made on the Lonely Runner problem, which concerns when runners of different speeds going round a track will meet up, and has connections to higher-dimensional geometry. A...
+
+
 [Three books, no toast](https://www.logicmatters.net/2026/04/10/no-toast/)
 ---
 
@@ -407,28 +423,12 @@ Crooked Timber --- 3/2/2026
 These problems are like distant locations that you would hike to. And in the past, you would have to go on a journey. You can lay down trail markers that other people could follow, and you could make maps. AI tools are like taking a helicopter to...
 
 
-[Sunday photoblogging: car reflection](https://crookedtimber.org/2026/03/01/sunday-photoblogging-car-reflection-2/)
----
-
-Crooked Timber --- 3/1/2026
-
-
-
-
 [Gödel, slowly …](https://www.logicmatters.net/2026/02/28/godel-slowly/)
 ---
 
 Blog - Logic Matters --- 2/28/2026
 
 As I said some weeks ago, I am slowly revising my Introduction to Gödel’s Theorems; I am still only about a third of the way through. I haven’t yet spotted any real horrors, but I’ve found some ways of re-arranging the material for the better, and...
-
-
-[Prime time: now with annoying notifications!](https://aperiodical.com/2026/02/prime-time-now-with-annoying-notifications/)
----
-
-The Aperiodical --- 2/26/2026
-
-A while ago I added a clock to my “Is this prime?” website: it shows you when the Unix time is a prime number of milliseconds. Earlier today I had the thought that it could send you a notification when it’s prime time, so you won’t miss out even if...
 
 
 [A Probability Challenge](https://blog.computationalcomplexity.org/feeds/1458051687028993555/comments/default)
