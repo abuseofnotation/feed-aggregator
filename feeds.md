@@ -1,4 +1,28 @@
 
+[Unusual uses of OEIS sequences on GitHub](https://www.jeremykun.com/shortform/2026-04-13-0700/)
+---
+
+Math ∩ Programming --- 4/13/2026
+
+I went hunting for references to the OEIS in open source code, and found some weird ones. There are not one, but two live-coding music frameworks that use OEIS sequences as a source for “anything that can be sequenced” in music. I’m guessing that’s...
+
+
+[Carnival of Maths 250](https://aperiodical.com/2026/04/carnival-of-maths-250/)
+---
+
+The Aperiodical --- 4/13/2026
+
+The next issue of the Carnival of Mathematics, rounding up blog posts from the month of March 2026, is now online at Tom Rocks Maths. The Carnival rounds up maths blog posts from all over the internet, including some from our own Aperiodical. See...
+
+
+[Good news from Hungary](https://crookedtimber.org/2026/04/13/good-news-from-hungary/)
+---
+
+Crooked Timber --- 4/13/2026
+
+The news from Hungary’s election is so good that I need to write about it, even if not all the implications are clear yet, and even in a disorganised and way, repeating lots of what others are saying. Although the polls predicted Orban’s defeat,...
+
+
 [Sunday photoblogging: Pézenas, old town](https://crookedtimber.org/2026/04/12/sunday-photoblogging-pezenas-old-town/)
 ---
 
@@ -383,14 +407,6 @@ The Aperiodical --- 3/4/2026
 Here’s a short round-up of mathematical and maths-adjacent news from this month. The LMS are seeking Outreach Lecturers, who must work in UK HE mathematics, and will receive a two-year post during which they’re expected to deliver talks to a...
 
 
-[Double Maths First Thing: Issue 4E](https://aperiodical.com/2026/03/double-maths-first-thing-issue-4e/)
----
-
-The Aperiodical --- 3/4/2026
-
-Double Maths First Thing is spinning plates Hello! My name is Colin and I am a mathematician on a mission to spread the joy and delight of doing maths. This week’s “oo!” moment was this lovely observation by Ruud de Rooij, followed by an “oh wow!”...
-
-
 [The Purpose of Proofs](https://blog.computationalcomplexity.org/feeds/5335444581424836410/comments/default)
 ---
 
@@ -413,14 +429,6 @@ She told me she’d be ten minutes late, which was fine. But when it was nearly 
 Computational Complexity --- 3/2/2026
 
 Goodhart's law: When a measure becomes a target, it stops being a measure.  I was watching the show Masterminds where Ken Jennings is one of the Masterminds. Here is what happened: Brook Burns (the host): The only vice president in the 20th century...
-
-
-[In the Next Great Transformation AI will not eliminate genuine expertise; rather it will make it more valuable](https://crookedtimber.org/2026/03/02/in-the-next-great-transformation-ai-will-not-eliminate-genuine-expertise-rather-it-will-make-it-more-valuable/)
----
-
-Crooked Timber --- 3/2/2026
-
-These problems are like distant locations that you would hike to. And in the past, you would have to go on a journey. You can lay down trail markers that other people could follow, and you could make maps. AI tools are like taking a helicopter to...
 
 
 [Gödel, slowly …](https://www.logicmatters.net/2026/02/28/godel-slowly/)
@@ -789,12 +797,4 @@ You can tweak Heisenberg's equation so that instead of using a commutator it use
 Joel David Hamkins --- 11/4/2025
 
 I am honored to be giving the 2025-26 Charles R. DePrima Memorial Lecture for the Mathematics Department of the California Institute of Technology. This lecture series aims to bring mathematical researchers to Caltech to give talks for a primarily...
-
-
-[Second Quantization and the Kepler Problem](https://golem.ph.utexas.edu/category/2025/11/second_quantization_and_the_ke.html)
----
-
-The n-Category Café --- 11/3/2025
-
-Exploiting the secret 4-dimensional symmetry of the Kepler problem to think about the periodic table of elements in a new way.
 
