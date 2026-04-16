@@ -1,4 +1,68 @@
 
+[Music break: Baba Yetu](https://crookedtimber.org/2026/04/15/music-break-baba-yetu/)
+---
+
+Crooked Timber --- 4/15/2026
+
+Do you know Baba Yetu? Take three minutes and listen to this performance of Baba Yetu. (Our ancient blogging platform doesn’t like embedded video, so you’ll have to click through to YouTube. Go ahead and click, nothing bad will happen.) Some...
+
+
+[Double Maths First Thing: Issue 54](https://aperiodical.com/2026/04/double-maths-first-thing-issue-54/)
+---
+
+The Aperiodical --- 4/15/2026
+
+Double Maths First Thing is playing 1D chess. Hello! My name is Colin and I am a mathematician on a mission to spread the delight and joy of doing maths, and trying really hard to communicate that it’s not just about arithmetic. The kids have...
+
+
+[Guest Post from Peter Brass, Former NSF Theory Director, on the NSF budget.](https://blog.computationalcomplexity.org/feeds/5341010132143038934/comments/default)
+---
+
+Computational Complexity --- 4/14/2026
+
+Guest post from Peter Brass, Former NSF Theory director (though not affiliated with the NSF now) on the White House NSF budget for FY 2027.---------------------------------------------Dear ColleaguesA week ago the White House released the NSF...
+
+
+[History Nerd Bucket List:  The Jenny Geddes Stool](https://crookedtimber.org/2026/04/14/history-nerd-bucket-list-the-jenny-geddes-stool/)
+---
+
+Crooked Timber --- 4/14/2026
+
+Before I depart this world, I would like to visit St. Giles’ Cathedral in Edinburgh, Scotland, and see the Jenny Geddes memorial. I’m told it’s open to the public. Why? What’s interesting about a stool? Well, it’s probably impossible to point to a...
+
+
+[How many babies do we want? How many will we have?](https://crookedtimber.org/2026/04/14/how-many-babies-do-we-want-how-many-will-we-have/)
+---
+
+Crooked Timber --- 4/14/2026
+
+Among other things, the unlamented former autocrat Viktor Orban was one of the leading proponents of pro-natalist policies, and more open than most about the racist underpinnings of his view. However, like others who have tried to raise birth...
+
+
+[Afterthoughs on Banach Tarski and the Miracle of loaves and Fishes](https://blog.computationalcomplexity.org/feeds/6374167830611679533/comments/default)
+---
+
+Computational Complexity --- 4/14/2026
+
+I posted about using the Banach-Tarski Paradox(BT) to explain the miracle of Loaves and Fishes (LF) here.Darling says that whenever I fool my readers or my students then I have to tell them later, so I'll tell you now: The story about me meeting...
+
+
+[Claude and I](https://math.andrej.com/2026/04/14/claude-and-i/)
+---
+
+Mathematics and Computation --- 4/13/2026
+
+After spending many irritating hours with ChatGPT and Copilot, I finally tried out Claude. I told it to update photos of mathematicians from a derelict Perl script to a shiny new Python script with JSON, face recognition and modern CSS. It worked...
+
+
+[Claude and I](https://math.andrej.com/2026/04/14/claude-and-i/)
+---
+
+Mathematics and Computation --- 4/13/2026
+
+After spending many irritating hours with ChatGPT and Copilot, I finally tried out Claude. I told it to update photos of mathematicians from a derelict Perl script to a shiny new Python script with JSON, face recognition and modern CSS. It worked...
+
+
 [Unusual uses of OEIS sequences on GitHub](https://www.jeremykun.com/shortform/2026-04-13-0700/)
 ---
 
@@ -45,14 +109,6 @@ Here’s a quick round-up of maths internet news this month! Progress has been m
 Blog - Logic Matters --- 4/10/2026
 
 With my mind partly on revising the Study Guide, I have been browsing through three relatively recently published logic books. None of them impress as candidates for self-study. I will be brief (unfairly? life is short …). Robert André’s Set...
-
-
-[Afterthoughs on Banach Tarski and the Miracle of loaves and Fishes](https://blog.computationalcomplexity.org/feeds/6374167830611679533/comments/default)
----
-
-Computational Complexity --- 4/10/2026
-
-I posted about using the Banach-Tarski Paradox(BT) to explain the miracle of Loaves and Fishes (LF) here.Darling says that whenever I fool my readers or my students then I have to tell them later, so I'll tell you now: The story about me meeting...
 
 
 [Cosmic Alchemy](https://crookedtimber.org/2026/04/10/cosmic-alchemy/)
@@ -375,22 +431,6 @@ Computational Complexity --- 3/8/2026
 In my graduate Ramsey Theory class I taught Kruskal's tree theorem (KTT) which was proven by Joe Kruskal in his PhD thesis in 1960. (Should that be in a graduate Ramsey Theory class? There are not enough people teaching such a course to get a...
 
 
-[Sunday photoblogging: VW reflection](https://crookedtimber.org/2026/03/08/sunday-photoblogging-vw-reflection/)
----
-
-Crooked Timber --- 3/8/2026
-
-
-
-
-[Every child should be wanted](https://crookedtimber.org/2026/03/08/every-child-should-be-wanted/)
----
-
-Crooked Timber --- 3/8/2026
-
-It’s a truism that every child should be wanted. While there are plenty of exceptions, the birth of an unwanted child often turns out badly for both mother and child (and father, if they are present). Sometimes, once a child is born, the fact that...
-
-
 [Ex America bona quaedam](https://www.logicmatters.net/2026/03/04/ex-america-bona-quaedam/)
 ---
 
@@ -399,28 +439,12 @@ Blog - Logic Matters --- 3/4/2026
 Some good things come out of America — Dvořák’s String Quintet Op. 97, for example, written while he was staying with a Czech-speaking community in Iowa for the summer of 1893. And there was a quite joyous performance a few days ago at Wigmore Hall...
 
 
-[Aperiodical News Roundup – February 2026](https://aperiodical.com/2026/03/aperiodical-news-roundup-february-2026/)
----
-
-The Aperiodical --- 3/4/2026
-
-Here’s a short round-up of mathematical and maths-adjacent news from this month. The LMS are seeking Outreach Lecturers, who must work in UK HE mathematics, and will receive a two-year post during which they’re expected to deliver talks to a...
-
-
 [The Purpose of Proofs](https://blog.computationalcomplexity.org/feeds/5335444581424836410/comments/default)
 ---
 
 Computational Complexity --- 3/4/2026
 
 In discussions of AI and Mathematics, the discussion often goes to mathematical proofs, such as the the First Proof challenge. So let's look at the role of proofs in mathematics.Without a proof, you don't even know whether a theorem is true or...
-
-
-[Golden (missed) opportunities](https://crookedtimber.org/2026/03/03/golden-missed-opportunities/)
----
-
-Crooked Timber --- 3/3/2026
-
-She told me she’d be ten minutes late, which was fine. But when it was nearly twenty minutes I messaged – where are you? Shall I walk towards you? My daughter sent a picture of a bit of the state library she was in, people at desks etc. We’re here,...
 
 
 [Goodhart's law: Ken Jennings and Types of Knowledge](https://blog.computationalcomplexity.org/feeds/3785437420338624202/comments/default)
@@ -647,14 +671,6 @@ Blog - Logic Matters --- 1/19/2026
 I didn’t at all intend to return to my Introduction to Gödel’s Theorems (which I’ve not really read for a dozen years, apart from correcting a small handful of typos in the PDF). But I had occasion to look something up, and — hey, ho! — I’ve found...
 
 
-[Rational Functions Solved!](https://blog.computationalcomplexity.org/feeds/2815795544721958882/comments/default)
----
-
-Computational Complexity --- 1/14/2026
-
-It's not every day that one of my open problems is solved, especially one that I asked about over three decades ago. Matt Kovacs-Deak, Daochen Wang and Rain Zimin Yang just posted a paper showing that if you have a Boolean function \(f\) and two...
-
-
 [Coxeter and Dynkin Diagrams](https://golem.ph.utexas.edu/category/2026/01/coxeter_and_dynkin_diagrams.html)
 ---
 
@@ -781,20 +797,4 @@ Newton's Principia is famous for his investigations of the inverse square force 
 Fractal Kitty --- 11/6/2025
 
 IntroductionIn this inquiry, nodes are connected one at a time. How many lines can you draw before a triangle emerges?Starting with FourLet's start with four nodes - draw them on a sheet of paper. How many lines (called edges) can you draw before a...
-
-
-[Dynamics in Jordan Algebras](https://golem.ph.utexas.edu/category/2025/11/dynamics_in_jordan_algebras.html)
----
-
-The n-Category Café --- 11/4/2025
-
-You can tweak Heisenberg's equation so that instead of using a commutator it uses an associator!  Then it applies to Jordan algebras other than that of self-adjoint complex matrices.
-
-
-[What is your number? Logic puzzles for mathematicians – 2025 DePrima Memorial Lecture, Caltech](https://jdh.hamkins.org/what-is-your-number-logic-puzzles-for-mathematicians-deprima-lecture-caltech-2025/)
----
-
-Joel David Hamkins --- 11/4/2025
-
-I am honored to be giving the 2025-26 Charles R. DePrima Memorial Lecture for the Mathematics Department of the California Institute of Technology. This lecture series aims to bring mathematical researchers to Caltech to give talks for a primarily...
 
