@@ -1,4 +1,12 @@
 
+[Machine Learning and Complexity](https://blog.computationalcomplexity.org/feeds/5310274630571764023/comments/default)
+---
+
+Computational Complexity --- 4/16/2026
+
+At Oxford I focused my research and discussions on how we can use the tools of computational complexity to help us understand the power and limitations of machine learning. Last week I posted my paper How Does Machine Learning Manage Complexity?, a...
+
+
 [Music break: Baba Yetu](https://crookedtimber.org/2026/04/15/music-break-baba-yetu/)
 ---
 
@@ -653,14 +661,6 @@ Bogdan Grechuk has written a book Landscapes of 21st Century Mathematics that ca
 Computational Complexity --- 1/22/2026
 
 I once had a provost who felt that academic departments hindered the university as they tended to silo the faculty. He would argue we should eliminate departments and that would increase cross-disciplinary work. That went nowhere of course.He...
-
-
-[What to do about students using ChatGPT to do their homework?](https://blog.computationalcomplexity.org/feeds/586031718707873202/comments/default)
----
-
-Computational Complexity --- 1/20/2026
-
-Students are using ChatGPT to do their HW. Here are things I've heard and some of my thoughts on the issue (Lance also added some comments). I have no strong opinions on the issue. Some of what I say here applies to any AI or, for that matter,...
 
 
 [Gödel’s Theorems (and logicisms) revisited](https://www.logicmatters.net/2026/01/19/godels-theorems-and-logicisms-revisited/)
