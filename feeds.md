@@ -1,4 +1,12 @@
 
+[Global science equity – towards solutions](https://crookedtimber.org/2026/04/17/global-science-equity-towards-solutions/)
+---
+
+Crooked Timber --- 4/17/2026
+
+What does it mean to be an academic in different parts of the world? What comes along as the same job description – a bundle of teaching, research, and impact tasks – varies enormously from place to place. Not only the financial conditions of...
+
+
 [Machine Learning and Complexity](https://blog.computationalcomplexity.org/feeds/5310274630571764023/comments/default)
 ---
 
@@ -397,14 +405,6 @@ A category-theoretic approach to "agent frameworks": that is, frameworks for coo
 Crooked Timber --- 3/12/2026
 
 It’s the 15th anniversary of the Fukushima nuclear disaster, and any lessons from that event seem to have been forgotten by most. Political leaders of all stripes, from centre-left to far right have been keen to promote nuclear power as at least a...
-
-
-[Women have been crazy successful at building spaces for themselves in the economy. Thing is, that is often exploited too.](https://crookedtimber.org/2026/03/11/women-have-been-crazy-successful-at-building-spaces-for-themselves-in-the-economy-thing-is-that-is-often-exploited-too/)
----
-
-Crooked Timber --- 3/11/2026
-
-I have to admit that I am not at all sure of the date of International Women’s Day. It seemed to be every day of the past week or so. Which perhaps ought to be the case every damn week. So it seems timely to tell you about the current issue (Volume...
 
 
 [Double Maths First Thing: Issue 4F](https://aperiodical.com/2026/03/double-maths-first-thing-issue-4f/)
