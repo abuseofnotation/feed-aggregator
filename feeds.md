@@ -1,4 +1,28 @@
 
+[Sunday photoblogging: Pézenas street](https://crookedtimber.org/2026/04/19/sunday-photoblogging-pezenas-street/)
+---
+
+Crooked Timber --- 4/19/2026
+
+
+
+
+[Categorically diverted](https://www.logicmatters.net/2026/04/19/categorically-diverted/)
+---
+
+Blog - Logic Matters --- 4/19/2026
+
+Another six large-carrier bags of books have gone to Oxfam. And my tiny redecorated study is at last put together again, and — a miracle! — with no books in piles on the floor. Rather late in the day, it is the nicest-looking room I have ever had....
+
+
+[Bobby, I hardly Knew Ye](https://crookedtimber.org/2026/04/19/55130/)
+---
+
+Crooked Timber --- 4/19/2026
+
+Back in the 1980s, I was (among other things) a writer and singer of satirical folk songs. Going to the National Folk Festival in Canberra at Easter, I caught up with old friends and was reminded that I had produced a book of my songs. Returning...
+
+
 [Global science equity – towards solutions](https://crookedtimber.org/2026/04/17/global-science-equity-towards-solutions/)
 ---
 
@@ -383,28 +407,12 @@ The Aperiodical --- 3/15/2026
 Can you believe it’s been 10 years since I made the “Is this prime?” game? I sort of can, because I set myself a reminder about it in my calendar. Back in 2016, the game had been played 350,000 times and I wrote a post looking at the collected...
 
 
-[Imperia: A European Culture Story, Part 3 (and last)](https://crookedtimber.org/2026/03/14/imperia-a-european-culture-story-part-3-and-last/)
----
-
-Crooked Timber --- 3/14/2026
-
-Third and last part of an article discussing Imperia, the large concrete statue of a semi-fictional medieval sex worker. Part 1 is here and Part 2 is here. A Clandestine Erection Imperia went up in April 1993, and I won’t even try to explain the...
-
-
 [A Typed Language for Agent Coordination](https://golem.ph.utexas.edu/category/2026/03/a_typed_language_for_agent_coordination.html)
 ---
 
 The n-Category Café --- 3/12/2026
 
 A category-theoretic approach to "agent frameworks": that is, frameworks for coordinating "agents" that are large language models.
-
-
-[Fifteen years after Fukushima](https://crookedtimber.org/2026/03/12/fifteen-years-after-fukushima/)
----
-
-Crooked Timber --- 3/12/2026
-
-It’s the 15th anniversary of the Fukushima nuclear disaster, and any lessons from that event seem to have been forgotten by most. Political leaders of all stripes, from centre-left to far right have been keen to promote nuclear power as at least a...
 
 
 [Double Maths First Thing: Issue 4F](https://aperiodical.com/2026/03/double-maths-first-thing-issue-4f/)
@@ -661,14 +669,6 @@ Bogdan Grechuk has written a book Landscapes of 21st Century Mathematics that ca
 Computational Complexity --- 1/22/2026
 
 I once had a provost who felt that academic departments hindered the university as they tended to silo the faculty. He would argue we should eliminate departments and that would increase cross-disciplinary work. That went nowhere of course.He...
-
-
-[Gödel’s Theorems (and logicisms) revisited](https://www.logicmatters.net/2026/01/19/godels-theorems-and-logicisms-revisited/)
----
-
-Blog - Logic Matters --- 1/19/2026
-
-I didn’t at all intend to return to my Introduction to Gödel’s Theorems (which I’ve not really read for a dozen years, apart from correcting a small handful of typos in the PDF). But I had occasion to look something up, and — hey, ho! — I’ve found...
 
 
 [Coxeter and Dynkin Diagrams](https://golem.ph.utexas.edu/category/2026/01/coxeter_and_dynkin_diagrams.html)
