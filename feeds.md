@@ -1,4 +1,12 @@
 
+[Occasional paper:  Inconstant moon](https://crookedtimber.org/2026/04/20/occasional-paper-inconstant-moon/)
+---
+
+Crooked Timber --- 4/20/2026
+
+I said a while back that nobody’s going to Mars any time soon. Which is true. But that doesn’t mean Mars isn’t interesting! Mars is very interesting. So today’s paper is about Mars. Okay, it’s about a moon of Mars. TLDR: one of Mars’ moons may...
+
+
 [Sunday photoblogging: Pézenas street](https://crookedtimber.org/2026/04/19/sunday-photoblogging-pezenas-street/)
 ---
 
@@ -389,14 +397,6 @@ In the last couple of years, Dirk Hoffmann has published English translations of
 Computational Complexity --- 3/16/2026
 
 (If you live in Montgomery County Maryland OR if you care about Education, you MUST read this guest blog by Daniel Gottesman on Scott Aaronson's blog HERE.) (This post is a sequel to a prior post on this topic that was here. However, this post is...
-
-
-[Sunday photoblogging: shed](https://crookedtimber.org/2026/03/15/sunday-photoblogging-shed/)
----
-
-Crooked Timber --- 3/15/2026
-
-
 
 
 [10 years of the “Is this prime?” game – time to analyse more results](https://aperiodical.com/2026/03/10-years-of-the-is-this-prime-game-time-to-analyse-more-results/)
