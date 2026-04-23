@@ -1,4 +1,20 @@
 
+[Michael Rabin Passed Away on April 14, 2026, at the age of 94](https://blog.computationalcomplexity.org/feeds/5742718346164240539/comments/default)
+---
+
+Computational Complexity --- 4/22/2026
+
+Michael Rabin passed away on April 14, 2026 at the age of 94. (Scott Aaronson has also blogged about his passing, see  here.) I had many points to make about him; however, the first one got so long that I will just do that one for today's blog...
+
+
+[Double Maths First Thing: Issue 55](https://aperiodical.com/2026/04/double-maths-first-thing-issue-55/)
+---
+
+The Aperiodical --- 4/22/2026
+
+Double Maths First Thing: Northerly 3-5, moderate, fair, good, some kraken later. Hello! My name is Colin and I am a mathematician on a mission to spread the joy and delight of doing maths, solving puzzles, and making the world a better place. I’m...
+
+
 [Occasional paper:  Inconstant moon](https://crookedtimber.org/2026/04/20/occasional-paper-inconstant-moon/)
 ---
 
@@ -423,14 +439,6 @@ The Aperiodical --- 3/11/2026
 Double Maths First Thing is remembering how icosahedra work. Hello! My name is Colin and I am a mathematician on a mission to spread joy, delight and just satisfaction in doing maths. This week’s excitement was being mentioned (twice!) in a Stand...
 
 
-[Carnival of Maths 249](https://aperiodical.com/2026/03/carnival-of-maths-249/)
----
-
-The Aperiodical --- 3/10/2026
-
-The next issue of the Carnival of Mathematics, rounding up blog posts from the month of February 2026, is now online at Tony’s Maths Blog. The Carnival rounds up maths blog posts from all over the internet, including some from our own Aperiodical....
-
-
 [Tony Hoare (1934-2026)](https://blog.computationalcomplexity.org/feeds/3674856833990894875/comments/default)
 ---
 
@@ -661,14 +669,6 @@ David Jaz Myers has some thoughts about Riemann's functional equation for the ze
 Computational Complexity --- 1/24/2026
 
 Bogdan Grechuk has written a book Landscapes of 21st Century Mathematics that came out in 2021. There is a revised version coming out soon. The theme is that he takes theorems whose statements can be understood and describes them in 5–10 pages. No...
-
-
-[Community](https://blog.computationalcomplexity.org/feeds/6176336781531476506/comments/default)
----
-
-Computational Complexity --- 1/22/2026
-
-I once had a provost who felt that academic departments hindered the university as they tended to silo the faculty. He would argue we should eliminate departments and that would increase cross-disciplinary work. That went nowhere of course.He...
 
 
 [Coxeter and Dynkin Diagrams](https://golem.ph.utexas.edu/category/2026/01/coxeter_and_dynkin_diagrams.html)
