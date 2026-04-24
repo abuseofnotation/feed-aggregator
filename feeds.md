@@ -1,8 +1,24 @@
 
+[A potentialist perspective on ultrafinitism, Ohio University](https://jdh.hamkins.org/a-potentialist-perspective-on-ultrafinitism-ohio-university/)
+---
+
+Joel David Hamkins --- 4/23/2026
+
+This will be a talk at the Philosophy department of Ohio University in Athens, OH on April 30th, 2026. I am very grateful for the invitation. Abstract. Ultrafinitism is the philosophical view that only comparatively small or accessible numbers...
+
+
+[Inquiries-Week 8: Fence Maxing](https://www.fractalkitty.com/inquiries-week-8-fence-maxing/)
+---
+
+Fractal Kitty --- 4/23/2026
+
+IntroductionPentominoes are shapes made from 5 squares joined edge-to-edge. There are 12 of them:Next, let's define what an enclosed area is with these shapes. The pentominoes must create a fence where they touch edge-to-edge with no overlaps. Note...
+
+
 [Michael Rabin Passed Away on April 14, 2026, at the age of 94](https://blog.computationalcomplexity.org/feeds/5742718346164240539/comments/default)
 ---
 
-Computational Complexity --- 4/22/2026
+Computational Complexity --- 4/23/2026
 
 Michael Rabin passed away on April 14, 2026 at the age of 94. (Scott Aaronson has also blogged about his passing, see  here.) I had many points to make about him; however, the first one got so long that I will just do that one for today's blog...
 
@@ -781,20 +797,4 @@ This will be a talk for the Logic Seminar at the University of Notre Dame, Tuesd
 Fractal Kitty --- 11/8/2025
 
 A coded poem and trackThe Track:Initiated on a piano, and realized on an OP-1 Field. somewhere here0:00/101.302857142857151×The Visual:Human coded in p5js with p5sound - enjoy in fullscreen. Click here for the visual with music - (CW: Strobing...
-
-
-[The Inverse Cube Force Law](https://golem.ph.utexas.edu/category/2025/11/the_inverse_cube_force_law.html)
----
-
-The n-Category Café --- 11/6/2025
-
-Newton's Principia is famous for his investigations of the inverse square force law for gravity.  But he also studied the inverse cube law.  Why, and what is so good about this law?
-
-
-[Inquiries-Week 5: Triangles Emerge](https://www.fractalkitty.com/inquiries-week-5-triangles-emerge/)
----
-
-Fractal Kitty --- 11/6/2025
-
-IntroductionIn this inquiry, nodes are connected one at a time. How many lines can you draw before a triangle emerges?Starting with FourLet's start with four nodes - draw them on a sheet of paper. How many lines (called edges) can you draw before a...
 
