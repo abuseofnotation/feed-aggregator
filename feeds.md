@@ -1,4 +1,12 @@
 
+[On Reinforcing Cynicism in the Academy](https://crookedtimber.org/2026/04/24/on-reinforcing-cynicism-in-the-academy/)
+---
+
+Crooked Timber --- 4/24/2026
+
+“I admire the many federal prosecutors across the country who have chosen to resign rather than carry out illegal or immoral orders. To my knowledge, no department head, dean, or other administrator at Texas A&M has taken any meaningful action to...
+
+
 [A potentialist perspective on ultrafinitism, Ohio University](https://jdh.hamkins.org/a-potentialist-perspective-on-ultrafinitism-ohio-university/)
 ---
 
@@ -397,14 +405,6 @@ When I create art, I do so for many reasons. Some of these are:to engage in an e
 Computational Complexity --- 3/18/2026
 
 Gilles Brassard and Charlie BennettCharlie Bennett and Gilles Brassard will receive the 2025 ACM Turing Award for their work on the foundations of quantum information science, the first Turing award for quantum. Read all about it in The New York...
-
-
-[Habermas, democratic discourse, and class](https://crookedtimber.org/2026/03/18/habermas-democratic-discourse-and-class/)
----
-
-Crooked Timber --- 3/18/2026
-
-Jürgen Habermas has died, at the age of 96, and traditional and social media are full of obituaries and memories. For outsiders, it is maybe hard to gauge the omnipresence of his name in West Germany,* but his influence on democratic theory more...
 
 
 [Double Maths First Thing: Issue 50](https://aperiodical.com/2026/03/double-maths-first-thing-issue-50/)
