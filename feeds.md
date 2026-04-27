@@ -1,4 +1,20 @@
 
+[LEAPing into the Future of Coding](https://blog.computationalcomplexity.org/feeds/1407202525957220168/comments/default)
+---
+
+Computational Complexity --- 4/26/2026
+
+A few months ago in Oxford, Bernard Sufrin, an emeritus fellow, said he's looking to hire a student to implement LEAP (Logic Engine for Argument by Pointing), a way to teach logic by proving basic logic theorems via pointing and clicking. Rahul...
+
+
+[Sunday photoblogging: l’Abbaye de Valmagne](https://crookedtimber.org/2026/04/26/sunday-photoblogging-labbaye-de-valmagne/)
+---
+
+Crooked Timber --- 4/26/2026
+
+
+
+
 [On Reinforcing Cynicism in the Academy](https://crookedtimber.org/2026/04/24/on-reinforcing-cynicism-in-the-academy/)
 ---
 
@@ -375,14 +391,6 @@ Computational Complexity --- 3/22/2026
 If I get an email offering me a $1000 for I DON"T KNOW SINCE I ignore it and don't even bother looking for other signs it is a scam. If I get an email offering me $100 I may look more carefully and often they are legit (most common is to give a...
 
 
-[Sunday photoblogging: Pézenas, Porte Faugères](https://crookedtimber.org/2026/03/22/sunday-photoblogging-pezenas-porte-faugeres/)
----
-
-Crooked Timber --- 3/22/2026
-
-
-
-
 [The Agent That Doesn't Know Itself](https://golem.ph.utexas.edu/category/2026/03/the_agent_that_doesnt_know_its.html)
 ---
 
@@ -677,14 +685,6 @@ So far — but then I am still in the foothills, tinkering with early chapters �
 The n-Category Café --- 1/26/2026
 
 David Jaz Myers has some thoughts about Riemann's functional equation for the zeta function.
-
-
-[Online Talks on Accessible Theorems!](https://blog.computationalcomplexity.org/feeds/3304264127696534335/comments/default)
----
-
-Computational Complexity --- 1/24/2026
-
-Bogdan Grechuk has written a book Landscapes of 21st Century Mathematics that came out in 2021. There is a revised version coming out soon. The theme is that he takes theorems whose statements can be understood and describes them in 5–10 pages. No...
 
 
 [Coxeter and Dynkin Diagrams](https://golem.ph.utexas.edu/category/2026/01/coxeter_and_dynkin_diagrams.html)
