@@ -1,4 +1,20 @@
 
+[Review: Huge Numbers by Richard Elwes](https://aperiodical.com/2026/04/review-huge-numbers-by-richard-elwes/)
+---
+
+The Aperiodical --- 4/28/2026
+
+There’s a story about a child mathematician talking to an older mathematician and saying “I think the biggest number is a TRILLION.” The grown-up says “OK, but what about a trillion and one?” The child mathematician looks crestfallen, but only for...
+
+
+[Occasional paper: Blue Angels, Devil Hands](https://crookedtimber.org/2026/04/28/occasional-paper-blue-angels-devil-hands/)
+---
+
+Crooked Timber --- 4/28/2026
+
+That’s the actual name of the paper. Isn’t that great? Here’s a prologue: a post I wrote a while back about the Portuguese Man-o’-War. (It’s kind of long — I was new to CT back then, and still figuring stuff out). To summarize: the Portuguese...
+
+
 [LEAPing into the Future of Coding](https://blog.computationalcomplexity.org/feeds/1407202525957220168/comments/default)
 ---
 
@@ -28,7 +44,7 @@ Crooked Timber --- 4/24/2026
 
 Joel David Hamkins --- 4/23/2026
 
-This will be a talk at the Philosophy department of Ohio University in Athens, OH on April 30th, 2026. I am very grateful for the invitation. Abstract. Ultrafinitism is the philosophical view that only comparatively small or accessible numbers...
+This will be a talk for the Philosophy Department Colloquium at Ohio University in Athens, OH on April 30th, 2026. I am very grateful for the invitation. A potentialist perspective on ultrafinitism, Ohio University Abstract. Ultrafinitism is the...
 
 
 [Inquiries-Week 8: Fence Maxing](https://www.fractalkitty.com/inquiries-week-8-fence-maxing/)
@@ -69,14 +85,6 @@ I said a while back that nobody’s going to Mars any time soon. Which is true. 
 Crooked Timber --- 4/19/2026
 
 
-
-
-[Categorically diverted](https://www.logicmatters.net/2026/04/19/categorically-diverted/)
----
-
-Blog - Logic Matters --- 4/19/2026
-
-Another six large-carrier bags of books have gone to Oxfam. And my tiny redecorated study is at last put together again, and — a miracle! — with no books in piles on the floor. Rather late in the day, it is the nicest-looking room I have ever had....
 
 
 [Bobby, I hardly Knew Ye](https://crookedtimber.org/2026/04/19/55130/)
@@ -207,14 +215,6 @@ The Aperiodical --- 4/12/2026
 Here’s a quick round-up of maths internet news this month! Progress has been made on the Lonely Runner problem, which concerns when runners of different speeds going round a track will meet up, and has connections to higher-dimensional geometry. A...
 
 
-[Three books, no toast](https://www.logicmatters.net/2026/04/10/no-toast/)
----
-
-Blog - Logic Matters --- 4/10/2026
-
-With my mind partly on revising the Study Guide, I have been browsing through three relatively recently published logic books. None of them impress as candidates for self-study. I will be brief (unfairly? life is short …). Robert André’s Set...
-
-
 [Cosmic Alchemy](https://crookedtimber.org/2026/04/10/cosmic-alchemy/)
 ---
 
@@ -263,14 +263,6 @@ Crooked Timber --- 4/7/2026
 (A piece I wrote for the Guardian) A couple of weeks ago, just before my 70th birthday, I completed the Mooloolaba standard distance triathlon (1,500m swim, 40km cycle, 10km run). There was nothing exceptional about my performance, placing 1,509...
 
 
-[Partial functions and Church’s Thesis](https://www.logicmatters.net/2026/04/06/partial-functions-and-churchs-thesis/)
----
-
-Blog - Logic Matters --- 4/6/2026
-
-Alex Oliver and Tim Smiley’s magnum opus Plural Logic runs to some 340 pages before the end matter in the second edition. The final chapters are heavy going, involving detailed developments of some cumbersome (indeed, uninviting) formal theories. I...
-
-
 [Fun Little Solutions](https://blog.computationalcomplexity.org/feeds/435654699921431615/comments/default)
 ---
 
@@ -285,14 +277,6 @@ Here are the solutions to the problems I posted last week. Problem 1  A language
 Joel David Hamkins --- 4/4/2026
 
 This will be a talk for the Logic Seminar at the University of Notre Dame, 14 April 2026, 2pm, Room 125 Hayes-Healey. Abstract After establishing several general features of the hierarchy of consistency strength, we shall consider the possible...
-
-
-[Great expectations](https://www.logicmatters.net/2026/04/02/great-expectations/)
----
-
-Blog - Logic Matters --- 4/2/2026
-
-Well, that all took rather longer than expected … A lot of repairing and filling and preparation (the joys of a late Victorian house). But at last the miniature room that counts as my study is redecorated. A carpet remains to be laid in ten days,...
 
 
 [I helped the  Pope's with his latest Encyclical (His Math Background Helped)](https://blog.computationalcomplexity.org/feeds/4381271450317761501/comments/default)
@@ -327,14 +311,6 @@ Fractal Kitty --- 4/1/2026
 IntroductionLet's start with E. Its opposite is O. So if we flip E, we get O. Let's make a pattern. EE OE O O EE O O E O E E OHow is this pattern constructed?  What comes next? Write
 
 
-[Ravens and robots](https://crookedtimber.org/2026/03/30/ravens-and-robots/)
----
-
-Crooked Timber --- 3/30/2026
-
-As I approach formal retirement from my academic job, I’m still thinking about ideas in my main theoretical field of decision theory. But I’ve largely lost interest in publishing journal articles, leaving the chore of dealing with Manuscript...
-
-
 [Fun Little Problems](https://blog.computationalcomplexity.org/feeds/5825055140457935046/comments/default)
 ---
 
@@ -357,14 +333,6 @@ I am very pleased to announce that The Book of Infinity is now available for p
 The n-Category Café --- 3/27/2026
 
 Slides for a talk on features of the octonionic projective plane.
-
-
-[Since it is the Feast of the Annunciation …](https://www.logicmatters.net/2026/03/25/since-it-is-the-feast-of-the-annunciation/)
----
-
-Blog - Logic Matters --- 3/25/2026
-
-Some of my very favourite paintings are Annunciations … the stunning Leonardo and Botticelli in the Uffizi, the lovely small painting from a predella by Domenico Veneziano close to home in the Fitzwilliam, the wonderful Filippo Lippi in the...
 
 
 [My Oxford Term](https://blog.computationalcomplexity.org/feeds/8538887691585638145/comments/default)
@@ -423,14 +391,6 @@ The Aperiodical --- 3/18/2026
 Double Maths First Thing is singing powerful songs Hello! My name is Colin and I am a mathematician on a mission to spread the joy, delight and frustration of doing maths. Welcome to episode 50! That’s excitement, not factorial. I enjoyed the...
 
 
-[Hoffmann, Limits of Mathematics](https://www.logicmatters.net/2026/03/16/hoffmann-limits-of-mathematics/)
----
-
-Blog - Logic Matters --- 3/16/2026
-
-In the last couple of years, Dirk Hoffmann has published English translations of two of his books which originally appeared in German. In 2024, he gave us Gödel’s Incompleteness Theorems (Springer), which I will discuss in a future post. And then...
-
-
 [For \(R^3\) the problem is open. That's too bad. We live in \(R^3\)](https://blog.computationalcomplexity.org/feeds/1789534997257914710/comments/default)
 ---
 
@@ -455,14 +415,6 @@ The n-Category Café --- 3/12/2026
 A category-theoretic approach to "agent frameworks": that is, frameworks for coordinating "agents" that are large language models.
 
 
-[Double Maths First Thing: Issue 4F](https://aperiodical.com/2026/03/double-maths-first-thing-issue-4f/)
----
-
-The Aperiodical --- 3/11/2026
-
-Double Maths First Thing is remembering how icosahedra work. Hello! My name is Colin and I am a mathematician on a mission to spread joy, delight and just satisfaction in doing maths. This week’s excitement was being mentioned (twice!) in a Stand...
-
-
 [Tony Hoare (1934-2026)](https://blog.computationalcomplexity.org/feeds/3674856833990894875/comments/default)
 ---
 
@@ -479,14 +431,6 @@ Computational Complexity --- 3/8/2026
 In my graduate Ramsey Theory class I taught Kruskal's tree theorem (KTT) which was proven by Joe Kruskal in his PhD thesis in 1960. (Should that be in a graduate Ramsey Theory class? There are not enough people teaching such a course to get a...
 
 
-[Ex America bona quaedam](https://www.logicmatters.net/2026/03/04/ex-america-bona-quaedam/)
----
-
-Blog - Logic Matters --- 3/4/2026
-
-Some good things come out of America — Dvořák’s String Quintet Op. 97, for example, written while he was staying with a Czech-speaking community in Iowa for the summer of 1893. And there was a quite joyous performance a few days ago at Wigmore Hall...
-
-
 [The Purpose of Proofs](https://blog.computationalcomplexity.org/feeds/5335444581424836410/comments/default)
 ---
 
@@ -501,14 +445,6 @@ In discussions of AI and Mathematics, the discussion often goes to mathematical 
 Computational Complexity --- 3/2/2026
 
 Goodhart's law: When a measure becomes a target, it stops being a measure.  I was watching the show Masterminds where Ken Jennings is one of the Masterminds. Here is what happened: Brook Burns (the host): The only vice president in the 20th century...
-
-
-[Gödel, slowly …](https://www.logicmatters.net/2026/02/28/godel-slowly/)
----
-
-Blog - Logic Matters --- 2/28/2026
-
-As I said some weeks ago, I am slowly revising my Introduction to Gödel’s Theorems; I am still only about a third of the way through. I haven’t yet spotted any real horrors, but I’ve found some ways of re-arranging the material for the better, and...
 
 
 [A Probability Challenge](https://blog.computationalcomplexity.org/feeds/1458051687028993555/comments/default)
@@ -541,14 +477,6 @@ Making precise the idea that equivalent structures are indistinguishable.
 Abuse of Notation --- 2/22/2026
 
 In the 19th century, Copernicus, Newton, Galilei et al pushed a revolutionary new idea that reshaped the way we think… but no, it’s not talking about cosmology, but about theology. This idea, (which was also the real reason they were in so much...
-
-
-[A Wittgenstein problem …](https://www.logicmatters.net/2026/02/18/a-wittgenstein-problem/)
----
-
-Blog - Logic Matters --- 2/18/2026
-
-It is time at last to redecorate my small but now rather depressingly shabby study. Already books from the top shelves are piled in a hallway, and the rest are covered in plastic sheeting as I start tackling the late Victorian ceiling (which isn’t...
 
 
 [Joe Halpern (1953-2026)](https://blog.computationalcomplexity.org/feeds/2442546540829531257/comments/default)
@@ -671,14 +599,6 @@ Computational Complexity --- 1/28/2026
 The Fighting Temeraire by JWM TurnerA year ago I wrote about an experiment I ran to learn about the modern period of art from ChatGPT. Chatty picked four paintings to discuss and I wrote about Joseph Mallord William Turner's The Fighting Temeraire....
 
 
-[Gödel, Lean, Fra Angelico, Schubert](https://www.logicmatters.net/2026/01/26/godel-lean-fra-angelico-schubert/)
----
-
-Blog - Logic Matters --- 1/26/2026
-
-So far — but then I am still in the foothills, tinkering with early chapters — I have found just a couple of minor expositional stumbles in An Introduction to Gödel’s Theorems. I have spotted, though, quite a few places where I can make the text...
-
-
 [Categorifying Riemann's Functional Equation](https://golem.ph.utexas.edu/category/2026/01/categorifying_riemanns_functio.html)
 ---
 
@@ -797,4 +717,84 @@ This will be a talk for the Logic Seminar at the University of Notre Dame, Tuesd
 Fractal Kitty --- 11/8/2025
 
 A coded poem and trackThe Track:Initiated on a piano, and realized on an OP-1 Field. somewhere here0:00/101.302857142857151×The Visual:Human coded in p5js with p5sound - enjoy in fullscreen. Click here for the visual with music - (CW: Strobing...
+
+
+[The Inverse Cube Force Law](https://golem.ph.utexas.edu/category/2025/11/the_inverse_cube_force_law.html)
+---
+
+The n-Category Café --- 11/6/2025
+
+Newton's Principia is famous for his investigations of the inverse square force law for gravity.  But he also studied the inverse cube law.  Why, and what is so good about this law?
+
+
+[Inquiries-Week 5: Triangles Emerge](https://www.fractalkitty.com/inquiries-week-5-triangles-emerge/)
+---
+
+Fractal Kitty --- 11/6/2025
+
+IntroductionIn this inquiry, nodes are connected one at a time. How many lines can you draw before a triangle emerges?Starting with FourLet's start with four nodes - draw them on a sheet of paper. How many lines (called edges) can you draw before a...
+
+
+[Dynamics in Jordan Algebras](https://golem.ph.utexas.edu/category/2025/11/dynamics_in_jordan_algebras.html)
+---
+
+The n-Category Café --- 11/4/2025
+
+You can tweak Heisenberg's equation so that instead of using a commutator it uses an associator!  Then it applies to Jordan algebras other than that of self-adjoint complex matrices.
+
+
+[What is your number? Logic puzzles for mathematicians – 2025 DePrima Memorial Lecture, Caltech](https://jdh.hamkins.org/what-is-your-number-logic-puzzles-for-mathematicians-deprima-lecture-caltech-2025/)
+---
+
+Joel David Hamkins --- 11/4/2025
+
+I am honored to be giving the 2025-26 Charles R. DePrima Memorial Lecture for the Mathematics Department of the California Institute of Technology. This lecture series aims to bring mathematical researchers to Caltech to give talks for a primarily...
+
+
+[Second Quantization and the Kepler Problem](https://golem.ph.utexas.edu/category/2025/11/second_quantization_and_the_ke.html)
+---
+
+The n-Category Café --- 11/3/2025
+
+Exploiting the secret 4-dimensional symmetry of the Kepler problem to think about the periodic table of elements in a new way.
+
+
+[The Revenge of Reason is here!](https://deontologistics.co/2025/11/01/the-revenge-of-reason-is-here/)
+---
+
+DEONTOLOGISTICS --- 11/1/2025
+
+It’s been a long time coming, but my second book, The Revenge of Reason, is finally available to buy. There are so many things in here that were written or given as talks long ago but never actually published, and it’s nice to know people will...
+
+
+[Applied Category Theory 2026](https://golem.ph.utexas.edu/category/2025/10/applied_category_theory_2026.html)
+---
+
+The n-Category Café --- 10/28/2025
+
+Applied Category Theory 2026 is taking place 6--10 July in Tallinn, Estonia, and it's preceded by the Adjoint School Research Week, 29 June -- 3 July.
+
+
+[Integer Set Library (ISL) - A Primer](https://www.jeremykun.com/2025/10/19/isl-a-primer/)
+---
+
+Math ∩ Programming --- 10/19/2025
+
+Polyhedral optimization is a tool used in compilers for optimizing loop nests. While the major compilers that use this implement polyhedral optimizations from scratch,1 there is a generally-applicable open source C library called the Integer Set...
+
+
+[The case against boolean logic](http://abuseofnotation.github.io/boolean-thinking/)
+---
+
+Abuse of Notation --- 10/16/2025
+
+In my last post about generality, I tried to show how our ambition to discover ideas that are all-encompassing and eternal makes our worldview crumble, leaving us unable to think clearly even about simple issues with obvious solutions. Today, I...
+
+
+[A Complex Qutrit Inside an Octonionic One](https://golem.ph.utexas.edu/category/2025/10/a_complex_qutrit_inside_an_oct.html)
+---
+
+The n-Category Café --- 10/7/2025
+
+I'm trying to better characterize two maximal subgroups of the group of automorphisms of the exceptional Jordan algebra, whose intersection is the Standard Model gauge group.
 
