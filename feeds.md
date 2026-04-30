@@ -1,4 +1,36 @@
 
+[The Quantum Mechanics of the Inverse Cube Law](https://golem.ph.utexas.edu/category/2026/04/the_quantum_mechanics_of_the_i.html)
+---
+
+The n-Category Café --- 4/29/2026
+
+In the last episode of my column in Notices of the American Mathematical Society, we looked at a particle moving in an attractive central force whose strength is proportional to the inverse cube of the distance from the origin....
+
+
+[Because It Doesn't Have To](https://blog.computationalcomplexity.org/feeds/9125418320439922410/comments/default)
+---
+
+Computational Complexity --- 4/29/2026
+
+My favorite quote about networking came from Jim Kurose. The Internet works so well because it doesn't have to. The IP and lower layers of the internet stack make no promises of delivery. Complete failure fulfills the protocol. This allows for...
+
+
+[CKKS — Polynomials, the Canonical Embedding, and Encoding](https://www.jeremykun.com/2026/04/29/ckks-polynomials-the-canonical-embedding-and-encoding/)
+---
+
+Math ∩ Programming --- 4/29/2026
+
+Table of Contents In this tutorial series, I will introduce the CKKS homomorphic encryption scheme from the ground up, in rather intricate detail. Each article in this series corresponds to a pull request on a GitHub repository. The code for this...
+
+
+[Double Maths First Thing: Issue 56](https://aperiodical.com/2026/04/double-maths-first-thing-issue-56/)
+---
+
+The Aperiodical --- 4/29/2026
+
+Double Maths First Thing no longer runs marathons. Hello! My name is Colin and I am a mathematician on a mission to spread the joy and delight of doing maths, figuring things out and generally taking pleasure in doing clever things. Like everyone...
+
+
 [Review: Huge Numbers by Richard Elwes](https://aperiodical.com/2026/04/review-huge-numbers-by-richard-elwes/)
 ---
 
@@ -399,14 +431,6 @@ Computational Complexity --- 3/16/2026
 (If you live in Montgomery County Maryland OR if you care about Education, you MUST read this guest blog by Daniel Gottesman on Scott Aaronson's blog HERE.) (This post is a sequel to a prior post on this topic that was here. However, this post is...
 
 
-[10 years of the “Is this prime?” game – time to analyse more results](https://aperiodical.com/2026/03/10-years-of-the-is-this-prime-game-time-to-analyse-more-results/)
----
-
-The Aperiodical --- 3/15/2026
-
-Can you believe it’s been 10 years since I made the “Is this prime?” game? I sort of can, because I set myself a reminder about it in my calendar. Back in 2016, the game had been played 350,000 times and I wrote a post looking at the collected...
-
-
 [A Typed Language for Agent Coordination](https://golem.ph.utexas.edu/category/2026/03/a_typed_language_for_agent_coordination.html)
 ---
 
@@ -591,14 +615,6 @@ Fractal Kitty --- 1/29/2026
 Have you ever been to a quilt store and bought fabric without a plan? You just saw the pretty colors and patterns and went for it? Well, I did - with a jelly roll of white, beige, grays, and black with mathy patterns (Note: A jelly roll is a roll
 
 
-[The Fighting Temeraire (Re)visited](https://blog.computationalcomplexity.org/feeds/2570650255506895667/comments/default)
----
-
-Computational Complexity --- 1/28/2026
-
-The Fighting Temeraire by JWM TurnerA year ago I wrote about an experiment I ran to learn about the modern period of art from ChatGPT. Chatty picked four paintings to discuss and I wrote about Joseph Mallord William Turner's The Fighting Temeraire....
-
-
 [Categorifying Riemann's Functional Equation](https://golem.ph.utexas.edu/category/2026/01/categorifying_riemanns_functio.html)
 ---
 
@@ -781,20 +797,4 @@ Applied Category Theory 2026 is taking place 6--10 July in Tallinn, Estonia, and
 Math ∩ Programming --- 10/19/2025
 
 Polyhedral optimization is a tool used in compilers for optimizing loop nests. While the major compilers that use this implement polyhedral optimizations from scratch,1 there is a generally-applicable open source C library called the Integer Set...
-
-
-[The case against boolean logic](http://abuseofnotation.github.io/boolean-thinking/)
----
-
-Abuse of Notation --- 10/16/2025
-
-In my last post about generality, I tried to show how our ambition to discover ideas that are all-encompassing and eternal makes our worldview crumble, leaving us unable to think clearly even about simple issues with obvious solutions. Today, I...
-
-
-[A Complex Qutrit Inside an Octonionic One](https://golem.ph.utexas.edu/category/2025/10/a_complex_qutrit_inside_an_oct.html)
----
-
-The n-Category Café --- 10/7/2025
-
-I'm trying to better characterize two maximal subgroups of the group of automorphisms of the exceptional Jordan algebra, whose intersection is the Standard Model gauge group.
 
