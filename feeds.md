@@ -1,10 +1,18 @@
 
-[The Quantum Mechanics of the Inverse Cube Law](https://golem.ph.utexas.edu/category/2026/04/the_quantum_mechanics_of_the_i.html)
+[Quantum Mechanics of the Inverse Cube Force Law](https://golem.ph.utexas.edu/category/2026/04/the_quantum_mechanics_of_the_i.html)
 ---
 
-The n-Category Café --- 4/30/2026
+The n-Category Café --- 5/1/2026
 
 In the last episode of my column in Notices of the American Mathematical Society, we looked at a particle moving in an attractive central force whose strength is proportional to the inverse cube of the distance from the origin....
+
+
+[Carnival of Maths 251](https://aperiodical.com/2026/05/carnival-of-maths-251/)
+---
+
+The Aperiodical --- 5/1/2026
+
+The next issue of the Carnival of Mathematics, rounding up blog posts from the month of April 2026, is now online courtesy of Karrie Liu. The Carnival rounds up maths blog posts from all over the internet, including some from our own Aperiodical....
 
 
 [Because It Doesn't Have To](https://blog.computationalcomplexity.org/feeds/9125418320439922410/comments/default)
@@ -453,14 +461,6 @@ When I create art, I do so for many reasons. Some of these are:to engage in an e
 Computational Complexity --- 3/18/2026
 
 Gilles Brassard and Charlie BennettCharlie Bennett and Gilles Brassard will receive the 2025 ACM Turing Award for their work on the foundations of quantum information science, the first Turing award for quantum. Read all about it in The New York...
-
-
-[Double Maths First Thing: Issue 50](https://aperiodical.com/2026/03/double-maths-first-thing-issue-50/)
----
-
-The Aperiodical --- 3/18/2026
-
-Double Maths First Thing is singing powerful songs Hello! My name is Colin and I am a mathematician on a mission to spread the joy, delight and frustration of doing maths. Welcome to episode 50! That’s excitement, not factorial. I enjoyed the...
 
 
 [Hoffmann, Limits of Mathematics](https://www.logicmatters.net/2026/03/16/hoffmann-limits-of-mathematics/)
