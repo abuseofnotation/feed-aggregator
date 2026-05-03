@@ -1,8 +1,16 @@
 
+[Categorical update](https://www.logicmatters.net/2026/05/02/categorical-update/)
+---
+
+Blog - Logic Matters --- 5/2/2026
+
+I am still working again through the third edition of the category theory book, correcting typos in the first printed version (fortunately, relatively few are possibly misleading), correcting thinkos (cheeringly not many), rewording a few...
+
+
 [Quantum Mechanics of the Inverse Cube Force Law](https://golem.ph.utexas.edu/category/2026/04/the_quantum_mechanics_of_the_i.html)
 ---
 
-The n-Category Café --- 5/1/2026
+The n-Category Café --- 5/2/2026
 
 In the last episode of my column in Notices of the American Mathematical Society, we looked at a particle moving in an attractive central force whose strength is proportional to the inverse cube of the distance from the origin....
 
@@ -685,14 +693,6 @@ I’ve been down a rabbit hole for the past few months, obsessed with a single q
 Fractal Kitty --- 1/29/2026
 
 Have you ever been to a quilt store and bought fabric without a plan? You just saw the pretty colors and patterns and went for it? Well, I did - with a jelly roll of white, beige, grays, and black with mathy patterns (Note: A jelly roll is a roll
-
-
-[Gödel, Lean, Fra Angelico, Schubert](https://www.logicmatters.net/2026/01/26/godel-lean-fra-angelico-schubert/)
----
-
-Blog - Logic Matters --- 1/26/2026
-
-So far — but then I am still in the foothills, tinkering with early chapters — I have found just a couple of minor expositional stumbles in An Introduction to Gödel’s Theorems. I have spotted, though, quite a few places where I can make the text...
 
 
 [Categorifying Riemann's Functional Equation](https://golem.ph.utexas.edu/category/2026/01/categorifying_riemanns_functio.html)
