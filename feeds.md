@@ -1,4 +1,20 @@
 
+[A few notes on Michael Rabin](https://blog.computationalcomplexity.org/feeds/754334843781792109/comments/default)
+---
+
+Computational Complexity --- 5/4/2026
+
+Michael Rabin passed away on April 14,2026. I blogged about him here. My post listed results of his that proved upper and lower bounds on problems. My point was that he proved upper and lower bounds for MANY different levels- from decidable to...
+
+
+[Sunday photoblogging: Canigou and cherry trees](https://crookedtimber.org/2026/05/03/sunday-photoblogging-canigou-and-cherry-trees/)
+---
+
+Crooked Timber --- 5/3/2026
+
+
+
+
 [Categorical update](https://www.logicmatters.net/2026/05/02/categorical-update/)
 ---
 
@@ -317,14 +333,6 @@ Double Maths First Thing could be Rotterdam or anywhere Hello! My name is Colin 
 Math ∩ Programming --- 4/7/2026
 
 Problem: Determine if a 32-bit number is prime (deterministically) Solution: (in C++) // Bases to test. Using the first 4 prime bases makes the test deterministic // for all 32-bit integers. See https://oeis.org/A014233. int64_t bases[] = {2, 3, 5,...
-
-
-[Older but not sicker](https://crookedtimber.org/2026/04/07/older-but-not-sicker/)
----
-
-Crooked Timber --- 4/7/2026
-
-(A piece I wrote for the Guardian) A couple of weeks ago, just before my 70th birthday, I completed the Mooloolaba standard distance triathlon (1,500m swim, 40km cycle, 10km run). There was nothing exceptional about my performance, placing 1,509...
 
 
 [Partial functions and Church’s Thesis](https://www.logicmatters.net/2026/04/06/partial-functions-and-churchs-thesis/)
@@ -661,14 +669,6 @@ This will be a talk at the CUNY Logic Workshop on 13 March 2026, held at the CUN
 Computational Complexity --- 2/4/2026
 
 Wandering around maze known as the Computer Science building at Oxford I found the computer science library. Rarely these days do you see a library (and a librarian) devoted to computer science. The librarian found their copy of The Golden Ticket...
-
-
-[Before the ChatGPT-HW debate there were other ``If students use X to do their HW'' debates](https://blog.computationalcomplexity.org/feeds/8535117156528374971/comments/default)
----
-
-Computational Complexity --- 2/2/2026
-
-Lance and I had a blog-debate about What to do about students using ChatGPT to do their Homework.Some commenters pointed out that we've been here before. I will now list past technologies that looked like they were a problem for student assignments...
 
 
 [I miss writing](http://proses.id/i-miss-writing/)
