@@ -1,4 +1,20 @@
 
+[When do we know someone has died](https://blog.computationalcomplexity.org/feeds/5765663734832993249/comments/default)
+---
+
+Computational Complexity --- 5/6/2026
+
+As the blog of record in computational complexity, we like to bring attention to those in the community who have left us. When we learn of someone in our field who has died, Bill and I will talk to each other and decide whether we should do a...
+
+
+[Double Maths First Thing: Issue 57](https://aperiodical.com/2026/05/double-maths-first-thing-issue-57/)
+---
+
+The Aperiodical --- 5/6/2026
+
+Double Maths First Thing has Youri Tielemans in swaps Hello! My name is Colin and I am a mathematician on a mission to spread the joy and delight of figuring stuff out. I’ve been thinking a lot about MathsJam and Parkrun and similar activities,...
+
+
 [A few notes on Michael Rabin](https://blog.computationalcomplexity.org/feeds/754334843781792109/comments/default)
 ---
 
@@ -439,14 +455,6 @@ Computational Complexity --- 3/25/2026
 High table dinner at MagdalenMy time in Oxford has come to an end and I head back to Chicago this week. I was a visiting Fellow at Magdalen (pronounced "maudlin") College for the Hilary Term.There's a six week break between the eight-week Hilary...
 
 
-[Double Maths First Thing: Issue 51](https://aperiodical.com/2026/03/double-maths-first-thing-issue-51/)
----
-
-The Aperiodical --- 3/25/2026
-
-Double Maths First Thing saw two shooting stars last night Hello! My name is Colin and I am a mathematician on a mission to spread the joy of thinking mathematically, solving problems and generally doing creative things with one’s brain. Such as,...
-
-
 [A $100 gift card could be legit. A $1000 is obviously a Scam. What should scammers do?](https://blog.computationalcomplexity.org/feeds/588154071188826518/comments/default)
 ---
 
@@ -661,14 +669,6 @@ Whether you call this triangle Pascal's triangle, Binomial Expansion Coefficient
 Joel David Hamkins --- 2/4/2026
 
 This will be a talk at the CUNY Logic Workshop on 13 March 2026, held at the CUNY Graduate Center. Abstract. I shall introduce the elementary theory of surreal arithmetic (SA), a first-order theory that is true in the surreal field when equipped...
-
-
-[Sampling the Oxford CS Library](https://blog.computationalcomplexity.org/feeds/8519452433047294812/comments/default)
----
-
-Computational Complexity --- 2/4/2026
-
-Wandering around maze known as the Computer Science building at Oxford I found the computer science library. Rarely these days do you see a library (and a librarian) devoted to computer science. The librarian found their copy of The Golden Ticket...
 
 
 [I miss writing](http://proses.id/i-miss-writing/)
