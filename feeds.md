@@ -1,4 +1,12 @@
 
+[Another categorical update](https://www.logicmatters.net/2026/05/07/another-categorical-update/)
+---
+
+Blog - Logic Matters --- 5/7/2026
+
+The Victorian floor of my tiny study slopes and dips quite badly and it would have been expensive to engineer a flat, level, surface. So, to finish the redecoration, it has had to be new carpet. No majolica tiles for me. Not like this one (now in...
+
+
 [When do we know someone has died](https://blog.computationalcomplexity.org/feeds/5765663734832993249/comments/default)
 ---
 
@@ -589,14 +597,6 @@ Making precise the idea that equivalent structures are indistinguishable.
 Abuse of Notation --- 2/22/2026
 
 In the 19th century, Copernicus, Newton, Galilei et al pushed a revolutionary new idea that reshaped the way we think… but no, it’s not talking about cosmology, but about theology. This idea, (which was also the real reason they were in so much...
-
-
-[A Wittgenstein problem …](https://www.logicmatters.net/2026/02/18/a-wittgenstein-problem/)
----
-
-Blog - Logic Matters --- 2/18/2026
-
-It is time at last to redecorate my small but now rather depressingly shabby study. Already books from the top shelves are piled in a hallway, and the rest are covered in plastic sheeting as I start tackling the late Victorian ceiling (which isn’t...
 
 
 [Joe Halpern (1953-2026)](https://blog.computationalcomplexity.org/feeds/2442546540829531257/comments/default)
