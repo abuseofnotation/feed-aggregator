@@ -1,4 +1,12 @@
 
+[On the mathematical abilities of LLMs](https://www.logicmatters.net/2026/05/09/on-the-mathematical-abilities-of-llms/)
+---
+
+Blog - Logic Matters --- 5/9/2026
+
+A very interesting new blog post by Tim Gowers on his recent experiences with ChatGPT 5.5 Pro. A headline: “I would judge the level of the result that ChatGPT found in under two hours to be that of a perfectly reasonable chapter in a combinatorics...
+
+
 [Another categorical update](https://www.logicmatters.net/2026/05/07/another-categorical-update/)
 ---
 
@@ -557,14 +565,6 @@ In discussions of AI and Mathematics, the discussion often goes to mathematical 
 Computational Complexity --- 3/2/2026
 
 Goodhart's law: When a measure becomes a target, it stops being a measure.  I was watching the show Masterminds where Ken Jennings is one of the Masterminds. Here is what happened: Brook Burns (the host): The only vice president in the 20th century...
-
-
-[Gödel, slowly …](https://www.logicmatters.net/2026/02/28/godel-slowly/)
----
-
-Blog - Logic Matters --- 2/28/2026
-
-As I said some weeks ago, I am slowly revising my Introduction to Gödel’s Theorems; I am still only about a third of the way through. I haven’t yet spotted any real horrors, but I’ve found some ways of re-arranging the material for the better, and...
 
 
 [A Probability Challenge](https://blog.computationalcomplexity.org/feeds/1458051687028993555/comments/default)
