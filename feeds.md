@@ -1,4 +1,12 @@
 
+[Sunday photoblogging: Pézenas, maison consulaire](https://crookedtimber.org/2026/05/10/sunday-photoblogging-pezenas-maison-consulaire/)
+---
+
+Crooked Timber --- 5/10/2026
+
+
+
+
 [On the mathematical abilities of LLMs](https://www.logicmatters.net/2026/05/09/on-the-mathematical-abilities-of-llms/)
 ---
 
@@ -341,14 +349,6 @@ The New South Wales gold rush began more than 400 million years ago. It was an a
 Math ∩ Programming --- 4/9/2026
 
 A051070 is a sequence about OEIS sequences. a(n) is the n-th term in sequence A_n (or -1 if A_n doesn’t have enough terms). So the first term in A051070 is 1 because A000001 is the number of groups of order n, and that sequence has 1 as its entry...
-
-
-[Extreme wealth concentration — as strong as ever](https://crookedtimber.org/2026/04/09/extreme-wealth-concentration-as-strong-as-ever/)
----
-
-Crooked Timber --- 4/9/2026
-
-A journalist from the Wall Street Journal wrote to me a week ago to ask what the numbers that I use in the opening pages of my book Limitarianism would look like today. In particular, she asked whether I could calculate for her the “lifetime...
 
 
 [Double Maths First Thing: Issue 53](https://aperiodical.com/2026/04/double-maths-first-thing-issue-53/)
