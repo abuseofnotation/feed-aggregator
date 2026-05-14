@@ -1,4 +1,12 @@
 
+[Double Maths First Thing: Issue 58](https://aperiodical.com/2026/05/double-maths-first-thing-issue-58/)
+---
+
+The Aperiodical --- 5/13/2026
+
+Double Maths First Thing is petitioning the weather to be nicer Hello! My name is Colin and I am a mathematician on a mission to spread joy and delight in all things mathematical. I had a nice “oho!” moment in class with a student today looking at...
+
+
 [The text is not the product](https://crookedtimber.org/2026/05/12/the-text-is-not-the-product/)
 ---
 
@@ -413,14 +421,6 @@ Well, that all took rather longer than expected … A lot of repairing and filli
 Computational Complexity --- 4/1/2026
 
 I blogged about Pope Leo XIV here. Pope Leo XIV has an undergraduate degree in mathematics. He saw my post and asked for my help with his latest encyclical. LEO: Let's have lunch together at Popeyes.BILL: Why Popeyes?LEO: The name is Pope-yes so I...
-
-
-[Double Maths First Thing: Issue 52](https://aperiodical.com/2026/04/double-maths-first-thing-issue-52/)
----
-
-The Aperiodical --- 4/1/2026
-
-Double Maths First Thing insists it’s March 32nd Hello! My name is Colin and I am a mathematician on a mission to spread the joy and delight in mathematical thinking. After the clock change and a trip to that London – we chanced on a Rob Eastaway...
 
 
 [The Irrational Decision—A Book Review](https://www.jeremykun.com/2026/04/01/irrational-decision-book-review/)
