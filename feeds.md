@@ -1,4 +1,20 @@
 
+[A new version of ICT](https://www.logicmatters.net/2026/05/14/a-new-version-of-ict/)
+---
+
+Blog - Logic Matters --- 5/14/2026
+
+The end is in sight. I have just uploaded another PDF of Introducing Category Theory (now identified as Version 3.4 on the verso of the title page — you might need to clear your brower’s cache to force a download of the latest, greatest, version)....
+
+
+[Prediction Markets Redux](https://blog.computationalcomplexity.org/feeds/284448375668823016/comments/default)
+---
+
+Computational Complexity --- 5/14/2026
+
+For those very long-time readers this blog extensively covered prediction markets from 2006 to 2008. In a prediction market, you have a future event, such as the winner of an election, and a market that pays off one dollar if that event happens and...
+
+
 [Double Maths First Thing: Issue 58](https://aperiodical.com/2026/05/double-maths-first-thing-issue-58/)
 ---
 
@@ -181,14 +197,6 @@ Crooked Timber --- 4/24/2026
 Joel David Hamkins --- 4/23/2026
 
 This will be a talk for the Philosophy Department Colloquium at Ohio University in Athens, OH on April 30th, 2026. I am very grateful for the invitation. A potentialist perspective on ultrafinitism, Ohio University Abstract. Ultrafinitism is the...
-
-
-[Inquiries-Week 8: Fence Maxing](https://www.fractalkitty.com/inquiries-week-8-fence-maxing/)
----
-
-Fractal Kitty --- 4/23/2026
-
-IntroductionPentominoes are shapes made from 5 squares joined edge-to-edge. There are 12 of them:Next, let's define what an enclosed area is with these shapes. The pentominoes must create a fence where they touch edge-to-edge with no overlaps. Note...
 
 
 [Michael Rabin Passed Away on April 14, 2026, at the age of 94](https://blog.computationalcomplexity.org/feeds/5742718346164240539/comments/default)
@@ -431,14 +439,6 @@ Math ∩ Programming --- 4/1/2026
 It’s the 5th annual April Cools! Here are my previous April Cools articles This year it’s a book review of Ben Recht’s book, The Irrational Decision: How We Gave Computers the Power to Choose For us, released Mar 10, 2026. The publishing industry...
 
 
-[Inquiries-Week 7: EOOEOEEO](https://www.fractalkitty.com/inquiries-week-7-eooeoeeo/)
----
-
-Fractal Kitty --- 4/1/2026
-
-IntroductionLet's start with E. Its opposite is O. So if we flip E, we get O. Let's make a pattern. EE OE O O EE O O E O E E OHow is this pattern constructed?  What comes next? Write
-
-
 [Fun Little Problems](https://blog.computationalcomplexity.org/feeds/5825055140457935046/comments/default)
 ---
 
@@ -495,14 +495,6 @@ The n-Category Café --- 3/20/2026
 A large language model has very little self-awareness.  But it is easy to give it some rudimentary but useful forms of self-awareness using the "plumbing" language.
 
 
-[A Statement on my Art](https://www.fractalkitty.com/a-statement-on-my-art/)
----
-
-Fractal Kitty --- 3/20/2026
-
-When I create art, I do so for many reasons. Some of these are:to engage in an expression of beingto explore a concept or experiment with an ideato grow as a person through creativity and struggleto immerse myself in a spiritual actto have a coping
-
-
 [Bennett and Brassard Win the Turing Award](https://blog.computationalcomplexity.org/feeds/5927640531093807966/comments/default)
 ---
 
@@ -549,14 +541,6 @@ Turing Award winner and former Oxford professor Tony Hoare passed away last Thu
 Computational Complexity --- 3/8/2026
 
 In my graduate Ramsey Theory class I taught Kruskal's tree theorem (KTT) which was proven by Joe Kruskal in his PhD thesis in 1960. (Should that be in a graduate Ramsey Theory class? There are not enough people teaching such a course to get a...
-
-
-[Ex America bona quaedam](https://www.logicmatters.net/2026/03/04/ex-america-bona-quaedam/)
----
-
-Blog - Logic Matters --- 3/4/2026
-
-Some good things come out of America — Dvořák’s String Quintet Op. 97, for example, written while he was staying with a Czech-speaking community in Iowa for the summer of 1893. And there was a quite joyous performance a few days ago at Wigmore Hall...
 
 
 [The Purpose of Proofs](https://blog.computationalcomplexity.org/feeds/5335444581424836410/comments/default)
@@ -631,14 +615,6 @@ DEONTOLOGISTICS --- 2/14/2026
 A couple updates for readers. There will be an impromptu book launch for The Revenge of Reason at Newcastle University on the 25th of February, from 5-7pm in HDB.1.02 in the Henry Daysh Building. I’ll be having a conversation about the book with...
 
 
-[The Future of Mathematics and Mathematicians](https://blog.computationalcomplexity.org/feeds/2624712198943727249/comments/default)
----
-
-Computational Complexity --- 2/12/2026
-
-A reader worried about the future.I am writing this email as a young aspiring researcher/scientist. We live in a period of uncertainty and I have a lot of doubts about the decisions I should make. I've always been interested in mathematics and...
-
-
 [Truth and paradox in the theory of finite and infinite games, Owens Memorial Lecture, Wayne State University, April 2026](https://jdh.hamkins.org/truth-and-paradox-infinite-games-owens-lecture-wayne-state-april-2026/)
 ---
 
@@ -653,14 +629,6 @@ I am honored to be invited to give the Owen G. Owens Memorial Lecture at Wayne S
 Joel David Hamkins --- 2/11/2026
 
 I have been asked by the ASL to fill in as a last-minute substitute speaker for the ASL session at the upcoming 2026 APA Central Division Meeting in Chicago, February 18-21, 2026, due to a late cancellation of one of … Continue reading →
-
-
-[Filtering Snowflakes](https://www.fractalkitty.com/filtering-snowflakes/)
----
-
-Fractal Kitty --- 2/6/2026
-
-Whether you call this triangle Pascal's triangle, Binomial Expansion Coefficients, Yang Hui's triangle, or any other name, it is beautiful.Finding patterns in this triangle is fun - from counting numbers, to looking at parity (even/odd-ness), to...
 
 
 [Surreal arithmetic is bi-interpretable with set theory, CUNY Logic Workshop, March 2026](https://jdh.hamkins.org/surreal-arithmetic-cuny-logic-workshop-march-2026/)
@@ -687,14 +655,6 @@ Proses.ID --- 1/31/2026
 I’ve been down a rabbit hole for the past few months, obsessed with a single question: “What makes a writing human?” It started, ironically, because…
 
 
-[Finished! A Jellyroll GenQuilt](https://www.fractalkitty.com/finished-a-jellyroll-genquilt/)
----
-
-Fractal Kitty --- 1/29/2026
-
-Have you ever been to a quilt store and bought fabric without a plan? You just saw the pretty colors and patterns and went for it? Well, I did - with a jelly roll of white, beige, grays, and black with mathy patterns (Note: A jelly roll is a roll
-
-
 [Categorifying Riemann's Functional Equation](https://golem.ph.utexas.edu/category/2026/01/categorifying_riemanns_functio.html)
 ---
 
@@ -709,22 +669,6 @@ David Jaz Myers has some thoughts about Riemann's functional equation for the ze
 The n-Category Café --- 1/6/2026
 
 Dynkin diagrams have always fascinated me. They are magically potent language --- you can do so much with them!...
-
-
-[Genuary 2026](https://www.fractalkitty.com/genuary-2026/)
----
-
-Fractal Kitty --- 1/1/2026
-
-Happy New Year! It's time for Genuary 2026! I am not sure how many prompts I will do (or combine), but I hope to share my code and progress here. I hope to get at least 5-10 done this year with a mix of different languages and approaches.
-
-
-[Inquiries-Week 6: Beautiful Chords](https://www.fractalkitty.com/inquiries-week-6-beautiful-chords/)
----
-
-Fractal Kitty --- 12/31/2025
-
-IntroductionIn this inquiry, we explore chords, which are lines drawn across circles, using different rules to create various patterns, curves, and shapes. This inquiry will be different from those in the Inquiries Series in that it will be more...
 
 
 [Fear of the future](http://abuseofnotation.github.io/future-self/)
@@ -767,14 +711,6 @@ The n-Category Café --- 12/3/2025
 A complex-analytic perspective on the indefinite integral of 1/x.
 
 
-[December Adventure Log](https://www.fractalkitty.com/december-adventure-log/)
----
-
-Fractal Kitty --- 12/2/2025
-
-December Adventure was started by Eli_oat at Oatmeal.  I love seeing what others do this month - here is a log of logs.This December, I plan to make a generative quilt, play with origami,  doodle some mossy mandalas, set up next year's journal, and...
-
-
 [I should stop doing category theory](http://abuseofnotation.github.io/whats-the-point/)
 ---
 
@@ -797,4 +733,68 @@ Tymoczko gave a good talk on the math of music theory.
 Math ∩ Programming --- 11/17/2025
 
 In an earlier article, I covered the basic technique for performing matrix-vector multiplication in fully homomorphic encryption (FHE), known as the Halevi-Shoup diagonal method. This article covers a more recent method for matrix-matrix...
+
+
+[The elementary theory of surreal arithmetic is bi-interpretable with set theory, Notre Dame Logic Seminar, November 2025](https://jdh.hamkins.org/surreal-arithmetic-notre-dame-logic-seminar-nov-2025/)
+---
+
+Joel David Hamkins --- 11/12/2025
+
+This will be a talk for the Logic Seminar at the University of Notre Dame, Tuesday 18 November 20215 2pm 125 Hayes-Healy Building. Abstract. I shall introduce what I call the first-order elementary theory of surreal arithmetic, a theory that is...
+
+
+[The Inverse Cube Force Law](https://golem.ph.utexas.edu/category/2025/11/the_inverse_cube_force_law.html)
+---
+
+The n-Category Café --- 11/6/2025
+
+Newton's Principia is famous for his investigations of the inverse square force law for gravity.  But he also studied the inverse cube law.  Why, and what is so good about this law?
+
+
+[Dynamics in Jordan Algebras](https://golem.ph.utexas.edu/category/2025/11/dynamics_in_jordan_algebras.html)
+---
+
+The n-Category Café --- 11/4/2025
+
+You can tweak Heisenberg's equation so that instead of using a commutator it uses an associator!  Then it applies to Jordan algebras other than that of self-adjoint complex matrices.
+
+
+[What is your number? Logic puzzles for mathematicians – 2025 DePrima Memorial Lecture, Caltech](https://jdh.hamkins.org/what-is-your-number-logic-puzzles-for-mathematicians-deprima-lecture-caltech-2025/)
+---
+
+Joel David Hamkins --- 11/4/2025
+
+I am honored to be giving the 2025-26 Charles R. DePrima Memorial Lecture for the Mathematics Department of the California Institute of Technology. This lecture series aims to bring mathematical researchers to Caltech to give talks for a primarily...
+
+
+[Second Quantization and the Kepler Problem](https://golem.ph.utexas.edu/category/2025/11/second_quantization_and_the_ke.html)
+---
+
+The n-Category Café --- 11/3/2025
+
+Exploiting the secret 4-dimensional symmetry of the Kepler problem to think about the periodic table of elements in a new way.
+
+
+[The Revenge of Reason is here!](https://deontologistics.co/2025/11/01/the-revenge-of-reason-is-here/)
+---
+
+DEONTOLOGISTICS --- 11/1/2025
+
+It’s been a long time coming, but my second book, The Revenge of Reason, is finally available to buy. There are so many things in here that were written or given as talks long ago but never actually published, and it’s nice to know people will...
+
+
+[Applied Category Theory 2026](https://golem.ph.utexas.edu/category/2025/10/applied_category_theory_2026.html)
+---
+
+The n-Category Café --- 10/28/2025
+
+Applied Category Theory 2026 is taking place 6--10 July in Tallinn, Estonia, and it's preceded by the Adjoint School Research Week, 29 June -- 3 July.
+
+
+[Integer Set Library (ISL) - A Primer](https://www.jeremykun.com/2025/10/19/isl-a-primer/)
+---
+
+Math ∩ Programming --- 10/19/2025
+
+Polyhedral optimization is a tool used in compilers for optimizing loop nests. While the major compilers that use this implement polyhedral optimizations from scratch,1 there is a generally-applicable open source C library called the Integer Set...
 
