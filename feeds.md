@@ -1,4 +1,36 @@
 
+[Inquiries-Week 9: Mod Multiplication](https://www.fractalkitty.com/inquiries-week-9-mod-multiplication/)
+---
+
+Fractal Kitty --- 5/17/2026
+
+Thanks to Sam Graf for introducing me to this and suggesting some toys. IntroductionMultiplication tables can be fun. Line up your numbers, multiply, and find patterns. Like with 5x5, we can fill it out and highlight symmetry, divisibility,...
+
+
+[Scott Aaronson wins Trevisan Award? Prize? Medal? Statue?](https://blog.computationalcomplexity.org/feeds/126836587811192391/comments/default)
+---
+
+Computational Complexity --- 5/17/2026
+
+1) Congratulations to Scott Aaronson for winning the first Trevisan Award.The Trevisan Award is in memory of Luca Trevisan and recognizes expository work in Theoretical Computer Science. It is given out by the ACM. The ACM announcement of Scott's...
+
+
+[Proof-reading, with a bit of help from LLMs](https://www.logicmatters.net/2026/05/17/proof-reading-with-a-bit-of-help-from-llms/)
+---
+
+Blog - Logic Matters --- 5/17/2026
+
+What have I learnt over recent weeks, preparing a corrected version of Introducing Category Theory, invoking — at various stages — my friends Claude, Gemini and ChatGPT as proof-reading assistants? Not very helpfully, the take-home message is that...
+
+
+[Sunday photoblogging: Canigou with cherries (2)](https://crookedtimber.org/2026/05/17/sunday-photoblogging-canigou-with-cherries-2/)
+---
+
+Crooked Timber --- 5/17/2026
+
+
+
+
 [A new version of ICT](https://www.logicmatters.net/2026/05/14/a-new-version-of-ict/)
 ---
 
@@ -351,14 +383,6 @@ The Aperiodical --- 4/13/2026
 The next issue of the Carnival of Mathematics, rounding up blog posts from the month of March 2026, is now online at Tom Rocks Maths. The Carnival rounds up maths blog posts from all over the internet, including some from our own Aperiodical. See...
 
 
-[Good news from Hungary](https://crookedtimber.org/2026/04/13/good-news-from-hungary/)
----
-
-Crooked Timber --- 4/13/2026
-
-The news from Hungary’s election is so good that I need to write about it, even if not all the implications are clear yet, and even in a disorganised and way, repeating lots of what others are saying. Although the polls predicted Orban’s defeat,...
-
-
 [Aperiodical News Roundup – March 2026](https://aperiodical.com/2026/04/aperiodical-news-roundup-march-2026/)
 ---
 
@@ -527,14 +551,6 @@ Computational Complexity --- 3/18/2026
 Gilles Brassard and Charlie BennettCharlie Bennett and Gilles Brassard will receive the 2025 ACM Turing Award for their work on the foundations of quantum information science, the first Turing award for quantum. Read all about it in The New York...
 
 
-[Hoffmann, Limits of Mathematics](https://www.logicmatters.net/2026/03/16/hoffmann-limits-of-mathematics/)
----
-
-Blog - Logic Matters --- 3/16/2026
-
-In the last couple of years, Dirk Hoffmann has published English translations of two of his books which originally appeared in German. In 2024, he gave us Gödel’s Incompleteness Theorems (Springer), which I will discuss in a future post. And then...
-
-
 [For \(R^3\) the problem is open. That's too bad. We live in \(R^3\)](https://blog.computationalcomplexity.org/feeds/1789534997257914710/comments/default)
 ---
 
@@ -621,14 +637,6 @@ In the 19th century, Copernicus, Newton, Galilei et al pushed a revolutionary ne
 Computational Complexity --- 2/18/2026
 
 Computer Science Professor Joseph Halpern passed away on Friday after a long battle with cancer. He was a leader in the mathematical reasoning about knowledge. His paper with Yoram Moses, Knowledge and Common Knowledge in a Distributed Environment,...
-
-
-[Assigning Open Problems in Class](https://blog.computationalcomplexity.org/feeds/5900084073913115515/comments/default)
----
-
-Computational Complexity --- 2/15/2026
-
-I sometimes assign open problems as extra credit problems. Some thoughts:1) Do you tell the students the problems are open?YES- it would be unfair for a student to work on something they almost surely won't get.NO- Some Open Problems are open...
 
 
 [Book Launch, Substack, and Other News](https://deontologistics.co/2026/02/14/book-launch-substack-and-other-news/)
@@ -789,12 +797,4 @@ I should stop doing category theory. What’s the point?
 The n-Category Café --- 11/30/2025
 
 Tymoczko gave a good talk on the math of music theory.
-
-
-[Bicyclic Matrix-Matrix Multiplication in Fully Homomorphic Encryption](https://www.jeremykun.com/2025/11/17/bicyclic-matrix-matrix-multiplication-in-fully-homomorphic-encryption/)
----
-
-Math ∩ Programming --- 11/17/2025
-
-In an earlier article, I covered the basic technique for performing matrix-vector multiplication in fully homomorphic encryption (FHE), known as the Halevi-Shoup diagonal method. This article covers a more recent method for matrix-matrix...
 
