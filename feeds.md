@@ -1,4 +1,28 @@
 
+[ICT paperback is out!](https://www.logicmatters.net/2026/05/18/ict-paperback-is-out/)
+---
+
+Blog - Logic Matters --- 5/18/2026
+
+The revised/corrected third edition of Introducing Category Theory is now available as a paperback. To keep the cost minimal, this is again via print-on-demand from Amazon US, Amazon UK, and of course other Amazons too, with ISBN 1068346728. There...
+
+
+[Occasional paper: St. Anthony’s Turnip](https://crookedtimber.org/2026/05/18/occasional-paper-st-anthonys-turnip/)
+---
+
+Crooked Timber --- 5/18/2026
+
+Mostly I leave Sunday photography to our colleague, the estimable Chris Bertram. Still, this Sunday I was walking the dog in the hills above my town. (“My town” being a modest community of a couple of thousand people in the rolling countryside of...
+
+
+[Felicity Lott, 1947 – 2026](https://www.logicmatters.net/2026/05/18/felicity-lott-1947-2026/)
+---
+
+Blog - Logic Matters --- 5/18/2026
+
+There have been so many moving obituaries and fond tributes. Here, to mark her passing, is Felicity Lott at the start of her stellar career, singing Pamina at Glyndebourne, almost fifty years ago. How joyous. There was, by the way, a wonderful...
+
+
 [Inquiries-Week 9: Mod Multiplication](https://www.fractalkitty.com/inquiries-week-9-mod-multiplication/)
 ---
 
@@ -335,14 +359,6 @@ Crooked Timber --- 4/14/2026
 Before I depart this world, I would like to visit St. Giles’ Cathedral in Edinburgh, Scotland, and see the Jenny Geddes memorial. I’m told it’s open to the public. Why? What’s interesting about a stool? Well, it’s probably impossible to point to a...
 
 
-[How many babies do we want? How many will we have?](https://crookedtimber.org/2026/04/14/how-many-babies-do-we-want-how-many-will-we-have/)
----
-
-Crooked Timber --- 4/14/2026
-
-Among other things, the unlamented former autocrat Viktor Orban was one of the leading proponents of pro-natalist policies, and more open than most about the racist underpinnings of his view. However, like others who have tried to raise birth...
-
-
 [Afterthoughs on Banach Tarski and the Miracle of loaves and Fishes](https://blog.computationalcomplexity.org/feeds/6374167830611679533/comments/default)
 ---
 
@@ -447,14 +463,6 @@ Joel David Hamkins --- 4/4/2026
 This will be a talk for the Logic Seminar at the University of Notre Dame, 14 April 2026, 2pm, Room 125 Hayes-Healey. Abstract After establishing several general features of the hierarchy of consistency strength, we shall consider the possible...
 
 
-[Great expectations](https://www.logicmatters.net/2026/04/02/great-expectations/)
----
-
-Blog - Logic Matters --- 4/2/2026
-
-Well, that all took rather longer than expected … A lot of repairing and filling and preparation (the joys of a late Victorian house). But at last the miniature room that counts as my study is redecorated. A carpet remains to be laid in ten days,...
-
-
 [I helped the  Pope's with his latest Encyclical (His Math Background Helped)](https://blog.computationalcomplexity.org/feeds/4381271450317761501/comments/default)
 ---
 
@@ -501,14 +509,6 @@ I am very pleased to announce that The Book of Infinity is now available for p
 The n-Category Café --- 3/27/2026
 
 Slides for a talk on features of the octonionic projective plane.
-
-
-[Since it is the Feast of the Annunciation …](https://www.logicmatters.net/2026/03/25/since-it-is-the-feast-of-the-annunciation/)
----
-
-Blog - Logic Matters --- 3/25/2026
-
-Some of my very favourite paintings are Annunciations … the stunning Leonardo and Botticelli in the Uffizi, the lovely small painting from a predella by Domenico Veneziano close to home in the Fitzwilliam, the wonderful Filippo Lippi in the...
 
 
 [My Oxford Term](https://blog.computationalcomplexity.org/feeds/8538887691585638145/comments/default)
