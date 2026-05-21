@@ -1,4 +1,28 @@
 
+[Pet Haidt](https://crookedtimber.org/2026/05/21/pet-haidt/)
+---
+
+Crooked Timber --- 5/21/2026
+
+One my betes noires has been in the news lately. Jonathan Haidt has been annoying me since at least 2012, when I was critical of his bothsidesism on the culture wars. At the time, he was a concern troll, posing as a liberal worried about other...
+
+
+[Range Avoidance](https://blog.computationalcomplexity.org/feeds/8474824991091188818/comments/default)
+---
+
+Computational Complexity --- 5/20/2026
+
+Let \(f\) be a function mapping binary strings of length \(m\) to strings of length \(n\) with \(n>m\). Since there are more strings of length \(n\) than \(m\), \(f\) is not onto. Can you find a string not in the range? This is known as the range...
+
+
+[Double Maths First Thing: Issue 59](https://aperiodical.com/2026/05/double-maths-first-thing-issue-59/)
+---
+
+The Aperiodical --- 5/20/2026
+
+Double Maths First Thing has been blown away by a puzzle Hello! My name is Colin and I am a mathematician on a mission to spread the joy and delight in mathematical thinking, in figuring things out, and in doing things that make you feel clever....
+
+
 [ICT paperback is out!](https://www.logicmatters.net/2026/05/18/ict-paperback-is-out/)
 ---
 
@@ -351,14 +375,6 @@ Computational Complexity --- 4/14/2026
 Guest post from Peter Brass, Former NSF Theory director (though not affiliated with the NSF now) on the White House NSF budget for FY 2027.---------------------------------------------Dear ColleaguesA week ago the White House released the NSF...
 
 
-[History Nerd Bucket List:  The Jenny Geddes Stool](https://crookedtimber.org/2026/04/14/history-nerd-bucket-list-the-jenny-geddes-stool/)
----
-
-Crooked Timber --- 4/14/2026
-
-Before I depart this world, I would like to visit St. Giles’ Cathedral in Edinburgh, Scotland, and see the Jenny Geddes memorial. I’m told it’s open to the public. Why? What’s interesting about a stool? Well, it’s probably impossible to point to a...
-
-
 [Afterthoughs on Banach Tarski and the Miracle of loaves and Fishes](https://blog.computationalcomplexity.org/feeds/6374167830611679533/comments/default)
 ---
 
@@ -421,14 +437,6 @@ With my mind partly on revising the Study Guide, I have been browsing through th
 Math ∩ Programming --- 4/9/2026
 
 A051070 is a sequence about OEIS sequences. a(n) is the n-th term in sequence A_n (or -1 if A_n doesn’t have enough terms). So the first term in A051070 is 1 because A000001 is the number of groups of order n, and that sequence has 1 as its entry...
-
-
-[Double Maths First Thing: Issue 53](https://aperiodical.com/2026/04/double-maths-first-thing-issue-53/)
----
-
-The Aperiodical --- 4/8/2026
-
-Double Maths First Thing could be Rotterdam or anywhere Hello! My name is Colin and I am a mathematician on a mission to spread the joy and delight in doing maths. I’m on a bit of a buzz at the moment – I went to my local open mic on Friday and had...
 
 
 [Deterministic Primality Testing for Limited Bit Width](https://www.jeremykun.com/2026/04/07/deterministic-miller-rabin/)
@@ -629,14 +637,6 @@ Making precise the idea that equivalent structures are indistinguishable.
 Abuse of Notation --- 2/22/2026
 
 In the 19th century, Copernicus, Newton, Galilei et al pushed a revolutionary new idea that reshaped the way we think… but no, it’s not talking about cosmology, but about theology. This idea, (which was also the real reason they were in so much...
-
-
-[Joe Halpern (1953-2026)](https://blog.computationalcomplexity.org/feeds/2442546540829531257/comments/default)
----
-
-Computational Complexity --- 2/18/2026
-
-Computer Science Professor Joseph Halpern passed away on Friday after a long battle with cancer. He was a leader in the mathematical reasoning about knowledge. His paper with Yoram Moses, Knowledge and Common Knowledge in a Distributed Environment,...
 
 
 [Book Launch, Substack, and Other News](https://deontologistics.co/2026/02/14/book-launch-substack-and-other-news/)
