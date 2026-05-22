@@ -1,4 +1,12 @@
 
+[(0,0,0,...)](https://www.fractalkitty.com/0-0-0/)
+---
+
+Fractal Kitty --- 5/21/2026
+
+unedited human writing before bedOriginIn the beginning there was a point.              ...And the beginning was but a period in which time was noted by a wisp of this existence
+
+
 [Pet Haidt](https://crookedtimber.org/2026/05/21/pet-haidt/)
 ---
 
@@ -789,12 +797,4 @@ December Adventure was started by Eli_oat at Oatmeal.  I love seeing what others
 Abuse of Notation --- 12/1/2025
 
 I should stop doing category theory. What’s the point?
-
-
-[Beyond the Geometry of Music](https://golem.ph.utexas.edu/category/2025/11/beyond_the_geometry_of_music.html)
----
-
-The n-Category Café --- 11/30/2025
-
-Tymoczko gave a good talk on the math of music theory.
 
