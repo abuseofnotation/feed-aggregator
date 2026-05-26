@@ -2,7 +2,7 @@
 [Two Erdős Problems on Points in the Plane and AI](https://blog.computationalcomplexity.org/feeds/2319231633623037559/comments/default)
 ---
 
-Computational Complexity --- 5/24/2026
+Computational Complexity --- 5/25/2026
 
 In a 1946 paper in the American Mathematical Monthly, Paul Erdős posed the Erdős Distinct Distance Problem and the Erdős Unit Distance Problem.--------------------------------------------------------------------THE ERDŐS DISTINCT DISTANCE PROBLEMA...
 
