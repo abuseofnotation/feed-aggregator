@@ -1,4 +1,12 @@
 
+[Book review – A Guide to Infinity: Ten Mathematical Journeys by Edward R. Scheinerman](https://aperiodical.com/2026/05/book-review-a-guide-to-infinity-ten-mathematical-journeys-by-edward-r-scheinerman/)
+---
+
+The Aperiodical --- 5/26/2026
+
+We were sent a free copy of this book by the publisher, and invited irregular contributor Elinor Flavell to read and review it. Been feeling finite recently? Bounded by life? Those larger numbers feeling out of reach? Then you need “A Guide to...
+
+
 [Two Erdős Problems on Points in the Plane and AI](https://blog.computationalcomplexity.org/feeds/2319231633623037559/comments/default)
 ---
 
@@ -445,14 +453,6 @@ I went hunting for references to the OEIS in open source code, and found some we
 The Aperiodical --- 4/13/2026
 
 The next issue of the Carnival of Mathematics, rounding up blog posts from the month of March 2026, is now online at Tom Rocks Maths. The Carnival rounds up maths blog posts from all over the internet, including some from our own Aperiodical. See...
-
-
-[Aperiodical News Roundup – March 2026](https://aperiodical.com/2026/04/aperiodical-news-roundup-march-2026/)
----
-
-The Aperiodical --- 4/12/2026
-
-Here’s a quick round-up of maths internet news this month! Progress has been made on the Lonely Runner problem, which concerns when runners of different speeds going round a track will meet up, and has connections to higher-dimensional geometry. A...
 
 
 [Three books, no toast](https://www.logicmatters.net/2026/04/10/no-toast/)
