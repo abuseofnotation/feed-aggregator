@@ -1,4 +1,20 @@
 
+[Authorship in the AI Age](https://blog.computationalcomplexity.org/feeds/7044748621172288438/comments/default)
+---
+
+Computational Complexity --- 5/27/2026
+
+The technical paper for the Erdős Unit Distance Problem lists only "OpenAI" as an author. When Bill posted on Sunday about the Erdős distance problems, he mentioned the names of OpenAI researchers who prompted and checked the proof. Sebastien...
+
+
+[Double Maths First Thing: Issue 5A](https://aperiodical.com/2026/05/double-maths-first-thing-issue-5a/)
+---
+
+The Aperiodical --- 5/27/2026
+
+Double Maths First Thing adds a Holy C Hello! My name is Colin and I am a mathematician on a mission to spread the joy and delight of figuring things out. Here in Weymouth, we’re sweltering but lucky 12yo is about to jet off to Barcelona for a week...
+
+
 [Book review – A Guide to Infinity: Ten Mathematical Journeys by Edward R. Scheinerman](https://aperiodical.com/2026/05/book-review-a-guide-to-infinity-ten-mathematical-journeys-by-edward-r-scheinerman/)
 ---
 
@@ -447,14 +463,6 @@ Math ∩ Programming --- 4/13/2026
 I went hunting for references to the OEIS in open source code, and found some weird ones. There are not one, but two live-coding music frameworks that use OEIS sequences as a source for “anything that can be sequenced” in music. I’m guessing that’s...
 
 
-[Carnival of Maths 250](https://aperiodical.com/2026/04/carnival-of-maths-250/)
----
-
-The Aperiodical --- 4/13/2026
-
-The next issue of the Carnival of Mathematics, rounding up blog posts from the month of March 2026, is now online at Tom Rocks Maths. The Carnival rounds up maths blog posts from all over the internet, including some from our own Aperiodical. See...
-
-
 [Three books, no toast](https://www.logicmatters.net/2026/04/10/no-toast/)
 ---
 
@@ -629,14 +637,6 @@ In discussions of AI and Mathematics, the discussion often goes to mathematical 
 Computational Complexity --- 3/2/2026
 
 Goodhart's law: When a measure becomes a target, it stops being a measure.  I was watching the show Masterminds where Ken Jennings is one of the Masterminds. Here is what happened: Brook Burns (the host): The only vice president in the 20th century...
-
-
-[A Probability Challenge](https://blog.computationalcomplexity.org/feeds/1458051687028993555/comments/default)
----
-
-Computational Complexity --- 2/25/2026
-
-Last week I had the pleasure of meeting Alex Bellos in Oxford. Among other things Bellos writes the Guardian Monday puzzle column. He gave me a copy of his latest book, Puzzle Me Twice, where the obvious answer is not correct. I got more right than...
 
 
 [The Univalence Principle](https://golem.ph.utexas.edu/category/2026/02/the_univalence_principle.html)
