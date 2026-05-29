@@ -1,4 +1,12 @@
 
+[Talking Maths in… Coventry Transport Museum](https://aperiodical.com/2026/05/talking-maths-in-coventry-transport-museum/)
+---
+
+The Aperiodical --- 5/28/2026
+
+This is a guest post from museum educator and mathematician Tom Briggs, about his session at last August’s Talking Maths in Public conference. 2025’s Talking Maths in Public (TMiP) conference took place on the Warwick University campus, but the...
+
+
 [Authorship in the AI Age](https://blog.computationalcomplexity.org/feeds/7044748621172288438/comments/default)
 ---
 
@@ -413,14 +421,6 @@ What does it mean to be an academic in different parts of the world? What comes 
 Computational Complexity --- 4/16/2026
 
 At Oxford I focused my research and discussions on how we can use the tools of computational complexity to help us understand the power and limitations of machine learning. Last week I posted my paper How Does Machine Learning Manage Complexity?, a...
-
-
-[Double Maths First Thing: Issue 54](https://aperiodical.com/2026/04/double-maths-first-thing-issue-54/)
----
-
-The Aperiodical --- 4/15/2026
-
-Double Maths First Thing is playing 1D chess. Hello! My name is Colin and I am a mathematician on a mission to spread the delight and joy of doing maths, and trying really hard to communicate that it’s not just about arithmetic. The kids have...
 
 
 [Guest Post from Peter Brass, Former NSF Theory Director, on the NSF budget.](https://blog.computationalcomplexity.org/feeds/5341010132143038934/comments/default)
