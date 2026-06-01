@@ -1,4 +1,12 @@
 
+[Sunday photoblogging: Pézenas at night](https://crookedtimber.org/2026/05/31/sunday-photoblogging-pezenas-at-night/)
+---
+
+Crooked Timber --- 5/31/2026
+
+
+
+
 [Talking Maths in… Coventry Transport Museum](https://aperiodical.com/2026/05/talking-maths-in-coventry-transport-museum/)
 ---
 
@@ -47,14 +55,6 @@ Crooked Timber --- 5/24/2026
 
 
 
-[Twenty years on, what next?](https://www.logicmatters.net/2026/05/23/twenty-years-on-what-next/)
----
-
-Blog - Logic Matters --- 5/23/2026
-
-The Logic Matters blog started on 9 March 2006. Bother! — I missed its twentieth birthday. Raise a belated glass, as that was a milestone of sorts. I do plan to continue with the blog and website. But I am going to experiment (initially in a local...
-
-
 [More whimsical OEIS sequences](https://www.jeremykun.com/shortform/2026-05-22-1528/)
 ---
 
@@ -95,28 +95,12 @@ The Aperiodical --- 5/20/2026
 Double Maths First Thing has been blown away by a puzzle Hello! My name is Colin and I am a mathematician on a mission to spread the joy and delight in mathematical thinking, in figuring things out, and in doing things that make you feel clever....
 
 
-[ICT paperback is out!](https://www.logicmatters.net/2026/05/18/ict-paperback-is-out/)
----
-
-Blog - Logic Matters --- 5/18/2026
-
-The revised/corrected third edition of Introducing Category Theory is now available as a paperback. To keep the cost minimal, this is again via print-on-demand from Amazon US, Amazon UK, and of course other Amazons too, with ISBN 1068346728. There...
-
-
 [Occasional paper: St. Anthony’s Turnip](https://crookedtimber.org/2026/05/18/occasional-paper-st-anthonys-turnip/)
 ---
 
 Crooked Timber --- 5/18/2026
 
 Mostly I leave Sunday photography to our colleague, the estimable Chris Bertram. Still, this Sunday I was walking the dog in the hills above my town. (“My town” being a modest community of a couple of thousand people in the rolling countryside of...
-
-
-[Felicity Lott, 1947 – 2026](https://www.logicmatters.net/2026/05/18/felicity-lott-1947-2026/)
----
-
-Blog - Logic Matters --- 5/18/2026
-
-There have been so many moving obituaries and fond tributes. Here, to mark her passing, is Felicity Lott at the start of her stellar career, singing Pamina at Glyndebourne, almost fifty years ago. How joyous. There was, by the way, a wonderful...
 
 
 [Inquiries-Week 9: Mod Multiplication](https://www.fractalkitty.com/inquiries-week-9-mod-multiplication/)
@@ -135,28 +119,12 @@ Computational Complexity --- 5/17/2026
 1) Congratulations to Scott Aaronson for winning the first Trevisan Award.The Trevisan Award is in memory of Luca Trevisan and recognizes expository work in Theoretical Computer Science. It is given out by the ACM. The ACM announcement of Scott's...
 
 
-[Proof-reading, with a bit of help from LLMs](https://www.logicmatters.net/2026/05/17/proof-reading-with-a-bit-of-help-from-llms/)
----
-
-Blog - Logic Matters --- 5/17/2026
-
-What have I learnt over recent weeks, preparing a corrected version of Introducing Category Theory, invoking — at various stages — my friends Claude, Gemini and ChatGPT as proof-reading assistants? Not very helpfully, the take-home message is that...
-
-
 [Sunday photoblogging: Canigou with cherries (2)](https://crookedtimber.org/2026/05/17/sunday-photoblogging-canigou-with-cherries-2/)
 ---
 
 Crooked Timber --- 5/17/2026
 
 
-
-
-[A new version of ICT](https://www.logicmatters.net/2026/05/14/a-new-version-of-ict/)
----
-
-Blog - Logic Matters --- 5/14/2026
-
-The end is in sight. I have just uploaded another PDF of Introducing Category Theory (now identified as Version 3.4 on the verso of the title page — you might need to clear your brower’s cache to force a download of the latest, greatest, version)....
 
 
 [Prediction Markets Redux](https://blog.computationalcomplexity.org/feeds/284448375668823016/comments/default)
@@ -207,22 +175,6 @@ Crooked Timber --- 5/10/2026
 
 
 
-[On the mathematical abilities of LLMs](https://www.logicmatters.net/2026/05/09/on-the-mathematical-abilities-of-llms/)
----
-
-Blog - Logic Matters --- 5/9/2026
-
-A very interesting new blog post by Tim Gowers on his recent experiences with ChatGPT 5.5 Pro. A headline: “I would judge the level of the result that ChatGPT found in under two hours to be that of a perfectly reasonable chapter in a combinatorics...
-
-
-[Another categorical update](https://www.logicmatters.net/2026/05/07/another-categorical-update/)
----
-
-Blog - Logic Matters --- 5/7/2026
-
-The Victorian floor of my tiny study slopes and dips quite badly and it would have been expensive to engineer a flat, level, surface. So, to finish the redecoration, it has had to be new carpet. No majolica tiles for me. Not like this one (now in...
-
-
 [When do we know someone has died](https://blog.computationalcomplexity.org/feeds/5765663734832993249/comments/default)
 ---
 
@@ -253,14 +205,6 @@ Michael Rabin passed away on April 14,2026. I blogged about him here. My post 
 Crooked Timber --- 5/3/2026
 
 
-
-
-[Categorical update](https://www.logicmatters.net/2026/05/02/categorical-update/)
----
-
-Blog - Logic Matters --- 5/2/2026
-
-I am still working again through the third edition of the category theory book, correcting typos in the first printed version (fortunately, relatively few are possibly misleading), correcting thinkos (cheeringly not many), rewording a few...
 
 
 [Quantum Mechanics of the Inverse Cube Force Law](https://golem.ph.utexas.edu/category/2026/04/the_quantum_mechanics_of_the_i.html)
@@ -391,28 +335,12 @@ Crooked Timber --- 4/19/2026
 
 
 
-[Categorically diverted](https://www.logicmatters.net/2026/04/19/categorically-diverted/)
----
-
-Blog - Logic Matters --- 4/19/2026
-
-Another six large-carrier bags of books have gone to Oxfam. And my tiny redecorated study is at last put together again, and — a miracle! — with no books in piles on the floor. Rather late in the day, it is the nicest-looking room I have ever had....
-
-
 [Bobby, I hardly Knew Ye](https://crookedtimber.org/2026/04/19/55130/)
 ---
 
 Crooked Timber --- 4/19/2026
 
 Back in the 1980s, I was (among other things) a writer and singer of satirical folk songs. Going to the National Folk Festival in Canberra at Easter, I caught up with old friends and was reminded that I had produced a book of my songs. Returning...
-
-
-[Global science equity – towards solutions](https://crookedtimber.org/2026/04/17/global-science-equity-towards-solutions/)
----
-
-Crooked Timber --- 4/17/2026
-
-What does it mean to be an academic in different parts of the world? What comes along as the same job description – a bundle of teaching, research, and impact tasks – varies enormously from place to place. Not only the financial conditions of...
 
 
 [Machine Learning and Complexity](https://blog.computationalcomplexity.org/feeds/5310274630571764023/comments/default)
@@ -461,14 +389,6 @@ After spending many irritating hours with ChatGPT and Copilot, I finally tried o
 Math ∩ Programming --- 4/13/2026
 
 I went hunting for references to the OEIS in open source code, and found some weird ones. There are not one, but two live-coding music frameworks that use OEIS sequences as a source for “anything that can be sequenced” in music. I’m guessing that’s...
-
-
-[Three books, no toast](https://www.logicmatters.net/2026/04/10/no-toast/)
----
-
-Blog - Logic Matters --- 4/10/2026
-
-With my mind partly on revising the Study Guide, I have been browsing through three relatively recently published logic books. None of them impress as candidates for self-study. I will be brief (unfairly? life is short …). Robert André’s Set...
 
 
 [The OEIS meta sequence and subway stations](https://www.jeremykun.com/shortform/2026-04-09-0556/)
@@ -797,4 +717,84 @@ A complex-analytic perspective on the indefinite integral of 1/x.
 Fractal Kitty --- 12/2/2025
 
 December Adventure was started by Eli_oat at Oatmeal.  I love seeing what others do this month - here is a log of logs.This December, I plan to make a generative quilt, play with origami,  doodle some mossy mandalas, set up next year's journal, and...
+
+
+[I should stop doing category theory](http://abuseofnotation.github.io/whats-the-point/)
+---
+
+Abuse of Notation --- 12/1/2025
+
+I should stop doing category theory. What’s the point?
+
+
+[Beyond the Geometry of Music](https://golem.ph.utexas.edu/category/2025/11/beyond_the_geometry_of_music.html)
+---
+
+The n-Category Café --- 11/30/2025
+
+Tymoczko gave a good talk on the math of music theory.
+
+
+[Bicyclic Matrix-Matrix Multiplication in Fully Homomorphic Encryption](https://www.jeremykun.com/2025/11/17/bicyclic-matrix-matrix-multiplication-in-fully-homomorphic-encryption/)
+---
+
+Math ∩ Programming --- 11/17/2025
+
+In an earlier article, I covered the basic technique for performing matrix-vector multiplication in fully homomorphic encryption (FHE), known as the Halevi-Shoup diagonal method. This article covers a more recent method for matrix-matrix...
+
+
+[The elementary theory of surreal arithmetic is bi-interpretable with set theory, Notre Dame Logic Seminar, November 2025](https://jdh.hamkins.org/surreal-arithmetic-notre-dame-logic-seminar-nov-2025/)
+---
+
+Joel David Hamkins --- 11/12/2025
+
+This will be a talk for the Logic Seminar at the University of Notre Dame, Tuesday 18 November 20215 2pm 125 Hayes-Healy Building. Abstract. I shall introduce what I call the first-order elementary theory of surreal arithmetic, a theory that is...
+
+
+[somewhere here](https://www.fractalkitty.com/somewhere-here/)
+---
+
+Fractal Kitty --- 11/8/2025
+
+A coded poem and trackThe Track:Initiated on a piano, and realized on an OP-1 Field. somewhere here0:00/101.302857142857151×The Visual:Human coded in p5js with p5sound - enjoy in fullscreen. Click here for the visual with music - (CW: Strobing...
+
+
+[The Inverse Cube Force Law](https://golem.ph.utexas.edu/category/2025/11/the_inverse_cube_force_law.html)
+---
+
+The n-Category Café --- 11/6/2025
+
+Newton's Principia is famous for his investigations of the inverse square force law for gravity.  But he also studied the inverse cube law.  Why, and what is so good about this law?
+
+
+[Inquiries-Week 5: Triangles Emerge](https://www.fractalkitty.com/inquiries-week-5-triangles-emerge/)
+---
+
+Fractal Kitty --- 11/6/2025
+
+IntroductionIn this inquiry, nodes are connected one at a time. How many lines can you draw before a triangle emerges?Starting with FourLet's start with four nodes - draw them on a sheet of paper. How many lines (called edges) can you draw before a...
+
+
+[Dynamics in Jordan Algebras](https://golem.ph.utexas.edu/category/2025/11/dynamics_in_jordan_algebras.html)
+---
+
+The n-Category Café --- 11/4/2025
+
+You can tweak Heisenberg's equation so that instead of using a commutator it uses an associator!  Then it applies to Jordan algebras other than that of self-adjoint complex matrices.
+
+
+[What is your number? Logic puzzles for mathematicians – 2025 DePrima Memorial Lecture, Caltech](https://jdh.hamkins.org/what-is-your-number-logic-puzzles-for-mathematicians-deprima-lecture-caltech-2025/)
+---
+
+Joel David Hamkins --- 11/4/2025
+
+I am honored to be giving the 2025-26 Charles R. DePrima Memorial Lecture for the Mathematics Department of the California Institute of Technology. This lecture series aims to bring mathematical researchers to Caltech to give talks for a primarily...
+
+
+[Second Quantization and the Kepler Problem](https://golem.ph.utexas.edu/category/2025/11/second_quantization_and_the_ke.html)
+---
+
+The n-Category Café --- 11/3/2025
+
+Exploiting the secret 4-dimensional symmetry of the Kepler problem to think about the periodic table of elements in a new way.
 
