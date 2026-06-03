@@ -1,4 +1,12 @@
 
+[A new blog](https://golem.ph.utexas.edu/category/2026/06/a_new_blog.html)
+---
+
+The n-Category Café --- 6/2/2026
+
+Readers may have noticed that I haven't been very active here for a while. That isn't because I haven't felt the "blogging urge", but because I felt that the things I want to blog about right now wouldn't be...
+
+
 [Odd Scenarios about Research Claims and Authorships](https://blog.computationalcomplexity.org/feeds/4823927278409986154/comments/default)
 ---
 
@@ -789,12 +797,4 @@ There are two ways to stick SU(2) × SU(3) in Spin(10).   One is good for physic
 The n-Category Café --- 12/4/2025
 
 An introduction to the bioctonionic plane and the mathematics needed to understand it.
-
-
-[log|x| + C revisited](https://golem.ph.utexas.edu/category/2025/12/logx_c_revisited.html)
----
-
-The n-Category Café --- 12/3/2025
-
-A complex-analytic perspective on the indefinite integral of 1/x.
 
