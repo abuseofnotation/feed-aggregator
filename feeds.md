@@ -1,4 +1,12 @@
 
+[Carnival of Maths 252](https://aperiodical.com/2026/06/carnival-of-maths-252/)
+---
+
+The Aperiodical --- 6/4/2026
+
+The next issue of the Carnival of Mathematics, rounding up blog posts from the month of May 2026, is now online courtesy of Sophia Wood at Fractal Kitty. The Carnival rounds up maths blog posts from all over the internet, including some from our...
+
+
 [The Industrialization of Academic Research](https://blog.computationalcomplexity.org/feeds/3417752521572703761/comments/default)
 ---
 
@@ -29,6 +37,14 @@ Here’s a short round-up of maths news stories from the last two months that we
 The Aperiodical --- 6/3/2026
 
 Double Maths First Thing doesn’t know where to start Hello! My name is Colin and I am a mathematician on a mission to spread the joy and delight that comes from working things through and wrapping them up with a neat mathematical bow. Before...
+
+
+[A new blog](https://golem.ph.utexas.edu/category/2026/06/a_new_blog.html)
+---
+
+The n-Category Café --- 6/2/2026
+
+Readers may have noticed that I haven't been very active here for a while. That isn't because I haven't felt the "blogging urge", but because I felt that the things I want to blog about right now wouldn't be...
 
 
 [Odd Scenarios about Research Claims and Authorships](https://blog.computationalcomplexity.org/feeds/4823927278409986154/comments/default)
@@ -263,6 +279,14 @@ Crooked Timber --- 5/3/2026
 
 
 
+[Quantum Mechanics of the Inverse Cube Force Law](https://golem.ph.utexas.edu/category/2026/04/the_quantum_mechanics_of_the_i.html)
+---
+
+The n-Category Café --- 5/2/2026
+
+In the last episode of my column in Notices of the American Mathematical Society, we looked at a particle moving in an attractive central force whose strength is proportional to the inverse cube of the distance from the origin....
+
+
 [Carnival of Maths 251](https://aperiodical.com/2026/05/carnival-of-maths-251/)
 ---
 
@@ -285,14 +309,6 @@ My favorite quote about networking came from Jim Kurose. The Internet works so w
 Math ∩ Programming --- 4/29/2026
 
 Table of Contents In this tutorial series, I will introduce the CKKS homomorphic encryption scheme from the ground up, in rather intricate detail. Each article in this series corresponds to a pull request on a GitHub repository. The code for this...
-
-
-[Double Maths First Thing: Issue 56](https://aperiodical.com/2026/04/double-maths-first-thing-issue-56/)
----
-
-The Aperiodical --- 4/29/2026
-
-Double Maths First Thing no longer runs marathons. Hello! My name is Colin and I am a mathematician on a mission to spread the joy and delight of doing maths, figuring things out and generally taking pleasure in doing clever things. Like everyone...
 
 
 [Occasional paper: Blue Angels, Devil Hands](https://crookedtimber.org/2026/04/28/occasional-paper-blue-angels-devil-hands/)
@@ -487,6 +503,14 @@ Joel David Hamkins --- 3/28/2026
 I am very pleased to announce that The Book of Infinity is now available for pre-order. Check it out at your favorite booksellers. From the preface: Come, let us explore infinity! We shall visit all my favorite paradoxes and conundrums. The ancient...
 
 
+[Geometry and the Exceptional Jordan Algebra](https://golem.ph.utexas.edu/category/2026/03/geometry_and_the_exceptional_j.html)
+---
+
+The n-Category Café --- 3/27/2026
+
+Slides for a talk on features of the octonionic projective plane.
+
+
 [My Oxford Term](https://blog.computationalcomplexity.org/feeds/8538887691585638145/comments/default)
 ---
 
@@ -501,6 +525,14 @@ High table dinner at MagdalenMy time in Oxford has come to an end and I head bac
 Computational Complexity --- 3/22/2026
 
 If I get an email offering me a $1000 for I DON"T KNOW SINCE I ignore it and don't even bother looking for other signs it is a scam. If I get an email offering me $100 I may look more carefully and often they are legit (most common is to give a...
+
+
+[The Agent That Doesn't Know Itself](https://golem.ph.utexas.edu/category/2026/03/the_agent_that_doesnt_know_its.html)
+---
+
+The n-Category Café --- 3/20/2026
+
+A large language model has very little self-awareness.  But it is easy to give it some rudimentary but useful forms of self-awareness using the "plumbing" language.
 
 
 [A Statement on my Art](https://www.fractalkitty.com/a-statement-on-my-art/)
@@ -527,6 +559,14 @@ Computational Complexity --- 3/16/2026
 (If you live in Montgomery County Maryland OR if you care about Education, you MUST read this guest blog by Daniel Gottesman on Scott Aaronson's blog HERE.) (This post is a sequel to a prior post on this topic that was here. However, this post is...
 
 
+[A Typed Language for Agent Coordination](https://golem.ph.utexas.edu/category/2026/03/a_typed_language_for_agent_coordination.html)
+---
+
+The n-Category Café --- 3/12/2026
+
+A category-theoretic approach to "agent frameworks": that is, frameworks for coordinating "agents" that are large language models.
+
+
 [Tony Hoare (1934-2026)](https://blog.computationalcomplexity.org/feeds/3674856833990894875/comments/default)
 ---
 
@@ -541,6 +581,14 @@ Turing Award winner and former Oxford professor Tony Hoare passed away last Thu
 Computational Complexity --- 3/8/2026
 
 In my graduate Ramsey Theory class I taught Kruskal's tree theorem (KTT) which was proven by Joe Kruskal in his PhD thesis in 1960. (Should that be in a graduate Ramsey Theory class? There are not enough people teaching such a course to get a...
+
+
+[The Univalence Principle](https://golem.ph.utexas.edu/category/2026/02/the_univalence_principle.html)
+---
+
+The n-Category Café --- 2/22/2026
+
+Making precise the idea that equivalent structures are indistinguishable.
 
 
 [True and correct](http://abuseofnotation.github.io/true-correct/)
@@ -615,6 +663,22 @@ Fractal Kitty --- 1/29/2026
 Have you ever been to a quilt store and bought fabric without a plan? You just saw the pretty colors and patterns and went for it? Well, I did - with a jelly roll of white, beige, grays, and black with mathy patterns (Note: A jelly roll is a roll
 
 
+[Categorifying Riemann's Functional Equation](https://golem.ph.utexas.edu/category/2026/01/categorifying_riemanns_functio.html)
+---
+
+The n-Category Café --- 1/26/2026
+
+David Jaz Myers has some thoughts about Riemann's functional equation for the zeta function.
+
+
+[Coxeter and Dynkin Diagrams](https://golem.ph.utexas.edu/category/2026/01/coxeter_and_dynkin_diagrams.html)
+---
+
+The n-Category Café --- 1/6/2026
+
+Dynkin diagrams have always fascinated me. They are magically potent language --- you can do so much with them!...
+
+
 [Genuary 2026](https://www.fractalkitty.com/genuary-2026/)
 ---
 
@@ -647,6 +711,30 @@ Abuse of Notation --- 12/24/2025
 When the tower crumbles, some will laugh some will cry, some will fall from the top, some will be buried below. When the tower crumbles, better not be around better go all the way down, so you can run away.
 
 
+[Octonions and the Standard Model (Part 13)](https://golem.ph.utexas.edu/category/2025/12/octonions_and_the_standard_mod_11.html)
+---
+
+The n-Category Café --- 12/21/2025
+
+There are two ways to stick SU(2) × SU(3) in Spin(10).   One is good for physics; the other, alas, is easily obtained using the octonions.
+
+
+[Octonions and the Standard Model (Part 12)](https://golem.ph.utexas.edu/category/2025/11/the_bioctonionic_plane.html)
+---
+
+The n-Category Café --- 12/4/2025
+
+An introduction to the bioctonionic plane and the mathematics needed to understand it.
+
+
+[log|x| + C revisited](https://golem.ph.utexas.edu/category/2025/12/logx_c_revisited.html)
+---
+
+The n-Category Café --- 12/3/2025
+
+A complex-analytic perspective on the indefinite integral of 1/x.
+
+
 [December Adventure Log](https://www.fractalkitty.com/december-adventure-log/)
 ---
 
@@ -661,6 +749,14 @@ December Adventure was started by Eli_oat at Oatmeal.  I love seeing what others
 Abuse of Notation --- 12/1/2025
 
 I should stop doing category theory. What’s the point?
+
+
+[Beyond the Geometry of Music](https://golem.ph.utexas.edu/category/2025/11/beyond_the_geometry_of_music.html)
+---
+
+The n-Category Café --- 11/30/2025
+
+Tymoczko gave a good talk on the math of music theory.
 
 
 [Bicyclic Matrix-Matrix Multiplication in Fully Homomorphic Encryption](https://www.jeremykun.com/2025/11/17/bicyclic-matrix-matrix-multiplication-in-fully-homomorphic-encryption/)
@@ -687,114 +783,18 @@ Fractal Kitty --- 11/8/2025
 A coded poem and trackThe Track:Initiated on a piano, and realized on an OP-1 Field. somewhere here0:00/101.302857142857151×The Visual:Human coded in p5js with p5sound - enjoy in fullscreen. Click here for the visual with music - (CW: Strobing...
 
 
+[The Inverse Cube Force Law](https://golem.ph.utexas.edu/category/2025/11/the_inverse_cube_force_law.html)
+---
+
+The n-Category Café --- 11/6/2025
+
+Newton's Principia is famous for his investigations of the inverse square force law for gravity.  But he also studied the inverse cube law.  Why, and what is so good about this law?
+
+
 [Inquiries-Week 5: Triangles Emerge](https://www.fractalkitty.com/inquiries-week-5-triangles-emerge/)
 ---
 
 Fractal Kitty --- 11/6/2025
 
 IntroductionIn this inquiry, nodes are connected one at a time. How many lines can you draw before a triangle emerges?Starting with FourLet's start with four nodes - draw them on a sheet of paper. How many lines (called edges) can you draw before a...
-
-
-[What is your number? Logic puzzles for mathematicians – 2025 DePrima Memorial Lecture, Caltech](https://jdh.hamkins.org/what-is-your-number-logic-puzzles-for-mathematicians-deprima-lecture-caltech-2025/)
----
-
-Joel David Hamkins --- 11/4/2025
-
-I am honored to be giving the 2025-26 Charles R. DePrima Memorial Lecture for the Mathematics Department of the California Institute of Technology. This lecture series aims to bring mathematical researchers to Caltech to give talks for a primarily...
-
-
-[The Revenge of Reason is here!](https://deontologistics.co/2025/11/01/the-revenge-of-reason-is-here/)
----
-
-DEONTOLOGISTICS --- 11/1/2025
-
-It’s been a long time coming, but my second book, The Revenge of Reason, is finally available to buy. There are so many things in here that were written or given as talks long ago but never actually published, and it’s nice to know people will...
-
-
-[Integer Set Library (ISL) - A Primer](https://www.jeremykun.com/2025/10/19/isl-a-primer/)
----
-
-Math ∩ Programming --- 10/19/2025
-
-Polyhedral optimization is a tool used in compilers for optimizing loop nests. While the major compilers that use this implement polyhedral optimizations from scratch,1 there is a generally-applicable open source C library called the Integer Set...
-
-
-[The case against boolean logic](http://abuseofnotation.github.io/boolean-thinking/)
----
-
-Abuse of Notation --- 10/16/2025
-
-In my last post about generality, I tried to show how our ambition to discover ideas that are all-encompassing and eternal makes our worldview crumble, leaving us unable to think clearly even about simple issues with obvious solutions. Today, I...
-
-
-[Mathober 2025 Sketches](https://www.fractalkitty.com/mathober-2025-sketches/)
----
-
-Fractal Kitty --- 10/1/2025
-
-This is the post I'll update with this year's Mathober art. Check back and see what's been added throughout the month. Link, Deviation, PolyhedronStrongly, Digraph Sink, Partial SumNotation (find the sigma)P5.js sketchesLink, Deviation,...
-
-
-[Sci Art September](https://www.fractalkitty.com/sci-art-september/)
----
-
-Fractal Kitty --- 9/28/2025
-
-Kristin Henry has been providing SciArtSeptember prompts each year. I incorporated all of the prompts into a single sketch this year. 1. Fluid 2. Coral 3. Inertia 4. Diffusion 5. Skeleton 6. Growth 7. Virus 8. Permutation 9. Element 10. Algae 11....
-
-
-[What is a Good Quantum Encoding? Part 1](https://www.math3ma.com/blog/what-is-a-good-quantum-encoding-part-1)
----
-
-Math3ma --- 9/25/2025
-
-Over the past couple of years, I've been learning a little about the world of quantum machine learning (QML) and the sorts of things people are thinking about there. I recently gave an high-level talk on some of these ideas in connection to a...
-
-
-[Good Reads: The Princeton Companion to Mathematics](https://www.math3ma.com/blog/good-reads-the-princeton-companion-to-mathematics)
----
-
-Math3ma --- 9/25/2025
-
-Next up on Good Reads: The Princeton Companion to Mathematics, edited by Fields medalist Timothy Gowers. This book is an exceptional resource! With over 1,000 pages of mathematics explained by the experts for the layperson, it's like an...
-
-
-[The Sannomiya incident—how Jörg Brendle hit the big stage in Japanese art](https://jdh.hamkins.org/the-sannomiya-incident-how-jorg-brendle-hit-the-big-stage-in-japanese-art/)
----
-
-Joel David Hamkins --- 9/10/2025
-
-Recently I had the pleasure to give a talk at the Conference on the occasion of Jörg Brendle’s 60th birthday at Kobe University in Japan, and I was invited to make remarks at the conference banquet given in his honor. … Continue reading →
-
-
-[The elementary theory of surreal arithmetic is bi-interpretable with set theory, Kobe, Japan, September 2025](https://jdh.hamkins.org/theory-of-surreal-arithmetic-bi-interpretable-with-set-theory-japan-september-2025/)
----
-
-Joel David Hamkins --- 8/20/2025
-
-This will be a talk for the Conference on the occasion of Jörg Brendle’s 60th birthday at Kobe University in Kobe, Japan, 2-5 September 2025. Many years ago, I was a JSPS Fellow at Kobe University, at the same time … Continue reading →
-
-
-[Did Turing ever halt? HPS Colloquium, Notre Dame, October 2025](https://jdh.hamkins.org/did-turing-ever-halt-hps-colloquium-october-2025/)
----
-
-Joel David Hamkins --- 8/18/2025
-
-This will be a talk I shall give for the History and Philosophy of Science (HPS) Colloquium at the University of Notre Dame, 17 October 2025, 12:30-1:30 pm, 201 O’Shaughnessy Hall. Did Turing ever halt? Abstract. Alan Turing’s 1936 paper … Continue...
-
-
-[FHE@PDX 2025](https://www.jeremykun.com/shortform/2025-07-25-0956/)
----
-
-Math ∩ Programming --- 7/25/2025
-
-On Monday, July 14th 2025, I hosted a mini-workshop on homomorphic encryption at Google’s Portland, Oregon office. Though Portland is a small city, it’s becoming a hub for homomorphic encryption. Intel and Google both have a presence here, as well...
-
-
-[Frequently Asked Questions about FHE](https://www.jeremykun.com/frequently-asked-questions-about-fhe/)
----
-
-Math ∩ Programming --- 7/18/2025
-
-I work on homomorphic encryption (HE or FHE for “fully” homomorphic encryption) and I have written a lot about it on this blog (see the relevant tag). This article is a collection of short answers to questions I see on various threads and news...
 
