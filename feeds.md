@@ -1,4 +1,12 @@
 
+[A New Blog](https://golem.ph.utexas.edu/category/2026/06/a_new_blog.html)
+---
+
+The n-Category Café --- 6/6/2026
+
+Readers may have noticed that I haven't been very active here for a while. That isn't because I haven't felt the "blogging urge", but because I felt that the things I want to blog about right now wouldn't be...
+
+
 [Carnival of Maths 252](https://aperiodical.com/2026/06/carnival-of-maths-252/)
 ---
 
@@ -37,14 +45,6 @@ Here’s a short round-up of maths news stories from the last two months that we
 The Aperiodical --- 6/3/2026
 
 Double Maths First Thing doesn’t know where to start Hello! My name is Colin and I am a mathematician on a mission to spread the joy and delight that comes from working things through and wrapping them up with a neat mathematical bow. Before...
-
-
-[A new blog](https://golem.ph.utexas.edu/category/2026/06/a_new_blog.html)
----
-
-The n-Category Café --- 6/2/2026
-
-Readers may have noticed that I haven't been very active here for a while. That isn't because I haven't felt the "blogging urge", but because I felt that the things I want to blog about right now wouldn't be...
 
 
 [Odd Scenarios about Research Claims and Authorships](https://blog.computationalcomplexity.org/feeds/4823927278409986154/comments/default)
