@@ -1,4 +1,20 @@
 
+[Humans Solve Erdos Problem!!](https://blog.computationalcomplexity.org/feeds/6135142595358018857/comments/default)
+---
+
+Computational Complexity --- 6/7/2026
+
+(In 2008 I wrote a survey of some of the known sum-product theorems, see here. Avi Wigderson has a great slide-set on sum-product theorems and their applications---the slides are on Avi's webpage of talks he has given (all the talks are excellent)...
+
+
+[Sunday photoblogging: objet trouvé](https://crookedtimber.org/2026/06/07/sunday-photoblogging-objet-trouve/)
+---
+
+Crooked Timber --- 6/7/2026
+
+
+
+
 [A New Blog](https://golem.ph.utexas.edu/category/2026/06/a_new_blog.html)
 ---
 
@@ -375,14 +391,6 @@ Crooked Timber --- 4/20/2026
 I said a while back that nobody’s going to Mars any time soon. Which is true. But that doesn’t mean Mars isn’t interesting! Mars is very interesting. So today’s paper is about Mars. Okay, it’s about a moon of Mars. TLDR: one of Mars’ moons may...
 
 
-[Sunday photoblogging: Pézenas street](https://crookedtimber.org/2026/04/19/sunday-photoblogging-pezenas-street/)
----
-
-Crooked Timber --- 4/19/2026
-
-
-
-
 [Machine Learning and Complexity](https://blog.computationalcomplexity.org/feeds/5310274630571764023/comments/default)
 ---
 
@@ -573,14 +581,6 @@ A category-theoretic approach to "agent frameworks": that is, frameworks for coo
 Computational Complexity --- 3/10/2026
 
 Turing Award winner and former Oxford professor Tony Hoare passed away last Thursday at the age of 92. Hoare is famous for quicksort, ALGOL, Hoare logic and so much more. Jim Miles gives his personal reflections.Jill Hoare, Tony Hoare, Jim Miles....
-
-
-[How does AI do on Baseball-Brothers-Pitchers](https://blog.computationalcomplexity.org/feeds/8822847409328676415/comments/default)
----
-
-Computational Complexity --- 3/8/2026
-
-In my graduate Ramsey Theory class I taught Kruskal's tree theorem (KTT) which was proven by Joe Kruskal in his PhD thesis in 1960. (Should that be in a graduate Ramsey Theory class? There are not enough people teaching such a course to get a...
 
 
 [The Univalence Principle](https://golem.ph.utexas.edu/category/2026/02/the_univalence_principle.html)
