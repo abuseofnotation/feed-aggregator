@@ -1,4 +1,20 @@
 
+[The Modal Logic of Forcing and Set-theoretic Potentialism, Peking University lectures, June/July 2026](https://jdh.hamkins.org/modal-logic-of-forcing-and-potentialism-peking-university-2026/)
+---
+
+Joel David Hamkins --- 6/8/2026
+
+This will be a series of graduate lectures at Peking University, two lectures per week beginning mid-June and proceeding into July. Topics. We shall aim to cover the central results in the modal logic of forcing, including an exploration of …...
+
+
+[Everyday friction](https://crookedtimber.org/2026/06/08/everyday-friction/)
+---
+
+Crooked Timber --- 6/8/2026
+
+Last week, because of a combination of bad planning (my bad) and endless delays (Deutsche Bahn’s bad), I arrive very late in a hotel in Berlin. I had to ring the doorbell. The guy at the reception started giggling the moment I came in, which...
+
+
 [Humans Solve Erdos Problem!!](https://blog.computationalcomplexity.org/feeds/6135142595358018857/comments/default)
 ---
 
@@ -381,14 +397,6 @@ IntroductionPentominoes are shapes made from 5 squares joined edge-to-edge. Ther
 Computational Complexity --- 4/23/2026
 
 Michael Rabin passed away on April 14, 2026 at the age of 94. (Scott Aaronson has also blogged about his passing, see  here.) I had many points to make about him; however, the first one got so long that I will just do that one for today's blog...
-
-
-[Occasional paper:  Inconstant moon](https://crookedtimber.org/2026/04/20/occasional-paper-inconstant-moon/)
----
-
-Crooked Timber --- 4/20/2026
-
-I said a while back that nobody’s going to Mars any time soon. Which is true. But that doesn’t mean Mars isn’t interesting! Mars is very interesting. So today’s paper is about Mars. Okay, it’s about a moon of Mars. TLDR: one of Mars’ moons may...
 
 
 [Machine Learning and Complexity](https://blog.computationalcomplexity.org/feeds/5310274630571764023/comments/default)
@@ -789,12 +797,4 @@ A coded poem and trackThe Track:Initiated on a piano, and realized on an OP-1 Fi
 The n-Category Café --- 11/6/2025
 
 Newton's Principia is famous for his investigations of the inverse square force law for gravity.  But he also studied the inverse cube law.  Why, and what is so good about this law?
-
-
-[Inquiries-Week 5: Triangles Emerge](https://www.fractalkitty.com/inquiries-week-5-triangles-emerge/)
----
-
-Fractal Kitty --- 11/6/2025
-
-IntroductionIn this inquiry, nodes are connected one at a time. How many lines can you draw before a triangle emerges?Starting with FourLet's start with four nodes - draw them on a sheet of paper. How many lines (called edges) can you draw before a...
 
