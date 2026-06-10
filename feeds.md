@@ -1,4 +1,12 @@
 
+[Final Five And U.S. Competitiveness](https://crookedtimber.org/2026/06/09/final-five-and-u-s-competitiveness/)
+---
+
+Crooked Timber --- 6/9/2026
+
+Jerry Cayford at Three Quarks Daily has written a piece responding to the near-farcical “jungle primary” in California where it appeared possible at one point that both of the candidates making it through to the general election might be...
+
+
 [The Modal Logic of Forcing and Set-theoretic Potentialism, Peking University lectures, June/July 2026](https://jdh.hamkins.org/modal-logic-of-forcing-and-potentialism-peking-university-2026/)
 ---
 
@@ -365,14 +373,6 @@ A few months ago in Oxford, Bernard Sufrin, an emeritus fellow, said he's lookin
 Crooked Timber --- 4/26/2026
 
 
-
-
-[On Reinforcing Cynicism in the Academy](https://crookedtimber.org/2026/04/24/on-reinforcing-cynicism-in-the-academy/)
----
-
-Crooked Timber --- 4/24/2026
-
-“I admire the many federal prosecutors across the country who have chosen to resign rather than carry out illegal or immoral orders. To my knowledge, no department head, dean, or other administrator at Texas A&M has taken any meaningful action to...
 
 
 [A potentialist perspective on ultrafinitism, Ohio University](https://jdh.hamkins.org/a-potentialist-perspective-on-ultrafinitism-ohio-university/)
