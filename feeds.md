@@ -1,4 +1,20 @@
 
+[Respect the P v NP Problem](https://blog.computationalcomplexity.org/feeds/5415610689180652747/comments/default)
+---
+
+Computational Complexity --- 6/10/2026
+
+There are two ways to look at the P v NP problem, as a formal mathematically defined conjecture as a Clay Millennium Prize Problem, and as the more intuitive notion that everything efficiently verifiable is efficiently computable and the...
+
+
+[Double Maths First Thing: Issue 5C](https://aperiodical.com/2026/06/double-maths-first-thing-issue-5c/)
+---
+
+The Aperiodical --- 6/10/2026
+
+Double Maths First Thing is NOT procrastinating in the group chat. Why would you even suggest that? Hello! My name is Colin and I am a mathematician on a mission to spread the joy and delight of doing maths and, from time to time, the absurdities...
+
+
 [Final Five And U.S. Competitiveness](https://crookedtimber.org/2026/06/09/final-five-and-u-s-competitiveness/)
 ---
 
@@ -327,14 +343,6 @@ The n-Category Café --- 5/2/2026
 In the last episode of my column in Notices of the American Mathematical Society, we looked at a particle moving in an attractive central force whose strength is proportional to the inverse cube of the distance from the origin....
 
 
-[Carnival of Maths 251](https://aperiodical.com/2026/05/carnival-of-maths-251/)
----
-
-The Aperiodical --- 5/1/2026
-
-The next issue of the Carnival of Mathematics, rounding up blog posts from the month of April 2026, is now online courtesy of Karrie Liu. The Carnival rounds up maths blog posts from all over the internet, including some from our own Aperiodical....
-
-
 [Because It Doesn't Have To](https://blog.computationalcomplexity.org/feeds/9125418320439922410/comments/default)
 ---
 
@@ -583,14 +591,6 @@ The n-Category Café --- 3/12/2026
 A category-theoretic approach to "agent frameworks": that is, frameworks for coordinating "agents" that are large language models.
 
 
-[Tony Hoare (1934-2026)](https://blog.computationalcomplexity.org/feeds/3674856833990894875/comments/default)
----
-
-Computational Complexity --- 3/10/2026
-
-Turing Award winner and former Oxford professor Tony Hoare passed away last Thursday at the age of 92. Hoare is famous for quicksort, ALGOL, Hoare logic and so much more. Jim Miles gives his personal reflections.Jill Hoare, Tony Hoare, Jim Miles....
-
-
 [The Univalence Principle](https://golem.ph.utexas.edu/category/2026/02/the_univalence_principle.html)
 ---
 
@@ -668,7 +668,7 @@ I’ve been down a rabbit hole for the past few months, obsessed with a single q
 
 Fractal Kitty --- 1/29/2026
 
-Have you ever been to a quilt store and bought fabric without a plan? You just saw the pretty colors and patterns and went for it? Well, I did - with a jelly roll of white, beige, grays, and black with mathy patterns (Note: A jelly roll is a roll
+Have you ever been to a quilt store and bought fabric without a plan? You just saw the pretty colors and patterns and went for it? Well, I did - with a jelly roll of white, beige, grays, and black with mathy patterns (Note: A jelly roll is a roll of
 
 
 [Categorifying Riemann's Functional Equation](https://golem.ph.utexas.edu/category/2026/01/categorifying_riemanns_functio.html)
@@ -692,7 +692,7 @@ Dynkin diagrams have always fascinated me. They are magically potent language --
 
 Fractal Kitty --- 1/1/2026
 
-Happy New Year! It's time for Genuary 2026! I am not sure how many prompts I will do (or combine), but I hope to share my code and progress here. I hope to get at least 5-10 done this year with a mix of different languages and approaches.
+Happy New Year! It's time for Genuary 2026! I am not sure how many prompts I will do (or combine), but I hope to share my code and progress here. I hope to get at least 5-10 done this year with a mix of different languages and
 
 
 [Inquiries-Week 6: Beautiful Chords](https://www.fractalkitty.com/inquiries-week-6-beautiful-chords/)
