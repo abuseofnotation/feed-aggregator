@@ -1,4 +1,12 @@
 
+[There is(Ǝ) – Such that (∋)](https://www.fractalkitty.com/there-is-3-such-that/)
+---
+
+Fractal Kitty --- 6/11/2026
+
+Let me tell you about a language. But if you wish to go play instead go here.  It's going to get a little abstract below.There is a Canvas to Compose UponThe canvas is a square with the largest circle that has a radius of ρ.There
+
+
 [Respect the P v NP Problem](https://blog.computationalcomplexity.org/feeds/5415610689180652747/comments/default)
 ---
 
@@ -789,12 +797,4 @@ This will be a talk for the Logic Seminar at the University of Notre Dame, Tuesd
 Fractal Kitty --- 11/8/2025
 
 A coded poem and trackThe Track:Initiated on a piano, and realized on an OP-1 Field. somewhere here0:00/101.302857142857151×The Visual:Human coded in p5js with p5sound - enjoy in fullscreen. Click here for the visual with music - (CW: Strobing...
-
-
-[The Inverse Cube Force Law](https://golem.ph.utexas.edu/category/2025/11/the_inverse_cube_force_law.html)
----
-
-The n-Category Café --- 11/6/2025
-
-Newton's Principia is famous for his investigations of the inverse square force law for gravity.  But he also studied the inverse cube law.  Why, and what is so good about this law?
 
