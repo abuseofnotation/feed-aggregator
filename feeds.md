@@ -1,4 +1,12 @@
 
+[Book review – The Beauty of Falling by Claudia de Rham](https://aperiodical.com/2026/06/book-review-the-beauty-of-falling-by-claudia-de-rham/)
+---
+
+The Aperiodical --- 6/12/2026
+
+We were kindly sent a copy of Claudia de Rham’s new book ‘The Beauty of Falling’, and asked irregular contributor Elinor Flavell to write this review. Claudia de Rham’s “The Beauty of Falling” is not just a book about gravity: it is a book about...
+
+
 [There is(Ǝ) – Such that (∋)](https://www.fractalkitty.com/there-is-3-such-that/)
 ---
 
@@ -317,14 +325,6 @@ Crooked Timber --- 5/10/2026
 Computational Complexity --- 5/6/2026
 
 As the blog of record in computational complexity, we like to bring attention to those in the community who have left us. When we learn of someone in our field who has died, Bill and I will talk to each other and decide whether we should do a...
-
-
-[Double Maths First Thing: Issue 57](https://aperiodical.com/2026/05/double-maths-first-thing-issue-57/)
----
-
-The Aperiodical --- 5/6/2026
-
-Double Maths First Thing has Youri Tielemans in swaps Hello! My name is Colin and I am a mathematician on a mission to spread the joy and delight of figuring stuff out. I’ve been thinking a lot about MathsJam and Parkrun and similar activities,...
 
 
 [A few notes on Michael Rabin](https://blog.computationalcomplexity.org/feeds/754334843781792109/comments/default)
