@@ -1,4 +1,28 @@
 
+[Odd Scenarios about Research Claims and Authorships](https://blog.computationalcomplexity.org/feeds/4823927278409986154/comments/default)
+---
+
+Computational Complexity --- 6/15/2026
+
+Odd Scenarios about Research ClaimsI blogged about OpenAI's achievement of having AI solve a math problem here.My post had a few comments about authorship of such results.Lance had a post about co-authorship and AI hereThere are times when an...
+
+
+[mnemonic devices and pangrams  that could be real sentences](https://blog.computationalcomplexity.org/feeds/3418209642887230997/comments/default)
+---
+
+Computational Complexity --- 6/15/2026
+
+A mnemonic device is a sentence where the first letters of the words are helpful to remember something. My favorite one is               My Very Educated Mother Just Said Uh, No PlutoYou probably know what it's for. If not you can...
+
+
+[Sunday photoblogging: a drink in the shade](https://crookedtimber.org/2026/06/14/sunday-photoblogging-a-drink-in-the-shade/)
+---
+
+Crooked Timber --- 6/14/2026
+
+
+
+
 [Book review – The Beauty of Falling by Claudia de Rham](https://aperiodical.com/2026/06/book-review-the-beauty-of-falling-by-claudia-de-rham/)
 ---
 
@@ -117,14 +141,6 @@ Here’s a short round-up of maths news stories from the last two months that we
 The Aperiodical --- 6/3/2026
 
 Double Maths First Thing doesn’t know where to start Hello! My name is Colin and I am a mathematician on a mission to spread the joy and delight that comes from working things through and wrapping them up with a neat mathematical bow. Before...
-
-
-[Odd Scenarios about Research Claims and Authorships](https://blog.computationalcomplexity.org/feeds/4823927278409986154/comments/default)
----
-
-Computational Complexity --- 6/1/2026
-
-Odd Scenarios about Research ClaimsI blogged about OpenAI's achievement of having AI solve a math problem here.My post had a few comments about authorship of such results.Lance had a post about co-authorship and AI hereThere are times when an...
 
 
 [Nar-klepto: Guix and Nix Offline Cache](https://alternativebit.fr/posts/nix-and-guix-offline-hacking/)
@@ -383,14 +399,6 @@ Computational Complexity --- 4/26/2026
 A few months ago in Oxford, Bernard Sufrin, an emeritus fellow, said he's looking to hire a student to implement LEAP (Logic Engine for Argument by Pointing), a way to teach logic by proving basic logic theorems via pointing and clicking. Rahul...
 
 
-[Sunday photoblogging: l’Abbaye de Valmagne](https://crookedtimber.org/2026/04/26/sunday-photoblogging-labbaye-de-valmagne/)
----
-
-Crooked Timber --- 4/26/2026
-
-
-
-
 [A potentialist perspective on ultrafinitism, Ohio University](https://jdh.hamkins.org/a-potentialist-perspective-on-ultrafinitism-ohio-university/)
 ---
 
@@ -581,14 +589,6 @@ When I create art, I do so for many reasons. Some of these are:to engage in an e
 Computational Complexity --- 3/18/2026
 
 Gilles Brassard and Charlie BennettCharlie Bennett and Gilles Brassard will receive the 2025 ACM Turing Award for their work on the foundations of quantum information science, the first Turing award for quantum. Read all about it in The New York...
-
-
-[For \(R^3\) the problem is open. That's too bad. We live in \(R^3\)](https://blog.computationalcomplexity.org/feeds/1789534997257914710/comments/default)
----
-
-Computational Complexity --- 3/16/2026
-
-(If you live in Montgomery County Maryland OR if you care about Education, you MUST read this guest blog by Daniel Gottesman on Scott Aaronson's blog HERE.) (This post is a sequel to a prior post on this topic that was here. However, this post is...
 
 
 [A Typed Language for Agent Coordination](https://golem.ph.utexas.edu/category/2026/03/a_typed_language_for_agent_coordination.html)
