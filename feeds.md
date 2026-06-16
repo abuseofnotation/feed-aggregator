@@ -1,10 +1,18 @@
 
-[Odd Scenarios about Research Claims and Authorships](https://blog.computationalcomplexity.org/feeds/4823927278409986154/comments/default)
+[Particularly mathematical Birthday Honours 2026](https://aperiodical.com/2026/06/particularly-mathematical-birthday-honours-2026/)
 ---
 
-Computational Complexity --- 6/15/2026
+The Aperiodical --- 6/15/2026
 
-Odd Scenarios about Research ClaimsI blogged about OpenAI's achievement of having AI solve a math problem here.My post had a few comments about authorship of such results.Lance had a post about co-authorship and AI hereThere are times when an...
+The UK Government have announced the new set of King’s Birthday Honours. Here’s our selection of particularly mathematical entries for this year. If you spot any more, let us know in the comments and we’ll add to the list. Get the full list from...
+
+
+[One big grift](https://crookedtimber.org/2026/06/15/one-big-grift/)
+---
+
+Crooked Timber --- 6/15/2026
+
+The SpaceX IPO, valuing a motley collection of dubious business at over a trillion dollars, marks the abandonment of the Efficient (financial) Markets Hypothesis, one of the zombie ideas I criticised in the wake of the Global Financial Crisis. Not...
 
 
 [mnemonic devices and pangrams  that could be real sentences](https://blog.computationalcomplexity.org/feeds/3418209642887230997/comments/default)
@@ -13,6 +21,14 @@ Odd Scenarios about Research ClaimsI blogged about OpenAI's achievement of havin
 Computational Complexity --- 6/15/2026
 
 A mnemonic device is a sentence where the first letters of the words are helpful to remember something. My favorite one is               My Very Educated Mother Just Said Uh, No PlutoYou probably know what it's for. If not you can...
+
+
+[Odd Scenarios about Research Claims and Authorships](https://blog.computationalcomplexity.org/feeds/4823927278409986154/comments/default)
+---
+
+Computational Complexity --- 6/15/2026
+
+Odd Scenarios about Research ClaimsI blogged about OpenAI's achievement of having AI solve a math problem here.My post had a few comments about authorship of such results.Lance had a post about co-authorship and AI hereThere are times when an...
 
 
 [Sunday photoblogging: a drink in the shade](https://crookedtimber.org/2026/06/14/sunday-photoblogging-a-drink-in-the-shade/)
@@ -295,14 +311,6 @@ Computational Complexity --- 5/14/2026
 For those very long-time readers this blog extensively covered prediction markets from 2006 to 2008. In a prediction market, you have a future event, such as the winner of an election, and a market that pays off one dollar if that event happens and...
 
 
-[Double Maths First Thing: Issue 58](https://aperiodical.com/2026/05/double-maths-first-thing-issue-58/)
----
-
-The Aperiodical --- 5/13/2026
-
-Double Maths First Thing is petitioning the weather to be nicer Hello! My name is Colin and I am a mathematician on a mission to spread joy and delight in all things mathematical. I had a nice “oho!” moment in class with a student today looking at...
-
-
 [The text is not the product](https://crookedtimber.org/2026/05/12/the-text-is-not-the-product/)
 ---
 
@@ -381,14 +389,6 @@ My favorite quote about networking came from Jim Kurose. The Internet works so w
 Math ∩ Programming --- 4/29/2026
 
 Table of Contents In this tutorial series, I will introduce the CKKS homomorphic encryption scheme from the ground up, in rather intricate detail. Each article in this series corresponds to a pull request on a GitHub repository. The code for this...
-
-
-[Occasional paper: Blue Angels, Devil Hands](https://crookedtimber.org/2026/04/28/occasional-paper-blue-angels-devil-hands/)
----
-
-Crooked Timber --- 4/28/2026
-
-That’s the actual name of the paper. Isn’t that great? Here’s a prologue: a post I wrote a while back about the Portuguese Man-o’-War. (It’s kind of long — I was new to CT back then, and still figuring stuff out). To summarize: the Portuguese...
 
 
 [LEAPing into the Future of Coding](https://blog.computationalcomplexity.org/feeds/1407202525957220168/comments/default)
