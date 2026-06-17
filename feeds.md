@@ -1,10 +1,18 @@
 
+[Octonions and the Standard Model (Part 14)](https://golem.ph.utexas.edu/category/2026/06/octonions_and_the_standard_mod_13.html)
+---
+
+The n-Category Café --- 6/16/2026
+
+A new characterization of the Standard Model gauge group as the group of symmetries of an octonionic qutrit that restrict to act as unitary operators on an ordinary qutrit and, within that, a qubit.
+
+
 [Particularly mathematical Birthday Honours 2026](https://aperiodical.com/2026/06/particularly-mathematical-birthday-honours-2026/)
 ---
 
 The Aperiodical --- 6/15/2026
 
-The UK Government have announced the new set of King’s Birthday Honours. Here’s our selection of particularly mathematical entries for this year. If you spot any more, let us know in the comments and we’ll add to the list. Get the full list from...
+The UK Government have announced the new set of King’s Birthday Honours. Here’s our selection of particularly mathematical entries for this year. If you spot any more, let us know in the comments and we’ll add to the list. Get the full UK list from...
 
 
 [One big grift](https://crookedtimber.org/2026/06/15/one-big-grift/)
@@ -789,12 +797,4 @@ In an earlier article, I covered the basic technique for performing matrix-vecto
 Joel David Hamkins --- 11/12/2025
 
 This will be a talk for the Logic Seminar at the University of Notre Dame, Tuesday 18 November 20215 2pm 125 Hayes-Healy Building. Abstract. I shall introduce what I call the first-order elementary theory of surreal arithmetic, a theory that is...
-
-
-[somewhere here](https://www.fractalkitty.com/somewhere-here/)
----
-
-Fractal Kitty --- 11/8/2025
-
-A coded poem and trackThe Track:Initiated on a piano, and realized on an OP-1 Field. somewhere here0:00/101.302857142857151×The Visual:Human coded in p5js with p5sound - enjoy in fullscreen. Click here for the visual with music - (CW: Strobing...
 
