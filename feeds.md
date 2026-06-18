@@ -1,4 +1,28 @@
 
+[The Tech of Silk Road](https://blog.computationalcomplexity.org/feeds/2053595728659607005/comments/default)
+---
+
+Computational Complexity --- 6/17/2026
+
+Last week I saw a talk by Northwestern professor Nina Wieda on the history of the Silk Road, a network of trading routes across Asia active from the second century BCE until the mid-15th century. I knew of the Silk Road but was surprised by how...
+
+
+[Double Maths First Thing: Issue 5D](https://aperiodical.com/2026/06/double-maths-first-thing-issue-5d/)
+---
+
+The Aperiodical --- 6/17/2026
+
+Double Maths First Thing is 3D-printing Cristiano Ronaldo Hello! My name is Colin and I am a mathematician on a mission to spread the joy and delight that comes from engaging with maths. I understand there’s a soccerball elimination in progress at...
+
+
+[On The Governance of LLMs, and The University (of Chicago)](https://crookedtimber.org/2026/06/17/on-the-governance-of-llms-and-the-university-of-chicago/)
+---
+
+Crooked Timber --- 6/17/2026
+
+Sometimes people that know and like each other, and that would never employ snark with each other, can still talk entirely past each other online. Carlo Ludovico Cordasco (Sheffield) wrote a fruitful and prudent sub-stack post (here) on the...
+
+
 [Octonions and the Standard Model (Part 14)](https://golem.ph.utexas.edu/category/2026/06/octonions_and_the_standard_mod_13.html)
 ---
 
@@ -271,14 +295,6 @@ Computational Complexity --- 5/20/2026
 Let \(f\) be a function mapping binary strings of length \(m\) to strings of length \(n\) with \(n>m\). Since there are more strings of length \(n\) than \(m\), \(f\) is not onto. Can you find a string not in the range? This is known as the range...
 
 
-[Double Maths First Thing: Issue 59](https://aperiodical.com/2026/05/double-maths-first-thing-issue-59/)
----
-
-The Aperiodical --- 5/20/2026
-
-Double Maths First Thing has been blown away by a puzzle Hello! My name is Colin and I am a mathematician on a mission to spread the joy and delight in mathematical thinking, in figuring things out, and in doing things that make you feel clever....
-
-
 [Occasional paper: St. Anthony’s Turnip](https://crookedtimber.org/2026/05/18/occasional-paper-st-anthonys-turnip/)
 ---
 
@@ -365,14 +381,6 @@ As the blog of record in computational complexity, we like to bring attention to
 Computational Complexity --- 5/4/2026
 
 Michael Rabin passed away on April 14,2026. I blogged about him here. My post listed results of his that proved upper and lower bounds on problems. My point was that he proved upper and lower bounds for MANY different levels- from decidable to...
-
-
-[Sunday photoblogging: Canigou and cherry trees](https://crookedtimber.org/2026/05/03/sunday-photoblogging-canigou-and-cherry-trees/)
----
-
-Crooked Timber --- 5/3/2026
-
-
 
 
 [Quantum Mechanics of the Inverse Cube Force Law](https://golem.ph.utexas.edu/category/2026/04/the_quantum_mechanics_of_the_i.html)
@@ -589,14 +597,6 @@ A large language model has very little self-awareness.  But it is easy to give i
 Fractal Kitty --- 3/20/2026
 
 When I create art, I do so for many reasons. Some of these are:to engage in an expression of beingto explore a concept or experiment with an ideato grow as a person through creativity and struggleto immerse myself in a spiritual actto have a coping
-
-
-[Bennett and Brassard Win the Turing Award](https://blog.computationalcomplexity.org/feeds/5927640531093807966/comments/default)
----
-
-Computational Complexity --- 3/18/2026
-
-Gilles Brassard and Charlie BennettCharlie Bennett and Gilles Brassard will receive the 2025 ACM Turing Award for their work on the foundations of quantum information science, the first Turing award for quantum. Read all about it in The New York...
 
 
 [A Typed Language for Agent Coordination](https://golem.ph.utexas.edu/category/2026/03/a_typed_language_for_agent_coordination.html)
