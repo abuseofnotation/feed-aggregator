@@ -1,4 +1,20 @@
 
+[Set-theoretic mereology as a foundation of mathematics? Shandong University, Workshop on Mereology, China, June 2026](https://jdh.hamkins.org/set-theoretic-mereology-shandong-june-2026/)
+---
+
+Joel David Hamkins --- 6/20/2026
+
+This is a talk for the Workshop on Mereology at Shandong University in Jinan, China, a part of the week-long conference Week of Fusion Philosophy, 22-26 June 2026. The mereology talks are on 22 June 2026. Title: Set-theoretic mereology as …...
+
+
+[In honor of National Indigenous Peoples Day (Canada)](https://crookedtimber.org/2026/06/19/in-honor-of-national-indigenous-peoples-day-canada/)
+---
+
+Crooked Timber --- 6/19/2026
+
+I was doing a deep dive into early Canadian history, because reasons, and found a couple of fun stories to share. Because hey — this Sunday is National Indigenous Peoples Day! The Bad Overwinter So a recurring thing in early Canadian history was...
+
+
 [The Tech of Silk Road](https://blog.computationalcomplexity.org/feeds/2053595728659607005/comments/default)
 ---
 
@@ -357,14 +373,6 @@ In David Marcus's guest post on good coding style (see here)  he reviewed a b
 Crooked Timber --- 5/11/2026
 
 Last week Australia’s central bank (Reserve Bank of Australia, RBA) raised interest rates. Again. Political economists have been talking for decades about the RBA’s tendency to redistribute wealth from the bottom upwards. But now it seems most...
-
-
-[Sunday photoblogging: Pézenas, maison consulaire](https://crookedtimber.org/2026/05/10/sunday-photoblogging-pezenas-maison-consulaire/)
----
-
-Crooked Timber --- 5/10/2026
-
-
 
 
 [When do we know someone has died](https://blog.computationalcomplexity.org/feeds/5765663734832993249/comments/default)
@@ -789,12 +797,4 @@ Tymoczko gave a good talk on the math of music theory.
 Math ∩ Programming --- 11/17/2025
 
 In an earlier article, I covered the basic technique for performing matrix-vector multiplication in fully homomorphic encryption (FHE), known as the Halevi-Shoup diagonal method. This article covers a more recent method for matrix-matrix...
-
-
-[The elementary theory of surreal arithmetic is bi-interpretable with set theory, Notre Dame Logic Seminar, November 2025](https://jdh.hamkins.org/surreal-arithmetic-notre-dame-logic-seminar-nov-2025/)
----
-
-Joel David Hamkins --- 11/12/2025
-
-This will be a talk for the Logic Seminar at the University of Notre Dame, Tuesday 18 November 20215 2pm 125 Hayes-Healy Building. Abstract. I shall introduce what I call the first-order elementary theory of surreal arithmetic, a theory that is...
 
