@@ -1,4 +1,12 @@
 
+[Reminiscences of a young CND activist](https://crookedtimber.org/2026/06/21/reminiscences-of-a-young-cnd-activist/)
+---
+
+Crooked Timber --- 6/21/2026
+
+Sorry I’ve been offline for so long. I’m back. For now, anyway. Among other things I’ve been writing a little bit about what it was like for me being a teenager involved in left wing politics at the beginning of the 80’s. This is the first (and far...
+
+
 [Set-theoretic mereology as a foundation of mathematics? Shandong University, Workshop on Mereology, China, June 2026](https://jdh.hamkins.org/set-theoretic-mereology-shandong-june-2026/)
 ---
 
@@ -365,14 +373,6 @@ Academics, especially in the humanities, produce texts, and they teach students 
 Computational Complexity --- 5/11/2026
 
 In David Marcus's guest post on good coding style (see here)  he reviewed a book from 1986 called "Professional Pascal."I wondered if it was still in print and could be bought:1) I went to Amazon and searched all products for Professional Pascal....
-
-
-[From The People’s Bank to the Banker’s Bank](https://crookedtimber.org/2026/05/11/from-the-peoples-bank-to-the-bankers-bank/)
----
-
-Crooked Timber --- 5/11/2026
-
-Last week Australia’s central bank (Reserve Bank of Australia, RBA) raised interest rates. Again. Political economists have been talking for decades about the RBA’s tendency to redistribute wealth from the bottom upwards. But now it seems most...
 
 
 [When do we know someone has died](https://blog.computationalcomplexity.org/feeds/5765663734832993249/comments/default)
