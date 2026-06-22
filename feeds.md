@@ -1,4 +1,20 @@
 
+[Sunday photoblogging: Sète](https://crookedtimber.org/2026/06/21/sunday-photoblogging-sete-3/)
+---
+
+Crooked Timber --- 6/21/2026
+
+
+
+
+[Inquiries-Week 10: Self-Descriptive](https://www.fractalkitty.com/inquiries-week-10-self-descriptive/)
+---
+
+Fractal Kitty --- 6/21/2026
+
+IntroductionIn this inquiry, we build a sequence from a single 2. The first rule of this sequence is that it has to describe itself.Starting with TwoHere is a 2. 2It says, "There are two here." The first number is a 2, so the next
+
+
 [Reminiscences of a young CND activist](https://crookedtimber.org/2026/06/21/reminiscences-of-a-young-cnd-activist/)
 ---
 
@@ -357,14 +373,6 @@ Crooked Timber --- 5/17/2026
 Computational Complexity --- 5/14/2026
 
 For those very long-time readers this blog extensively covered prediction markets from 2006 to 2008. In a prediction market, you have a future event, such as the winner of an election, and a market that pays off one dollar if that event happens and...
-
-
-[The text is not the product](https://crookedtimber.org/2026/05/12/the-text-is-not-the-product/)
----
-
-Crooked Timber --- 5/12/2026
-
-Academics, especially in the humanities, produce texts, and they teach students to produce text. This is a standard assumption, often taken for granted, and maybe not too surprising in times in which productivity is a supreme social norm. Think of...
 
 
 [Searches Are Weird! No they're not! Bad coding style?](https://blog.computationalcomplexity.org/feeds/8403928404492756431/comments/default)
@@ -789,12 +797,4 @@ I should stop doing category theory. What’s the point?
 The n-Category Café --- 11/30/2025
 
 Tymoczko gave a good talk on the math of music theory.
-
-
-[Bicyclic Matrix-Matrix Multiplication in Fully Homomorphic Encryption](https://www.jeremykun.com/2025/11/17/bicyclic-matrix-matrix-multiplication-in-fully-homomorphic-encryption/)
----
-
-Math ∩ Programming --- 11/17/2025
-
-In an earlier article, I covered the basic technique for performing matrix-vector multiplication in fully homomorphic encryption (FHE), known as the Halevi-Shoup diagonal method. This article covers a more recent method for matrix-matrix...
 
