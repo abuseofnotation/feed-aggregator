@@ -1,4 +1,20 @@
 
+[The New Result on Off-diagonal Ramsey Numbers](https://blog.computationalcomplexity.org/feeds/1305115097196649740/comments/default)
+---
+
+Computational Complexity --- 6/22/2026
+
+(All references in this blog post can be found in the main article the post is about which is here.)Recall that \(R(s,k) \) is the least \(n\) so that, for all 2-colorings of the edges of \(K_n\), there is either a RED \(s\)-clique or a BLUE...
+
+
+[(-e^{ipi}) to Watch: StanDoesMath](https://aperiodical.com/2026/06/eipi-to-watch-standoesmath/)
+---
+
+The Aperiodical --- 6/22/2026
+
+In this series of posts, we’ll be featuring mathematical video and streaming channels from all over the internet, by speaking to the creators of the channel and asking them about what they do. We spoke to Stanley, who runs the StanDoesMath...
+
+
 [Sunday photoblogging: Sète](https://crookedtimber.org/2026/06/21/sunday-photoblogging-sete-3/)
 ---
 
@@ -37,6 +53,22 @@ This is a talk for the Workshop on Mereology at Shandong University in Jinan, Ch
 Crooked Timber --- 6/19/2026
 
 I was doing a deep dive into early Canadian history, because reasons, and found a couple of fun stories to share. Because hey — this Sunday is National Indigenous Peoples Day! The Bad Overwinter So a recurring thing in early Canadian history was...
+
+
+[My 1992 view of the problems of computer programming in 1992](https://blog.plover.com/2026/06/18)
+---
+
+The Universe of Discourse --- 6/18/2026
+
+While cleaning out my office today, I found this, which I wrote in 1992: In the middle 1970's, the IBM corporation did (and perhaps still does) most of their in-house programming in a computer language called FORTRAN.  They had a pretty good...
+
+
+[Egyptian fraction multiplication](https://blog.plover.com/2026/06/17)
+---
+
+The Universe of Discourse --- 6/17/2026
+
+(Very much previously: Egyptian Fractions) Back in March, I had been reading On the Egyptian method of decomposing  into unit fractions by Abdulrahman A. Abdulaziz, and I reported that:  There is some indication that Ahmes preferred fractions...
 
 
 [The Tech of Silk Road](https://blog.computationalcomplexity.org/feeds/2053595728659607005/comments/default)
@@ -111,12 +143,28 @@ Crooked Timber --- 6/14/2026
 
 
 
+[Update: Here I am at the Sagrada Família](https://blog.plover.com/2026/06/13)
+---
+
+The Universe of Discourse --- 6/13/2026
+
+(Previously) In 2003 I visited Barcelona and spent all day wandering around the mighty Basilica de la Sagrada Família, the architectural masterpiece of Antoni Gaudí. It had been under construction since 1882, and at the time only four of its 18...
+
+
 [Book review – The Beauty of Falling by Claudia de Rham](https://aperiodical.com/2026/06/book-review-the-beauty-of-falling-by-claudia-de-rham/)
 ---
 
 The Aperiodical --- 6/12/2026
 
 We were kindly sent a copy of Claudia de Rham’s new book ‘The Beauty of Falling’, and asked irregular contributor Elinor Flavell to write this review. Claudia de Rham’s “The Beauty of Falling” is not just a book about gravity: it is a book about...
+
+
+[Egyptian fractions for 2/105](https://blog.plover.com/2026/06/12)
+---
+
+The Universe of Discourse --- 6/12/2026
+
+The ancient Egyptians had a terrible notation for fractions.  They had notations for  for each , for , but everything else was written as a sum of these, with repeats forbidden, so that for example  had to be written as . (Wikipedia) In an older...
 
 
 [There is(Ǝ) – Such that (∋)](https://www.fractalkitty.com/there-is-3-such-that/)
@@ -277,14 +325,6 @@ The technical paper for the Erdős Unit Distance Problem lists only "OpenAI" as 
 The Aperiodical --- 5/27/2026
 
 Double Maths First Thing adds a Holy C Hello! My name is Colin and I am a mathematician on a mission to spread the joy and delight of figuring things out. Here in Weymouth, we’re sweltering but lucky 12yo is about to jet off to Barcelona for a week...
-
-
-[Book review – A Guide to Infinity: Ten Mathematical Journeys by Edward R. Scheinerman](https://aperiodical.com/2026/05/book-review-a-guide-to-infinity-ten-mathematical-journeys-by-edward-r-scheinerman/)
----
-
-The Aperiodical --- 5/26/2026
-
-We were sent a free copy of this book by the publisher, and invited irregular contributor Elinor Flavell to read and review it. Been feeling finite recently? Bounded by life? Those larger numbers feeling out of reach? Then you need “A Guide to...
 
 
 [Two Erdős Problems on Points in the Plane and AI](https://blog.computationalcomplexity.org/feeds/2319231633623037559/comments/default)
@@ -591,14 +631,6 @@ Computational Complexity --- 3/25/2026
 High table dinner at MagdalenMy time in Oxford has come to an end and I head back to Chicago this week. I was a visiting Fellow at Magdalen (pronounced "maudlin") College for the Hilary Term.There's a six week break between the eight-week Hilary...
 
 
-[A $100 gift card could be legit. A $1000 is obviously a Scam. What should scammers do?](https://blog.computationalcomplexity.org/feeds/588154071188826518/comments/default)
----
-
-Computational Complexity --- 3/22/2026
-
-If I get an email offering me a $1000 for I DON"T KNOW SINCE I ignore it and don't even bother looking for other signs it is a scam. If I get an email offering me $100 I may look more carefully and often they are legit (most common is to give a...
-
-
 [The Agent That Doesn't Know Itself](https://golem.ph.utexas.edu/category/2026/03/the_agent_that_doesnt_know_its.html)
 ---
 
@@ -615,12 +647,52 @@ Fractal Kitty --- 3/20/2026
 When I create art, I do so for many reasons. Some of these are:to engage in an expression of beingto explore a concept or experiment with an ideato grow as a person through creativity and struggleto immerse myself in a spiritual actto have a coping
 
 
+[Did Ahmes find the best expansions for 2/n?](https://blog.plover.com/2026/03/17)
+---
+
+The Universe of Discourse --- 3/17/2026
+
+A couple of years back I was discussing the Rhind Mathematical Papyrus (RMP).  It includes a table expressing  as a sum $$\frac1{a_1}+\frac1{a_2}+\dots+\frac1{a_k} $$ fractions with numerator 1 (“unit fractions”).  I said:  Getting the table of...
+
+
 [A Typed Language for Agent Coordination](https://golem.ph.utexas.edu/category/2026/03/a_typed_language_for_agent_coordination.html)
 ---
 
 The n-Category Café --- 3/12/2026
 
 A category-theoretic approach to "agent frameworks": that is, frameworks for coordinating "agents" that are large language models.
+
+
+[Programmers will document for Claude, but not for each other](https://blog.plover.com/2026/03/09)
+---
+
+The Universe of Discourse --- 3/9/2026
+
+A couple of days ago I recounted a common complaint:  I keep seeing programmers say how angry it makes them that people  are willing to write detailed CLAUDE.md and PROJECT.md files for  Claude to use, but they weren't willing to write them...
+
+
+[How are John Waters movies like James Bond movies?](https://blog.plover.com/2026/03/08)
+---
+
+The Universe of Discourse --- 3/8/2026
+
+A number of years ago I wondered how many movies I had seen. The only way I could think of finding out was just to make a list.  This I did as best I could.  (It turned out to be around 700.) I found, though, that I could not include all the James...
+
+
+[Documentation is a message in a bottle](https://blog.plover.com/2026/03/05)
+---
+
+The Universe of Discourse --- 3/5/2026
+
+Our company is going to a convention later this month, and they will have a booth with big TV screens showing statistics that update in real time.  My job is to write the backend server that delivers the statistics. I read over the documents that...
+
+
+[Bo Diddley](https://blog.plover.com/2026/03/03)
+---
+
+The Universe of Discourse --- 3/3/2026
+
+Bo Diddley's cover of "Sixteen Tons" sounds very much like one of my favorites, "Can't Judge A Book By Its Cover".  It's interesting to compare. Thinking on that it suddenly occured to me that his name might have been a play on “diddley bow”,...
 
 
 [The Univalence Principle](https://golem.ph.utexas.edu/category/2026/02/the_univalence_principle.html)
@@ -647,6 +719,14 @@ DEONTOLOGISTICS --- 2/14/2026
 A couple updates for readers. There will be an impromptu book launch for The Revenge of Reason at Newcastle University on the 25th of February, from 5-7pm in HDB.1.02 in the Henry Daysh Building. I’ll be having a conversation about the book with...
 
 
+[Language models imply world models](https://blog.plover.com/2026/02/12)
+---
+
+The Universe of Discourse --- 2/12/2026
+
+In a recent article about John Haugeland's rejection of micro-worlds I claimed:  as a “Large Language Model”, Claude necessarily includes a model of the world in general Nobody has objected to this remark, but I would like to expand on it. The...
+
+
 [Truth and paradox in the theory of finite and infinite games, Owens Memorial Lecture, Wayne State University, April 2026](https://jdh.hamkins.org/truth-and-paradox-infinite-games-owens-lecture-wayne-state-april-2026/)
 ---
 
@@ -669,6 +749,14 @@ I have been asked by the ASL to fill in as a last-minute substitute speaker for 
 Fractal Kitty --- 2/6/2026
 
 Whether you call this triangle Pascal's triangle, Binomial Expansion Coefficients, Yang Hui's triangle, or any other name, it is beautiful.Finding patterns in this triangle is fun - from counting numbers, to looking at parity (even/odd-ness), to...
+
+
+[John Haugeland on the failure of micro-worlds](https://blog.plover.com/2026/02/05)
+---
+
+The Universe of Discourse --- 2/5/2026
+
+BuyArtificial Intelligence    from Bookshop.org(with kickback)(without kickback)    One of the better books I read in college was Artificial Intelligence: The Very Idea (1985) by philosopher John Haugeland.  One of the sections I found most...
 
 
 [Surreal arithmetic is bi-interpretable with set theory, CUNY Logic Workshop, March 2026](https://jdh.hamkins.org/surreal-arithmetic-cuny-logic-workshop-march-2026/)
@@ -703,98 +791,10 @@ Fractal Kitty --- 1/29/2026
 Have you ever been to a quilt store and bought fabric without a plan? You just saw the pretty colors and patterns and went for it? Well, I did - with a jelly roll of white, beige, grays, and black with mathy patterns (Note: A jelly roll is a roll of
 
 
-[Categorifying Riemann's Functional Equation](https://golem.ph.utexas.edu/category/2026/01/categorifying_riemanns_functio.html)
+[Crooked politicians love crab cakes!](https://blog.plover.com/2026/01/28)
 ---
 
-The n-Category Café --- 1/26/2026
+The Universe of Discourse --- 1/28/2026
 
-David Jaz Myers has some thoughts about Riemann's functional equation for the zeta function.
-
-
-[Coxeter and Dynkin Diagrams](https://golem.ph.utexas.edu/category/2026/01/coxeter_and_dynkin_diagrams.html)
----
-
-The n-Category Café --- 1/6/2026
-
-Dynkin diagrams have always fascinated me. They are magically potent language --- you can do so much with them!...
-
-
-[Genuary 2026](https://www.fractalkitty.com/genuary-2026/)
----
-
-Fractal Kitty --- 1/1/2026
-
-Happy New Year! It's time for Genuary 2026! I am not sure how many prompts I will do (or combine), but I hope to share my code and progress here. I hope to get at least 5-10 done this year with a mix of different languages and
-
-
-[Inquiries-Week 6: Beautiful Chords](https://www.fractalkitty.com/inquiries-week-6-beautiful-chords/)
----
-
-Fractal Kitty --- 12/31/2025
-
-IntroductionIn this inquiry, we explore chords, which are lines drawn across circles, using different rules to create various patterns, curves, and shapes. This inquiry will be different from those in the Inquiries Series in that it will be more...
-
-
-[Fear of the future](http://abuseofnotation.github.io/future-self/)
----
-
-Abuse of Notation --- 12/24/2025
-
-Everything we do to secure ourselves, every decision we make out of fear of the future, ends up destroying us, ends up making our future a little more bleak — the closer we are to the public ideal of “success”, the farther we go from our own...
-
-
-[When the tower crumbles](http://abuseofnotation.github.io/when-the-tower-crumbles/)
----
-
-Abuse of Notation --- 12/24/2025
-
-When the tower crumbles, some will laugh some will cry, some will fall from the top, some will be buried below. When the tower crumbles, better not be around better go all the way down, so you can run away.
-
-
-[Octonions and the Standard Model (Part 13)](https://golem.ph.utexas.edu/category/2025/12/octonions_and_the_standard_mod_11.html)
----
-
-The n-Category Café --- 12/21/2025
-
-There are two ways to stick SU(2) × SU(3) in Spin(10).   One is good for physics; the other, alas, is easily obtained using the octonions.
-
-
-[Octonions and the Standard Model (Part 12)](https://golem.ph.utexas.edu/category/2025/11/the_bioctonionic_plane.html)
----
-
-The n-Category Café --- 12/4/2025
-
-An introduction to the bioctonionic plane and the mathematics needed to understand it.
-
-
-[log|x| + C revisited](https://golem.ph.utexas.edu/category/2025/12/logx_c_revisited.html)
----
-
-The n-Category Café --- 12/3/2025
-
-A complex-analytic perspective on the indefinite integral of 1/x.
-
-
-[December Adventure Log](https://www.fractalkitty.com/december-adventure-log/)
----
-
-Fractal Kitty --- 12/2/2025
-
-December Adventure was started by Eli_oat at Oatmeal.  I love seeing what others do this month - here is a log of logs.This December, I plan to make a generative quilt, play with origami,  doodle some mossy mandalas, set up next year's journal, and...
-
-
-[I should stop doing category theory](http://abuseofnotation.github.io/whats-the-point/)
----
-
-Abuse of Notation --- 12/1/2025
-
-I should stop doing category theory. What’s the point?
-
-
-[Beyond the Geometry of Music](https://golem.ph.utexas.edu/category/2025/11/beyond_the_geometry_of_music.html)
----
-
-The n-Category Café --- 11/30/2025
-
-Tymoczko gave a good talk on the math of music theory.
+I recently posted an article about the 2013 Philadelphia Traffic Court fiasco, in which most of the Traffic Court judges were convicted of accepting bribes:  According to the indictment, Perri accepted free auto services,  towing, landscaping,...
 
