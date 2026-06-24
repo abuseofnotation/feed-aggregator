@@ -1,4 +1,12 @@
 
+[Deciphering basmala](https://blog.plover.com/2026/06/23)
+---
+
+The Universe of Discourse --- 6/23/2026
+
+Making the rounds last week was this magnificent article on the complications of Arabic typesetting, An interactive introduction to the terrific experience of rendering Arabic typography and its technical debt. The author, Saleh, promises:  The...
+
+
 [The New Result on Off-diagonal Ramsey Numbers](https://blog.computationalcomplexity.org/feeds/1305115097196649740/comments/default)
 ---
 
@@ -495,6 +503,14 @@ Computational Complexity --- 4/23/2026
 Michael Rabin passed away on April 14, 2026 at the age of 94. (Scott Aaronson has also blogged about his passing, see  here.) I had many points to make about him; however, the first one got so long that I will just do that one for today's blog...
 
 
+[Impaction (My First Play)](https://rin.io/impaction/)
+---
+
+Good Fibrations --- 4/19/2026
+
+
+
+
 [Machine Learning and Complexity](https://blog.computationalcomplexity.org/feeds/5310274630571764023/comments/default)
 ---
 
@@ -781,20 +797,4 @@ I miss writing. That’s a strange thing to say because I’ve been employed as 
 Proses.ID --- 1/31/2026
 
 I’ve been down a rabbit hole for the past few months, obsessed with a single question: “What makes a writing human?” It started, ironically, because…
-
-
-[Finished! A Jellyroll GenQuilt](https://www.fractalkitty.com/finished-a-jellyroll-genquilt/)
----
-
-Fractal Kitty --- 1/29/2026
-
-Have you ever been to a quilt store and bought fabric without a plan? You just saw the pretty colors and patterns and went for it? Well, I did - with a jelly roll of white, beige, grays, and black with mathy patterns (Note: A jelly roll is a roll of
-
-
-[Crooked politicians love crab cakes!](https://blog.plover.com/2026/01/28)
----
-
-The Universe of Discourse --- 1/28/2026
-
-I recently posted an article about the 2013 Philadelphia Traffic Court fiasco, in which most of the Traffic Court judges were convicted of accepting bribes:  According to the indictment, Perri accepted free auto services,  towing, landscaping,...
 
