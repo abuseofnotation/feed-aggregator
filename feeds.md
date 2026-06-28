@@ -1,4 +1,20 @@
 
+[It's our language now!](https://blog.plover.com/2026/06/27)
+---
+
+The Universe of Discourse --- 6/27/2026
+
+A while back I related how I had been mocked by an English person for using the word “burglarize”. I ended by saying:  Okay, whatever. Brits have been mocking the American language for centuries now. Let them go ahead. We all know who won that...
+
+
+[I owe my life to a 1913 road rage incident](https://blog.plover.com/2026/06/27)
+---
+
+The Universe of Discourse --- 6/27/2026
+
+This is my great-grandfather, born Dominusz Andor in Szeged, Hungary in 1886.  In the picture he is in Brooklyn, New York, probably sometime in the early 1950's. By 1911 Andor had moved from Hungary to Vienna and had changed the spelling of his...
+
+
 [Deciphering basmala](https://blog.plover.com/2026/06/23)
 ---
 
@@ -343,14 +359,6 @@ Abuse of Notation --- 2/22/2026
 In the 19th century, Copernicus, Newton, Galilei et al pushed a revolutionary new idea that reshaped the way we think… but no, it’s not talking about cosmology, but about theology. This idea, (which was also the real reason they were in so much...
 
 
-[Language models imply world models](https://blog.plover.com/2026/02/12)
----
-
-The Universe of Discourse --- 2/12/2026
-
-In a recent article about John Haugeland's rejection of micro-worlds I claimed:  as a “Large Language Model”, Claude necessarily includes a model of the world in general Nobody has objected to this remark, but I would like to expand on it. The...
-
-
 [Truth and paradox in the theory of finite and infinite games, Owens Memorial Lecture, Wayne State University, April 2026](https://jdh.hamkins.org/truth-and-paradox-infinite-games-owens-lecture-wayne-state-april-2026/)
 ---
 
@@ -373,14 +381,6 @@ I have been asked by the ASL to fill in as a last-minute substitute speaker for 
 Fractal Kitty --- 2/6/2026
 
 Whether you call this triangle Pascal's triangle, Binomial Expansion Coefficients, Yang Hui's triangle, or any other name, it is beautiful.Finding patterns in this triangle is fun - from counting numbers, to looking at parity (even/odd-ness), to...
-
-
-[John Haugeland on the failure of micro-worlds](https://blog.plover.com/2026/02/05)
----
-
-The Universe of Discourse --- 2/5/2026
-
-BuyArtificial Intelligence    from Bookshop.org(with kickback)(without kickback)    One of the better books I read in college was Artificial Intelligence: The Very Idea (1985) by philosopher John Haugeland.  One of the sections I found most...
 
 
 [Surreal arithmetic is bi-interpretable with set theory, CUNY Logic Workshop, March 2026](https://jdh.hamkins.org/surreal-arithmetic-cuny-logic-workshop-march-2026/)
