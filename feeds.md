@@ -1,4 +1,12 @@
 
+[Moduloku](https://www.fractalkitty.com/moduloku/)
+---
+
+Fractal Kitty --- 6/29/2026
+
+Math is wonderful, and there are so many different ways to play and experience it. I enjoy having conversations with other math lovers and sharing ideas, puzzles, pedagogy, and questions. In one of these conversations with Dr. Maria at Natural...
+
+
 [It's our language now!](https://blog.plover.com/2026/06/27)
 ---
 
@@ -485,14 +493,6 @@ This will be a talk for the Logic Seminar at the University of Notre Dame, Tuesd
 Fractal Kitty --- 11/8/2025
 
 A coded poem and trackThe Track:Initiated on a piano, and realized on an OP-1 Field. The Visual:Human coded in p5js with p5sound - enjoy in fullscreen. Click here for the visual with music - (CW: Strobing effects).The Coded Poem (that makes the...
-
-
-[Inquiries-Week 5: Triangles Emerge](https://www.fractalkitty.com/inquiries-week-5-triangles-emerge/)
----
-
-Fractal Kitty --- 11/6/2025
-
-IntroductionIn this inquiry, nodes are connected one at a time. How many lines can you draw before a triangle emerges?Starting with FourLet's start with four nodes - draw them on a sheet of paper. How many lines (called edges) can you draw before a...
 
 
 [What is your number? Logic puzzles for mathematicians – 2025 DePrima Memorial Lecture, Caltech](https://jdh.hamkins.org/what-is-your-number-logic-puzzles-for-mathematicians-deprima-lecture-caltech-2025/)
