@@ -23,6 +23,14 @@ The Aperiodical --- 7/1/2026
 Here’s a round-up of some news from this month not otherwise covered on the site. The UK government has appointed two operational researchers as direct ministerial appointments: Professors Christina Pagel and Martin Utley will use operational...
 
 
+[The state of nuclear power in 2026](https://crookedtimber.org/2026/06/30/the-state-of-nuclear-power-in-2026/)
+---
+
+Crooked Timber --- 6/30/2026
+
+There was a renewed burst of enthusiasm for nuclear power a few years ago. In Australia, where I live it was confined to the political right and didn’t last long, but elsewhere support was broader. Most notable was the 2023 commitment by more than...
+
+
 [Moduloku](https://www.fractalkitty.com/moduloku/)
 ---
 
@@ -31,12 +39,28 @@ Fractal Kitty --- 6/29/2026
 Math is wonderful, and there are so many different ways to play and experience it. I enjoy having conversations with other math lovers and sharing ideas, puzzles, pedagogy, and questions. In one of these conversations with Dr. Maria at Natural...
 
 
+[On Humphreys opacity, Reverse Engineering, and Social Externalities of LLMs.](https://crookedtimber.org/2026/06/29/on-humphreys-opacity-reverse-engineering-and-social-externalities-of-llms/)
+---
+
+Crooked Timber --- 6/29/2026
+
+I start with characterizing a term, ‘Humphreys opacity’ (or, if you prefer, ‘epistemic opacity’):1 this involves the inability to surveil the steps of a process from a known input to a known desirable (or truthful, useful, beautiful, etc.) output...
+
+
 [Guest Post by Peter Brass on the new NSF guidelines](https://blog.computationalcomplexity.org/feeds/3030127824939987133/comments/default)
 ---
 
 Computational Complexity --- 6/28/2026
 
 Peter Brass is a prior NSF theory director. He has written an intelligent guest post on the new NSF guidelines that we present here. You have received many mails regarding the proposed OMB Uniform Guidance for federal grant making. It is a very...
+
+
+[Sunday photoblogging: wall, Collioure](https://crookedtimber.org/2026/06/28/sunday-photoblogging-wall-collioure/)
+---
+
+Crooked Timber --- 6/28/2026
+
+
 
 
 [It's our language now!](https://blog.plover.com/2026/06/27)
@@ -55,6 +79,14 @@ The Universe of Discourse --- 6/27/2026
 This is my great-grandfather, born Dominusz Andor in Szeged, Hungary in 1886.  In the picture he is in Brooklyn, New York, probably sometime in the early 1950's. By 1911 Andor had moved from Hungary to Vienna and had changed the spelling of his...
 
 
+[Feels like 40 degrees – Let’s get a Ministry for the Future](https://crookedtimber.org/2026/06/26/feels-like-40-degrees-lets-get-a-ministry-for-the-future/)
+---
+
+Crooked Timber --- 6/26/2026
+
+For the first time in history, the country in which I live – the Netherlands – has issued a Code Red alert due to the heat. Code red is only issued when the environmental circumstances are such that there is a significant risk of “destabilising of...
+
+
 [The Zone](https://blog.computationalcomplexity.org/feeds/958488770516036226/comments/default)
 ---
 
@@ -63,12 +95,28 @@ Computational Complexity --- 6/25/2026
 When you start thinking deeply about a mathematics problem you may enter the "zone", a period of intense focus where you think solely about the problem and potential solutions, and more importantly block out all other thoughts and even lose track...
 
 
+[AI Electricity use: a lot or a little](https://crookedtimber.org/2026/06/24/ai-electricity-use-a-lot-or-a-little/)
+---
+
+Crooked Timber --- 6/24/2026
+
+There’s long been a disconnect between concerns about the massive impact of AI data centres on electricity demand and claims by Sam Altman and others that the impact is really modest. Ed Zitron recently posted a summary of OpenAI’s 2025 accounts...
+
+
 [Double Maths First Thing: Issue 5E](https://aperiodical.com/2026/06/double-maths-first-thing-issue-5e/)
 ---
 
 The Aperiodical --- 6/24/2026
 
 Double Maths First Thing is taking regular hydration breaks [Apologies. This did not post here at the scheduled time. Mistake on my part. Won’t happen again. At least not this week.] Hello! My name is Colin and I am a mathematician on a mission to...
+
+
+[In the 19th century small business folk traded gold and money. And then the banks took over.](https://crookedtimber.org/2026/06/24/in-the-19th-century-small-business-folk-traded-gold-and-money-and-then-the-banks-took-over/)
+---
+
+Crooked Timber --- 6/24/2026
+
+One Spring Monday in 1852 around thirty gold buyers gathered for the evening at Mrs Black’s Royal Hotel in Bathurst, which was (and is) just on the other side of the Blue Mountains from Sydney. Probably not ordinarily the most collegiate of petty...
 
 
 [Deciphering basmala](https://blog.plover.com/2026/06/23)
@@ -95,6 +143,14 @@ The Aperiodical --- 6/22/2026
 In this series of posts, we’ll be featuring mathematical video and streaming channels from all over the internet, by speaking to the creators of the channel and asking them about what they do. We spoke to Stanley, who runs the StanDoesMath...
 
 
+[Sunday photoblogging: Sète](https://crookedtimber.org/2026/06/21/sunday-photoblogging-sete-3/)
+---
+
+Crooked Timber --- 6/21/2026
+
+
+
+
 [Inquiries-Week 10: Self-Descriptive](https://www.fractalkitty.com/inquiries-week-10-self-descriptive/)
 ---
 
@@ -103,12 +159,28 @@ Fractal Kitty --- 6/21/2026
 IntroductionIn this inquiry, we build a sequence from a single 2. The first rule of this sequence is that it has to describe itself.Starting with TwoHere is a 2. 2It says, "There are two here." The first number is a 2, so the next
 
 
+[Reminiscences of a young CND activist](https://crookedtimber.org/2026/06/21/reminiscences-of-a-young-cnd-activist/)
+---
+
+Crooked Timber --- 6/21/2026
+
+Sorry I’ve been offline for so long. I’m back. For now, anyway. Among other things I’ve been writing a little bit about what it was like for me being a teenager involved in left wing politics at the beginning of the 80’s. This is the first (and far...
+
+
 [Set-theoretic mereology as a foundation of mathematics? Shandong University, Workshop on Mereology, China, June 2026](https://jdh.hamkins.org/set-theoretic-mereology-shandong-june-2026/)
 ---
 
 Joel David Hamkins --- 6/20/2026
 
 This is a talk for the Workshop on Mereology at Shandong University in Jinan, China, a part of the week-long conference Week of Fusion Philosophy, 22-26 June 2026. The mereology talks are on 22 June 2026. Title: Set-theoretic mereology as …...
+
+
+[In honor of National Indigenous Peoples Day (Canada)](https://crookedtimber.org/2026/06/19/in-honor-of-national-indigenous-peoples-day-canada/)
+---
+
+Crooked Timber --- 6/19/2026
+
+I was doing a deep dive into early Canadian history, because reasons, and found a couple of fun stories to share. Because hey — this Sunday is National Indigenous Peoples Day! The Bad Overwinter So a recurring thing in early Canadian history was...
 
 
 [My 1992 view of the problems of computer programming in 1992](https://blog.plover.com/2026/06/18)
@@ -143,6 +215,14 @@ The Aperiodical --- 6/17/2026
 Double Maths First Thing is 3D-printing Cristiano Ronaldo Hello! My name is Colin and I am a mathematician on a mission to spread the joy and delight that comes from engaging with maths. I understand there’s a soccerball elimination in progress at...
 
 
+[On The Governance of LLMs, and The University (of Chicago)](https://crookedtimber.org/2026/06/17/on-the-governance-of-llms-and-the-university-of-chicago/)
+---
+
+Crooked Timber --- 6/17/2026
+
+Sometimes people that know and like each other, and that would never employ snark with each other, can still talk entirely past each other online. Carlo Ludovico Cordasco (Sheffield) wrote a fruitful and prudent sub-stack post (here) on the...
+
+
 [Octonions and the Standard Model (Part 14)](https://golem.ph.utexas.edu/category/2026/06/octonions_and_the_standard_mod_13.html)
 ---
 
@@ -159,6 +239,14 @@ The Aperiodical --- 6/15/2026
 The UK Government have announced the new set of King’s Birthday Honours. Here’s our selection of particularly mathematical entries for this year. If you spot any more, let us know in the comments and we’ll add to the list. Get the full UK list from...
 
 
+[One big grift](https://crookedtimber.org/2026/06/15/one-big-grift/)
+---
+
+Crooked Timber --- 6/15/2026
+
+The SpaceX IPO, valuing a motley collection of dubious business at over a trillion dollars, marks the abandonment of the Efficient (financial) Markets Hypothesis, one of the zombie ideas I criticised in the wake of the Global Financial Crisis. Not...
+
+
 [mnemonic devices and pangrams  that could be real sentences](https://blog.computationalcomplexity.org/feeds/3418209642887230997/comments/default)
 ---
 
@@ -173,6 +261,14 @@ A mnemonic device is a sentence where the first letters of the words are helpful
 Computational Complexity --- 6/15/2026
 
 Odd Scenarios about Research ClaimsI blogged about OpenAI's achievement of having AI solve a math problem here.My post had a few comments about authorship of such results.Lance had a post about co-authorship and AI hereThere are times when an...
+
+
+[Sunday photoblogging: a drink in the shade](https://crookedtimber.org/2026/06/14/sunday-photoblogging-a-drink-in-the-shade/)
+---
+
+Crooked Timber --- 6/14/2026
+
+
 
 
 [Update: Here I am at the Sagrada Família](https://blog.plover.com/2026/06/13)
@@ -223,6 +319,14 @@ The Aperiodical --- 6/10/2026
 Double Maths First Thing is NOT procrastinating in the group chat. Why would you even suggest that? Hello! My name is Colin and I am a mathematician on a mission to spread the joy and delight of doing maths and, from time to time, the absurdities...
 
 
+[Final Five And U.S. Competitiveness](https://crookedtimber.org/2026/06/09/final-five-and-u-s-competitiveness/)
+---
+
+Crooked Timber --- 6/9/2026
+
+Jerry Cayford at Three Quarks Daily has written a piece responding to the near-farcical “jungle primary” in California where it appeared possible at one point that both of the candidates making it through to the general election might be...
+
+
 [The Modal Logic of Forcing and Set-theoretic Potentialism, Peking University lectures, June/July 2026](https://jdh.hamkins.org/modal-logic-of-forcing-and-potentialism-peking-university-2026/)
 ---
 
@@ -231,12 +335,28 @@ Joel David Hamkins --- 6/8/2026
 This will be a series of graduate lectures at Peking University, two lectures per week beginning mid-June and proceeding into July. Topics. We shall aim to cover the central results in the modal logic of forcing, including an exploration of …...
 
 
+[Everyday friction](https://crookedtimber.org/2026/06/08/everyday-friction/)
+---
+
+Crooked Timber --- 6/8/2026
+
+Last week, because of a combination of bad planning (my bad) and endless delays (Deutsche Bahn’s bad), I arrive very late in a hotel in Berlin. I had to ring the doorbell. The guy at the reception started giggling the moment I came in, which...
+
+
 [Humans Solve Erdos Problem!!](https://blog.computationalcomplexity.org/feeds/6135142595358018857/comments/default)
 ---
 
 Computational Complexity --- 6/7/2026
 
 (In 2008 I wrote a survey of some of the known sum-product theorems, see here. Avi Wigderson has a great slide-set on sum-product theorems and their applications---the slides are on Avi's webpage of talks he has given (all the talks are excellent)...
+
+
+[Sunday photoblogging: objet trouvé](https://crookedtimber.org/2026/06/07/sunday-photoblogging-objet-trouve/)
+---
+
+Crooked Timber --- 6/7/2026
+
+
 
 
 [A New Blog](https://golem.ph.utexas.edu/category/2026/06/a_new_blog.html)
@@ -677,124 +797,4 @@ This will be a talk at the CUNY Logic Workshop on 13 March 2026, held at the CUN
 Proses.ID --- 1/31/2026
 
 I miss writing. That’s a strange thing to say because I’ve been employed as a full-time writer for the past 14 months. And I have…
-
-
-[What makes a writing human?](http://proses.id/moist-writing/)
----
-
-Proses.ID --- 1/31/2026
-
-I’ve been down a rabbit hole for the past few months, obsessed with a single question: “What makes a writing human?” It started, ironically, because…
-
-
-[Finished! A Jellyroll GenQuilt](https://www.fractalkitty.com/finished-a-jellyroll-genquilt/)
----
-
-Fractal Kitty --- 1/29/2026
-
-Have you ever been to a quilt store and bought fabric without a plan? You just saw the pretty colors and patterns and went for it? Well, I did - with a jelly roll of white, beige, grays, and black with mathy patterns (Note: A jelly roll is a roll of
-
-
-[Categorifying Riemann's Functional Equation](https://golem.ph.utexas.edu/category/2026/01/categorifying_riemanns_functio.html)
----
-
-The n-Category Café --- 1/26/2026
-
-David Jaz Myers has some thoughts about Riemann's functional equation for the zeta function.
-
-
-[Coxeter and Dynkin Diagrams](https://golem.ph.utexas.edu/category/2026/01/coxeter_and_dynkin_diagrams.html)
----
-
-The n-Category Café --- 1/6/2026
-
-Dynkin diagrams have always fascinated me. They are magically potent language --- you can do so much with them!...
-
-
-[Genuary 2026](https://www.fractalkitty.com/genuary-2026/)
----
-
-Fractal Kitty --- 1/1/2026
-
-Happy New Year! It's time for Genuary 2026! I am not sure how many prompts I will do (or combine), but I hope to share my code and progress here. I hope to get at least 5-10 done this year with a mix of different languages and
-
-
-[Inquiries-Week 6: Beautiful Chords](https://www.fractalkitty.com/inquiries-week-6-beautiful-chords/)
----
-
-Fractal Kitty --- 12/31/2025
-
-IntroductionIn this inquiry, we explore chords, which are lines drawn across circles, using different rules to create various patterns, curves, and shapes. This inquiry will be different from those in the Inquiries Series in that it will be more...
-
-
-[Fear of the future](http://abuseofnotation.github.io/future-self/)
----
-
-Abuse of Notation --- 12/24/2025
-
-Everything we do to secure ourselves, every decision we make out of fear of the future, ends up destroying us, ends up making our future a little more bleak — the closer we are to the public ideal of “success”, the farther we go from our own...
-
-
-[When the tower crumbles](http://abuseofnotation.github.io/when-the-tower-crumbles/)
----
-
-Abuse of Notation --- 12/24/2025
-
-When the tower crumbles, some will laugh some will cry, some will fall from the top, some will be buried below. When the tower crumbles, better not be around better go all the way down, so you can run away.
-
-
-[Octonions and the Standard Model (Part 13)](https://golem.ph.utexas.edu/category/2025/12/octonions_and_the_standard_mod_11.html)
----
-
-The n-Category Café --- 12/21/2025
-
-There are two ways to stick SU(2) × SU(3) in Spin(10).   One is good for physics; the other, alas, is easily obtained using the octonions.
-
-
-[Octonions and the Standard Model (Part 12)](https://golem.ph.utexas.edu/category/2025/11/the_bioctonionic_plane.html)
----
-
-The n-Category Café --- 12/4/2025
-
-An introduction to the bioctonionic plane and the mathematics needed to understand it.
-
-
-[log|x| + C revisited](https://golem.ph.utexas.edu/category/2025/12/logx_c_revisited.html)
----
-
-The n-Category Café --- 12/3/2025
-
-A complex-analytic perspective on the indefinite integral of 1/x.
-
-
-[December Adventure Log](https://www.fractalkitty.com/december-adventure-log/)
----
-
-Fractal Kitty --- 12/2/2025
-
-December Adventure was started by Eli_oat at Oatmeal.  I love seeing what others do this month - here is a log of logs.This December, I plan to make a generative quilt, play with origami,  doodle some mossy mandalas, set up next year's journal, and...
-
-
-[I should stop doing category theory](http://abuseofnotation.github.io/whats-the-point/)
----
-
-Abuse of Notation --- 12/1/2025
-
-I should stop doing category theory. What’s the point?
-
-
-[Beyond the Geometry of Music](https://golem.ph.utexas.edu/category/2025/11/beyond_the_geometry_of_music.html)
----
-
-The n-Category Café --- 11/30/2025
-
-Tymoczko gave a good talk on the math of music theory.
-
-
-[Bicyclic Matrix-Matrix Multiplication in Fully Homomorphic Encryption](https://www.jeremykun.com/2025/11/17/bicyclic-matrix-matrix-multiplication-in-fully-homomorphic-encryption/)
----
-
-Math ∩ Programming --- 11/17/2025
-
-In an earlier article, I covered the basic technique for performing matrix-vector multiplication in fully homomorphic encryption (FHE), known as the Halevi-Shoup diagonal method. This article covers a more recent method for matrix-matrix...
 
