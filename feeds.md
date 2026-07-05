@@ -1,4 +1,12 @@
 
+[Reflections on America’s 250th](https://crookedtimber.org/2026/07/04/reflections-on-americas-250th/)
+---
+
+Crooked Timber --- 7/4/2026
+
+It’s hard not to feel glum as I write this post on the 250th anniversary of my country. I remember celebrating the 200th as a teenager. As I recall it, it felt like the country was ready forward to better times. The Vietnam War and Watergate were...
+
+
 [The True Method](https://blog.computationalcomplexity.org/feeds/8889944152921391178/comments/default)
 ---
 
@@ -351,14 +359,6 @@ Computational Complexity --- 6/7/2026
 (In 2008 I wrote a survey of some of the known sum-product theorems, see here. Avi Wigderson has a great slide-set on sum-product theorems and their applications---the slides are on Avi's webpage of talks he has given (all the talks are excellent)...
 
 
-[Sunday photoblogging: objet trouvé](https://crookedtimber.org/2026/06/07/sunday-photoblogging-objet-trouve/)
----
-
-Crooked Timber --- 6/7/2026
-
-
-
-
 [A New Blog](https://golem.ph.utexas.edu/category/2026/06/a_new_blog.html)
 ---
 
@@ -397,14 +397,6 @@ Welcome to the 252nd Carnival of Mathematics! This post brings together submissi
 The Aperiodical --- 6/3/2026
 
 Here’s a short round-up of maths news stories from the last two months that we didn’t otherwise cover on the site. Thomas Dieterrich, a representative of the arXiv, has clarified the site’s AI policy – in a Twitter thread (non-Twitter mirror link)...
-
-
-[Nar-klepto: Guix and Nix Offline Cache](https://alternativebit.fr/posts/nix-and-guix-offline-hacking/)
----
-
-AlternativeBit --- 6/1/2026
-
-TL;DR: introducing nar-klepto, the context that led to its inception, and some fun experiments we did last week with it. 4 years ago, I moved out of Bayonne to a rural area. My quality of life almost instantly skyrocketed; however, I quickly felt a...
 
 
 [Authorship in the AI Age](https://blog.computationalcomplexity.org/feeds/7044748621172288438/comments/default)
@@ -797,4 +789,12 @@ This will be a talk at the CUNY Logic Workshop on 13 March 2026, held at the CUN
 Proses.ID --- 1/31/2026
 
 I miss writing. That’s a strange thing to say because I’ve been employed as a full-time writer for the past 14 months. And I have…
+
+
+[What makes a writing human?](http://proses.id/moist-writing/)
+---
+
+Proses.ID --- 1/31/2026
+
+I’ve been down a rabbit hole for the past few months, obsessed with a single question: “What makes a writing human?” It started, ironically, because…
 
