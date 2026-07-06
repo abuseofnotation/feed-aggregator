@@ -1,4 +1,12 @@
 
+[Sunday photoblogging: Palais des Papes, Avignon](https://crookedtimber.org/2026/07/05/sunday-photoblogging-palais-des-papes-avignon/)
+---
+
+Crooked Timber --- 7/5/2026
+
+
+
+
 [Reflections on America’s 250th](https://crookedtimber.org/2026/07/04/reflections-on-americas-250th/)
 ---
 
@@ -343,14 +351,6 @@ Joel David Hamkins --- 6/8/2026
 This will be a series of graduate lectures at Peking University, two lectures per week beginning mid-June and proceeding into July. Topics. We shall aim to cover the central results in the modal logic of forcing, including an exploration of …...
 
 
-[Everyday friction](https://crookedtimber.org/2026/06/08/everyday-friction/)
----
-
-Crooked Timber --- 6/8/2026
-
-Last week, because of a combination of bad planning (my bad) and endless delays (Deutsche Bahn’s bad), I arrive very late in a hotel in Berlin. I had to ring the doorbell. The guy at the reception started giggling the moment I came in, which...
-
-
 [Humans Solve Erdos Problem!!](https://blog.computationalcomplexity.org/feeds/6135142595358018857/comments/default)
 ---
 
@@ -397,6 +397,14 @@ Welcome to the 252nd Carnival of Mathematics! This post brings together submissi
 The Aperiodical --- 6/3/2026
 
 Here’s a short round-up of maths news stories from the last two months that we didn’t otherwise cover on the site. Thomas Dieterrich, a representative of the arXiv, has clarified the site’s AI policy – in a Twitter thread (non-Twitter mirror link)...
+
+
+[Nar-klepto: Guix and Nix Offline Cache](https://alternativebit.fr/posts/nix-and-guix-offline-hacking/)
+---
+
+AlternativeBit --- 6/1/2026
+
+TL;DR: introducing nar-klepto, the context that led to its inception, and some fun experiments we did last week with it. 4 years ago, I moved out of Bayonne to a rural area. My quality of life almost instantly skyrocketed; however, I quickly felt a...
 
 
 [Authorship in the AI Age](https://blog.computationalcomplexity.org/feeds/7044748621172288438/comments/default)
@@ -789,12 +797,4 @@ This will be a talk at the CUNY Logic Workshop on 13 March 2026, held at the CUN
 Proses.ID --- 1/31/2026
 
 I miss writing. That’s a strange thing to say because I’ve been employed as a full-time writer for the past 14 months. And I have…
-
-
-[What makes a writing human?](http://proses.id/moist-writing/)
----
-
-Proses.ID --- 1/31/2026
-
-I’ve been down a rabbit hole for the past few months, obsessed with a single question: “What makes a writing human?” It started, ironically, because…
 
