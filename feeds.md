@@ -1,4 +1,12 @@
 
+[Extreme cases of clickbait!](https://blog.computationalcomplexity.org/feeds/9204732397788134167/comments/default)
+---
+
+Computational Complexity --- 7/6/2026
+
+I recently read Alan Alda's first memoir Never have your dog stuffed which was pretty good. Hence I began looking for more information about him on the web. I came across a YouTube video  At 89, Alan Alda reveals the seven actors he HATED the...
+
+
 [Sunday photoblogging: Palais des Papes, Avignon](https://crookedtimber.org/2026/07/05/sunday-photoblogging-palais-des-papes-avignon/)
 ---
 
@@ -621,14 +629,6 @@ A051070 is a sequence about OEIS sequences. a(n) is the n-th term in sequence A_
 Math ∩ Programming --- 4/7/2026
 
 Problem: Determine if a 32-bit number is prime (deterministically) Solution: (in C++) // Bases to test. Using the first 4 prime bases makes the test deterministic // for all 32-bit integers. See https://oeis.org/A014233. int64_t bases[] = {2, 3, 5,...
-
-
-[Fun Little Solutions](https://blog.computationalcomplexity.org/feeds/435654699921431615/comments/default)
----
-
-Computational Complexity --- 4/5/2026
-
-Here are the solutions to the problems I posted last week. Problem 1  A language \(L\) is commutative if for all \(u\), \(v\) in \(L\), \(uv = vu\). Show that  \(L\) is commutative if and only if \(L\) is a subset of \(w^*\) for some string...
 
 
 [The spectrum of consistency strengths for membership in a computably enumerable set, Notre Dame Logic Seminar, April 2026](https://jdh.hamkins.org/consistency-strengths-for-membership-in-a-ce-set-notre-dame-logic-seminar-april-2026/)
