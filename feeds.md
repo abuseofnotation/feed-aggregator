@@ -1,4 +1,12 @@
 
+[On the contingent contingency of V = HOD and independence over the maximality principles, Fudan University, Shanghai, July 2026](https://jdh.hamkins.org/contingent-contingency-of-hod-fudan-july-2026/)
+---
+
+Joel David Hamkins --- 7/7/2026
+
+This will be a talk for the Fudan University logic group on 16 July 10:00am in Shanghai. Abstract: The axiom V = HOD is contingently contingent—more precisely, it is class-forcing contingent that V = HOD is contingent with respect to set … Continue...
+
+
 [Extreme cases of clickbait!](https://blog.computationalcomplexity.org/feeds/9204732397788134167/comments/default)
 ---
 
@@ -789,12 +797,4 @@ Whether you call this triangle Pascal's triangle, Binomial Expansion Coefficient
 Joel David Hamkins --- 2/4/2026
 
 This will be a talk at the CUNY Logic Workshop on 13 March 2026, held at the CUNY Graduate Center. Abstract. I shall introduce the elementary theory of surreal arithmetic (SA), a first-order theory that is true in the surreal field when equipped...
-
-
-[I miss writing](http://proses.id/i-miss-writing/)
----
-
-Proses.ID --- 1/31/2026
-
-I miss writing. That’s a strange thing to say because I’ve been employed as a full-time writer for the past 14 months. And I have…
 
