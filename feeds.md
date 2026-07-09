@@ -1,4 +1,12 @@
 
+[Double Maths First Thing: Issue 60](https://aperiodical.com/2026/07/double-maths-first-thing-issue-60/)
+---
+
+The Aperiodical --- 7/8/2026
+
+Double Maths First Thing has a suspended suspension. Hello! My name is Colin and I am a mathematician on a mission to find and spread mathematical joy, and encourage the idea that maths isn’t just endless sheets of exercises – you can sprinkle it...
+
+
 [On the contingent contingency of V = HOD and independence over the maximality principles, Fudan University, Shanghai, July 2026](https://jdh.hamkins.org/contingent-contingency-of-hod-fudan-july-2026/)
 ---
 
@@ -405,14 +413,6 @@ Yesterday, National Academy of Sciences President Marcia McNutt delivered her l
 Fractal Kitty --- 6/3/2026
 
 Welcome to the 252nd Carnival of Mathematics! This post brings together submissions and other posts from the mathy web. Thanks all for participating.Let's start with the number: 252Divisors: 1, 2, 3, 4, 6, 7, 9, 12, 14, 18, 21, 28, 36, 42, 63, 84,...
-
-
-[Aperiodical News Roundup – April/May 2026](https://aperiodical.com/2026/06/aperiodical-news-roundup-april-may-2026/)
----
-
-The Aperiodical --- 6/3/2026
-
-Here’s a short round-up of maths news stories from the last two months that we didn’t otherwise cover on the site. Thomas Dieterrich, a representative of the arXiv, has clarified the site’s AI policy – in a Twitter thread (non-Twitter mirror link)...
 
 
 [Nar-klepto: Guix and Nix Offline Cache](https://alternativebit.fr/posts/nix-and-guix-offline-hacking/)
