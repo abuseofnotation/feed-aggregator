@@ -1,4 +1,20 @@
 
+[Resources for Intro-Level Graduate Courses](https://www.math3ma.com/blog/resources-for-intro-level-graduate-courses)
+---
+
+Math3ma --- 7/9/2026
+
+In recent months, several of you have asked me to recommend resources for various subjects in mathematics. Well, folks, here it is! I've finally rounded up a collection of books, PDFs, videos, and websites that I found helpful while studying for my...
+
+
+[Wither/Whither the ACM](https://blog.computationalcomplexity.org/feeds/3907514700360088690/comments/default)
+---
+
+Computational Complexity --- 7/9/2026
+
+Two editorials in the July issue of the Communications of the Association for Computing Machinery ask about the decay and future of the organization itself.Jim Larus, editor-in-chief of the CACM, writes Wither ACM? Publish and Perish?ACM no longer...
+
+
 [Double Maths First Thing: Issue 60](https://aperiodical.com/2026/07/double-maths-first-thing-issue-60/)
 ---
 
@@ -591,14 +607,6 @@ Computational Complexity --- 4/14/2026
 Guest post from Peter Brass, Former NSF Theory director (though not affiliated with the NSF now) on the White House NSF budget for FY 2027.---------------------------------------------Dear ColleaguesA week ago the White House released the NSF...
 
 
-[Afterthoughs on Banach Tarski and the Miracle of loaves and Fishes](https://blog.computationalcomplexity.org/feeds/6374167830611679533/comments/default)
----
-
-Computational Complexity --- 4/14/2026
-
-I posted about using the Banach-Tarski Paradox(BT) to explain the miracle of Loaves and Fishes (LF) here.Darling says that whenever I fool my readers or my students then I have to tell them later, so I'll tell you now: The story about me meeting...
-
-
 [Claude and I](https://math.andrej.com/2026/04/14/claude-and-i/)
 ---
 
@@ -789,12 +797,4 @@ I have been asked by the ASL to fill in as a last-minute substitute speaker for 
 Fractal Kitty --- 2/6/2026
 
 Whether you call this triangle Pascal's triangle, Binomial Expansion Coefficients, Yang Hui's triangle, or any other name, it is beautiful.Finding patterns in this triangle is fun - from counting numbers, to looking at parity (even/odd-ness), to...
-
-
-[Surreal arithmetic is bi-interpretable with set theory, CUNY Logic Workshop, March 2026](https://jdh.hamkins.org/surreal-arithmetic-cuny-logic-workshop-march-2026/)
----
-
-Joel David Hamkins --- 2/4/2026
-
-This will be a talk at the CUNY Logic Workshop on 13 March 2026, held at the CUNY Graduate Center. Abstract. I shall introduce the elementary theory of surreal arithmetic (SA), a first-order theory that is true in the surreal field when equipped...
 
