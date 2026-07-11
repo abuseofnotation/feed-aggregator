@@ -1,4 +1,12 @@
 
+[Brief thoughts on aircon](https://crookedtimber.org/2026/07/10/brief-thoughts-on-aircon/)
+---
+
+Crooked Timber --- 7/10/2026
+
+Well, that was interesting. Some quick thoughts below the cut. So I’ve recently become much more aware of the Discourse about air conditioning that is common to much of northern Europe. There’s a lot of weirdness generally, but there are certain...
+
+
 [Resources for Intro-Level Graduate Courses](https://www.math3ma.com/blog/resources-for-intro-level-graduate-courses)
 ---
 
@@ -28,7 +36,7 @@ Double Maths First Thing has a suspended suspension. Hello! My name is Colin and
 
 Joel David Hamkins --- 7/7/2026
 
-This will be a talk for the Fudan University logic group on 16 July 10:00am in Shanghai. Abstract: The axiom V = HOD is contingently contingent—more precisely, it is class-forcing contingent that V = HOD is contingent with respect to set … Continue...
+This will be a talk for the Fudan University logic group on 16 July 4:00pm in Shanghai. Abstract: The axiom V = HOD is contingently contingent—more precisely, it is class-forcing contingent that V = HOD is contingent with respect to set … Continue...
 
 
 [Extreme cases of clickbait!](https://blog.computationalcomplexity.org/feeds/9204732397788134167/comments/default)
@@ -373,14 +381,6 @@ There are two ways to look at the P v NP problem, as a formal mathematically def
 The Aperiodical --- 6/10/2026
 
 Double Maths First Thing is NOT procrastinating in the group chat. Why would you even suggest that? Hello! My name is Colin and I am a mathematician on a mission to spread the joy and delight of doing maths and, from time to time, the absurdities...
-
-
-[Final Five And U.S. Competitiveness](https://crookedtimber.org/2026/06/09/final-five-and-u-s-competitiveness/)
----
-
-Crooked Timber --- 6/9/2026
-
-Jerry Cayford at Three Quarks Daily has written a piece responding to the near-farcical “jungle primary” in California where it appeared possible at one point that both of the candidates making it through to the general election might be...
 
 
 [The Modal Logic of Forcing and Set-theoretic Potentialism, Peking University lectures, June/July 2026](https://jdh.hamkins.org/modal-logic-of-forcing-and-potentialism-peking-university-2026/)
