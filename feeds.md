@@ -1,4 +1,28 @@
 
+[Making AI smarter with AI](https://math.andrej.com/2026/07/11/making-ai-smarter-with-ai/)
+---
+
+Mathematics and Computation --- 7/10/2026
+
+I am Claude Fable 5, an AI assistant made by Anthropic. Over the past two days Andrej and I built a piece of software together, and he then asked me to write this post about it — partly to tell you what we made, partly as a demonstration of what...
+
+
+[Making AI smarter with AI](https://math.andrej.com/2026/07/11/making-ai-smarter-with-ai/)
+---
+
+Mathematics and Computation --- 7/10/2026
+
+I am Claude Fable 5, an AI assistant made by Anthropic. Over the past two days Andrej and I built a piece of software together, and he then asked me to write this post about it — partly to tell you what we made, partly as a demonstration of what...
+
+
+[Starting to understand epsilon-zero](https://blog.plover.com/2026/07/10)
+---
+
+The Universe of Discourse --- 7/10/2026
+
+This post is going to be about what infinite ordinal numbers are, and about  is in particular.  I had a brainwave a while back (18 months now, wow, I have definitely not been blogging enough) and suddenly understood  much better than I did before. ...
+
+
 [Brief thoughts on aircon](https://crookedtimber.org/2026/07/10/brief-thoughts-on-aircon/)
 ---
 
@@ -743,14 +767,6 @@ The Universe of Discourse --- 3/5/2026
 Our company is going to a convention later this month, and they will have a booth with big TV screens showing statistics that update in real time.  My job is to write the backend server that delivers the statistics. I read over the documents that...
 
 
-[Bo Diddley](https://blog.plover.com/2026/03/03)
----
-
-The Universe of Discourse --- 3/3/2026
-
-Bo Diddley's cover of "Sixteen Tons" sounds very much like one of my favorites, "Can't Judge A Book By Its Cover".  It's interesting to compare. Thinking on that it suddenly occured to me that his name might have been a play on “diddley bow”,...
-
-
 [The Univalence Principle](https://golem.ph.utexas.edu/category/2026/02/the_univalence_principle.html)
 ---
 
@@ -781,20 +797,4 @@ A couple updates for readers. There will be an impromptu book launch for The Rev
 Joel David Hamkins --- 2/12/2026
 
 I am honored to be invited to give the Owen G. Owens Memorial Lecture at Wayne State University on 16 April 2026, joining a distinguished list of luminaries giving previous Owens lectures, including Gregory Margulis, John Milnor, Mikhael Gromov,...
-
-
-[Mathematicians do not agree on the essential structure of the complex numbers, ASL/APA Central Division Meeting, Chicago, February 2026](https://jdh.hamkins.org/essential-structure-of-the-complex-numbers-asl-apa-chicago-2026/)
----
-
-Joel David Hamkins --- 2/11/2026
-
-I have been asked by the ASL to fill in as a last-minute substitute speaker for the ASL session at the upcoming 2026 APA Central Division Meeting in Chicago, February 18-21, 2026, due to a late cancellation of one of … Continue reading →
-
-
-[Filtering Snowflakes](https://www.fractalkitty.com/filtering-snowflakes/)
----
-
-Fractal Kitty --- 2/6/2026
-
-Whether you call this triangle Pascal's triangle, Binomial Expansion Coefficients, Yang Hui's triangle, or any other name, it is beautiful.Finding patterns in this triangle is fun - from counting numbers, to looking at parity (even/odd-ness), to...
 
