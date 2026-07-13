@@ -1,4 +1,28 @@
 
+[2... 1/2    THEN       3... 1/6     THEN   5 ....1/15 and so on. And So On?](https://blog.computationalcomplexity.org/feeds/4395052288080959784/comments/default)
+---
+
+Computational Complexity --- 7/13/2026
+
+The excellent graphic novelPrime Suspects: The Anatomy of Integers and Permutationsby Andrew Granville and Jennifer Granville, illustrated by Robert J Lewis,(I wrote a review of this graphic novel, for SIGACT News, here.)has an appendix, which is...
+
+
+[Octonions and the Standard Model (Part 13)](https://golem.ph.utexas.edu/category/2025/12/octonions_and_the_standard_mod_11.html)
+---
+
+The n-Category Café --- 7/12/2026
+
+There are two ways to stick SU(2) × SU(3) in Spin(10).   One is good for physics; the other, alas, is easily obtained using the octonions.
+
+
+[Sunday photoblogging: Mèze, boat](https://crookedtimber.org/2026/07/12/sunday-photoblogging-meze-boat/)
+---
+
+Crooked Timber --- 7/12/2026
+
+
+
+
 [Making AI smarter with AI](https://math.andrej.com/2026/07/11/making-ai-smarter-with-ai/)
 ---
 
@@ -351,14 +375,6 @@ Computational Complexity --- 6/15/2026
 Odd Scenarios about Research ClaimsI blogged about OpenAI's achievement of having AI solve a math problem here.My post had a few comments about authorship of such results.Lance had a post about co-authorship and AI hereThere are times when an...
 
 
-[Sunday photoblogging: a drink in the shade](https://crookedtimber.org/2026/06/14/sunday-photoblogging-a-drink-in-the-shade/)
----
-
-Crooked Timber --- 6/14/2026
-
-
-
-
 [Update: Here I am at the Sagrada Família](https://blog.plover.com/2026/06/13)
 ---
 
@@ -623,14 +639,6 @@ Computational Complexity --- 4/16/2026
 At Oxford I focused my research and discussions on how we can use the tools of computational complexity to help us understand the power and limitations of machine learning. Last week I posted my paper How Does Machine Learning Manage Complexity?, a...
 
 
-[Guest Post from Peter Brass, Former NSF Theory Director, on the NSF budget.](https://blog.computationalcomplexity.org/feeds/5341010132143038934/comments/default)
----
-
-Computational Complexity --- 4/14/2026
-
-Guest post from Peter Brass, Former NSF Theory director (though not affiliated with the NSF now) on the White House NSF budget for FY 2027.---------------------------------------------Dear ColleaguesA week ago the White House released the NSF...
-
-
 [Claude and I](https://math.andrej.com/2026/04/14/claude-and-i/)
 ---
 
@@ -789,12 +797,4 @@ In the 19th century, Copernicus, Newton, Galilei et al pushed a revolutionary ne
 DEONTOLOGISTICS --- 2/14/2026
 
 A couple updates for readers. There will be an impromptu book launch for The Revenge of Reason at Newcastle University on the 25th of February, from 5-7pm in HDB.1.02 in the Henry Daysh Building. I’ll be having a conversation about the book with...
-
-
-[Truth and paradox in the theory of finite and infinite games, Owens Memorial Lecture, Wayne State University, April 2026](https://jdh.hamkins.org/truth-and-paradox-infinite-games-owens-lecture-wayne-state-april-2026/)
----
-
-Joel David Hamkins --- 2/12/2026
-
-I am honored to be invited to give the Owen G. Owens Memorial Lecture at Wayne State University on 16 April 2026, joining a distinguished list of luminaries giving previous Owens lectures, including Gregory Margulis, John Milnor, Mikhael Gromov,...
 
