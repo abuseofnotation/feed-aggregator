@@ -1,4 +1,12 @@
 
+[Encounters with a future Tory MP, a popstar, and 25,000 placards](https://crookedtimber.org/2026/07/13/55371/)
+---
+
+Crooked Timber --- 7/13/2026
+
+Here’s another episode in my memoirs of being an activist. You can read it at substack, or here!: Between school and college I decided to take a ‘year off’ (what they now call a ‘gap year’). I didn’t have much of a plan, except that I wanted to...
+
+
 [2... 1/2    THEN       3... 1/6     THEN   5 ....1/15 and so on. And So On?](https://blog.computationalcomplexity.org/feeds/4395052288080959784/comments/default)
 ---
 
@@ -349,14 +357,6 @@ A new characterization of the Standard Model gauge group as the group of symmetr
 The Aperiodical --- 6/15/2026
 
 The UK Government have announced the new set of King’s Birthday Honours. Here’s our selection of particularly mathematical entries for this year. If you spot any more, let us know in the comments and we’ll add to the list. Get the full UK list from...
-
-
-[One big grift](https://crookedtimber.org/2026/06/15/one-big-grift/)
----
-
-Crooked Timber --- 6/15/2026
-
-The SpaceX IPO, valuing a motley collection of dubious business at over a trillion dollars, marks the abandonment of the Efficient (financial) Markets Hypothesis, one of the zombie ideas I criticised in the wake of the Global Financial Crisis. Not...
 
 
 [mnemonic devices and pangrams  that could be real sentences](https://blog.computationalcomplexity.org/feeds/3418209642887230997/comments/default)
