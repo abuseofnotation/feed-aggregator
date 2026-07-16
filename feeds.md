@@ -1,4 +1,20 @@
 
+[Double Maths First Thing: Issue 61](https://aperiodical.com/2026/07/double-maths-first-thing-issue-61/)
+---
+
+The Aperiodical --- 7/15/2026
+
+Double Maths First Thing has an open mic spreadsheet Hello! My name is Colin and I am a mathematician on a mission to spread mathematical joy and delight in figuring stuff out. I did some lovely science last week, full on...
+
+
+[Herman Chernoff (1923-2026)](https://blog.computationalcomplexity.org/feeds/2413597657266787510/comments/default)
+---
+
+Computational Complexity --- 7/15/2026
+
+Herman Chernoff passed away on July 6, 5 days after turning 103. Ravi Boppana wrote a guest post about Chernoff's life for his 100th birthday. Let me talk about his most famous work, the Chernoff Bounds themselves. If you have a coin that will be...
+
+
 [Encounters with a future Tory MP, a popstar, and 25,000 placards](https://crookedtimber.org/2026/07/13/55371/)
 ---
 
@@ -447,14 +463,6 @@ The n-Category Café --- 6/6/2026
 Readers may have noticed that I haven't been very active here for a while. That isn't because I haven't felt the "blogging urge", but because I felt that the things I want to blog about right now wouldn't be...
 
 
-[Carnival of Maths 252](https://aperiodical.com/2026/06/carnival-of-maths-252/)
----
-
-The Aperiodical --- 6/4/2026
-
-The next issue of the Carnival of Mathematics, rounding up blog posts from the month of May 2026, is now online courtesy of Sophia Wood at Fractal Kitty. The Carnival rounds up maths blog posts from all over the internet, including some from our...
-
-
 [The Industrialization of Academic Research](https://blog.computationalcomplexity.org/feeds/3417752521572703761/comments/default)
 ---
 
@@ -629,14 +637,6 @@ Michael Rabin passed away on April 14, 2026 at the age of 94. (Scott Aaronson ha
 Good Fibrations --- 4/19/2026
 
 
-
-
-[Machine Learning and Complexity](https://blog.computationalcomplexity.org/feeds/5310274630571764023/comments/default)
----
-
-Computational Complexity --- 4/16/2026
-
-At Oxford I focused my research and discussions on how we can use the tools of computational complexity to help us understand the power and limitations of machine learning. Last week I posted my paper How Does Machine Learning Manage Complexity?, a...
 
 
 [Claude and I](https://math.andrej.com/2026/04/14/claude-and-i/)
