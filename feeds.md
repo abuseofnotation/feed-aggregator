@@ -1,4 +1,44 @@
 
+[Octonions and the Standard Model (Part 15)](https://golem.ph.utexas.edu/category/2026/07/octonions_and_the_standard_mod_14.html)
+---
+
+The n-Category Café --- 7/18/2026
+
+John Baez, Endre Bokor and Latham Boyle have a new paper called "Jordan pair quantum theory and the Standard Model".
+
+
+[The road to epsilon-zero: ordinals as nim-heaps](https://blog.plover.com/2026/07/18)
+---
+
+The Universe of Discourse --- 7/18/2026
+
+Previously: Ordinal numbers and basic set theory We're going to get to  in a long and roundabout way.  First I want to talk about the game of Nim. Nim Nim is a very simple game for two players.  There are some piles of beans, which are...
+
+
+[On refugees being cast as “invaders” and “fighting-age males”](https://crookedtimber.org/2026/07/18/on-refugees-being-cast-as-invaders-and-fighting-age-males/)
+---
+
+Crooked Timber --- 7/18/2026
+
+In the UK as elsewhere, we’ve recently seen the far right orchestrate a campaign against refugees, presenting them as dangerous to women and girls and the vanguard of an invasion aimed at destroying Britain. Asylum seekers, forced by the goverment...
+
+
+[The dispensable nation – updated](https://crookedtimber.org/2026/07/16/55382/)
+---
+
+Crooked Timber --- 7/16/2026
+
+As I observed last year, the statement that “The cemeteries are full of indispensable people.” is just as true of nations, and in particular the US. That was a little controversial at the time, but now it’s become sufficiently conventional wisdom...
+
+
+[Academic publishing as a public good](https://crookedtimber.org/2026/07/16/academic-publishing-as-a-public-good/)
+---
+
+Crooked Timber --- 7/16/2026
+
+Academic publishing has long been dominated by commercial players. That fact is well-known, as are many of the problems. But there is a growing movement towards new models, under the labels of “open access” and “open science.” Until two weeks ago,...
+
+
 [Double Maths First Thing: Issue 61](https://aperiodical.com/2026/07/double-maths-first-thing-issue-61/)
 ---
 
@@ -295,28 +335,12 @@ Fractal Kitty --- 6/21/2026
 IntroductionIn this inquiry, we build a sequence from a single 2. The first rule of this sequence is that it has to describe itself.Starting with TwoHere is a 2. 2It says, "There are two here." The first number is a 2, so the next
 
 
-[Reminiscences of a young CND activist](https://crookedtimber.org/2026/06/21/reminiscences-of-a-young-cnd-activist/)
----
-
-Crooked Timber --- 6/21/2026
-
-Sorry I’ve been offline for so long. I’m back. For now, anyway. Among other things I’ve been writing a little bit about what it was like for me being a teenager involved in left wing politics at the beginning of the 80’s. This is the first (and far...
-
-
 [Set-theoretic mereology as a foundation of mathematics? Shandong University, Workshop on Mereology, China, June 2026](https://jdh.hamkins.org/set-theoretic-mereology-shandong-june-2026/)
 ---
 
 Joel David Hamkins --- 6/20/2026
 
 This is a talk for the Workshop on Mereology at Shandong University in Jinan, China, a part of the week-long conference Week of Fusion Philosophy, 22-26 June 2026. The mereology talks are on 22 June 2026. Title: Set-theoretic mereology as …...
-
-
-[In honor of National Indigenous Peoples Day (Canada)](https://crookedtimber.org/2026/06/19/in-honor-of-national-indigenous-peoples-day-canada/)
----
-
-Crooked Timber --- 6/19/2026
-
-I was doing a deep dive into early Canadian history, because reasons, and found a couple of fun stories to share. Because hey — this Sunday is National Indigenous Peoples Day! The Bad Overwinter So a recurring thing in early Canadian history was...
 
 
 [My 1992 view of the problems of computer programming in 1992](https://blog.plover.com/2026/06/18)
@@ -349,14 +373,6 @@ Last week I saw a talk by Northwestern professor Nina Wieda on the history of th
 The Aperiodical --- 6/17/2026
 
 Double Maths First Thing is 3D-printing Cristiano Ronaldo Hello! My name is Colin and I am a mathematician on a mission to spread the joy and delight that comes from engaging with maths. I understand there’s a soccerball elimination in progress at...
-
-
-[On The Governance of LLMs, and The University (of Chicago)](https://crookedtimber.org/2026/06/17/on-the-governance-of-llms-and-the-university-of-chicago/)
----
-
-Crooked Timber --- 6/17/2026
-
-Sometimes people that know and like each other, and that would never employ snark with each other, can still talk entirely past each other online. Carlo Ludovico Cordasco (Sheffield) wrote a fruitful and prudent sub-stack post (here) on the...
 
 
 [Octonions and the Standard Model (Part 14)](https://golem.ph.utexas.edu/category/2026/06/octonions_and_the_standard_mod_13.html)
@@ -767,14 +783,6 @@ The Universe of Discourse --- 3/8/2026
 A number of years ago I wondered how many movies I had seen. The only way I could think of finding out was just to make a list.  This I did as best I could.  (It turned out to be around 700.) I found, though, that I could not include all the James...
 
 
-[Documentation is a message in a bottle](https://blog.plover.com/2026/03/05)
----
-
-The Universe of Discourse --- 3/5/2026
-
-Our company is going to a convention later this month, and they will have a booth with big TV screens showing statistics that update in real time.  My job is to write the backend server that delivers the statistics. I read over the documents that...
-
-
 [The Univalence Principle](https://golem.ph.utexas.edu/category/2026/02/the_univalence_principle.html)
 ---
 
@@ -789,12 +797,4 @@ Making precise the idea that equivalent structures are indistinguishable.
 Abuse of Notation --- 2/22/2026
 
 In the 19th century, Copernicus, Newton, Galilei et al pushed a revolutionary new idea that reshaped the way we think… but no, it’s not talking about cosmology, but about theology. This idea, (which was also the real reason they were in so much...
-
-
-[Book Launch, Substack, and Other News](https://deontologistics.co/2026/02/14/book-launch-substack-and-other-news/)
----
-
-DEONTOLOGISTICS --- 2/14/2026
-
-A couple updates for readers. There will be an impromptu book launch for The Revenge of Reason at Newcastle University on the 25th of February, from 5-7pm in HDB.1.02 in the Henry Daysh Building. I’ll be having a conversation about the book with...
 
