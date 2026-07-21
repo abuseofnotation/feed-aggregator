@@ -1,10 +1,42 @@
 
+[A big thank you …](https://crookedtimber.org/2026/07/20/a-big-thank-you-2/)
+---
+
+Crooked Timber --- 7/20/2026
+
+… to CT reader and commenter Dr Memory, who has cleaned up our database, eliminating many of the badly rendered quotation marks and similar problems. Those problems reflect the fact that the blog is now more than 20 years old, and has gone through...
+
+
+[The road to epsilon-zero: Nim always ends, even with infinite ordinals](https://blog.plover.com/2026/07/19)
+---
+
+The Universe of Discourse --- 7/19/2026
+
+Previously: Ordinal numbers and basic set theory Ordinals as nim-heaps Yesterday I talked about the game of Nim, which involves two players taking beans from several piles, and an extension that includes green tokens that behave a bit like...
+
+
+[Bipartite Perfect Matching in Deterministic NC](https://blog.computationalcomplexity.org/feeds/1087736660426121662/comments/default)
+---
+
+Computational Complexity --- 7/19/2026
+
+Nutan Limaye and Thore Husfeldt guest post on the new deterministic parallel algorithm for bipartite perfect matching by Abhranil Chatterjee, Sumanta Ghosh, Rohit Gurjar, Roshan Raj and Thomas Thierauf.The post will try to explain three main things...
+
+
 [Octonions and the Standard Model (Part 15)](https://golem.ph.utexas.edu/category/2026/07/octonions_and_the_standard_mod_14.html)
 ---
 
-The n-Category Café --- 7/18/2026
+The n-Category Café --- 7/19/2026
 
-John Baez, Endre Bokor and Latham Boyle have a new paper called "Jordan pair quantum theory and the Standard Model".
+John Baez, Endre Bokor and Latham Boyle have a new paper which gets at the Standard Model gauge group and its representation on one generation of fermions starting from a Jordan triple that consists of pairs of bioctonions.
+
+
+[Sunday photoblogging: Hamburg,  Hauptkirche Sankt Michaelis (Michel)](https://crookedtimber.org/2026/07/19/sunday-photoblogging-hamburg-hauptkirche-sankt-michaelis-michel/)
+---
+
+Crooked Timber --- 7/19/2026
+
+
 
 
 [The road to epsilon-zero: ordinals as nim-heaps](https://blog.plover.com/2026/07/18)
@@ -287,14 +319,6 @@ The Aperiodical --- 6/24/2026
 Double Maths First Thing is taking regular hydration breaks [Apologies. This did not post here at the scheduled time. Mistake on my part. Won’t happen again. At least not this week.] Hello! My name is Colin and I am a mathematician on a mission to...
 
 
-[In the 19th century small business folk traded gold and money. And then the banks took over.](https://crookedtimber.org/2026/06/24/in-the-19th-century-small-business-folk-traded-gold-and-money-and-then-the-banks-took-over/)
----
-
-Crooked Timber --- 6/24/2026
-
-One Spring Monday in 1852 around thirty gold buyers gathered for the evening at Mrs Black’s Royal Hotel in Bathurst, which was (and is) just on the other side of the Blue Mountains from Sydney. Probably not ordinarily the most collegiate of petty...
-
-
 [Deciphering basmala](https://blog.plover.com/2026/06/23)
 ---
 
@@ -317,14 +341,6 @@ Computational Complexity --- 6/22/2026
 The Aperiodical --- 6/22/2026
 
 In this series of posts, we’ll be featuring mathematical video and streaming channels from all over the internet, by speaking to the creators of the channel and asking them about what they do. We spoke to Stanley, who runs the StanDoesMath...
-
-
-[Sunday photoblogging: Sète](https://crookedtimber.org/2026/06/21/sunday-photoblogging-sete-3/)
----
-
-Crooked Timber --- 6/21/2026
-
-
 
 
 [Inquiries-Week 10: Self-Descriptive](https://www.fractalkitty.com/inquiries-week-10-self-descriptive/)
@@ -639,14 +655,6 @@ Fractal Kitty --- 4/23/2026
 IntroductionPentominoes are shapes made from 5 squares joined edge-to-edge. There are 12 of them:Next, let's define what an enclosed area is with these shapes. The pentominoes must create a fence where they touch edge-to-edge with no overlaps. Note...
 
 
-[Michael Rabin Passed Away on April 14, 2026, at the age of 94](https://blog.computationalcomplexity.org/feeds/5742718346164240539/comments/default)
----
-
-Computational Complexity --- 4/23/2026
-
-Michael Rabin passed away on April 14, 2026 at the age of 94. (Scott Aaronson has also blogged about his passing, see  here.) I had many points to make about him; however, the first one got so long that I will just do that one for today's blog...
-
-
 [Impaction (My First Play)](https://rin.io/impaction/)
 ---
 
@@ -773,14 +781,6 @@ A category-theoretic approach to "agent frameworks": that is, frameworks for coo
 The Universe of Discourse --- 3/9/2026
 
 A couple of days ago I recounted a common complaint:  I keep seeing programmers say how angry it makes them that people  are willing to write detailed CLAUDE.md and PROJECT.md files for  Claude to use, but they weren't willing to write them...
-
-
-[How are John Waters movies like James Bond movies?](https://blog.plover.com/2026/03/08)
----
-
-The Universe of Discourse --- 3/8/2026
-
-A number of years ago I wondered how many movies I had seen. The only way I could think of finding out was just to make a list.  This I did as best I could.  (It turned out to be around 700.) I found, though, that I could not include all the James...
 
 
 [The Univalence Principle](https://golem.ph.utexas.edu/category/2026/02/the_univalence_principle.html)
