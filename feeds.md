@@ -1,4 +1,12 @@
 
+[Fandom and Social Connection](https://crookedtimber.org/2026/07/21/fandom-and-social-connection/)
+---
+
+Crooked Timber --- 7/21/2026
+
+I just learned about The Fandom and Social Connection Initiative and I’m intrigued. The idea is to study the possibility that sports fandom can be an antidote to the “connection recession,” as traditional “third places”—like churches, civic...
+
+
 [A big thank you …](https://crookedtimber.org/2026/07/20/a-big-thank-you-2/)
 ---
 
@@ -301,14 +309,6 @@ For the first time in history, the country in which I live – the Netherlands �
 Computational Complexity --- 6/25/2026
 
 When you start thinking deeply about a mathematics problem you may enter the "zone", a period of intense focus where you think solely about the problem and potential solutions, and more importantly block out all other thoughts and even lose track...
-
-
-[AI Electricity use: a lot or a little](https://crookedtimber.org/2026/06/24/ai-electricity-use-a-lot-or-a-little/)
----
-
-Crooked Timber --- 6/24/2026
-
-There’s long been a disconnect between concerns about the massive impact of AI data centres on electricity demand and claims by Sam Altman and others that the impact is really modest. Ed Zitron recently posted a summary of OpenAI’s 2025 accounts...
 
 
 [Double Maths First Thing: Issue 5E](https://aperiodical.com/2026/06/double-maths-first-thing-issue-5e/)
