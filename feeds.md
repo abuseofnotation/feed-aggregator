@@ -1,4 +1,28 @@
 
+[Complexity Class of the Week: \(L_2^P\)](https://blog.computationalcomplexity.org/feeds/2507991347756082028/comments/default)
+---
+
+Computational Complexity --- 7/22/2026
+
+Back in the 90s when I was a young professor at the University of Chicago, we would have a Complexity Class of the Week where I would take some interesting complexity class, write down on a white board everything we knew about it with some open...
+
+
+[Double Maths First Thing: Issue 62](https://aperiodical.com/2026/07/double-maths-first-thing-issue-62/)
+---
+
+The Aperiodical --- 7/22/2026
+
+Double Maths First Thing doesn’t fear the REAPER Hello! My name is Colin and I am a mathematician on a mission to spread mathematical joy and surprise. This week is full of leavers’ assemblies and general end-of-term commitments, so you’ll forgive...
+
+
+[Advice for England’s latest Secretary of State for Education.](https://crookedtimber.org/2026/07/22/advice-for-englands-latest-secretary-of-state-for-education/)
+---
+
+Crooked Timber --- 7/22/2026
+
+I love Rory Stewart’s memoir about being a politician; its one of the best books I’ve read about British politics. Among his many observations about the dysfunctionality of government is that ministers typically know nothing about their briefs...
+
+
 [Fandom and Social Connection](https://crookedtimber.org/2026/07/21/fandom-and-social-connection/)
 ---
 
@@ -295,14 +319,6 @@ The Universe of Discourse --- 6/27/2026
 This is my great-grandfather, born Dominusz Andor in Szeged, Hungary in 1886.  In the picture he is in Brooklyn, New York, probably sometime in the early 1950's. By 1911 Andor had moved from Hungary to Vienna and had changed the spelling of his...
 
 
-[Feels like 40 degrees – Let’s get a Ministry for the Future](https://crookedtimber.org/2026/06/26/feels-like-40-degrees-lets-get-a-ministry-for-the-future/)
----
-
-Crooked Timber --- 6/26/2026
-
-For the first time in history, the country in which I live – the Netherlands – has issued a Code Red alert due to the heat. Code red is only issued when the environmental circumstances are such that there is a significant risk of “destabilising of...
-
-
 [The Zone](https://blog.computationalcomplexity.org/feeds/958488770516036226/comments/default)
 ---
 
@@ -463,14 +479,6 @@ Computational Complexity --- 6/10/2026
 There are two ways to look at the P v NP problem, as a formal mathematically defined conjecture as a Clay Millennium Prize Problem, and as the more intuitive notion that everything efficiently verifiable is efficiently computable and the...
 
 
-[Double Maths First Thing: Issue 5C](https://aperiodical.com/2026/06/double-maths-first-thing-issue-5c/)
----
-
-The Aperiodical --- 6/10/2026
-
-Double Maths First Thing is NOT procrastinating in the group chat. Why would you even suggest that? Hello! My name is Colin and I am a mathematician on a mission to spread the joy and delight of doing maths and, from time to time, the absurdities...
-
-
 [The Modal Logic of Forcing and Set-theoretic Potentialism, Peking University lectures, June/July 2026](https://jdh.hamkins.org/modal-logic-of-forcing-and-potentialism-peking-university-2026/)
 ---
 
@@ -629,14 +637,6 @@ My favorite quote about networking came from Jim Kurose. The Internet works so w
 Math ∩ Programming --- 4/29/2026
 
 Table of Contents In this tutorial series, I will introduce the CKKS homomorphic encryption scheme from the ground up, in rather intricate detail. Each article in this series corresponds to a pull request on a GitHub repository. The code for this...
-
-
-[LEAPing into the Future of Coding](https://blog.computationalcomplexity.org/feeds/1407202525957220168/comments/default)
----
-
-Computational Complexity --- 4/26/2026
-
-A few months ago in Oxford, Bernard Sufrin, an emeritus fellow, said he's looking to hire a student to implement LEAP (Logic Engine for Argument by Pointing), a way to teach logic by proving basic logic theorems via pointing and clicking. Rahul...
 
 
 [A potentialist perspective on ultrafinitism, Ohio University](https://jdh.hamkins.org/a-potentialist-perspective-on-ultrafinitism-ohio-university/)
