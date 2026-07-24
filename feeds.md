@@ -1,4 +1,12 @@
 
+[A Diagram is a Functor](https://www.math3ma.com/blog/a-diagram-is-a-functor)
+---
+
+Math3ma --- 7/23/2026
+
+Last week was the start of a mini-series on limits and colimits in category theory. We began by answering a few basic questions, including, "What ARE (co)limits?" In short, they are a way to construct new mathematical objects from old ones. For...
+
+
 [Complexity Class of the Week: \(L_2^P\)](https://blog.computationalcomplexity.org/feeds/2507991347756082028/comments/default)
 ---
 
@@ -186,7 +194,7 @@ Well, that was interesting. Some quick thoughts below the cut. So I’ve recentl
 [Resources for Intro-Level Graduate Courses](https://www.math3ma.com/blog/resources-for-intro-level-graduate-courses)
 ---
 
-Math3ma --- 7/9/2026
+Math3ma --- 7/10/2026
 
 In recent months, several of you have asked me to recommend resources for various subjects in mathematics. Well, folks, here it is! I've finally rounded up a collection of books, PDFs, videos, and websites that I found helpful while studying for my...
 
@@ -789,12 +797,4 @@ A couple of days ago I recounted a common complaint:  I keep seeing programmers 
 The n-Category Café --- 2/22/2026
 
 Making precise the idea that equivalent structures are indistinguishable.
-
-
-[True and correct](http://abuseofnotation.github.io/true-correct/)
----
-
-Abuse of Notation --- 2/22/2026
-
-In the 19th century, Copernicus, Newton, Galilei et al pushed a revolutionary new idea that reshaped the way we think… but no, it’s not talking about cosmology, but about theology. This idea, (which was also the real reason they were in so much...
 
