@@ -1,4 +1,12 @@
 
+[Nate Silver discovers the educated poor](https://crookedtimber.org/2026/07/25/nate-silver-discovers-the-educated-poor/)
+---
+
+Crooked Timber --- 7/25/2026
+
+My son Daniel points me to a piece by Nate Silver which announces the discovery that highly educated workers with low or precarious income are the natural constituency of the Democratic Socialists of America. We’ve been over this at length at CT,...
+
+
 [A Diagram is a Functor](https://www.math3ma.com/blog/a-diagram-is-a-functor)
 ---
 
@@ -301,14 +309,6 @@ I start with characterizing a term, ‘Humphreys opacity’ (or, if you prefer, 
 Computational Complexity --- 6/28/2026
 
 Peter Brass is a prior NSF theory director. He has written an intelligent guest post on the new NSF guidelines that we present here. You have received many mails regarding the proposed OMB Uniform Guidance for federal grant making. It is a very...
-
-
-[Sunday photoblogging: wall, Collioure](https://crookedtimber.org/2026/06/28/sunday-photoblogging-wall-collioure/)
----
-
-Crooked Timber --- 6/28/2026
-
-
 
 
 [It's our language now!](https://blog.plover.com/2026/06/27)
