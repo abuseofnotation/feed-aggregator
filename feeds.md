@@ -1,4 +1,20 @@
 
+[Would Erdos have been happy with the resolution of the Erdos Unit Distance Problem? How to find out?](https://blog.computationalcomplexity.org/feeds/47540465404978675/comments/default)
+---
+
+Computational Complexity --- 7/27/2026
+
+Let's say there is a statement in math T that you wonder whether it's true or false. You may even make a conjecture of which way it goes. Do you have a rooting interest? I may think T is true, but if someone proves T or proves NOT(T) my main...
+
+
+[Sunday photoblogging: Beaumaris](https://crookedtimber.org/2026/07/26/sunday-photoblogging-beaumaris/)
+---
+
+Crooked Timber --- 7/26/2026
+
+
+
+
 [Nate Silver discovers the educated poor](https://crookedtimber.org/2026/07/25/nate-silver-discovers-the-educated-poor/)
 ---
 
@@ -293,14 +309,6 @@ There was a renewed burst of enthusiasm for nuclear power a few years ago. In Au
 Fractal Kitty --- 6/29/2026
 
 Math is wonderful, and there are so many different ways to play and experience it. I enjoy having conversations with other math lovers and sharing ideas, puzzles, pedagogy, and questions. In one of these conversations with Dr. Maria at Natural...
-
-
-[On Humphreys opacity, Reverse Engineering, and Social Externalities of LLMs.](https://crookedtimber.org/2026/06/29/on-humphreys-opacity-reverse-engineering-and-social-externalities-of-llms/)
----
-
-Crooked Timber --- 6/29/2026
-
-I start with characterizing a term, ‘Humphreys opacity’ (or, if you prefer, ‘epistemic opacity’):1 this involves the inability to surveil the steps of a process from a known input to a known desirable (or truthful, useful, beautiful, etc.) output...
 
 
 [Guest Post by Peter Brass on the new NSF guidelines](https://blog.computationalcomplexity.org/feeds/3030127824939987133/comments/default)
@@ -629,14 +637,6 @@ Michael Rabin passed away on April 14,2026. I blogged about him here. My post 
 The n-Category Café --- 5/2/2026
 
 In the last episode of my column in Notices of the American Mathematical Society, we looked at a particle moving in an attractive central force whose strength is proportional to the inverse cube of the distance from the origin....
-
-
-[Because It Doesn't Have To](https://blog.computationalcomplexity.org/feeds/9125418320439922410/comments/default)
----
-
-Computational Complexity --- 4/29/2026
-
-My favorite quote about networking came from Jim Kurose. The Internet works so well because it doesn't have to. The IP and lower layers of the internet stack make no promises of delivery. Complete failure fulfills the protocol. This allows for...
 
 
 [CKKS — Polynomials, the Canonical Embedding, and Encoding](https://www.jeremykun.com/2026/04/29/ckks-polynomials-the-canonical-embedding-and-encoding/)
