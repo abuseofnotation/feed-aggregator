@@ -1,4 +1,20 @@
 
+[“Steph Curry: fluke or breakthrough” ten years later](https://blog.plover.com/2026/07/27)
+---
+
+The Universe of Discourse --- 7/27/2026
+
+(Previously) Flukes and Breakthroughs In the NBA 2015–16 season, Steph Curry set the all-time single-season record for three-point field goals, 402, completely crushing the old record of 286.  Curry's record still stands. The New York Times was...
+
+
+[\(-e^{i\pi}\) to Watch: MathsWithKala](https://aperiodical.com/2026/07/eipi-to-watch-mathswithkala/)
+---
+
+The Aperiodical --- 7/27/2026
+
+In this series of posts, we’ll be featuring mathematical video and streaming channels from all over the internet, by speaking to the creators of the channel and asking them about what they do. We spoke to Kala, who has an Instagram channel called...
+
+
 [Would Erdos have been happy with the resolution of the Erdos Unit Distance Problem? How to find out?](https://blog.computationalcomplexity.org/feeds/47540465404978675/comments/default)
 ---
 
@@ -463,14 +479,6 @@ The Universe of Discourse --- 6/13/2026
 (Previously) In 2003 I visited Barcelona and spent all day wandering around the mighty Basilica de la Sagrada Família, the architectural masterpiece of Antoni Gaudí. It had been under construction since 1882, and at the time only four of its 18...
 
 
-[Book review – The Beauty of Falling by Claudia de Rham](https://aperiodical.com/2026/06/book-review-the-beauty-of-falling-by-claudia-de-rham/)
----
-
-The Aperiodical --- 6/12/2026
-
-We were kindly sent a copy of Claudia de Rham’s new book ‘The Beauty of Falling’, and asked irregular contributor Elinor Flavell to write this review. Claudia de Rham’s “The Beauty of Falling” is not just a book about gravity: it is a book about...
-
-
 [Egyptian fractions for 2/105](https://blog.plover.com/2026/06/12)
 ---
 
@@ -781,14 +789,6 @@ A couple of years back I was discussing the Rhind Mathematical Papyrus (RMP).  I
 The n-Category Café --- 3/12/2026
 
 A category-theoretic approach to "agent frameworks": that is, frameworks for coordinating "agents" that are large language models.
-
-
-[Programmers will document for Claude, but not for each other](https://blog.plover.com/2026/03/09)
----
-
-The Universe of Discourse --- 3/9/2026
-
-A couple of days ago I recounted a common complaint:  I keep seeing programmers say how angry it makes them that people  are willing to write detailed CLAUDE.md and PROJECT.md files for  Claude to use, but they weren't willing to write them...
 
 
 [The Univalence Principle](https://golem.ph.utexas.edu/category/2026/02/the_univalence_principle.html)
