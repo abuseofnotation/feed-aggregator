@@ -1,4 +1,20 @@
 
+[The road to epsilon-zero: Infinite Nim as a coin-moving game](https://blog.plover.com/2026/07/29)
+---
+
+The Universe of Discourse --- 7/29/2026
+
+Previously: Ordinal numbers and basic set theory Ordinals as nim-heaps Nim always ends, even with infinite ordinals In the previous articles I talked about the game of Nim, a very  simple game for two players: There are some piles of...
+
+
+[Double Maths First Thing: Issue 63](https://aperiodical.com/2026/07/double-maths-first-thing-issue-63/)
+---
+
+The Aperiodical --- 7/29/2026
+
+Double Maths First Thing is somewhat ready to rock Hello! My name is Colin and I am a mathematician on a mission to spread the joy and love in mathematics, the pleasure of puzzling things out and getting people to notice the sense of satisfaction...
+
+
 [“Steph Curry: fluke or breakthrough” ten years later](https://blog.plover.com/2026/07/27)
 ---
 
@@ -21,22 +37,6 @@ In this series of posts, we’ll be featuring mathematical video and streaming c
 Computational Complexity --- 7/27/2026
 
 Let's say there is a statement in math T that you wonder whether it's true or false. You may even make a conjecture of which way it goes. Do you have a rooting interest? I may think T is true, but if someone proves T or proves NOT(T) my main...
-
-
-[Sunday photoblogging: Beaumaris](https://crookedtimber.org/2026/07/26/sunday-photoblogging-beaumaris/)
----
-
-Crooked Timber --- 7/26/2026
-
-
-
-
-[Nate Silver discovers the educated poor](https://crookedtimber.org/2026/07/25/nate-silver-discovers-the-educated-poor/)
----
-
-Crooked Timber --- 7/25/2026
-
-My son Daniel points me to a piece by Nate Silver which announces the discovery that highly educated workers with low or precarious income are the natural constituency of the Democratic Socialists of America. We’ve been over this at length at CT,...
 
 
 [A Diagram is a Functor](https://www.math3ma.com/blog/a-diagram-is-a-functor)
@@ -63,30 +63,6 @@ The Aperiodical --- 7/22/2026
 Double Maths First Thing doesn’t fear the REAPER Hello! My name is Colin and I am a mathematician on a mission to spread mathematical joy and surprise. This week is full of leavers’ assemblies and general end-of-term commitments, so you’ll forgive...
 
 
-[Advice for England’s latest Secretary of State for Education.](https://crookedtimber.org/2026/07/22/advice-for-englands-latest-secretary-of-state-for-education/)
----
-
-Crooked Timber --- 7/22/2026
-
-I love Rory Stewart’s memoir about being a politician; its one of the best books I’ve read about British politics. Among his many observations about the dysfunctionality of government is that ministers typically know nothing about their briefs...
-
-
-[Fandom and Social Connection](https://crookedtimber.org/2026/07/21/fandom-and-social-connection/)
----
-
-Crooked Timber --- 7/21/2026
-
-I just learned about The Fandom and Social Connection Initiative and I’m intrigued. The idea is to study the possibility that sports fandom can be an antidote to the “connection recession,” as traditional “third places”—like churches, civic...
-
-
-[A big thank you …](https://crookedtimber.org/2026/07/20/a-big-thank-you-2/)
----
-
-Crooked Timber --- 7/20/2026
-
-… to CT reader and commenter Dr Memory, who has cleaned up our database, eliminating many of the badly rendered quotation marks and similar problems. Those problems reflect the fact that the blog is now more than 20 years old, and has gone through...
-
-
 [The road to epsilon-zero: Nim always ends, even with infinite ordinals](https://blog.plover.com/2026/07/19)
 ---
 
@@ -111,44 +87,12 @@ The n-Category Café --- 7/19/2026
 John Baez, Endre Bokor and Latham Boyle have a new paper which gets at the Standard Model gauge group and its representation on one generation of fermions starting from a Jordan triple that consists of pairs of bioctonions.
 
 
-[Sunday photoblogging: Hamburg,  Hauptkirche Sankt Michaelis (Michel)](https://crookedtimber.org/2026/07/19/sunday-photoblogging-hamburg-hauptkirche-sankt-michaelis-michel/)
----
-
-Crooked Timber --- 7/19/2026
-
-
-
-
 [The road to epsilon-zero: ordinals as nim-heaps](https://blog.plover.com/2026/07/18)
 ---
 
 The Universe of Discourse --- 7/18/2026
 
 Previously: Ordinal numbers and basic set theory We're going to get to  in a long and roundabout way.  First I want to talk about the game of Nim. Nim Nim is a very simple game for two players.  There are some piles of beans, which are...
-
-
-[On refugees being cast as “invaders” and “fighting-age males”](https://crookedtimber.org/2026/07/18/on-refugees-being-cast-as-invaders-and-fighting-age-males/)
----
-
-Crooked Timber --- 7/18/2026
-
-In the UK as elsewhere, we’ve recently seen the far right orchestrate a campaign against refugees, presenting them as dangerous to women and girls and the vanguard of an invasion aimed at destroying Britain. Asylum seekers, forced by the goverment...
-
-
-[The dispensable nation – updated](https://crookedtimber.org/2026/07/16/55382/)
----
-
-Crooked Timber --- 7/16/2026
-
-As I observed last year, the statement that “The cemeteries are full of indispensable people.” is just as true of nations, and in particular the US. That was a little controversial at the time, but now it’s become sufficiently conventional wisdom...
-
-
-[Academic publishing as a public good](https://crookedtimber.org/2026/07/16/academic-publishing-as-a-public-good/)
----
-
-Crooked Timber --- 7/16/2026
-
-Academic publishing has long been dominated by commercial players. That fact is well-known, as are many of the problems. But there is a growing movement towards new models, under the labels of “open access” and “open science.” Until two weeks ago,...
 
 
 [Double Maths First Thing: Issue 61](https://aperiodical.com/2026/07/double-maths-first-thing-issue-61/)
@@ -167,14 +111,6 @@ Computational Complexity --- 7/15/2026
 Herman Chernoff passed away on July 6, 5 days after turning 103. Ravi Boppana wrote a guest post about Chernoff's life for his 100th birthday. Let me talk about his most famous work, the Chernoff Bounds themselves. If you have a coin that will be...
 
 
-[Encounters with a future Tory MP, a popstar, and 25,000 placards](https://crookedtimber.org/2026/07/13/55371/)
----
-
-Crooked Timber --- 7/13/2026
-
-Here’s another episode in my memoirs of being an activist. You can read it at substack, or here!: Between school and college I decided to take a ‘year off’ (what they now call a ‘gap year’). I didn’t have much of a plan, except that I wanted to...
-
-
 [2... 1/2    THEN       3... 1/6     THEN   5 ....1/15 and so on. And So On?](https://blog.computationalcomplexity.org/feeds/4395052288080959784/comments/default)
 ---
 
@@ -189,14 +125,6 @@ The excellent graphic novelPrime Suspects: The Anatomy of Integers and Permutati
 The n-Category Café --- 7/12/2026
 
 There are two ways to stick SU(2) × SU(3) in Spin(10).   One is good for physics; the other, alas, is easily obtained using the octonions.
-
-
-[Sunday photoblogging: Mèze, boat](https://crookedtimber.org/2026/07/12/sunday-photoblogging-meze-boat/)
----
-
-Crooked Timber --- 7/12/2026
-
-
 
 
 [Making AI smarter with AI](https://math.andrej.com/2026/07/11/making-ai-smarter-with-ai/)
@@ -221,14 +149,6 @@ I am Claude Fable 5, an AI assistant made by Anthropic. Over the past two days A
 The Universe of Discourse --- 7/10/2026
 
 This post is going to be about what infinite ordinal numbers are, and about  is in particular.  I had a brainwave a while back (18 months now, wow, I have definitely not been blogging enough) and suddenly understood  much better than I did before. ...
-
-
-[Brief thoughts on aircon](https://crookedtimber.org/2026/07/10/brief-thoughts-on-aircon/)
----
-
-Crooked Timber --- 7/10/2026
-
-Well, that was interesting. Some quick thoughts below the cut. So I’ve recently become much more aware of the Discourse about air conditioning that is common to much of northern Europe. There’s a lot of weirdness generally, but there are certain...
 
 
 [Resources for Intro-Level Graduate Courses](https://www.math3ma.com/blog/resources-for-intro-level-graduate-courses)
@@ -271,22 +191,6 @@ Computational Complexity --- 7/6/2026
 I recently read Alan Alda's first memoir Never have your dog stuffed which was pretty good. Hence I began looking for more information about him on the web. I came across a YouTube video  At 89, Alan Alda reveals the seven actors he HATED the...
 
 
-[Sunday photoblogging: Palais des Papes, Avignon](https://crookedtimber.org/2026/07/05/sunday-photoblogging-palais-des-papes-avignon/)
----
-
-Crooked Timber --- 7/5/2026
-
-
-
-
-[Reflections on America’s 250th](https://crookedtimber.org/2026/07/04/reflections-on-americas-250th/)
----
-
-Crooked Timber --- 7/4/2026
-
-It’s hard not to feel glum as I write this post on the 250th anniversary of my country. I remember celebrating the 200th as a teenager. As I recall it, it felt like the country was ready forward to better times. The Vietnam War and Watergate were...
-
-
 [The True Method](https://blog.computationalcomplexity.org/feeds/8889944152921391178/comments/default)
 ---
 
@@ -309,14 +213,6 @@ Double Maths First Thing is apparently abelian. Hello! My name is Colin and I am
 The Aperiodical --- 7/1/2026
 
 Here’s a round-up of some news from this month not otherwise covered on the site. The UK government has appointed two operational researchers as direct ministerial appointments: Professors Christina Pagel and Martin Utley will use operational...
-
-
-[The state of nuclear power in 2026](https://crookedtimber.org/2026/06/30/the-state-of-nuclear-power-in-2026/)
----
-
-Crooked Timber --- 6/30/2026
-
-There was a renewed burst of enthusiasm for nuclear power a few years ago. In Australia, where I live it was confined to the political right and didn’t last long, but elsewhere support was broader. Most notable was the 2023 commitment by more than...
 
 
 [Moduloku](https://www.fractalkitty.com/moduloku/)
@@ -445,14 +341,6 @@ Double Maths First Thing is 3D-printing Cristiano Ronaldo Hello! My name is Coli
 The n-Category Café --- 6/16/2026
 
 A new characterization of the Standard Model gauge group as the group of symmetries of an octonionic qutrit that restrict to act as unitary operators on an ordinary qutrit and, within that, a qubit.
-
-
-[Particularly mathematical Birthday Honours 2026](https://aperiodical.com/2026/06/particularly-mathematical-birthday-honours-2026/)
----
-
-The Aperiodical --- 6/15/2026
-
-The UK Government have announced the new set of King’s Birthday Honours. Here’s our selection of particularly mathematical entries for this year. If you spot any more, let us know in the comments and we’ll add to the list. Get the full UK list from...
 
 
 [mnemonic devices and pangrams  that could be real sentences](https://blog.computationalcomplexity.org/feeds/3418209642887230997/comments/default)
@@ -775,14 +663,6 @@ Fractal Kitty --- 3/20/2026
 When I create art, I do so for many reasons. Some of these are:to engage in an expression of beingto explore a concept or experiment with an ideato grow as a person through creativity and struggleto immerse myself in a spiritual actto have a coping
 
 
-[Did Ahmes find the best expansions for 2/n?](https://blog.plover.com/2026/03/17)
----
-
-The Universe of Discourse --- 3/17/2026
-
-A couple of years back I was discussing the Rhind Mathematical Papyrus (RMP).  It includes a table expressing  as a sum $$\frac1{a_1}+\frac1{a_2}+\dots+\frac1{a_k} $$ fractions with numerator 1 (“unit fractions”).  I said:  Getting the table of...
-
-
 [A Typed Language for Agent Coordination](https://golem.ph.utexas.edu/category/2026/03/a_typed_language_for_agent_coordination.html)
 ---
 
@@ -797,4 +677,124 @@ A category-theoretic approach to "agent frameworks": that is, frameworks for coo
 The n-Category Café --- 2/22/2026
 
 Making precise the idea that equivalent structures are indistinguishable.
+
+
+[True and correct](http://abuseofnotation.github.io/true-correct/)
+---
+
+Abuse of Notation --- 2/22/2026
+
+In the 19th century, Copernicus, Newton, Galilei et al pushed a revolutionary new idea that reshaped the way we think… but no, it’s not talking about cosmology, but about theology. This idea, (which was also the real reason they were in so much...
+
+
+[Book Launch, Substack, and Other News](https://deontologistics.co/2026/02/14/book-launch-substack-and-other-news/)
+---
+
+DEONTOLOGISTICS --- 2/14/2026
+
+A couple updates for readers. There will be an impromptu book launch for The Revenge of Reason at Newcastle University on the 25th of February, from 5-7pm in HDB.1.02 in the Henry Daysh Building. I’ll be having a conversation about the book with...
+
+
+[Truth and paradox in the theory of finite and infinite games, Owens Memorial Lecture, Wayne State University, April 2026](https://jdh.hamkins.org/truth-and-paradox-infinite-games-owens-lecture-wayne-state-april-2026/)
+---
+
+Joel David Hamkins --- 2/12/2026
+
+I am honored to be invited to give the Owen G. Owens Memorial Lecture at Wayne State University on 16 April 2026, joining a distinguished list of luminaries giving previous Owens lectures, including Gregory Margulis, John Milnor, Mikhael Gromov,...
+
+
+[Mathematicians do not agree on the essential structure of the complex numbers, ASL/APA Central Division Meeting, Chicago, February 2026](https://jdh.hamkins.org/essential-structure-of-the-complex-numbers-asl-apa-chicago-2026/)
+---
+
+Joel David Hamkins --- 2/11/2026
+
+I have been asked by the ASL to fill in as a last-minute substitute speaker for the ASL session at the upcoming 2026 APA Central Division Meeting in Chicago, February 18-21, 2026, due to a late cancellation of one of … Continue reading →
+
+
+[Filtering Snowflakes](https://www.fractalkitty.com/filtering-snowflakes/)
+---
+
+Fractal Kitty --- 2/6/2026
+
+Whether you call this triangle Pascal's triangle, Binomial Expansion Coefficients, Yang Hui's triangle, or any other name, it is beautiful.Finding patterns in this triangle is fun - from counting numbers, to looking at parity (even/odd-ness), to...
+
+
+[Surreal arithmetic is bi-interpretable with set theory, CUNY Logic Workshop, March 2026](https://jdh.hamkins.org/surreal-arithmetic-cuny-logic-workshop-march-2026/)
+---
+
+Joel David Hamkins --- 2/4/2026
+
+This will be a talk at the CUNY Logic Workshop on 13 March 2026, held at the CUNY Graduate Center. Abstract. I shall introduce the elementary theory of surreal arithmetic (SA), a first-order theory that is true in the surreal field when equipped...
+
+
+[I miss writing](http://proses.id/i-miss-writing/)
+---
+
+Proses.ID --- 1/31/2026
+
+I miss writing. That’s a strange thing to say because I’ve been employed as a full-time writer for the past 14 months. And I have…
+
+
+[What makes a writing human?](http://proses.id/moist-writing/)
+---
+
+Proses.ID --- 1/31/2026
+
+I’ve been down a rabbit hole for the past few months, obsessed with a single question: “What makes a writing human?” It started, ironically, because…
+
+
+[Finished! A Jellyroll GenQuilt](https://www.fractalkitty.com/finished-a-jellyroll-genquilt/)
+---
+
+Fractal Kitty --- 1/29/2026
+
+Have you ever been to a quilt store and bought fabric without a plan? You just saw the pretty colors and patterns and went for it? Well, I did - with a jelly roll of white, beige, grays, and black with mathy patterns (Note: A jelly roll is a roll of
+
+
+[Categorifying Riemann's Functional Equation](https://golem.ph.utexas.edu/category/2026/01/categorifying_riemanns_functio.html)
+---
+
+The n-Category Café --- 1/26/2026
+
+David Jaz Myers has some thoughts about Riemann's functional equation for the zeta function.
+
+
+[Coxeter and Dynkin Diagrams](https://golem.ph.utexas.edu/category/2026/01/coxeter_and_dynkin_diagrams.html)
+---
+
+The n-Category Café --- 1/6/2026
+
+Dynkin diagrams have always fascinated me. They are magically potent language --- you can do so much with them!...
+
+
+[Genuary 2026](https://www.fractalkitty.com/genuary-2026/)
+---
+
+Fractal Kitty --- 1/1/2026
+
+Happy New Year! It's time for Genuary 2026! I am not sure how many prompts I will do (or combine), but I hope to share my code and progress here. I hope to get at least 5-10 done this year with a mix of different languages and
+
+
+[Inquiries-Week 6: Beautiful Chords](https://www.fractalkitty.com/inquiries-week-6-beautiful-chords/)
+---
+
+Fractal Kitty --- 12/31/2025
+
+IntroductionIn this inquiry, we explore chords, which are lines drawn across circles, using different rules to create various patterns, curves, and shapes. This inquiry will be different from those in the Inquiries Series in that it will be more...
+
+
+[Fear of the future](http://abuseofnotation.github.io/future-self/)
+---
+
+Abuse of Notation --- 12/24/2025
+
+Everything we do to secure ourselves, every decision we make out of fear of the future, ends up destroying us, ends up making our future a little more bleak — the closer we are to the public ideal of “success”, the farther we go from our own...
+
+
+[When the tower crumbles](http://abuseofnotation.github.io/when-the-tower-crumbles/)
+---
+
+Abuse of Notation --- 12/24/2025
+
+When the tower crumbles, some will laugh some will cry, some will fall from the top, some will be buried below. When the tower crumbles, better not be around better go all the way down, so you can run away.
 
