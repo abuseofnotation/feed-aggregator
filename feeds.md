@@ -1,4 +1,12 @@
 
+[About Interactives: Inquiries.link](https://www.fractalkitty.com/about-interactives-inquiries-link/)
+---
+
+Fractal Kitty --- 7/31/2026
+
+I would like to start this post with a thank you to members of this site for making both this blog and inquiries.link more sustainable. I've been asked about some of the toys I've made for interactive math play. I implement them on a site
+
+
 [The road to epsilon-zero: Infinite Nim as a coin-moving game](https://blog.plover.com/2026/07/29)
 ---
 
@@ -789,12 +797,4 @@ When I create art, I do so for many reasons. Some of these are:to engage in an e
 The n-Category Café --- 3/12/2026
 
 A category-theoretic approach to "agent frameworks": that is, frameworks for coordinating "agents" that are large language models.
-
-
-[The Univalence Principle](https://golem.ph.utexas.edu/category/2026/02/the_univalence_principle.html)
----
-
-The n-Category Café --- 2/22/2026
-
-Making precise the idea that equivalent structures are indistinguishable.
 
