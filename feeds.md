@@ -1,4 +1,12 @@
 
+[Aperiodical News Roundup – July 2026](https://aperiodical.com/2026/08/aperiodical-news-roundup-july-2026/)
+---
+
+The Aperiodical --- 8/1/2026
+
+Here’s a short round-up of maths news from this month. The 2026 Fields medals have been awarded to Yu Deng, John Pardon, Jacob Tsimerman and Hong Wang. The Fields Medal is awarded to recognize outstanding mathematical achievement for existing work...
+
+
 [About Interactives: Inquiries.link](https://www.fractalkitty.com/about-interactives-inquiries-link/)
 ---
 
@@ -453,14 +461,6 @@ The Universe of Discourse --- 6/17/2026
 Computational Complexity --- 6/17/2026
 
 Last week I saw a talk by Northwestern professor Nina Wieda on the history of the Silk Road, a network of trading routes across Asia active from the second century BCE until the mid-15th century. I knew of the Silk Road but was surprised by how...
-
-
-[Double Maths First Thing: Issue 5D](https://aperiodical.com/2026/06/double-maths-first-thing-issue-5d/)
----
-
-The Aperiodical --- 6/17/2026
-
-Double Maths First Thing is 3D-printing Cristiano Ronaldo Hello! My name is Colin and I am a mathematician on a mission to spread the joy and delight that comes from engaging with maths. I understand there’s a soccerball elimination in progress at...
 
 
 [Octonions and the Standard Model (Part 14)](https://golem.ph.utexas.edu/category/2026/06/octonions_and_the_standard_mod_13.html)
