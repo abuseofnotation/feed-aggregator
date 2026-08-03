@@ -1,4 +1,12 @@
 
+[A problematic category on Jeopardy Raises a Good Question](https://blog.computationalcomplexity.org/feeds/3036743580181559727/comments/default)
+---
+
+Computational Complexity --- 8/2/2026
+
+I was watching a Jeopardy from 2004 (The Game Show Channel is rerunning Ken Jennings streak) and the following question raises a good question.The contestants where Ken, Jerry, Jennifer.In Double Jeopardy there was a category Biblical Name The...
+
+
 [Aperiodical News Roundup – July 2026](https://aperiodical.com/2026/08/aperiodical-news-roundup-july-2026/)
 ---
 
@@ -645,14 +653,6 @@ In David Marcus's guest post on good coding style (see here)  he reviewed a b
 Computational Complexity --- 5/6/2026
 
 As the blog of record in computational complexity, we like to bring attention to those in the community who have left us. When we learn of someone in our field who has died, Bill and I will talk to each other and decide whether we should do a...
-
-
-[A few notes on Michael Rabin](https://blog.computationalcomplexity.org/feeds/754334843781792109/comments/default)
----
-
-Computational Complexity --- 5/4/2026
-
-Michael Rabin passed away on April 14,2026. I blogged about him here. My post listed results of his that proved upper and lower bounds on problems. My point was that he proved upper and lower bounds for MANY different levels- from decidable to...
 
 
 [Quantum Mechanics of the Inverse Cube Force Law](https://golem.ph.utexas.edu/category/2026/04/the_quantum_mechanics_of_the_i.html)
