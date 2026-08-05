@@ -1,10 +1,34 @@
 
+[Carnival of Maths 253](https://aperiodical.com/2026/08/carnival-of-maths-253/)
+---
+
+The Aperiodical --- 8/4/2026
+
+The next issue of the Carnival of Mathematics, rounding up blog posts from the months of June and July 2026, is now online courtesy of Robin Whitty at Theorem of the Day. The Carnival rounds up maths blog posts from all over the internet, including...
+
+
+[If you can’t be bothered writing it, I can’t be bothered reading it.](https://crookedtimber.org/2026/08/04/if-you-cant-be-bothered-writing-it-i-cant-be-bothered-reading-it/)
+---
+
+Crooked Timber --- 8/4/2026
+
+The producerist vision of AI seems to assume an endlessly expanding market for reading. And reading. Well. It is rather more than a market. Warning: this post is a little more sweary than usual. If that bothers you, maybe read something else. We...
+
+
 [A problematic category on Jeopardy Raises a Good Question](https://blog.computationalcomplexity.org/feeds/3036743580181559727/comments/default)
 ---
 
-Computational Complexity --- 8/2/2026
+Computational Complexity --- 8/3/2026
 
 I was watching a Jeopardy from 2004 (The Game Show Channel is rerunning Ken Jennings streak) and the following question raises a good question.The contestants where Ken, Jerry, Jennifer.In Double Jeopardy there was a category Biblical Name The...
+
+
+[Seven books I keep close because I love them](https://blog.plover.com/2026/08/02)
+---
+
+The Universe of Discourse --- 8/2/2026
+
+The bookshelf by my elbow, the one that I can reach without getting up, has seven books on it, not necessarily the ones I look in the most, but the ones whose emanations I most hope will infuse me as I write. Roget's Thesaurus (4th edition) The...
 
 
 [Aperiodical News Roundup – July 2026](https://aperiodical.com/2026/08/aperiodical-news-roundup-july-2026/)
@@ -327,14 +351,6 @@ Crooked Timber --- 7/5/2026
 
 
 
-[Reflections on America’s 250th](https://crookedtimber.org/2026/07/04/reflections-on-americas-250th/)
----
-
-Crooked Timber --- 7/4/2026
-
-It’s hard not to feel glum as I write this post on the 250th anniversary of my country. I remember celebrating the 200th as a teenager. As I recall it, it felt like the country was ready forward to better times. The Vietnam War and Watergate were...
-
-
 [The True Method](https://blog.computationalcomplexity.org/feeds/8889944152921391178/comments/default)
 ---
 
@@ -423,14 +439,6 @@ Computational Complexity --- 6/22/2026
 (All references in this blog post can be found in the main article the post is about which is here.)Recall that \(R(s,k) \) is the least \(n\) so that, for all 2-colorings of the edges of \(K_n\), there is either a RED \(s\)-clique or a BLUE...
 
 
-[\(-e^{i\pi}\) to Watch: StanDoesMath](https://aperiodical.com/2026/06/eipi-to-watch-standoesmath/)
----
-
-The Aperiodical --- 6/22/2026
-
-In this series of posts, we’ll be featuring mathematical video and streaming channels from all over the internet, by speaking to the creators of the channel and asking them about what they do. We spoke to Stanley, who runs the StanDoesMath...
-
-
 [Inquiries-Week 10: Self-Descriptive](https://www.fractalkitty.com/inquiries-week-10-self-descriptive/)
 ---
 
@@ -501,14 +509,6 @@ Odd Scenarios about Research ClaimsI blogged about OpenAI's achievement of havin
 The Universe of Discourse --- 6/13/2026
 
 (Previously) In 2003 I visited Barcelona and spent all day wandering around the mighty Basilica de la Sagrada Família, the architectural masterpiece of Antoni Gaudí. It had been under construction since 1882, and at the time only four of its 18...
-
-
-[Egyptian fractions for 2/105](https://blog.plover.com/2026/06/12)
----
-
-The Universe of Discourse --- 6/12/2026
-
-The ancient Egyptians had a terrible notation for fractions.  They had notations for  for each , for , but everything else was written as a sum of these, with repeats forbidden, so that for example  had to be written as . (Wikipedia) In an older...
 
 
 [There is(Ǝ) – Such that (∋)](https://www.fractalkitty.com/there-is-3-such-that/)
