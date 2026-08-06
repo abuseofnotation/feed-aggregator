@@ -1,4 +1,28 @@
 
+[The road to epsilon-zero: Coin-moving games with no coins](https://blog.plover.com/2026/08/05)
+---
+
+The Universe of Discourse --- 8/5/2026
+
+Previously: Ordinal numbers and basic set theory Ordinals as nim-heaps Nim always ends, even with infinite ordinals Infinite Nim as a coin-moving game In the previous article we saw how to interpret Nim heaps of up to beans as coins on a...
+
+
+[Perfectly Plausible](https://crookedtimber.org/2026/08/05/perfectly-plausible/)
+---
+
+Crooked Timber --- 8/5/2026
+
+In the final comment on my most recent CT post, John Q strategically grants a premise from an earlier comment by poster Matt: John Q grants that “it’s perfectly plausible that the number of US golfers exceeds the population of Australia.” This was...
+
+
+[Double Maths First Thing: Issue 64](https://aperiodical.com/2026/08/double-maths-first-thing-issue-64/)
+---
+
+The Aperiodical --- 8/5/2026
+
+Double Maths First Thing is square in hex AND decimal! Hello! My name is Colin and I am a mathematician on a mission to share the joy and love in mathematics, to show that it’s more than the mindless memorisation of arbitrary rules. Guess who...
+
+
 [Carnival of Maths 253](https://aperiodical.com/2026/08/carnival-of-maths-253/)
 ---
 
@@ -343,14 +367,6 @@ Computational Complexity --- 7/6/2026
 I recently read Alan Alda's first memoir Never have your dog stuffed which was pretty good. Hence I began looking for more information about him on the web. I came across a YouTube video  At 89, Alan Alda reveals the seven actors he HATED the...
 
 
-[Sunday photoblogging: Palais des Papes, Avignon](https://crookedtimber.org/2026/07/05/sunday-photoblogging-palais-des-papes-avignon/)
----
-
-Crooked Timber --- 7/5/2026
-
-
-
-
 [The True Method](https://blog.computationalcomplexity.org/feeds/8889944152921391178/comments/default)
 ---
 
@@ -413,14 +429,6 @@ This is my great-grandfather, born Dominusz Andor in Szeged, Hungary in 1886.  I
 Computational Complexity --- 6/25/2026
 
 When you start thinking deeply about a mathematics problem you may enter the "zone", a period of intense focus where you think solely about the problem and potential solutions, and more importantly block out all other thoughts and even lose track...
-
-
-[Double Maths First Thing: Issue 5E](https://aperiodical.com/2026/06/double-maths-first-thing-issue-5e/)
----
-
-The Aperiodical --- 6/24/2026
-
-Double Maths First Thing is taking regular hydration breaks [Apologies. This did not post here at the scheduled time. Mistake on my part. Won’t happen again. At least not this week.] Hello! My name is Colin and I am a mathematician on a mission to...
 
 
 [Deciphering basmala](https://blog.plover.com/2026/06/23)
@@ -501,14 +509,6 @@ A mnemonic device is a sentence where the first letters of the words are helpful
 Computational Complexity --- 6/15/2026
 
 Odd Scenarios about Research ClaimsI blogged about OpenAI's achievement of having AI solve a math problem here.My post had a few comments about authorship of such results.Lance had a post about co-authorship and AI hereThere are times when an...
-
-
-[Update: Here I am at the Sagrada Família](https://blog.plover.com/2026/06/13)
----
-
-The Universe of Discourse --- 6/13/2026
-
-(Previously) In 2003 I visited Barcelona and spent all day wandering around the mighty Basilica de la Sagrada Família, the architectural masterpiece of Antoni Gaudí. It had been under construction since 1882, and at the time only four of its 18...
 
 
 [There is(Ǝ) – Such that (∋)](https://www.fractalkitty.com/there-is-3-such-that/)
