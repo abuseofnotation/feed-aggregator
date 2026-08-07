@@ -1,4 +1,12 @@
 
+[Art Prompts: Hailstone Arabesques](https://www.fractalkitty.com/u/)
+---
+
+Fractal Kitty --- 8/6/2026
+
+This is the first in a series of prompts for art intertwined with math. Jump in and choose your medium to indulge in creative expression. Warm-upGrab a sheet of paper and a ruler. Make a line with 16 marks evenly spaced from the top to the bottom of
+
+
 [The road to epsilon-zero: Coin-moving games with no coins](https://blog.plover.com/2026/08/05)
 ---
 
@@ -789,12 +797,4 @@ A large language model has very little self-awareness.  But it is easy to give i
 Fractal Kitty --- 3/20/2026
 
 When I create art, I do so for many reasons. Some of these are:to engage in an expression of beingto explore a concept or experiment with an ideato grow as a person through creativity and struggleto immerse myself in a spiritual actto have a coping
-
-
-[A Typed Language for Agent Coordination](https://golem.ph.utexas.edu/category/2026/03/a_typed_language_for_agent_coordination.html)
----
-
-The n-Category Café --- 3/12/2026
-
-A category-theoretic approach to "agent frameworks": that is, frameworks for coordinating "agents" that are large language models.
 
