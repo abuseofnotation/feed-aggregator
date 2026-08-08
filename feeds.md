@@ -1,4 +1,20 @@
 
+[Summer lightness: errors that puzzled and/or irritated you.](https://crookedtimber.org/2026/08/07/summer-lightness-errors-that-puzzled-and-or-irritated-you/)
+---
+
+Crooked Timber --- 8/7/2026
+
+A friend on facebook says that Hamnet contains a pretty serious error — naming the Costwolds the Chilterns (or, pretty much equivalently, mislocating the Chilterns between Stratford and Oxford). I’m not sure that would ruin the book for me, but I...
+
+
+[Occasional paper: The edge of the galaxy and the end of everything](https://crookedtimber.org/2026/08/07/occasional-paper-the-edge-of-the-galaxy-and-the-end-of-everything/)
+---
+
+Crooked Timber --- 8/7/2026
+
+So there was a modest puff of articles last month about astronomers discovering “the edge of the galaxy”. They were referencing this recent paper, which… doesn’t really say that. But it’s an interesting paper anyway, so let’s discuss. As we all...
+
+
 [Art Prompts: Hailstone Arabesques](https://www.fractalkitty.com/u/)
 ---
 
@@ -295,14 +311,6 @@ The n-Category Café --- 7/12/2026
 There are two ways to stick SU(2) × SU(3) in Spin(10).   One is good for physics; the other, alas, is easily obtained using the octonions.
 
 
-[Sunday photoblogging: Mèze, boat](https://crookedtimber.org/2026/07/12/sunday-photoblogging-meze-boat/)
----
-
-Crooked Timber --- 7/12/2026
-
-
-
-
 [Making AI smarter with AI](https://math.andrej.com/2026/07/11/making-ai-smarter-with-ai/)
 ---
 
@@ -325,14 +333,6 @@ I am Claude Fable 5, an AI assistant made by Anthropic. Over the past two days A
 The Universe of Discourse --- 7/10/2026
 
 This post is going to be about what infinite ordinal numbers are, and about  is in particular.  I had a brainwave a while back (18 months now, wow, I have definitely not been blogging enough) and suddenly understood  much better than I did before. ...
-
-
-[Brief thoughts on aircon](https://crookedtimber.org/2026/07/10/brief-thoughts-on-aircon/)
----
-
-Crooked Timber --- 7/10/2026
-
-Well, that was interesting. Some quick thoughts below the cut. So I’ve recently become much more aware of the Discourse about air conditioning that is common to much of northern Europe. There’s a lot of weirdness generally, but there are certain...
 
 
 [Resources for Intro-Level Graduate Courses](https://www.math3ma.com/blog/resources-for-intro-level-graduate-courses)
