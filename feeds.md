@@ -1,4 +1,36 @@
 
+[Math Concepts With Funny Names](https://blog.computationalcomplexity.org/feeds/1016886829547690351/comments/default)
+---
+
+Computational Complexity --- 8/9/2026
+
+(Some of this came from a Reddit post I read, and some of the comments on it.) Here are theorems with names that I think are funny or unusual. The names are also pointers to the Wikipedia entry on them or some other source.The Chicken McNugget...
+
+
+[John Crowley has died](https://crookedtimber.org/2026/08/09/john-crowley-has-died/)
+---
+
+Crooked Timber --- 8/9/2026
+
+According to various sources, John Crowley has died. This probably means something to many of you: Crooked Timber readers are not a random draw even on the population of highly literate people. Those of you who don’t know who John Crowley was will...
+
+
+[Sunday photoblogging: Castletown harbour, Isle of Man](https://crookedtimber.org/2026/08/09/sunday-photoblogging-castletown-harbour-isle-of-man/)
+---
+
+Crooked Timber --- 8/9/2026
+
+
+
+
+[Alternative Fields Medal, awarded August 2026](https://jdh.hamkins.org/alternative-fields-medal-awarded-august-2026/)
+---
+
+Joel David Hamkins --- 8/8/2026
+
+I am very pleased to announce that I have been awarded the Alternative Fields Medal in recognition of “Excellence in exposition of mathematics to a popular audience.” The award cites my various books as well as my participation on MathOverflow, …...
+
+
 [Summer lightness: errors that puzzled and/or irritated you.](https://crookedtimber.org/2026/08/07/summer-lightness-errors-that-puzzled-and-or-irritated-you/)
 ---
 
@@ -263,14 +295,6 @@ Crooked Timber --- 7/16/2026
 As I observed last year, the statement that “The cemeteries are full of indispensable people.” is just as true of nations, and in particular the US. That was a little controversial at the time, but now it’s become sufficiently conventional wisdom...
 
 
-[Academic publishing as a public good](https://crookedtimber.org/2026/07/16/academic-publishing-as-a-public-good/)
----
-
-Crooked Timber --- 7/16/2026
-
-Academic publishing has long been dominated by commercial players. That fact is well-known, as are many of the problems. But there is a growing movement towards new models, under the labels of “open access” and “open science.” Until two weeks ago,...
-
-
 [Double Maths First Thing: Issue 61](https://aperiodical.com/2026/07/double-maths-first-thing-issue-61/)
 ---
 
@@ -285,14 +309,6 @@ Double Maths First Thing has an open mic spreadsheet Hello! My name is Colin and
 Computational Complexity --- 7/15/2026
 
 Herman Chernoff passed away on July 6, 5 days after turning 103. Ravi Boppana wrote a guest post about Chernoff's life for his 100th birthday. Let me talk about his most famous work, the Chernoff Bounds themselves. If you have a coin that will be...
-
-
-[Encounters with a future Tory MP, a popstar, and 25,000 placards](https://crookedtimber.org/2026/07/13/55371/)
----
-
-Crooked Timber --- 7/13/2026
-
-Here’s another episode in my memoirs of being an activist. You can read it at substack, or here!: Between school and college I decided to take a ‘year off’ (what they now call a ‘gap year’). I didn’t have much of a plan, except that I wanted to...
 
 
 [2... 1/2    THEN       3... 1/6     THEN   5 ....1/15 and so on. And So On?](https://blog.computationalcomplexity.org/feeds/4395052288080959784/comments/default)
@@ -655,14 +671,6 @@ Computational Complexity --- 5/11/2026
 In David Marcus's guest post on good coding style (see here)  he reviewed a book from 1986 called "Professional Pascal."I wondered if it was still in print and could be bought:1) I went to Amazon and searched all products for Professional Pascal....
 
 
-[When do we know someone has died](https://blog.computationalcomplexity.org/feeds/5765663734832993249/comments/default)
----
-
-Computational Complexity --- 5/6/2026
-
-As the blog of record in computational complexity, we like to bring attention to those in the community who have left us. When we learn of someone in our field who has died, Bill and I will talk to each other and decide whether we should do a...
-
-
 [Quantum Mechanics of the Inverse Cube Force Law](https://golem.ph.utexas.edu/category/2026/04/the_quantum_mechanics_of_the_i.html)
 ---
 
@@ -789,12 +797,4 @@ Slides for a talk on features of the octonionic projective plane.
 The n-Category Café --- 3/20/2026
 
 A large language model has very little self-awareness.  But it is easy to give it some rudimentary but useful forms of self-awareness using the "plumbing" language.
-
-
-[A Statement on my Art](https://www.fractalkitty.com/a-statement-on-my-art/)
----
-
-Fractal Kitty --- 3/20/2026
-
-When I create art, I do so for many reasons. Some of these are:to engage in an expression of beingto explore a concept or experiment with an ideato grow as a person through creativity and struggleto immerse myself in a spiritual actto have a coping
 
