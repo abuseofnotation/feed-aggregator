@@ -2,7 +2,7 @@
 [Math Concepts With Funny Names](https://blog.computationalcomplexity.org/feeds/1016886829547690351/comments/default)
 ---
 
-Computational Complexity --- 8/9/2026
+Computational Complexity --- 8/10/2026
 
 (Some of this came from a Reddit post I read, and some of the comments on it.) Here are theorems with names that I think are funny or unusual. The names are also pointers to the Wikipedia entry on them or some other source.The Chicken McNugget...
 
