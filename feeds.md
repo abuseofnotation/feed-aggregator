@@ -1,4 +1,36 @@
 
+[My comprehensive plan for US strategy in the Middle East… *](https://crookedtimber.org/2026/08/11/my-comprehensive-plan-for-us-strategy-in-the-middle-east/)
+---
+
+Crooked Timber --- 8/11/2026
+
+… is set out over the fold. I’m confident readers who take a little time to think about it will realise it’s far superior to existing policy, and to any alternative proposed so far. Fourth repost since 2011
+
+
+[There are two kinds of theorems](https://blog.plover.com/2026/08/11)
+---
+
+The Universe of Discourse --- 8/11/2026
+
+In mathematical study there are two kinds of theorems, which serve very different purposes.  Math instruction follows the same pattern. Students are often very puzzled by this, and rightly so, because it's never explained, or at least I've never...
+
+
+[The Odyssey and the Bronze Age Collapse](https://crookedtimber.org/2026/08/11/the-odyssey-and-the-bronze-age-collapse/)
+---
+
+Crooked Timber --- 8/11/2026
+
+How Hegsethian heroes destroyed themselves and their entire civilisation I haven’t yet seen the Odyssey film[1], but reviews mention a minor obsession of mine, the Late Bronze Age collapse and the ensuing Greek Dark Age. I first encountered this at...
+
+
+[“Fight,” Progressivism, and Performative Politics — Michigan Edition](https://crookedtimber.org/2026/08/11/fight-progressivism-and-performative-politics-michigan-edition/)
+---
+
+Crooked Timber --- 8/11/2026
+
+Progressives scored a win over establishment Democrats in the Michigan primary election for Senator on Tuesday’s election. Abdul El-Sayed beat Haley Stevens by 1 point, despite many polls predicting that he would win by 7 or more. And Stevens beat...
+
+
 [Math Concepts With Funny Names](https://blog.computationalcomplexity.org/feeds/1016886829547690351/comments/default)
 ---
 
@@ -263,36 +295,12 @@ The n-Category Café --- 7/19/2026
 John Baez, Endre Bokor and Latham Boyle have a new paper which gets at the Standard Model gauge group and its representation on one generation of fermions starting from a Jordan triple that consists of pairs of bioctonions.
 
 
-[Sunday photoblogging: Hamburg,  Hauptkirche Sankt Michaelis (Michel)](https://crookedtimber.org/2026/07/19/sunday-photoblogging-hamburg-hauptkirche-sankt-michaelis-michel/)
----
-
-Crooked Timber --- 7/19/2026
-
-
-
-
 [The road to epsilon-zero: ordinals as nim-heaps](https://blog.plover.com/2026/07/18)
 ---
 
 The Universe of Discourse --- 7/18/2026
 
 Previously: Ordinal numbers and basic set theory We're going to get to  in a long and roundabout way.  First I want to talk about the game of Nim. Nim Nim is a very simple game for two players.  There are some piles of beans, which are...
-
-
-[On refugees being cast as “invaders” and “fighting-age males”](https://crookedtimber.org/2026/07/18/on-refugees-being-cast-as-invaders-and-fighting-age-males/)
----
-
-Crooked Timber --- 7/18/2026
-
-In the UK as elsewhere, we’ve recently seen the far right orchestrate a campaign against refugees, presenting them as dangerous to women and girls and the vanguard of an invasion aimed at destroying Britain. Asylum seekers, forced by the goverment...
-
-
-[The dispensable nation – updated](https://crookedtimber.org/2026/07/16/55382/)
----
-
-Crooked Timber --- 7/16/2026
-
-As I observed last year, the statement that “The cemeteries are full of indispensable people.” is just as true of nations, and in particular the US. That was a little controversial at the time, but now it’s become sufficiently conventional wisdom...
 
 
 [Double Maths First Thing: Issue 61](https://aperiodical.com/2026/07/double-maths-first-thing-issue-61/)
@@ -493,14 +501,6 @@ This is a talk for the Workshop on Mereology at Shandong University in Jinan, Ch
 The Universe of Discourse --- 6/18/2026
 
 While cleaning out my office today, I found this, which I wrote in 1992: In the middle 1970's, the IBM corporation did (and perhaps still does) most of their in-house programming in a computer language called FORTRAN.  They had a pretty good...
-
-
-[Egyptian fraction multiplication](https://blog.plover.com/2026/06/17)
----
-
-The Universe of Discourse --- 6/17/2026
-
-(Very much previously: Egyptian Fractions) Back in March, I had been reading On the Egyptian method of decomposing  into unit fractions by Abdulrahman A. Abdulaziz, and I reported that:  There is some indication that Ahmes preferred fractions...
 
 
 [The Tech of Silk Road](https://blog.computationalcomplexity.org/feeds/2053595728659607005/comments/default)
