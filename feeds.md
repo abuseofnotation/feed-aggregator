@@ -1,4 +1,20 @@
 
+[Unexpected Unemployment](https://blog.computationalcomplexity.org/feeds/6471563182170834736/comments/default)
+---
+
+Computational Complexity --- 8/12/2026
+
+Enjoying Idaho while ignoring IllinoisToday is the first day of my life that I am unemployed. And not by choice.As I mentioned on LinkedIn last week, me and about 160 of my colleagues, staff and faculty, untenured and tenured, lost our positions at...
+
+
+[Double Maths First Thing: Issue 65](https://aperiodical.com/2026/08/double-maths-first-thing-issue-65/)
+---
+
+The Aperiodical --- 8/12/2026
+
+Double Maths First Thing has an army of clones Hello! My name is Colin and I am a mathematician on a mission to spread the joy and delight of working things out. I had a delightful chat with young Bill about complex numbers and matrices and noticed...
+
+
 [My comprehensive plan for US strategy in the Middle East… *](https://crookedtimber.org/2026/08/11/my-comprehensive-plan-for-us-strategy-in-the-middle-east/)
 ---
 
@@ -415,14 +431,6 @@ The Aperiodical --- 7/1/2026
 Double Maths First Thing is apparently abelian. Hello! My name is Colin and I am a mathematician on a mission to spread joy and delight in doing maths. Today, though, I’m on a train to speak with a client about modelling extreme winds, which I...
 
 
-[Aperiodical News Roundup – June 2026](https://aperiodical.com/2026/07/aperiodical-news-roundup-june-2026/)
----
-
-The Aperiodical --- 7/1/2026
-
-Here’s a round-up of some news from this month not otherwise covered on the site. The UK government has appointed two operational researchers as direct ministerial appointments: Professors Christina Pagel and Martin Utley will use operational...
-
-
 [Moduloku](https://www.fractalkitty.com/moduloku/)
 ---
 
@@ -661,14 +669,6 @@ Computational Complexity --- 5/17/2026
 Computational Complexity --- 5/14/2026
 
 For those very long-time readers this blog extensively covered prediction markets from 2006 to 2008. In a prediction market, you have a future event, such as the winner of an election, and a market that pays off one dollar if that event happens and...
-
-
-[Searches Are Weird! No they're not! Bad coding style?](https://blog.computationalcomplexity.org/feeds/8403928404492756431/comments/default)
----
-
-Computational Complexity --- 5/11/2026
-
-In David Marcus's guest post on good coding style (see here)  he reviewed a book from 1986 called "Professional Pascal."I wondered if it was still in print and could be bought:1) I went to Amazon and searched all products for Professional Pascal....
 
 
 [Quantum Mechanics of the Inverse Cube Force Law](https://golem.ph.utexas.edu/category/2026/04/the_quantum_mechanics_of_the_i.html)
