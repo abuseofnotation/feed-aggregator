@@ -1,4 +1,12 @@
 
+[The road to epsilon-zero: Productive programs and well-founded orders](https://blog.plover.com/2026/08/13)
+---
+
+The Universe of Discourse --- 8/13/2026
+
+Previously: Ordinal numbers and basic set theory Ordinals as nim-heaps Nim always ends, even with infinite ordinals Infinite Nim as a coin-moving game Coin-moving games without the coins Previously we saw how to interpret the difficult-seeming...
+
+
 [Unexpected Unemployment](https://blog.computationalcomplexity.org/feeds/6471563182170834736/comments/default)
 ---
 
@@ -292,7 +300,7 @@ Crooked Timber --- 7/20/2026
 
 The Universe of Discourse --- 7/19/2026
 
-Previously: Ordinal numbers and basic set theory Ordinals as nim-heaps Yesterday I talked about the game of Nim, which involves two players taking beans from several piles, and an extension that includes green tokens that behave a bit like...
+Previously: Ordinal numbers and basic set theory Ordinals as nim-heaps [Yesterday][prev-2] I talked about the game of Nim, which involves two players taking beans from several piles, and an extension that includes green tokens that behave a...
 
 
 [Bipartite Perfect Matching in Deterministic NC](https://blog.computationalcomplexity.org/feeds/1087736660426121662/comments/default)
@@ -501,14 +509,6 @@ IntroductionIn this inquiry, we build a sequence from a single 2. The first rule
 Joel David Hamkins --- 6/20/2026
 
 This is a talk for the Workshop on Mereology at Shandong University in Jinan, China, a part of the week-long conference Week of Fusion Philosophy, 22-26 June 2026. The mereology talks are on 22 June 2026. Title: Set-theoretic mereology as …...
-
-
-[My 1992 view of the problems of computer programming in 1992](https://blog.plover.com/2026/06/18)
----
-
-The Universe of Discourse --- 6/18/2026
-
-While cleaning out my office today, I found this, which I wrote in 1992: In the middle 1970's, the IBM corporation did (and perhaps still does) most of their in-house programming in a computer language called FORTRAN.  They had a pretty good...
 
 
 [The Tech of Silk Road](https://blog.computationalcomplexity.org/feeds/2053595728659607005/comments/default)
