@@ -1,4 +1,20 @@
 
+[IIT is the canary in the coalmine (Do our younger readers know what that means? Do we have younger readers?)](https://blog.computationalcomplexity.org/feeds/7693509281939335540/comments/default)
+---
+
+Computational Complexity --- 8/16/2026
+
+Lance has posted about his, and around 160 others, being laid off from IIT here.(IIT stands for Illinois Institute of Technology which is where Lance was employed.)Hence I looked into what is happening at IIT to see if there is a lesson for us...
+
+
+[Sunday photoblogging: Parys mountain copper mine](https://crookedtimber.org/2026/08/16/sunday-photoblogging-parys-mountain-copper-mine/)
+---
+
+Crooked Timber --- 8/16/2026
+
+
+
+
 [The road to epsilon-zero: Productive programs and well-founded orders](https://blog.plover.com/2026/08/13)
 ---
 
@@ -285,14 +301,6 @@ I love Rory Stewart’s memoir about being a politician; its one of the best boo
 Crooked Timber --- 7/21/2026
 
 I just learned about The Fandom and Social Connection Initiative and I’m intrigued. The idea is to study the possibility that sports fandom can be an antidote to the “connection recession,” as traditional “third places”—like churches, civic...
-
-
-[A big thank you …](https://crookedtimber.org/2026/07/20/a-big-thank-you-2/)
----
-
-Crooked Timber --- 7/20/2026
-
-… to CT reader and commenter Dr Memory, who has cleaned up our database, eliminating many of the badly rendered quotation marks and similar problems. Those problems reflect the fact that the blog is now more than 20 years old, and has gone through...
 
 
 [The road to epsilon-zero: Nim always ends, even with infinite ordinals](https://blog.plover.com/2026/07/19)
@@ -661,14 +669,6 @@ Thanks to Sam Graf for introducing me to this and suggesting some toys. Introduc
 Computational Complexity --- 5/17/2026
 
 1) Congratulations to Scott Aaronson for winning the first Trevisan Award.The Trevisan Award is in memory of Luca Trevisan and recognizes expository work in Theoretical Computer Science. It is given out by the ACM. The ACM announcement of Scott's...
-
-
-[Prediction Markets Redux](https://blog.computationalcomplexity.org/feeds/284448375668823016/comments/default)
----
-
-Computational Complexity --- 5/14/2026
-
-For those very long-time readers this blog extensively covered prediction markets from 2006 to 2008. In a prediction market, you have a future event, such as the winner of an election, and a market that pays off one dollar if that event happens and...
 
 
 [Quantum Mechanics of the Inverse Cube Force Law](https://golem.ph.utexas.edu/category/2026/04/the_quantum_mechanics_of_the_i.html)
