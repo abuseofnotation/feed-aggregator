@@ -1,4 +1,20 @@
 
+[Three Generations in E7](https://golem.ph.utexas.edu/category/2026/08/three_generations_in_e7.html)
+---
+
+The n-Category Café --- 8/17/2026
+
+How you can fit the Lie algebra of the Standard Model gauge group and its representation on three generations of fermions into the Lie algebra of E7.
+
+
+[\(-e^{i\pi}\) to Watch: Ellie Sleightholm](https://aperiodical.com/2026/08/eipi-to-watch-ellie-sleightholm/)
+---
+
+The Aperiodical --- 8/17/2026
+
+In this series of posts, we’ll be featuring mathematical video and streaming channels from all over the internet, by speaking to the creators of the channel and asking them about what they do. We spoke to Ellie Sleightholm about her YouTube...
+
+
 [IIT is the canary in the coalmine (Do our younger readers know what that means? Do we have younger readers?)](https://blog.computationalcomplexity.org/feeds/7693509281939335540/comments/default)
 ---
 
@@ -439,14 +455,6 @@ Computational Complexity --- 7/1/2026
 Harry Lewis pointed Bill and me to Gottfried Leibniz's 1677 treatise The True Method (translated from the original French). I highly recommend taking the time to read this three page document where he talks about formalizing all human knowledge.The...
 
 
-[Double Maths First Thing: Issue 5F](https://aperiodical.com/2026/07/double-maths-first-thing-issue-5f/)
----
-
-The Aperiodical --- 7/1/2026
-
-Double Maths First Thing is apparently abelian. Hello! My name is Colin and I am a mathematician on a mission to spread joy and delight in doing maths. Today, though, I’m on a train to speak with a client about modelling extreme winds, which I...
-
-
 [Moduloku](https://www.fractalkitty.com/moduloku/)
 ---
 
@@ -789,12 +797,4 @@ I am very pleased to announce that The Book of Infinity is now available for p
 The n-Category Café --- 3/27/2026
 
 Slides for a talk on features of the octonionic projective plane.
-
-
-[The Agent That Doesn't Know Itself](https://golem.ph.utexas.edu/category/2026/03/the_agent_that_doesnt_know_its.html)
----
-
-The n-Category Café --- 3/20/2026
-
-A large language model has very little self-awareness.  But it is easy to give it some rudimentary but useful forms of self-awareness using the "plumbing" language.
 
