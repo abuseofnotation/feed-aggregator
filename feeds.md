@@ -1,4 +1,20 @@
 
+[The economics of Swifties](https://crookedtimber.org/2026/08/18/the-economics-of-swifties/)
+---
+
+Crooked Timber --- 8/18/2026
+
+Yesterday, I ran my first gimmick promotion for the Brisbane to Gold Coast Ride against Cancer [1]. I invited anyone who donated $100 to nominate a topic on which I should write a post. Reader Daniela Brins-Norris has taken me up on the offer, and...
+
+
+[Ceuta Summit: What Vitoria would tell Sánchez about migration](https://crookedtimber.org/2026/08/18/ceuta-what-vitoria-would-tell-about-migration/)
+---
+
+Crooked Timber --- 8/18/2026
+
+The Prime Minister of Spain, Pedro Sánchez, likes to invoke international law. Imagine that one day, someone had finally responded to him. Not just anyone, but one of the founding fathers of international law. It happened just after the Ceuta...
+
+
 [Three Generations in E7](https://golem.ph.utexas.edu/category/2026/08/three_generations_in_e7.html)
 ---
 
@@ -301,22 +317,6 @@ Back in the 90s when I was a young professor at the University of Chicago, we wo
 The Aperiodical --- 7/22/2026
 
 Double Maths First Thing doesn’t fear the REAPER Hello! My name is Colin and I am a mathematician on a mission to spread mathematical joy and surprise. This week is full of leavers’ assemblies and general end-of-term commitments, so you’ll forgive...
-
-
-[Advice for England’s latest Secretary of State for Education.](https://crookedtimber.org/2026/07/22/advice-for-englands-latest-secretary-of-state-for-education/)
----
-
-Crooked Timber --- 7/22/2026
-
-I love Rory Stewart’s memoir about being a politician; its one of the best books I’ve read about British politics. Among his many observations about the dysfunctionality of government is that ministers typically know nothing about their briefs...
-
-
-[Fandom and Social Connection](https://crookedtimber.org/2026/07/21/fandom-and-social-connection/)
----
-
-Crooked Timber --- 7/21/2026
-
-I just learned about The Fandom and Social Connection Initiative and I’m intrigued. The idea is to study the possibility that sports fandom can be an antidote to the “connection recession,” as traditional “third places”—like churches, civic...
 
 
 [The road to epsilon-zero: Nim always ends, even with infinite ordinals](https://blog.plover.com/2026/07/19)
