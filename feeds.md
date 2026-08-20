@@ -1,4 +1,20 @@
 
+[Centaur Math](https://blog.computationalcomplexity.org/feeds/3544420287917761769/comments/default)
+---
+
+Computational Complexity --- 8/19/2026
+
+In the past, new PhD students would ask how they could succeed when they had to compete with the likes of say, Richard Karp or Avi Wigderson. I would say Karp and Wigderson have limited bandwidth and you can work on problems they don't work on, or...
+
+
+[Double Maths First Thing: Issue 66](https://aperiodical.com/2026/08/double-maths-first-thing-issue-66/)
+---
+
+The Aperiodical --- 8/19/2026
+
+Double Maths First Thing gets its kicks on a.19792ish Hello! My name is Colin and I am a mathematician on a mission to spread the joy and love in doing maths, figuring stuff out, getting stuck and getting unstuck again. You’ll need to forgive a...
+
+
 [The economics of Swifties](https://crookedtimber.org/2026/08/18/the-economics-of-swifties/)
 ---
 
@@ -423,14 +439,6 @@ Computational Complexity --- 7/9/2026
 Two editorials in the July issue of the Communications of the Association for Computing Machinery ask about the decay and future of the organization itself.Jim Larus, editor-in-chief of the CACM, writes Wither ACM? Publish and Perish?ACM no longer...
 
 
-[Double Maths First Thing: Issue 60](https://aperiodical.com/2026/07/double-maths-first-thing-issue-60/)
----
-
-The Aperiodical --- 7/8/2026
-
-Double Maths First Thing has a suspended suspension. Hello! My name is Colin and I am a mathematician on a mission to find and spread mathematical joy, and encourage the idea that maths isn’t just endless sheets of exercises – you can sprinkle it...
-
-
 [On the contingent contingency of V = HOD and independence over the maximality principles, Fudan University, Shanghai, July 2026](https://jdh.hamkins.org/contingent-contingency-of-hod-fudan-july-2026/)
 ---
 
@@ -669,14 +677,6 @@ Let \(f\) be a function mapping binary strings of length \(m\) to strings of len
 Fractal Kitty --- 5/17/2026
 
 Thanks to Sam Graf for introducing me to this and suggesting some toys. IntroductionMultiplication tables can be fun. Line up your numbers, multiply, and find patterns. Like with 5x5, we can fill it out and highlight symmetry, divisibility,...
-
-
-[Scott Aaronson wins Trevisan Award? Prize? Medal? Statue?](https://blog.computationalcomplexity.org/feeds/126836587811192391/comments/default)
----
-
-Computational Complexity --- 5/17/2026
-
-1) Congratulations to Scott Aaronson for winning the first Trevisan Award.The Trevisan Award is in memory of Luca Trevisan and recognizes expository work in Theoretical Computer Science. It is given out by the ACM. The ACM announcement of Scott's...
 
 
 [Quantum Mechanics of the Inverse Cube Force Law](https://golem.ph.utexas.edu/category/2026/04/the_quantum_mechanics_of_the_i.html)
