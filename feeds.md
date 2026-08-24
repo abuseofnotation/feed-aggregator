@@ -1,4 +1,12 @@
 
+[Sunday photoblogging: Jenisch-Haus, Hamburg](https://crookedtimber.org/2026/08/23/sunday-photoblogging-jenisch-haus-hamburg/)
+---
+
+Crooked Timber --- 8/23/2026
+
+
+
+
 [The road to epsilon-zero: Shortlex order also orders sequences of numbers](https://blog.plover.com/2026/08/21)
 ---
 
@@ -317,14 +325,6 @@ In this series of posts, we’ll be featuring mathematical video and streaming c
 Computational Complexity --- 7/27/2026
 
 Let's say there is a statement in math T that you wonder whether it's true or false. You may even make a conjecture of which way it goes. Do you have a rooting interest? I may think T is true, but if someone proves T or proves NOT(T) my main...
-
-
-[Sunday photoblogging: Beaumaris](https://crookedtimber.org/2026/07/26/sunday-photoblogging-beaumaris/)
----
-
-Crooked Timber --- 7/26/2026
-
-
 
 
 [A Diagram is a Functor](https://www.math3ma.com/blog/a-diagram-is-a-functor)
