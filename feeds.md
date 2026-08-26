@@ -1,4 +1,12 @@
 
+[Why Ceuta is European, and what came of it](https://crookedtimber.org/2026/08/25/why-ceuta-is-european-and-what-came-of-it/)
+---
+
+Crooked Timber --- 8/25/2026
+
+Ceuta, the small Spanish enclave on the coast of North Africa, has been in the news lately. And I’ve seen a couple of articles mentioning that Ceuta has been a Spanish possession since 1668. Which triggered my inner history nerd, because on one...
+
+
 [Sunday photoblogging: Jenisch-Haus, Hamburg](https://crookedtimber.org/2026/08/23/sunday-photoblogging-jenisch-haus-hamburg/)
 ---
 
@@ -293,14 +301,6 @@ Previously: Ordinal numbers and basic set theory Ordinals as nim-heaps Nim alway
 The Aperiodical --- 7/29/2026
 
 Double Maths First Thing is somewhat ready to rock Hello! My name is Colin and I am a mathematician on a mission to spread the joy and love in mathematics, the pleasure of puzzling things out and getting people to notice the sense of satisfaction...
-
-
-[Malware problem (fixed)](https://crookedtimber.org/2026/07/29/malware-problem/)
----
-
-Crooked Timber --- 7/29/2026
-
-A number of commenters noted a malware problem with the site.It appears to be a well known attack called ClickFix. It’s now fixed, thanks again to Doctor Memory
 
 
 [“Steph Curry: fluke or breakthrough” ten years later](https://blog.plover.com/2026/07/27)
