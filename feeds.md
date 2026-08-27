@@ -1,4 +1,52 @@
 
+[The Calculator Transition](https://blog.computationalcomplexity.org/feeds/8258498853326152436/comments/default)
+---
+
+Computational Complexity --- 8/26/2026
+
+There's a scene in Apollo 13 where Jim Lovell, played by Tom Hanks, asks Houston control to check his calculations, which they do using a slide rule. My father told me that when he was in college (1950s) that engineers measured their technical...
+
+
+[Double Maths First Thing: Issue 67](https://aperiodical.com/2026/08/double-maths-first-thing-issue-67/)
+---
+
+The Aperiodical --- 8/26/2026
+
+Double Maths First Thing is not, and has never been, down with the kids. Hello! My name is Colin and I am a mathematician on a mission to spread joy and delight in maths, puzzles and problem-solving. I’m just back from a week in Germany, where the...
+
+
+[The contingent HOD dichotomy, Notre Dame Logic Seminar, September 2026](https://jdh.hamkins.org/the-contingent-hod-dichotomy-notre-dame-logic-seminar-september-2026/)
+---
+
+Joel David Hamkins --- 8/26/2026
+
+This will be a talk for the Logic Seminar at the University of Notre Dame on 15 September 2026, 2pm in the Hayes-Healy building room 125. The contingent HOD dichotomy Joel David Hamkins Abstract: We shall discuss the contingently contingent …...
+
+
+[Entropy](http://abuseofnotation.github.io/entropy/)
+---
+
+Abuse of Notation --- 8/26/2026
+
+Weird places where I encounter the concept of #entropy Value, according to some theory of economics, is created by rearranging the natural resources, given to us in a special way. Computation,(according to computer science) is also the process of...
+
+
+[What can *you* do](http://abuseofnotation.github.io/what-can-you-do/)
+---
+
+Abuse of Notation --- 8/26/2026
+
+About all the terrible things right now that are happening, what can you do? (besides whining) Well, you, the person who is mostly sad, mostly tired, mostly OK when not bothered: You can do nothing. But, you, the person who has ears has eyes has...
+
+
+[Predictable](http://abuseofnotation.github.io/predictable/)
+---
+
+Abuse of Notation --- 8/26/2026
+
+title: Predictability layout: microblog category: microblog tags: zen poetry — Reality is getting less and less predictable. At one point the wine is tasty, the next it makes me sick.
+
+
 [Why Ceuta is European, and what came of it](https://crookedtimber.org/2026/08/25/why-ceuta-is-european-and-what-came-of-it/)
 ---
 
@@ -383,14 +431,6 @@ The Universe of Discourse --- 7/18/2026
 Previously: Ordinal numbers and basic set theory We're going to get to  in a long and roundabout way.  First I want to talk about the game of Nim. Nim Nim is a very simple game for two players.  There are some piles of beans, which are...
 
 
-[Double Maths First Thing: Issue 61](https://aperiodical.com/2026/07/double-maths-first-thing-issue-61/)
----
-
-The Aperiodical --- 7/15/2026
-
-Double Maths First Thing has an open mic spreadsheet Hello! My name is Colin and I am a mathematician on a mission to spread mathematical joy and delight in figuring stuff out. I did some lovely science last week, full on...
-
-
 [Herman Chernoff (1923-2026)](https://blog.computationalcomplexity.org/feeds/2413597657266787510/comments/default)
 ---
 
@@ -671,14 +711,6 @@ Fractal Kitty --- 5/21/2026
 unedited human writing before bedOriginIn the beginning there was a point.              ...And the beginning was but a period in which time was noted by a wisp of this existence
 
 
-[Range Avoidance](https://blog.computationalcomplexity.org/feeds/8474824991091188818/comments/default)
----
-
-Computational Complexity --- 5/20/2026
-
-Let \(f\) be a function mapping binary strings of length \(m\) to strings of length \(n\) with \(n>m\). Since there are more strings of length \(n\) than \(m\), \(f\) is not onto. Can you find a string not in the range? This is known as the range...
-
-
 [Inquiries-Week 9: Mod Multiplication](https://www.fractalkitty.com/inquiries-week-9-mod-multiplication/)
 ---
 
@@ -765,36 +797,4 @@ A051070 is a sequence about OEIS sequences. a(n) is the n-th term in sequence A_
 Math ∩ Programming --- 4/7/2026
 
 Problem: Determine if a 32-bit number is prime (deterministically) Solution: (in C++) // Bases to test. Using the first 4 prime bases makes the test deterministic // for all 32-bit integers. See https://oeis.org/A014233. int64_t bases[] = {2, 3, 5,...
-
-
-[The spectrum of consistency strengths for membership in a computably enumerable set, Notre Dame Logic Seminar, April 2026](https://jdh.hamkins.org/consistency-strengths-for-membership-in-a-ce-set-notre-dame-logic-seminar-april-2026/)
----
-
-Joel David Hamkins --- 4/4/2026
-
-This will be a talk for the Logic Seminar at the University of Notre Dame, 14 April 2026, 2pm, Room 125 Hayes-Healey. Abstract After establishing several general features of the hierarchy of consistency strength, we shall consider the possible...
-
-
-[The Irrational Decision—A Book Review](https://www.jeremykun.com/2026/04/01/irrational-decision-book-review/)
----
-
-Math ∩ Programming --- 4/1/2026
-
-It’s the 5th annual April Cools! Here are my previous April Cools articles This year it’s a book review of Ben Recht’s book, The Irrational Decision: How We Gave Computers the Power to Choose For us, released Mar 10, 2026. The publishing industry...
-
-
-[Inquiries-Week 7: EOOEOEEO](https://www.fractalkitty.com/inquiries-week-7-eooeoeeo/)
----
-
-Fractal Kitty --- 4/1/2026
-
-IntroductionLet's start with E. Its opposite is O. So if we flip E, we get O. Let's make a pattern. EE OE O O EE O O E O E E OHow is this pattern constructed?  What comes next? Write
-
-
-[The Book of Infinity, MIT Press, 2026](https://jdh.hamkins.org/the-book-of-infinity/)
----
-
-Joel David Hamkins --- 3/28/2026
-
-I am very pleased to announce that The Book of Infinity is now available for pre-order. Check it out at your favorite booksellers. From the preface: Come, let us explore infinity! We shall visit all my favorite paradoxes and conundrums. The ancient...
 
