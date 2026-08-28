@@ -1,4 +1,12 @@
 
+[Gold and Myth in the Australian Blue Mountains](https://crookedtimber.org/2026/08/28/gold-and-myth-in-the-australian-blue-mountains/)
+---
+
+Crooked Timber --- 8/28/2026
+
+At the end of a glorious day hanging out at galleries, antique shops and the pub with friend and historian Matt Allen we walked to the station at Blackheath in the Blue Mountains, Australia (where I live) for Matt to get the train back to the city....
+
+
 [The Calculator Transition](https://blog.computationalcomplexity.org/feeds/8258498853326152436/comments/default)
 ---
 
@@ -293,14 +301,6 @@ Double Maths First Thing is square in hex AND decimal! Hello! My name is Colin a
 The Aperiodical --- 8/4/2026
 
 The next issue of the Carnival of Mathematics, rounding up blog posts from the months of June and July 2026, is now online courtesy of Robin Whitty at Theorem of the Day. The Carnival rounds up maths blog posts from all over the internet, including...
-
-
-[If you can’t be bothered writing it, I can’t be bothered reading it.](https://crookedtimber.org/2026/08/04/if-you-cant-be-bothered-writing-it-i-cant-be-bothered-reading-it/)
----
-
-Crooked Timber --- 8/4/2026
-
-The producerist vision of AI seems to assume an endlessly expanding market for reading. And reading. Well. It is rather more than a market. Warning: this post is a little more sweary than usual. If that bothers you, maybe read something else. We...
 
 
 [A problematic category on Jeopardy Raises a Good Question](https://blog.computationalcomplexity.org/feeds/3036743580181559727/comments/default)
