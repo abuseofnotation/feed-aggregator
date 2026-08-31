@@ -1,4 +1,12 @@
 
+[Claude and Colorblind Questions](https://blog.computationalcomplexity.org/feeds/579233444126434428/comments/default)
+---
+
+Computational Complexity --- 8/31/2026
+
+BILL: Lance, I have a question and a meta question:a) List all the presidents and vice presidents who were colorblind.b) Do you know this sort of thing since you are colorblind, and hencemight have looked this up in the past?LANCE: (b) No. And if...
+
+
 [Gold and Myth in the Australian Blue Mountains](https://crookedtimber.org/2026/08/28/gold-and-myth-in-the-australian-blue-mountains/)
 ---
 
@@ -685,14 +693,6 @@ TL;DR: introducing nar-klepto, the context that led to its inception, and some f
 Computational Complexity --- 5/27/2026
 
 The technical paper for the Erdős Unit Distance Problem lists only "OpenAI" as an author. When Bill posted on Sunday about the Erdős distance problems, he mentioned the names of OpenAI researchers who prompted and checked the proof. Sebastien...
-
-
-[Two Erdős Problems on Points in the Plane and AI](https://blog.computationalcomplexity.org/feeds/2319231633623037559/comments/default)
----
-
-Computational Complexity --- 5/25/2026
-
-In a 1946 paper in the American Mathematical Monthly, Paul Erdős posed the Erdős Distinct Distance Problem and the Erdős Unit Distance Problem.--------------------------------------------------------------------THE ERDŐS DISTINCT DISTANCE PROBLEMA...
 
 
 [More whimsical OEIS sequences](https://www.jeremykun.com/shortform/2026-05-22-1528/)
