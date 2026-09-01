@@ -1,4 +1,12 @@
 
+[Teaching pluralizing political philosophy](https://crookedtimber.org/2026/08/31/teaching-pluralizing-political-philosophy/)
+---
+
+Crooked Timber --- 8/31/2026
+
+A couple of years ago, I edited a volume on pluralizing political philosophy, in particular in relation to economic and ecological inequalities. It was put together under the Covid-pandemic, so we had to swap the authors-conference for online...
+
+
 [Claude and Colorblind Questions](https://blog.computationalcomplexity.org/feeds/579233444126434428/comments/default)
 ---
 
@@ -271,12 +279,12 @@ Crooked Timber --- 8/7/2026
 So there was a modest puff of articles last month about astronomers discovering “the edge of the galaxy”. They were referencing this recent paper, which… doesn’t really say that. But it’s an interesting paper anyway, so let’s discuss. As we all...
 
 
-[Art Prompts: Hailstone Arabesques](https://www.fractalkitty.com/u/)
+[Artsy Math: Hailstone Arabesques](https://www.fractalkitty.com/u/)
 ---
 
 Fractal Kitty --- 8/6/2026
 
-This is the first in a series of prompts for art intertwined with math. Jump in and choose your medium to indulge in creative expression. Warm-upGrab a sheet of paper and a ruler. Make a line with 16 marks evenly spaced from the top to the bottom of
+This is the first in a series posts that blend art and math. Jump in and choose your medium to indulge in creative expression. Note: This post was renamed, to better define the series of posts. Warm-upGrab a sheet of paper and a ruler. Make a line...
 
 
 [The road to epsilon-zero: Coin-moving games with no coins](https://blog.plover.com/2026/08/05)
@@ -285,14 +293,6 @@ This is the first in a series of prompts for art intertwined with math. Jump in 
 The Universe of Discourse --- 8/5/2026
 
 Previously: Ordinal numbers and basic set theory Ordinals as nim-heaps Nim always ends, even with infinite ordinals Infinite Nim as a coin-moving game In the previous article we saw how to interpret Nim heaps of up to beans as coins on a...
-
-
-[Perfectly Plausible](https://crookedtimber.org/2026/08/05/perfectly-plausible/)
----
-
-Crooked Timber --- 8/5/2026
-
-In the final comment on my most recent CT post, John Q strategically grants a premise from an earlier comment by poster Matt: John Q grants that “it’s perfectly plausible that the number of US golfers exceeds the population of Australia.” This was...
 
 
 [Double Maths First Thing: Issue 64](https://aperiodical.com/2026/08/double-maths-first-thing-issue-64/)
