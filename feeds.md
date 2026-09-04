@@ -1,4 +1,60 @@
 
+[The US Navy loses another war](https://crookedtimber.org/2026/09/04/the-us-navy-loses-another-war/)
+---
+
+Crooked Timber --- 9/4/2026
+
+… but that won’t change any minds It’s now six months since the US-Israel war on Iran began with air attacks which killed the Iranian leader Ayatollah Khamenei as well as around 200 schoolchildren. The war has dragged on a long time. But before...
+
+
+[Sci Art September](https://www.fractalkitty.com/sci-art-september-2/)
+---
+
+Fractal Kitty --- 9/3/2026
+
+It's time for SciArt September hosted by Kristin Henry (vis.Social/@kristinHenry) with #SciArt on Mastodon.  This year, I plan to make wallpapers. There are 137 images per doodle that are formed from mirroring, gliding, and rotating an image. I am...
+
+
+[Don’t use a gmail.com address](https://crookedtimber.org/2026/09/03/dont-use-a-gmail-com-address/)
+---
+
+Crooked Timber --- 9/3/2026
+
+We are being flooded with spam coming from fake gmail.com addresses at the moment. So, for the moment, I’ve set our spam filter to delete everything from gmail.com If you want to post a real comment, just give a spurious address like anon.com and...
+
+
+[Taylor Swift: The Good Billionaire?](https://crookedtimber.org/2026/09/03/taylor-swift-the-good-billionaire/)
+---
+
+Crooked Timber --- 9/3/2026
+
+I wrote this post a couple of weeks ago, responding to a challenge* to write about the economic aspects of Taylor Swift. Not long after that, the world lost the marvellous Dolly Parton. Parton’s lifetime income almost certainly exceeded a billion...
+
+
+[What is a Computer?](https://blog.computationalcomplexity.org/feeds/5506622862818745076/comments/default)
+---
+
+Computational Complexity --- 9/2/2026
+
+Ben Brubaker has a new Quanta essay Does Computer Science Need Computers? Despite the title (and authors generally don't choose their titles), Brubaker's essay really addresses the question as to whether computer science is about computers. He...
+
+
+[Double Maths First Thing: Issue 68](https://aperiodical.com/2026/09/double-maths-first-thing-issue-68/)
+---
+
+The Aperiodical --- 9/2/2026
+
+Double Maths First Thing is grateful to Past Colin’s organisation. Hello! My name is Colin and I am a mathematician on a mission to spread the joy and love of mathematics, even when deadlines are tight. Fortunately, I anticipated this might happen...
+
+
+[Three Generations in E7](https://golem.ph.utexas.edu/category/2026/08/three_generations_in_e7.html)
+---
+
+The n-Category Café --- 9/1/2026
+
+How you can fit the Lie algebra of the Standard Model gauge group and its representation on three generations of fermions into the Lie algebra of E7.
+
+
 [Teaching pluralizing political philosophy](https://crookedtimber.org/2026/08/31/teaching-pluralizing-political-philosophy/)
 ---
 
@@ -143,14 +199,6 @@ Crooked Timber --- 8/18/2026
 The Prime Minister of Spain, Pedro Sánchez, likes to invoke international law. Imagine that one day, someone had finally responded to him. Not just anyone, but one of the founding fathers of international law. It happened just after the Ceuta...
 
 
-[Three Generations in E7](https://golem.ph.utexas.edu/category/2026/08/three_generations_in_e7.html)
----
-
-The n-Category Café --- 8/17/2026
-
-How you can fit the Lie algebra of the Standard Model gauge group and its representation on three generations of fermions into the Lie algebra of E7.
-
-
 [\(-e^{i\pi}\) to Watch: Ellie Sleightholm](https://aperiodical.com/2026/08/eipi-to-watch-ellie-sleightholm/)
 ---
 
@@ -247,36 +295,12 @@ Crooked Timber --- 8/9/2026
 According to various sources, John Crowley has died. This probably means something to many of you: Crooked Timber readers are not a random draw even on the population of highly literate people. Those of you who don’t know who John Crowley was will...
 
 
-[Sunday photoblogging: Castletown harbour, Isle of Man](https://crookedtimber.org/2026/08/09/sunday-photoblogging-castletown-harbour-isle-of-man/)
----
-
-Crooked Timber --- 8/9/2026
-
-
-
-
 [Alternative Fields Medal, awarded August 2026](https://jdh.hamkins.org/alternative-fields-medal-awarded-august-2026/)
 ---
 
 Joel David Hamkins --- 8/8/2026
 
 I am very pleased to announce that I have been awarded the Alternative Fields Medal in recognition of “Excellence in exposition of mathematics to a popular audience.” The award cites my various books as well as my participation on MathOverflow, …...
-
-
-[Summer lightness: errors that puzzled and/or irritated you.](https://crookedtimber.org/2026/08/07/summer-lightness-errors-that-puzzled-and-or-irritated-you/)
----
-
-Crooked Timber --- 8/7/2026
-
-A friend on facebook says that Hamnet contains a pretty serious error — naming the Costwolds the Chilterns (or, pretty much equivalently, mislocating the Chilterns between Stratford and Oxford). I’m not sure that would ruin the book for me, but I...
-
-
-[Occasional paper: The edge of the galaxy and the end of everything](https://crookedtimber.org/2026/08/07/occasional-paper-the-edge-of-the-galaxy-and-the-end-of-everything/)
----
-
-Crooked Timber --- 8/7/2026
-
-So there was a modest puff of articles last month about astronomers discovering “the edge of the galaxy”. They were referencing this recent paper, which… doesn’t really say that. But it’s an interesting paper anyway, so let’s discuss. As we all...
 
 
 [Artsy Math: Hailstone Arabesques](https://www.fractalkitty.com/u/)
@@ -397,14 +421,6 @@ Last week was the start of a mini-series on limits and colimits in category theo
 Computational Complexity --- 7/22/2026
 
 Back in the 90s when I was a young professor at the University of Chicago, we would have a Complexity Class of the Week where I would take some interesting complexity class, write down on a white board everything we knew about it with some open...
-
-
-[Double Maths First Thing: Issue 62](https://aperiodical.com/2026/07/double-maths-first-thing-issue-62/)
----
-
-The Aperiodical --- 7/22/2026
-
-Double Maths First Thing doesn’t fear the REAPER Hello! My name is Colin and I am a mathematician on a mission to spread mathematical joy and surprise. This week is full of leavers’ assemblies and general end-of-term commitments, so you’ll forgive...
 
 
 [The road to epsilon-zero: Nim always ends, even with infinite ordinals](https://blog.plover.com/2026/07/19)
@@ -687,14 +703,6 @@ AlternativeBit --- 6/1/2026
 TL;DR: introducing nar-klepto, the context that led to its inception, and some fun experiments we did last week with it. 4 years ago, I moved out of Bayonne to a rural area. My quality of life almost instantly skyrocketed; however, I quickly felt a...
 
 
-[Authorship in the AI Age](https://blog.computationalcomplexity.org/feeds/7044748621172288438/comments/default)
----
-
-Computational Complexity --- 5/27/2026
-
-The technical paper for the Erdős Unit Distance Problem lists only "OpenAI" as an author. When Bill posted on Sunday about the Erdős distance problems, he mentioned the names of OpenAI researchers who prompted and checked the proof. Sebastien...
-
-
 [More whimsical OEIS sequences](https://www.jeremykun.com/shortform/2026-05-22-1528/)
 ---
 
@@ -789,12 +797,4 @@ I went hunting for references to the OEIS in open source code, and found some we
 Math ∩ Programming --- 4/9/2026
 
 A051070 is a sequence about OEIS sequences. a(n) is the n-th term in sequence A_n (or -1 if A_n doesn’t have enough terms). So the first term in A051070 is 1 because A000001 is the number of groups of order n, and that sequence has 1 as its entry...
-
-
-[Deterministic Primality Testing for Limited Bit Width](https://www.jeremykun.com/2026/04/07/deterministic-miller-rabin/)
----
-
-Math ∩ Programming --- 4/7/2026
-
-Problem: Determine if a 32-bit number is prime (deterministically) Solution: (in C++) // Bases to test. Using the first 4 prime bases makes the test deterministic // for all 32-bit integers. See https://oeis.org/A014233. int64_t bases[] = {2, 3, 5,...
 
