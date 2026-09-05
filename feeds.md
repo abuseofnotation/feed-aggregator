@@ -1,4 +1,20 @@
 
+[Richard Stearns (1936-2026)](https://blog.computationalcomplexity.org/feeds/6658559765577405589/comments/default)
+---
+
+Computational Complexity --- 9/4/2026
+
+Richard Stearns (right) and Juris Hartmanis in May 1963. The main theorem from their seminal paper is on the blackboard. Stearns sent Lance this picture to help celebrate the 50th anniversary of the paper.Richard Stearns died on August 29, 2026....
+
+
+[Updates on HEIR, the homomorphic encryption compiler project](https://www.jeremykun.com/2026/09/04/updates-on-heir-homomorphic-encryption/)
+---
+
+Math ∩ Programming --- 9/4/2026
+
+On 2026-08-14 I published an article on the Google Security blog with an update on HEIR, our homomorphic encryption (HE) compiler. This is a companion article, in which I have no limits on word count or jargon, and I can feel free to be honest. So...
+
+
 [The US Navy loses another war](https://crookedtimber.org/2026/09/04/the-us-navy-loses-another-war/)
 ---
 
@@ -631,14 +647,6 @@ Computational Complexity --- 6/15/2026
 A mnemonic device is a sentence where the first letters of the words are helpful to remember something. My favorite one is               My Very Educated Mother Just Said Uh, No PlutoYou probably know what it's for. If not you can...
 
 
-[Odd Scenarios about Research Claims and Authorships](https://blog.computationalcomplexity.org/feeds/4823927278409986154/comments/default)
----
-
-Computational Complexity --- 6/15/2026
-
-Odd Scenarios about Research ClaimsI blogged about OpenAI's achievement of having AI solve a math problem here.My post had a few comments about authorship of such results.Lance had a post about co-authorship and AI hereThere are times when an...
-
-
 [There is(Ǝ) – Such that (∋)](https://www.fractalkitty.com/there-is-3-such-that/)
 ---
 
@@ -789,12 +797,4 @@ After spending many irritating hours with ChatGPT and Copilot, I finally tried o
 Math ∩ Programming --- 4/13/2026
 
 I went hunting for references to the OEIS in open source code, and found some weird ones. There are not one, but two live-coding music frameworks that use OEIS sequences as a source for “anything that can be sequenced” in music. I’m guessing that’s...
-
-
-[The OEIS meta sequence and subway stations](https://www.jeremykun.com/shortform/2026-04-09-0556/)
----
-
-Math ∩ Programming --- 4/9/2026
-
-A051070 is a sequence about OEIS sequences. a(n) is the n-th term in sequence A_n (or -1 if A_n doesn’t have enough terms). So the first term in A051070 is 1 because A000001 is the number of groups of order n, and that sequence has 1 as its entry...
 
