@@ -1,4 +1,12 @@
 
+[When Money Mattered](https://crookedtimber.org/2026/09/07/when-money-mattered/)
+---
+
+Crooked Timber --- 9/7/2026
+
+This week all the news services carried a story about the Dutch central bank shipping many, many tons of gold from the Mad King-led United States to the custody of cooler heads (well, cooling, we hope, after that very hot summer) in London. On the...
+
+
 [Richard Stearns (1936-2026)](https://blog.computationalcomplexity.org/feeds/6658559765577405589/comments/default)
 ---
 
@@ -301,14 +309,6 @@ Progressives scored a win over establishment Democrats in the Michigan primary e
 Computational Complexity --- 8/10/2026
 
 (Some of this came from a Reddit post I read, and some of the comments on it.) Here are theorems with names that I think are funny or unusual. The names are also pointers to the Wikipedia entry on them or some other source.The Chicken McNugget...
-
-
-[John Crowley has died](https://crookedtimber.org/2026/08/09/john-crowley-has-died/)
----
-
-Crooked Timber --- 8/9/2026
-
-According to various sources, John Crowley has died. This probably means something to many of you: Crooked Timber readers are not a random draw even on the population of highly literate people. Those of you who don’t know who John Crowley was will...
 
 
 [Alternative Fields Medal, awarded August 2026](https://jdh.hamkins.org/alternative-fields-medal-awarded-august-2026/)
