@@ -1,4 +1,12 @@
 
+[\(-e^{i\pi}\) to Watch: aboutlogic](https://aperiodical.com/2026/09/eipi-to-watch-aboutlogic/)
+---
+
+The Aperiodical --- 9/7/2026
+
+In this series of posts, we’ll be featuring mathematical video and streaming channels from all over the internet, by speaking to the creators of the channel and asking them about what they do. We spoke to Deniz & Thorsten, who host the aboutlogic...
+
+
 [When Money Mattered](https://crookedtimber.org/2026/09/07/when-money-mattered/)
 ---
 
@@ -36,7 +44,7 @@ Crooked Timber --- 9/4/2026
 
 Fractal Kitty --- 9/3/2026
 
-It's time for SciArt September hosted by Kristin Henry (vis.Social/@kristinHenry) with #SciArt on Mastodon.  This year, I plan to make wallpapers. There are 137 images per doodle that are formed from mirroring, gliding, and rotating an image. I am...
+It's time for SciArt September hosted by Kristin Henry (vis.Social/@kristinHenry) with #SciArt on Mastodon.  This year, I made wallpapers. There are 137 images per doodle that are formed from mirroring, gliding, and rotating an image. I am hosting...
 
 
 [Don’t use a gmail.com address](https://crookedtimber.org/2026/09/03/dont-use-a-gmail-com-address/)
@@ -405,14 +413,6 @@ Double Maths First Thing is somewhat ready to rock Hello! My name is Colin and I
 The Universe of Discourse --- 7/27/2026
 
 (Previously) Flukes and Breakthroughs In the NBA 2015–16 season, Steph Curry set the all-time single-season record for three-point field goals, 402, completely crushing the old record of 286.  Curry's record still stands. The New York Times was...
-
-
-[\(-e^{i\pi}\) to Watch: MathsWithKala](https://aperiodical.com/2026/07/eipi-to-watch-mathswithkala/)
----
-
-The Aperiodical --- 7/27/2026
-
-In this series of posts, we’ll be featuring mathematical video and streaming channels from all over the internet, by speaking to the creators of the channel and asking them about what they do. We spoke to Kala, who has an Instagram channel called...
 
 
 [Would Erdos have been happy with the resolution of the Erdos Unit Distance Problem? How to find out?](https://blog.computationalcomplexity.org/feeds/47540465404978675/comments/default)
