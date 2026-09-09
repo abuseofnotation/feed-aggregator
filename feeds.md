@@ -1,4 +1,28 @@
 
+[Youth CND](https://crookedtimber.org/2026/09/08/youth-cnd/)
+---
+
+Crooked Timber --- 9/8/2026
+
+Here’s another of my posts about being a peace activist in the UK in the early eighties. This one is mainly about my time in secondary school. When I linked to the substack version from Facebook a couple of people recognized some of the people...
+
+
+[Carnival of Maths 254](https://aperiodical.com/2026/09/carnival-of-maths-254/)
+---
+
+The Aperiodical --- 9/8/2026
+
+The next issue of the Carnival of Mathematics, rounding up blog posts from the month of August 2026, is now online courtesy of Karen Campe at Reflections and Tangents. The Carnival rounds up maths blog posts from all over the internet, including...
+
+
+[The E6 Root Polytope](https://golem.ph.utexas.edu/category/2026/09/the_e6_root_polytope.html)
+---
+
+The n-Category Café --- 9/8/2026
+
+Counting and visualizing the faces of the E6 root polytope.
+
+
 [\(-e^{i\pi}\) to Watch: aboutlogic](https://aperiodical.com/2026/09/eipi-to-watch-aboutlogic/)
 ---
 
@@ -303,14 +327,6 @@ Crooked Timber --- 8/11/2026
 How Hegsethian heroes destroyed themselves and their entire civilisation I haven’t yet seen the Odyssey film[1], but reviews mention a minor obsession of mine, the Late Bronze Age collapse and the ensuing Greek Dark Age. I first encountered this at...
 
 
-[“Fight,” Progressivism, and Performative Politics — Michigan Edition](https://crookedtimber.org/2026/08/11/fight-progressivism-and-performative-politics-michigan-edition/)
----
-
-Crooked Timber --- 8/11/2026
-
-Progressives scored a win over establishment Democrats in the Michigan primary election for Senator on Tuesday’s election. Abdul El-Sayed beat Haley Stevens by 1 point, despite many polls predicting that he would win by 7 or more. And Stevens beat...
-
-
 [Math Concepts With Funny Names](https://blog.computationalcomplexity.org/feeds/1016886829547690351/comments/default)
 ---
 
@@ -397,14 +413,6 @@ I would like to start this post with a thank you to members of this site for mak
 The Universe of Discourse --- 7/29/2026
 
 Previously: Ordinal numbers and basic set theory Ordinals as nim-heaps Nim always ends, even with infinite ordinals In the previous articles I talked about the game of Nim, a very  simple game for two players: There are some piles of...
-
-
-[Double Maths First Thing: Issue 63](https://aperiodical.com/2026/07/double-maths-first-thing-issue-63/)
----
-
-The Aperiodical --- 7/29/2026
-
-Double Maths First Thing is somewhat ready to rock Hello! My name is Colin and I am a mathematician on a mission to spread the joy and love in mathematics, the pleasure of puzzling things out and getting people to notice the sense of satisfaction...
 
 
 [“Steph Curry: fluke or breakthrough” ten years later](https://blog.plover.com/2026/07/27)
@@ -789,12 +797,4 @@ After spending many irritating hours with ChatGPT and Copilot, I finally tried o
 Mathematics and Computation --- 4/13/2026
 
 After spending many irritating hours with ChatGPT and Copilot, I finally tried out Claude. I told it to update photos of mathematicians from a derelict Perl script to a shiny new Python script with JSON, face recognition and modern CSS. It worked...
-
-
-[Unusual uses of OEIS sequences on GitHub](https://www.jeremykun.com/shortform/2026-04-13-0700/)
----
-
-Math ∩ Programming --- 4/13/2026
-
-I went hunting for references to the OEIS in open source code, and found some weird ones. There are not one, but two live-coding music frameworks that use OEIS sequences as a source for “anything that can be sequenced” in music. I’m guessing that’s...
 
