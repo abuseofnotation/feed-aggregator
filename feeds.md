@@ -1,4 +1,20 @@
 
+[Navier-Stokes and Lean](https://blog.computationalcomplexity.org/feeds/6472714798888176183/comments/default)
+---
+
+Computational Complexity --- 9/9/2026
+
+I was working on this week's post on Lean after reading Kevin Hartnett's book The Proof in the Code: How a Truth Machine Is Transforming Math and AI. And then yesterday OpenAI announced a solution to Navier-Stokes, one of the Millennium problems....
+
+
+[Double Maths First Thing: Issue 69](https://aperiodical.com/2026/09/double-maths-first-thing-issue-69/)
+---
+
+The Aperiodical --- 9/9/2026
+
+It’s Double Maths First Thing, not Double Entendre. Hello! My name is Colin and I am a mathematician on a mission to spread joy and delight in maths and mathematical thinking. Something that’s been brewing for a while: I’ve come to the decision...
+
+
 [Youth CND](https://crookedtimber.org/2026/09/08/youth-cnd/)
 ---
 
@@ -391,14 +407,6 @@ The Universe of Discourse --- 8/2/2026
 The bookshelf by my elbow, the one that I can reach without getting up, has seven books on it, not necessarily the ones I look in the most, but the ones whose emanations I most hope will infuse me as I write. Roget's Thesaurus (4th edition) The...
 
 
-[Aperiodical News Roundup – July 2026](https://aperiodical.com/2026/08/aperiodical-news-roundup-july-2026/)
----
-
-The Aperiodical --- 8/1/2026
-
-Here’s a short round-up of maths news from this month. The 2026 Fields medals have been awarded to Yu Deng, John Pardon, Jacob Tsimerman and Hong Wang. The Fields Medal is awarded to recognize outstanding mathematical achievement for existing work...
-
-
 [About Interactives: Inquiries.link](https://www.fractalkitty.com/about-interactives-inquiries-link/)
 ---
 
@@ -693,14 +701,6 @@ Computational Complexity --- 6/7/2026
 The n-Category Café --- 6/6/2026
 
 Readers may have noticed that I haven't been very active here for a while. That isn't because I haven't felt the "blogging urge", but because I felt that the things I want to blog about right now wouldn't be...
-
-
-[The Industrialization of Academic Research](https://blog.computationalcomplexity.org/feeds/3417752521572703761/comments/default)
----
-
-Computational Complexity --- 6/3/2026
-
-Yesterday, National Academy of Sciences President Marcia McNutt delivered her last annual State of the Sciences Address. Overall the talk basically calls us to adapt to the new reality that industrial and foundation support for research has taken a...
 
 
 [The 252nd Carnival of Mathematics](https://www.fractalkitty.com/the-252nd-carnival-of-mathematics/)
