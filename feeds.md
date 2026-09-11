@@ -1,8 +1,16 @@
 
+[Mathober 2026 Prompts](https://www.fractalkitty.com/mathober-2026-prompts/)
+---
+
+Fractal Kitty --- 9/10/2026
+
+Are you ready? October is right around the corner and you know what that means? Mathober! This years prompts are on the website mathober.com and below. If you are new to Mathober, no worries, you can jump right in. Each day there is a word or...
+
+
 [Navier-Stokes and Lean](https://blog.computationalcomplexity.org/feeds/6472714798888176183/comments/default)
 ---
 
-Computational Complexity --- 9/9/2026
+Computational Complexity --- 9/10/2026
 
 I was working on this week's post on Lean after reading Kevin Hartnett's book The Proof in the Code: How a Truth Machine Is Transforming Math and AI. And then yesterday OpenAI announced a solution to Navier-Stokes, one of the Millennium problems....
 
@@ -781,14 +789,6 @@ IntroductionPentominoes are shapes made from 5 squares joined edge-to-edge. Ther
 Good Fibrations --- 4/19/2026
 
 
-
-
-[Claude and I](https://math.andrej.com/2026/04/14/claude-and-i/)
----
-
-Mathematics and Computation --- 4/13/2026
-
-After spending many irritating hours with ChatGPT and Copilot, I finally tried out Claude. I told it to update photos of mathematicians from a derelict Perl script to a shiny new Python script with JSON, face recognition and modern CSS. It worked...
 
 
 [Claude and I](https://math.andrej.com/2026/04/14/claude-and-i/)
