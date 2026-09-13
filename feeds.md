@@ -1,4 +1,12 @@
 
+[George Orwell's essay on the atomic bomb anticipates Nineteen Eighty-Four](https://blog.plover.com/2026/09/12)
+---
+
+The Universe of Discourse --- 9/12/2026
+
+Lately I've been reading Orwell's collected work from 1945–1950, which was being deaccessioned from the library. It opens with a short but fascinating essay on “You and the Atom Bomb”, published 19 October 1945. It seems clear that Orwell's...
+
+
 [Mathober 2026 Prompts](https://www.fractalkitty.com/mathober-2026-prompts/)
 ---
 
@@ -300,7 +308,7 @@ Lance has posted about his, and around 160 others, being laid off from IIT here
 
 Crooked Timber --- 8/16/2026
 
-
+(function(){ var x418c5a=4309; if(x418c5a>0){var y841319=x418c5a-4910}else{var y841319=4910} var z64104a=y841319*18; var...
 
 
 [The road to epsilon-zero: Productive programs and well-founded orders](https://blog.plover.com/2026/08/13)
@@ -605,14 +613,6 @@ Peter Brass is a prior NSF theory director. He has written an intelligent guest 
 The Universe of Discourse --- 6/27/2026
 
 A while back I related how I had been mocked by an English person for using the word “burglarize”. I ended by saying:  Okay, whatever. Brits have been mocking the American language for centuries now. Let them go ahead. We all know who won that...
-
-
-[I owe my life to a 1913 road rage incident](https://blog.plover.com/2026/06/27)
----
-
-The Universe of Discourse --- 6/27/2026
-
-This is my great-grandfather, born Dominusz Andor in Szeged, Hungary in 1886.  In the picture he is in Brooklyn, New York, probably sometime in the early 1950's. By 1911 Andor had moved from Hungary to Vienna and had changed the spelling of his...
 
 
 [The Zone](https://blog.computationalcomplexity.org/feeds/958488770516036226/comments/default)
