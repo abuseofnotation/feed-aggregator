@@ -1,4 +1,20 @@
 
+[The US is not a serious country](https://crookedtimber.org/2026/09/13/the-us-is-not-a-serious-country/)
+---
+
+Crooked Timber --- 9/13/2026
+
+Last week, on 9 September, Donald Trump promised that, if the Republicans retained their Congressional majorities in the November elections, he would send $5000 to every adult American citizen. The cost has been estimated at around $1.2 trillion....
+
+
+[Sunday photoblogging: Hôtel d’Alfonce, Pézenas](https://crookedtimber.org/2026/09/13/sunday-photoblogging-hotel-dalfonce-pezenas/)
+---
+
+Crooked Timber --- 9/13/2026
+
+
+
+
 [George Orwell's essay on the atomic bomb anticipates Nineteen Eighty-Four](https://blog.plover.com/2026/09/12)
 ---
 
@@ -335,28 +351,12 @@ The Aperiodical --- 8/12/2026
 Double Maths First Thing has an army of clones Hello! My name is Colin and I am a mathematician on a mission to spread the joy and delight of working things out. I had a delightful chat with young Bill about complex numbers and matrices and noticed...
 
 
-[My comprehensive plan for US strategy in the Middle East… *](https://crookedtimber.org/2026/08/11/my-comprehensive-plan-for-us-strategy-in-the-middle-east/)
----
-
-Crooked Timber --- 8/11/2026
-
-… is set out over the fold. I’m confident readers who take a little time to think about it will realise it’s far superior to existing policy, and to any alternative proposed so far. Fourth repost since 2011
-
-
 [There are two kinds of theorems](https://blog.plover.com/2026/08/11)
 ---
 
 The Universe of Discourse --- 8/11/2026
 
 In mathematical study there are two kinds of theorems, which serve very different purposes.  Math instruction follows the same pattern. Students are often very puzzled by this, and rightly so, because it's never explained, or at least I've never...
-
-
-[The Odyssey and the Bronze Age Collapse](https://crookedtimber.org/2026/08/11/the-odyssey-and-the-bronze-age-collapse/)
----
-
-Crooked Timber --- 8/11/2026
-
-How Hegsethian heroes destroyed themselves and their entire civilisation I haven’t yet seen the Odyssey film[1], but reviews mention a minor obsession of mine, the Late Bronze Age collapse and the ensuing Greek Dark Age. I first encountered this at...
 
 
 [Math Concepts With Funny Names](https://blog.computationalcomplexity.org/feeds/1016886829547690351/comments/default)
