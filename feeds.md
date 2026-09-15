@@ -1,4 +1,20 @@
 
+[How the continuum hypothesis could have been a fundamental axiom, Notre Dame, Mathematical Philosophy Seminar, Sep 2026](https://jdh.hamkins.org/how-the-continuum-hypothesis-could-have-been-a-fundamental-axiom-notre-dame-mathematical-philosophy-seminar-sep-2026/)
+---
+
+Joel David Hamkins --- 9/15/2026
+
+This will be a talk for the new Mathematical Philosophy Seminar here at the University of Notre Dame. Monday, September 21, 2026, 4pm, in Malloy Hall. Title: How the continuum hypothesis could have been a fundamental axiom Speaker: Joel David …...
+
+
+[Math, AI, and the Navier-Stokes Equations](https://blog.computationalcomplexity.org/feeds/8718397106007554624/comments/default)
+---
+
+Computational Complexity --- 9/14/2026
+
+On September 1, 2026:LANCE: I'm surprised you haven't blogged about OpenAI solving 10 open math problems.BILL: If I post every time an open math problem is solved by AI I won't ever post about anything else.I'll wait until AI does something really...
+
+
 [The US is not a serious country](https://crookedtimber.org/2026/09/13/the-us-is-not-a-serious-country/)
 ---
 
@@ -695,14 +711,6 @@ Joel David Hamkins --- 6/8/2026
 This will be a series of graduate lectures at Peking University, two lectures per week beginning mid-June and proceeding into July. Topics. We shall aim to cover the central results in the modal logic of forcing, including an exploration of …...
 
 
-[Humans Solve Erdos Problem!!](https://blog.computationalcomplexity.org/feeds/6135142595358018857/comments/default)
----
-
-Computational Complexity --- 6/7/2026
-
-(In 2008 I wrote a survey of some of the known sum-product theorems, see here. Avi Wigderson has a great slide-set on sum-product theorems and their applications---the slides are on Avi's webpage of talks he has given (all the talks are excellent)...
-
-
 [A New Blog](https://golem.ph.utexas.edu/category/2026/06/a_new_blog.html)
 ---
 
@@ -789,12 +797,4 @@ IntroductionPentominoes are shapes made from 5 squares joined edge-to-edge. Ther
 Good Fibrations --- 4/19/2026
 
 
-
-
-[Claude and I](https://math.andrej.com/2026/04/14/claude-and-i/)
----
-
-Mathematics and Computation --- 4/13/2026
-
-After spending many irritating hours with ChatGPT and Copilot, I finally tried out Claude. I told it to update photos of mathematicians from a derelict Perl script to a shiny new Python script with JSON, face recognition and modern CSS. It worked...
 
