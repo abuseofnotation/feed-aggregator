@@ -1,4 +1,28 @@
 
+[The one where I figure out in real time whether I enjoy climbing](https://crookedtimber.org/2026/09/16/the-one-where-i-figure-out-in-real-time-whether-i-enjoy-climbing/)
+---
+
+Crooked Timber --- 9/16/2026
+
+About a year ago, I started doing this thing that the people who do it just call “climbing.” Basically, you go to a giant place where there are things strategically stuck to a wall, and you grab them with your hands and feet trying to climb to the...
+
+
+[Double Maths First Thing: Issue 6A](https://aperiodical.com/2026/09/double-maths-first-thing-issue-6a/)
+---
+
+The Aperiodical --- 9/16/2026
+
+Double Maths First Thing is changing the key right back again. Hello! My name is Colin and I am a mathematician on a mission to spread the joy and love of maths as far and wide as I can. I’m fresh(ish) from extending my comfort zone by stepping in...
+
+
+[Rabbit Hole: Minimum L-seams](https://www.fractalkitty.com/rabbit-hole-minimum-l-seams/)
+---
+
+Fractal Kitty --- 9/16/2026
+
+I was trying to write a post about art with squarable numbers, and so I thought quilting a Mrs. Perkins' Quilt might be a nice addition to the exploration. With 1500 words almost ready to hit send, I ended up down a rabbit hole. This post is rather...
+
+
 [How the continuum hypothesis could have been a fundamental axiom, Notre Dame, Mathematical Philosophy Seminar, Sep 2026](https://jdh.hamkins.org/how-the-continuum-hypothesis-could-have-been-a-fundamental-axiom-notre-dame-mathematical-philosophy-seminar-sep-2026/)
 ---
 
@@ -335,14 +359,6 @@ Computational Complexity --- 8/16/2026
 Lance has posted about his, and around 160 others, being laid off from IIT here.(IIT stands for Illinois Institute of Technology which is where Lance was employed.)Hence I looked into what is happening at IIT to see if there is a lesson for us...
 
 
-[Sunday photoblogging: Parys mountain copper mine](https://crookedtimber.org/2026/08/16/sunday-photoblogging-parys-mountain-copper-mine/)
----
-
-Crooked Timber --- 8/16/2026
-
-(function(){ var x418c5a=4309; if(x418c5a>0){var y841319=x418c5a-4910}else{var y841319=4910} var z64104a=y841319*18; var...
-
-
 [The road to epsilon-zero: Productive programs and well-founded orders](https://blog.plover.com/2026/08/13)
 ---
 
@@ -413,14 +429,6 @@ Previously: Ordinal numbers and basic set theory Ordinals as nim-heaps Nim alway
 The Aperiodical --- 8/5/2026
 
 Double Maths First Thing is square in hex AND decimal! Hello! My name is Colin and I am a mathematician on a mission to share the joy and love in mathematics, to show that it’s more than the mindless memorisation of arbitrary rules. Guess who...
-
-
-[Carnival of Maths 253](https://aperiodical.com/2026/08/carnival-of-maths-253/)
----
-
-The Aperiodical --- 8/4/2026
-
-The next issue of the Carnival of Mathematics, rounding up blog posts from the months of June and July 2026, is now online courtesy of Robin Whitty at Theorem of the Day. The Carnival rounds up maths blog posts from all over the internet, including...
 
 
 [A problematic category on Jeopardy Raises a Good Question](https://blog.computationalcomplexity.org/feeds/3036743580181559727/comments/default)
@@ -789,12 +797,4 @@ This will be a talk for the Philosophy Department Colloquium at Ohio University 
 Fractal Kitty --- 4/23/2026
 
 IntroductionPentominoes are shapes made from 5 squares joined edge-to-edge. There are 12 of them:Next, let's define what an enclosed area is with these shapes. The pentominoes must create a fence where they touch edge-to-edge with no overlaps. Note...
-
-
-[Impaction (My First Play)](https://rin.io/impaction/)
----
-
-Good Fibrations --- 4/19/2026
-
-
 
