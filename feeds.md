@@ -1,4 +1,20 @@
 
+[AI and Manufacturing Redux](https://blog.computationalcomplexity.org/feeds/3104091057580982964/comments/default)
+---
+
+Computational Complexity --- 9/17/2026
+
+ITMS 2026Two years ago I attended the International Manufacturing Technology Show in Chicago's McCormick Place and found a rather limited focus on artificial intelligence among the exhibitors. ITMS is back in town so I went again this week. A quiet...
+
+
+[Existential Risks in an Age of Science](https://crookedtimber.org/2026/09/17/existential-risks-in-an-age-of-science/)
+---
+
+Crooked Timber --- 9/17/2026
+
+One of the oddities of our age is that there are two apocalyptic sensibilities that have captured two almost completely distinct groups of the scientifically literate not least among the youth: one can be found among those concerned with the...
+
+
 [The one where I figure out in real time whether I enjoy climbing](https://crookedtimber.org/2026/09/16/the-one-where-i-figure-out-in-real-time-whether-i-enjoy-climbing/)
 ---
 
@@ -333,14 +349,6 @@ Double Maths First Thing gets its kicks on a.19792ish Hello! My name is Colin an
 Crooked Timber --- 8/18/2026
 
 Yesterday, I ran my first gimmick promotion for the Brisbane to Gold Coast Ride against Cancer [1]. I invited anyone who donated $100 to nominate a topic on which I should write a post. Reader Daniela Brins-Norris has taken me up on the offer, and...
-
-
-[Ceuta Summit: What Vitoria would tell Sánchez about migration](https://crookedtimber.org/2026/08/18/ceuta-what-vitoria-would-tell-about-migration/)
----
-
-Crooked Timber --- 8/18/2026
-
-The Prime Minister of Spain, Pedro Sánchez, likes to invoke international law. Imagine that one day, someone had finally responded to him. Not just anyone, but one of the founding fathers of international law. It happened just after the Ceuta...
 
 
 [\(-e^{i\pi}\) to Watch: Ellie Sleightholm](https://aperiodical.com/2026/08/eipi-to-watch-ellie-sleightholm/)
@@ -701,14 +709,6 @@ A mnemonic device is a sentence where the first letters of the words are helpful
 Fractal Kitty --- 6/11/2026
 
 Let me tell you about a language. But if you wish to go play instead go here.  It's going to get a little abstract below.There is a Canvas to Compose UponThe canvas is a square with the largest circle that has a radius of ρ.There
-
-
-[Respect the P v NP Problem](https://blog.computationalcomplexity.org/feeds/5415610689180652747/comments/default)
----
-
-Computational Complexity --- 6/10/2026
-
-There are two ways to look at the P v NP problem, as a formal mathematically defined conjecture as a Clay Millennium Prize Problem, and as the more intuitive notion that everything efficiently verifiable is efficiently computable and the...
 
 
 [The Modal Logic of Forcing and Set-theoretic Potentialism, Peking University lectures, June/July 2026](https://jdh.hamkins.org/modal-logic-of-forcing-and-potentialism-peking-university-2026/)
