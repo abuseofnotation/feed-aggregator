@@ -1,26 +1,18 @@
 
+[Mrs Perkins' Quilt](https://www.fractalkitty.com/mrs-perkins-quilt/)
+---
+
+Fractal Kitty --- 9/18/2026
+
+After a rabbit hole of playing with the minimum L-shaped seams of Mrs Perkins' Quilts, I submitted the related sequence to the Online Encyclopedia of Integer Sequences (OEIS) for consideration. Then, I washed, pressed, cut, sewed, ripped stitches,...
+
+
 [AI and Manufacturing Redux](https://blog.computationalcomplexity.org/feeds/3104091057580982964/comments/default)
 ---
 
 Computational Complexity --- 9/17/2026
 
 ITMS 2026Two years ago I attended the International Manufacturing Technology Show in Chicago's McCormick Place and found a rather limited focus on artificial intelligence among the exhibitors. ITMS is back in town so I went again this week. A quiet...
-
-
-[Existential Risks in an Age of Science](https://crookedtimber.org/2026/09/17/existential-risks-in-an-age-of-science/)
----
-
-Crooked Timber --- 9/17/2026
-
-One of the oddities of our age is that there are two apocalyptic sensibilities that have captured two almost completely distinct groups of the scientifically literate not least among the youth: one can be found among those concerned with the...
-
-
-[The one where I figure out in real time whether I enjoy climbing](https://crookedtimber.org/2026/09/16/the-one-where-i-figure-out-in-real-time-whether-i-enjoy-climbing/)
----
-
-Crooked Timber --- 9/16/2026
-
-About a year ago, I started doing this thing that the people who do it just call “climbing.” Basically, you go to a giant place where there are things strategically stuck to a wall, and you grab them with your hands and feet trying to climb to the...
 
 
 [Double Maths First Thing: Issue 6A](https://aperiodical.com/2026/09/double-maths-first-thing-issue-6a/)
@@ -39,36 +31,12 @@ Fractal Kitty --- 9/16/2026
 I was trying to write a post about art with squarable numbers, and so I thought quilting a Mrs. Perkins' Quilt might be a nice addition to the exploration. With 1500 words almost ready to hit send, I ended up down a rabbit hole. This post is rather...
 
 
-[How the continuum hypothesis could have been a fundamental axiom, Notre Dame, Mathematical Philosophy Seminar, Sep 2026](https://jdh.hamkins.org/how-the-continuum-hypothesis-could-have-been-a-fundamental-axiom-notre-dame-mathematical-philosophy-seminar-sep-2026/)
----
-
-Joel David Hamkins --- 9/15/2026
-
-This will be a talk for the new Mathematical Philosophy Seminar here at the University of Notre Dame. Monday, September 21, 2026, 4pm, in Malloy Hall. Title: How the continuum hypothesis could have been a fundamental axiom Speaker: Joel David …...
-
-
 [Math, AI, and the Navier-Stokes Equations](https://blog.computationalcomplexity.org/feeds/8718397106007554624/comments/default)
 ---
 
 Computational Complexity --- 9/14/2026
 
 On September 1, 2026:LANCE: I'm surprised you haven't blogged about OpenAI solving 10 open math problems.BILL: If I post every time an open math problem is solved by AI I won't ever post about anything else.I'll wait until AI does something really...
-
-
-[The US is not a serious country](https://crookedtimber.org/2026/09/13/the-us-is-not-a-serious-country/)
----
-
-Crooked Timber --- 9/13/2026
-
-Last week, on 9 September, Donald Trump promised that, if the Republicans retained their Congressional majorities in the November elections, he would send $5000 to every adult American citizen. The cost has been estimated at around $1.2 trillion....
-
-
-[Sunday photoblogging: Hôtel d’Alfonce, Pézenas](https://crookedtimber.org/2026/09/13/sunday-photoblogging-hotel-dalfonce-pezenas/)
----
-
-Crooked Timber --- 9/13/2026
-
-
 
 
 [George Orwell's essay on the atomic bomb anticipates Nineteen Eighty-Four](https://blog.plover.com/2026/09/12)
@@ -103,14 +71,6 @@ The Aperiodical --- 9/9/2026
 It’s Double Maths First Thing, not Double Entendre. Hello! My name is Colin and I am a mathematician on a mission to spread joy and delight in maths and mathematical thinking. Something that’s been brewing for a while: I’ve come to the decision...
 
 
-[Youth CND](https://crookedtimber.org/2026/09/08/youth-cnd/)
----
-
-Crooked Timber --- 9/8/2026
-
-Here’s another of my posts about being a peace activist in the UK in the early eighties. This one is mainly about my time in secondary school. When I linked to the substack version from Facebook a couple of people recognized some of the people...
-
-
 [Carnival of Maths 254](https://aperiodical.com/2026/09/carnival-of-maths-254/)
 ---
 
@@ -135,14 +95,6 @@ The Aperiodical --- 9/7/2026
 In this series of posts, we’ll be featuring mathematical video and streaming channels from all over the internet, by speaking to the creators of the channel and asking them about what they do. We spoke to Deniz & Thorsten, who host the aboutlogic...
 
 
-[When Money Mattered](https://crookedtimber.org/2026/09/07/when-money-mattered/)
----
-
-Crooked Timber --- 9/7/2026
-
-This week all the news services carried a story about the Dutch central bank shipping many, many tons of gold from the Mad King-led United States to the custody of cooler heads (well, cooling, we hope, after that very hot summer) in London. On the...
-
-
 [Richard Stearns (1936-2026)](https://blog.computationalcomplexity.org/feeds/6658559765577405589/comments/default)
 ---
 
@@ -159,36 +111,12 @@ Math ∩ Programming --- 9/4/2026
 On 2026-08-14 I published an article on the Google Security blog with an update on HEIR, our homomorphic encryption (HE) compiler. This is a companion article, in which I have no limits on word count or jargon, and I can feel free to be honest. So...
 
 
-[The US Navy loses another war](https://crookedtimber.org/2026/09/04/the-us-navy-loses-another-war/)
----
-
-Crooked Timber --- 9/4/2026
-
-… but that won’t change any minds It’s now six months since the US-Israel war on Iran began with air attacks which killed the Iranian leader Ayatollah Khamenei as well as around 200 schoolchildren. The war has dragged on a long time. But before...
-
-
 [Sci Art September](https://www.fractalkitty.com/sci-art-september-2/)
 ---
 
 Fractal Kitty --- 9/3/2026
 
 It's time for SciArt September hosted by Kristin Henry (vis.Social/@kristinHenry) with #SciArt on Mastodon.  This year, I made wallpapers. There are 137 images per doodle that are formed from mirroring, gliding, and rotating an image. I am hosting...
-
-
-[Don’t use a gmail.com address](https://crookedtimber.org/2026/09/03/dont-use-a-gmail-com-address/)
----
-
-Crooked Timber --- 9/3/2026
-
-We are being flooded with spam coming from fake gmail.com addresses at the moment. So, for the moment, I’ve set our spam filter to delete everything from gmail.com If you want to post a real comment, just give a spurious address like anon.com and...
-
-
-[Taylor Swift: The Good Billionaire?](https://crookedtimber.org/2026/09/03/taylor-swift-the-good-billionaire/)
----
-
-Crooked Timber --- 9/3/2026
-
-I wrote this post a couple of weeks ago, responding to a challenge* to write about the economic aspects of Taylor Swift. Not long after that, the world lost the marvellous Dolly Parton. Parton’s lifetime income almost certainly exceeded a billion...
 
 
 [What is a Computer?](https://blog.computationalcomplexity.org/feeds/5506622862818745076/comments/default)
@@ -215,28 +143,12 @@ The n-Category Café --- 9/1/2026
 How you can fit the Lie algebra of the Standard Model gauge group and its representation on three generations of fermions into the Lie algebra of E7.
 
 
-[Teaching pluralizing political philosophy](https://crookedtimber.org/2026/08/31/teaching-pluralizing-political-philosophy/)
----
-
-Crooked Timber --- 8/31/2026
-
-A couple of years ago, I edited a volume on pluralizing political philosophy, in particular in relation to economic and ecological inequalities. It was put together under the Covid-pandemic, so we had to swap the authors-conference for online...
-
-
 [Claude and Colorblind Questions](https://blog.computationalcomplexity.org/feeds/579233444126434428/comments/default)
 ---
 
 Computational Complexity --- 8/31/2026
 
 BILL: Lance, I have a question and a meta question:a) List all the presidents and vice presidents who were colorblind.b) Do you know this sort of thing since you are colorblind, and hencemight have looked this up in the past?LANCE: (b) No. And if...
-
-
-[Gold and Myth in the Australian Blue Mountains](https://crookedtimber.org/2026/08/28/gold-and-myth-in-the-australian-blue-mountains/)
----
-
-Crooked Timber --- 8/28/2026
-
-At the end of a glorious day hanging out at galleries, antique shops and the pub with friend and historian Matt Allen we walked to the station at Blackheath in the Blue Mountains, Australia (where I live) for Matt to get the train back to the city....
 
 
 [The Calculator Transition](https://blog.computationalcomplexity.org/feeds/8258498853326152436/comments/default)
@@ -253,14 +165,6 @@ There's a scene in Apollo 13 where Jim Lovell, played by Tom Hanks, asks Houston
 The Aperiodical --- 8/26/2026
 
 Double Maths First Thing is not, and has never been, down with the kids. Hello! My name is Colin and I am a mathematician on a mission to spread joy and delight in maths, puzzles and problem-solving. I’m just back from a week in Germany, where the...
-
-
-[The contingent HOD dichotomy, Notre Dame Logic Seminar, September 2026](https://jdh.hamkins.org/the-contingent-hod-dichotomy-notre-dame-logic-seminar-september-2026/)
----
-
-Joel David Hamkins --- 8/26/2026
-
-This will be a talk for the Logic Seminar at the University of Notre Dame on 15 September 2026, 2pm in the Hayes-Healy building room 125. The contingent HOD dichotomy Joel David Hamkins Abstract: We shall discuss the contingently contingent …...
 
 
 [Entropy](http://abuseofnotation.github.io/entropy/)
@@ -287,44 +191,12 @@ Abuse of Notation --- 8/26/2026
 title: Predictability layout: microblog category: microblog tags: zen poetry — Reality is getting less and less predictable. At one point the wine is tasty, the next it makes me sick.
 
 
-[Why Ceuta is European, and what came of it](https://crookedtimber.org/2026/08/25/why-ceuta-is-european-and-what-came-of-it/)
----
-
-Crooked Timber --- 8/25/2026
-
-Ceuta, the small Spanish enclave on the coast of North Africa, has been in the news lately. And I’ve seen a couple of articles mentioning that Ceuta has been a Spanish possession since 1668. Which triggered my inner history nerd, because on one...
-
-
-[Sunday photoblogging: Jenisch-Haus, Hamburg](https://crookedtimber.org/2026/08/23/sunday-photoblogging-jenisch-haus-hamburg/)
----
-
-Crooked Timber --- 8/23/2026
-
-
-
-
 [The road to epsilon-zero: Shortlex order also orders sequences of numbers](https://blog.plover.com/2026/08/21)
 ---
 
 The Universe of Discourse --- 8/21/2026
 
 Previously: Ordinal numbers and basic set theory Ordinals as nim-heaps Nim always ends, even with infinite ordinals Infinite Nim as a coin-moving game Coin-moving games with no coins Productive programs and well-founded orders In part 4,...
-
-
-[AI and the reshuffling of labor](https://crookedtimber.org/2026/08/21/ai-and-the-reshuffling-of-labor/)
----
-
-Crooked Timber --- 8/21/2026
-
-A summer anecdote: when on holidays in France, on a sunny August day, we visited a castle garden in rural Normandy. When buying the tickets, we got the usual: “Your postcode or country of origin?” We said “Germany,” and suddenly the face of the...
-
-
-[The Contingent HOD Dichotomy, CUNY Logic Workshop, October 2026](https://jdh.hamkins.org/the-contingent-hod-dichotomy-cuny-logic-workshop-october-2026/)
----
-
-Joel David Hamkins --- 8/21/2026
-
-This will be a talk for the CUNY Logic Workshop, 23 October 2026, 2pm, at the CUNY Graduate Center in midtown Manhattan. The Contingent HOD Dichotomy Joel David Hamkins, O’Hara Professor of Logic, University of Notre Dame Abstract: We shall …...
 
 
 [Centaur Math](https://blog.computationalcomplexity.org/feeds/3544420287917761769/comments/default)
@@ -341,14 +213,6 @@ In the past, new PhD students would ask how they could succeed when they had to 
 The Aperiodical --- 8/19/2026
 
 Double Maths First Thing gets its kicks on a.19792ish Hello! My name is Colin and I am a mathematician on a mission to spread the joy and love in doing maths, figuring stuff out, getting stuck and getting unstuck again. You’ll need to forgive a...
-
-
-[The economics of Swifties](https://crookedtimber.org/2026/08/18/the-economics-of-swifties/)
----
-
-Crooked Timber --- 8/18/2026
-
-Yesterday, I ran my first gimmick promotion for the Brisbane to Gold Coast Ride against Cancer [1]. I invited anyone who donated $100 to nominate a topic on which I should write a post. Reader Daniela Brins-Norris has taken me up on the offer, and...
 
 
 [\(-e^{i\pi}\) to Watch: Ellie Sleightholm](https://aperiodical.com/2026/08/eipi-to-watch-ellie-sleightholm/)
@@ -405,14 +269,6 @@ In mathematical study there are two kinds of theorems, which serve very differen
 Computational Complexity --- 8/10/2026
 
 (Some of this came from a Reddit post I read, and some of the comments on it.) Here are theorems with names that I think are funny or unusual. The names are also pointers to the Wikipedia entry on them or some other source.The Chicken McNugget...
-
-
-[Alternative Fields Medal, awarded August 2026](https://jdh.hamkins.org/alternative-fields-medal-awarded-august-2026/)
----
-
-Joel David Hamkins --- 8/8/2026
-
-I am very pleased to announce that I have been awarded the Alternative Fields Medal in recognition of “Excellence in exposition of mathematics to a popular audience.” The award cites my various books as well as my participation on MathOverflow, …...
 
 
 [Artsy Math: Hailstone Arabesques](https://www.fractalkitty.com/u/)
@@ -599,14 +455,6 @@ Computational Complexity --- 7/9/2026
 Two editorials in the July issue of the Communications of the Association for Computing Machinery ask about the decay and future of the organization itself.Jim Larus, editor-in-chief of the CACM, writes Wither ACM? Publish and Perish?ACM no longer...
 
 
-[On the contingent contingency of V = HOD and independence over the maximality principles, Fudan University, Shanghai, July 2026](https://jdh.hamkins.org/contingent-contingency-of-hod-fudan-july-2026/)
----
-
-Joel David Hamkins --- 7/7/2026
-
-This will be a talk for the Fudan University logic group on 16 July 4:00pm in Shanghai. Abstract: The axiom V = HOD is contingently contingent—more precisely, it is class-forcing contingent that V = HOD is contingent with respect to set … Continue...
-
-
 [Extreme cases of clickbait!](https://blog.computationalcomplexity.org/feeds/9204732397788134167/comments/default)
 ---
 
@@ -671,14 +519,6 @@ Fractal Kitty --- 6/21/2026
 IntroductionIn this inquiry, we build a sequence from a single 2. The first rule of this sequence is that it has to describe itself.Starting with TwoHere is a 2. 2It says, "There are two here." The first number is a 2, so the next
 
 
-[Set-theoretic mereology as a foundation of mathematics? Shandong University, Workshop on Mereology, China, June 2026](https://jdh.hamkins.org/set-theoretic-mereology-shandong-june-2026/)
----
-
-Joel David Hamkins --- 6/20/2026
-
-This is a talk for the Workshop on Mereology at Shandong University in Jinan, China, a part of the week-long conference Week of Fusion Philosophy, 22-26 June 2026. The mereology talks are on 22 June 2026. Title: Set-theoretic mereology as …...
-
-
 [The Tech of Silk Road](https://blog.computationalcomplexity.org/feeds/2053595728659607005/comments/default)
 ---
 
@@ -709,14 +549,6 @@ A mnemonic device is a sentence where the first letters of the words are helpful
 Fractal Kitty --- 6/11/2026
 
 Let me tell you about a language. But if you wish to go play instead go here.  It's going to get a little abstract below.There is a Canvas to Compose UponThe canvas is a square with the largest circle that has a radius of ρ.There
-
-
-[The Modal Logic of Forcing and Set-theoretic Potentialism, Peking University lectures, June/July 2026](https://jdh.hamkins.org/modal-logic-of-forcing-and-potentialism-peking-university-2026/)
----
-
-Joel David Hamkins --- 6/8/2026
-
-This will be a series of graduate lectures at Peking University, two lectures per week beginning mid-June and proceeding into July. Topics. We shall aim to cover the central results in the modal logic of forcing, including an exploration of …...
 
 
 [A New Blog](https://golem.ph.utexas.edu/category/2026/06/a_new_blog.html)
@@ -783,18 +615,186 @@ Math ∩ Programming --- 4/29/2026
 Table of Contents In this tutorial series, I will introduce the CKKS homomorphic encryption scheme from the ground up, in rather intricate detail. Each article in this series corresponds to a pull request on a GitHub repository. The code for this...
 
 
-[A potentialist perspective on ultrafinitism, Ohio University](https://jdh.hamkins.org/a-potentialist-perspective-on-ultrafinitism-ohio-university/)
----
-
-Joel David Hamkins --- 4/23/2026
-
-This will be a talk for the Philosophy Department Colloquium at Ohio University in Athens, OH on April 30th, 2026. I am very grateful for the invitation. A potentialist perspective on ultrafinitism, Ohio University Abstract. Ultrafinitism is the...
-
-
 [Inquiries-Week 8: Fence Maxing](https://www.fractalkitty.com/inquiries-week-8-fence-maxing/)
 ---
 
 Fractal Kitty --- 4/23/2026
 
 IntroductionPentominoes are shapes made from 5 squares joined edge-to-edge. There are 12 of them:Next, let's define what an enclosed area is with these shapes. The pentominoes must create a fence where they touch edge-to-edge with no overlaps. Note...
+
+
+[Impaction (My First Play)](https://rin.io/impaction/)
+---
+
+Good Fibrations --- 4/19/2026
+
+
+
+
+[Claude and I](https://math.andrej.com/2026/04/14/claude-and-i/)
+---
+
+Mathematics and Computation --- 4/13/2026
+
+After spending many irritating hours with ChatGPT and Copilot, I finally tried out Claude. I told it to update photos of mathematicians from a derelict Perl script to a shiny new Python script with JSON, face recognition and modern CSS. It worked...
+
+
+[Claude and I](https://math.andrej.com/2026/04/14/claude-and-i/)
+---
+
+Mathematics and Computation --- 4/13/2026
+
+After spending many irritating hours with ChatGPT and Copilot, I finally tried out Claude. I told it to update photos of mathematicians from a derelict Perl script to a shiny new Python script with JSON, face recognition and modern CSS. It worked...
+
+
+[Unusual uses of OEIS sequences on GitHub](https://www.jeremykun.com/shortform/2026-04-13-0700/)
+---
+
+Math ∩ Programming --- 4/13/2026
+
+I went hunting for references to the OEIS in open source code, and found some weird ones. There are not one, but two live-coding music frameworks that use OEIS sequences as a source for “anything that can be sequenced” in music. I’m guessing that’s...
+
+
+[The OEIS meta sequence and subway stations](https://www.jeremykun.com/shortform/2026-04-09-0556/)
+---
+
+Math ∩ Programming --- 4/9/2026
+
+A051070 is a sequence about OEIS sequences. a(n) is the n-th term in sequence A_n (or -1 if A_n doesn’t have enough terms). So the first term in A051070 is 1 because A000001 is the number of groups of order n, and that sequence has 1 as its entry...
+
+
+[Deterministic Primality Testing for Limited Bit Width](https://www.jeremykun.com/2026/04/07/deterministic-miller-rabin/)
+---
+
+Math ∩ Programming --- 4/7/2026
+
+Problem: Determine if a 32-bit number is prime (deterministically) Solution: (in C++) // Bases to test. Using the first 4 prime bases makes the test deterministic // for all 32-bit integers. See https://oeis.org/A014233. int64_t bases[] = {2, 3, 5,...
+
+
+[The Irrational Decision—A Book Review](https://www.jeremykun.com/2026/04/01/irrational-decision-book-review/)
+---
+
+Math ∩ Programming --- 4/1/2026
+
+It’s the 5th annual April Cools! Here are my previous April Cools articles This year it’s a book review of Ben Recht’s book, The Irrational Decision: How We Gave Computers the Power to Choose For us, released Mar 10, 2026. The publishing industry...
+
+
+[Inquiries-Week 7: EOOEOEEO](https://www.fractalkitty.com/inquiries-week-7-eooeoeeo/)
+---
+
+Fractal Kitty --- 4/1/2026
+
+IntroductionLet's start with E. Its opposite is O. So if we flip E, we get O. Let's make a pattern. EE OE O O EE O O E O E E OHow is this pattern constructed?  What comes next? Write
+
+
+[Geometry and the Exceptional Jordan Algebra](https://golem.ph.utexas.edu/category/2026/03/geometry_and_the_exceptional_j.html)
+---
+
+The n-Category Café --- 3/27/2026
+
+Slides for a talk on features of the octonionic projective plane.
+
+
+[The Agent That Doesn't Know Itself](https://golem.ph.utexas.edu/category/2026/03/the_agent_that_doesnt_know_its.html)
+---
+
+The n-Category Café --- 3/20/2026
+
+A large language model has very little self-awareness.  But it is easy to give it some rudimentary but useful forms of self-awareness using the "plumbing" language.
+
+
+[A Statement on my Art](https://www.fractalkitty.com/a-statement-on-my-art/)
+---
+
+Fractal Kitty --- 3/20/2026
+
+When I create art, I do so for many reasons. Some of these are:to engage in an expression of beingto explore a concept or experiment with an ideato grow as a person through creativity and struggleto immerse myself in a spiritual actto have a coping
+
+
+[A Typed Language for Agent Coordination](https://golem.ph.utexas.edu/category/2026/03/a_typed_language_for_agent_coordination.html)
+---
+
+The n-Category Café --- 3/12/2026
+
+A category-theoretic approach to "agent frameworks": that is, frameworks for coordinating "agents" that are large language models.
+
+
+[The Univalence Principle](https://golem.ph.utexas.edu/category/2026/02/the_univalence_principle.html)
+---
+
+The n-Category Café --- 2/22/2026
+
+Making precise the idea that equivalent structures are indistinguishable.
+
+
+[True and correct](http://abuseofnotation.github.io/true-correct/)
+---
+
+Abuse of Notation --- 2/22/2026
+
+In the 19th century, Copernicus, Newton, Galilei et al pushed a revolutionary new idea that reshaped the way we think… but no, it’s not talking about cosmology, but about theology. This idea, (which was also the real reason they were in so much...
+
+
+[Book Launch, Substack, and Other News](https://deontologistics.co/2026/02/14/book-launch-substack-and-other-news/)
+---
+
+DEONTOLOGISTICS --- 2/14/2026
+
+A couple updates for readers. There will be an impromptu book launch for The Revenge of Reason at Newcastle University on the 25th of February, from 5-7pm in HDB.1.02 in the Henry Daysh Building. I’ll be having a conversation about the book with...
+
+
+[I miss writing](http://proses.id/i-miss-writing/)
+---
+
+Proses.ID --- 1/31/2026
+
+I miss writing. That’s a strange thing to say because I’ve been employed as a full-time writer for the past 14 months. And I have…
+
+
+[What makes a writing human?](http://proses.id/moist-writing/)
+---
+
+Proses.ID --- 1/31/2026
+
+I’ve been down a rabbit hole for the past few months, obsessed with a single question: “What makes a writing human?” It started, ironically, because…
+
+
+[Categorifying Riemann's Functional Equation](https://golem.ph.utexas.edu/category/2026/01/categorifying_riemanns_functio.html)
+---
+
+The n-Category Café --- 1/26/2026
+
+David Jaz Myers has some thoughts about Riemann's functional equation for the zeta function.
+
+
+[Coxeter and Dynkin Diagrams](https://golem.ph.utexas.edu/category/2026/01/coxeter_and_dynkin_diagrams.html)
+---
+
+The n-Category Café --- 1/6/2026
+
+Dynkin diagrams have always fascinated me. They are magically potent language --- you can do so much with them!...
+
+
+[Fear of the future](http://abuseofnotation.github.io/future-self/)
+---
+
+Abuse of Notation --- 12/24/2025
+
+Everything we do to secure ourselves, every decision we make out of fear of the future, ends up destroying us, ends up making our future a little more bleak — the closer we are to the public ideal of “success”, the farther we go from our own...
+
+
+[When the tower crumbles](http://abuseofnotation.github.io/when-the-tower-crumbles/)
+---
+
+Abuse of Notation --- 12/24/2025
+
+When the tower crumbles, some will laugh some will cry, some will fall from the top, some will be buried below. When the tower crumbles, better not be around better go all the way down, so you can run away.
+
+
+[Octonions and the Standard Model (Part 12)](https://golem.ph.utexas.edu/category/2025/11/the_bioctonionic_plane.html)
+---
+
+The n-Category Café --- 12/4/2025
+
+An introduction to the bioctonionic plane and the mathematics needed to understand it.
 
