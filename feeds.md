@@ -1,4 +1,20 @@
 
+[I don't care about majors, minors, or honors programs. Do you?](https://blog.computationalcomplexity.org/feeds/479014441343079924/comments/default)
+---
+
+Computational Complexity --- 9/20/2026
+
+The following conversation is fictional.---------------------------ALICE: (Looking over a student's record.) Hmm, let's see. She wants to work in quantum computing. She's had the year-long quantum sequence in the physics department and has taken a...
+
+
+[Sunday photoblogging: La Pointe courte](https://crookedtimber.org/2026/09/20/sunday-photoblogging-la-pointe-courte/)
+---
+
+Crooked Timber --- 9/20/2026
+
+At La Pointe courte, in Sète, France, where Agnès Varda shot her film of the same name.
+
+
 [Artsy Math: Squaring Square Patterns](https://www.fractalkitty.com/artsy-math-squaring-square-patterns/)
 ---
 
@@ -359,14 +375,6 @@ The Aperiodical --- 8/19/2026
 Double Maths First Thing gets its kicks on a.19792ish Hello! My name is Colin and I am a mathematician on a mission to spread the joy and love in doing maths, figuring stuff out, getting stuck and getting unstuck again. You’ll need to forgive a...
 
 
-[The economics of Swifties](https://crookedtimber.org/2026/08/18/the-economics-of-swifties/)
----
-
-Crooked Timber --- 8/18/2026
-
-Yesterday, I ran my first gimmick promotion for the Brisbane to Gold Coast Ride against Cancer [1]. I invited anyone who donated $100 to nominate a topic on which I should write a post. Reader Daniela Brins-Norris has taken me up on the offer, and...
-
-
 [\(-e^{i\pi}\) to Watch: Ellie Sleightholm](https://aperiodical.com/2026/08/eipi-to-watch-ellie-sleightholm/)
 ---
 
@@ -709,14 +717,6 @@ Last week I saw a talk by Northwestern professor Nina Wieda on the history of th
 The n-Category Café --- 6/16/2026
 
 A new characterization of the Standard Model gauge group as the group of symmetries of an octonionic qutrit that restrict to act as unitary operators on an ordinary qutrit and, within that, a qubit.
-
-
-[mnemonic devices and pangrams  that could be real sentences](https://blog.computationalcomplexity.org/feeds/3418209642887230997/comments/default)
----
-
-Computational Complexity --- 6/15/2026
-
-A mnemonic device is a sentence where the first letters of the words are helpful to remember something. My favorite one is               My Very Educated Mother Just Said Uh, No PlutoYou probably know what it's for. If not you can...
 
 
 [There is(Ǝ) – Such that (∋)](https://www.fractalkitty.com/there-is-3-such-that/)
