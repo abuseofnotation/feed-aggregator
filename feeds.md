@@ -1,4 +1,12 @@
 
+[Into the darkness?](https://crookedtimber.org/2026/09/21/into-the-darkness/)
+---
+
+Crooked Timber --- 9/21/2026
+
+The story of last week, which will certainly return, is the threat to the survival of humanity (and maybe all life on Earth) from artificial intelligence. I don’t know how real that threat is and find it hard to think about, but I am worried that...
+
+
 [I don't care about majors, minors, or honors programs. Do you?](https://blog.computationalcomplexity.org/feeds/479014441343079924/comments/default)
 ---
 
@@ -71,12 +79,12 @@ Fractal Kitty --- 9/16/2026
 I was trying to write a post about art with squarable numbers, and so I thought quilting a Mrs. Perkins' Quilt might be a nice addition to the exploration. With 1500 words almost ready to hit send, I ended up down a rabbit hole. This post is rather...
 
 
-[How the continuum hypothesis could have been a fundamental axiom, Notre Dame, Mathematical Philosophy Seminar, Sep 2026](https://jdh.hamkins.org/how-the-continuum-hypothesis-could-have-been-a-fundamental-axiom-notre-dame-mathematical-philosophy-seminar-sep-2026/)
+[How the continuum hypothesis could have been a fundamental axiom, one necessary for mathematics, Notre Dame, Mathematical Philosophy Seminar, Sep 2026](https://jdh.hamkins.org/how-the-continuum-hypothesis-could-have-been-a-fundamental-axiom-notre-dame-mathematical-philosophy-seminar-sep-2026/)
 ---
 
 Joel David Hamkins --- 9/15/2026
 
-This will be a talk for the new Mathematical Philosophy Seminar here at the University of Notre Dame. Monday, September 21, 2026, 4pm, in Malloy Hall. Title: How the continuum hypothesis could have been a fundamental axiom Speaker: Joel David …...
+This will be a talk for the new Mathematical Philosophy Seminar here at the University of Notre Dame. Monday, September 21, 2026, 4pm, in Malloy Hall. Title: How the continuum hypothesis could have been a fundamental axiom, one necessary for …...
 
 
 [Math, AI, and the Navier-Stokes Equations](https://blog.computationalcomplexity.org/feeds/8718397106007554624/comments/default)
@@ -341,14 +349,6 @@ Crooked Timber --- 8/23/2026
 The Universe of Discourse --- 8/21/2026
 
 Previously: Ordinal numbers and basic set theory Ordinals as nim-heaps Nim always ends, even with infinite ordinals Infinite Nim as a coin-moving game Coin-moving games with no coins Productive programs and well-founded orders In part 4,...
-
-
-[AI and the reshuffling of labor](https://crookedtimber.org/2026/08/21/ai-and-the-reshuffling-of-labor/)
----
-
-Crooked Timber --- 8/21/2026
-
-A summer anecdote: when on holidays in France, on a sunny August day, we visited a castle garden in rural Normandy. When buying the tickets, we got the usual: “Your postcode or country of origin?” We said “Germany,” and suddenly the face of the...
 
 
 [The Contingent HOD Dichotomy, CUNY Logic Workshop, October 2026](https://jdh.hamkins.org/the-contingent-hod-dichotomy-cuny-logic-workshop-october-2026/)
