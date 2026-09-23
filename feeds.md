@@ -1,4 +1,20 @@
 
+[Work diary victory](https://blog.plover.com/2026/09/22)
+---
+
+The Universe of Discourse --- 9/22/2026
+
+[ Content warning: mundane, rambly, neurotic. ] A couple of years back I wrote a long whiny blog article about putting up some shelves in the bathroom and how miserable it had made me to do it.  I said:  When I put up shelves in the bathroom...
+
+
+[The Untested Drug that Saved My Cat’s Life: Neostigmine as a Treatment for Feline Idiopathic Megacolon](https://rin.io/megacolon/)
+---
+
+Good Fibrations --- 9/22/2026
+
+A record of what worked for one nine-year-old cat with megacolon, written for owners who have been told euthanasia is the sensible option and who may not know that another one exists. Referenced throughout.
+
+
 [Into the darkness?](https://crookedtimber.org/2026/09/21/into-the-darkness/)
 ---
 
@@ -663,14 +679,6 @@ Computational Complexity --- 6/28/2026
 Peter Brass is a prior NSF theory director. He has written an intelligent guest post on the new NSF guidelines that we present here. You have received many mails regarding the proposed OMB Uniform Guidance for federal grant making. It is a very...
 
 
-[It's our language now!](https://blog.plover.com/2026/06/27)
----
-
-The Universe of Discourse --- 6/27/2026
-
-A while back I related how I had been mocked by an English person for using the word “burglarize”. I ended by saying:  Okay, whatever. Brits have been mocking the American language for centuries now. Let them go ahead. We all know who won that...
-
-
 [The Zone](https://blog.computationalcomplexity.org/feeds/958488770516036226/comments/default)
 ---
 
@@ -789,12 +797,4 @@ Thanks to Sam Graf for introducing me to this and suggesting some toys. Introduc
 The n-Category Café --- 5/2/2026
 
 In the last episode of my column in Notices of the American Mathematical Society, we looked at a particle moving in an attractive central force whose strength is proportional to the inverse cube of the distance from the origin....
-
-
-[CKKS — Polynomials, the Canonical Embedding, and Encoding](https://www.jeremykun.com/2026/04/29/ckks-polynomials-the-canonical-embedding-and-encoding/)
----
-
-Math ∩ Programming --- 4/29/2026
-
-Table of Contents In this tutorial series, I will introduce the CKKS homomorphic encryption scheme from the ground up, in rather intricate detail. Each article in this series corresponds to a pull request on a GitHub repository. The code for this...
 
