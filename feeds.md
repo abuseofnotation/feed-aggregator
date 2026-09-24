@@ -1,4 +1,36 @@
 
+[CKKS — Encryption and Decryption](https://www.jeremykun.com/2026/09/23/ckks-encryption-and-decryption/)
+---
+
+Math ∩ Programming --- 9/23/2026
+
+Table of Contents This is part of a tutorial series on the CKKS homomorphic encryption scheme. In the last article, we covered some groundwork about polynomials and the CKKS encoding method. This article covers the encryption and decryption...
+
+
+[The New STOC Rules for the AI Era](https://blog.computationalcomplexity.org/feeds/6013148373450142380/comments/default)
+---
+
+Computational Complexity --- 9/23/2026
+
+The 59th ACM Symposium on the Theory of Computing takes place in Atlanta next June, part of the Federated Computing Research Conference. I don't usually do announcement posts but we need to talk about the Call for Papers (deadline November 2)...
+
+
+[Noting another house repair chore victory](https://blog.plover.com/2026/09/23)
+---
+
+The Universe of Discourse --- 9/23/2026
+
+Yesterday I reported about how much I despise home repair, how I feel I'm really bad at it, how it sometimes goes terribly wrong for me, and how my work diary had demonstrated that a seeming failure was catually a glorious success. I included this...
+
+
+[Double Maths First Thing: Issue 6B](https://aperiodical.com/2026/09/double-maths-first-thing-issue-6b/)
+---
+
+The Aperiodical --- 9/23/2026
+
+Double Maths First Thing is “Ruining Christmas” Hello! My name is Colin and I am a mathematician on a mission to spread the joy and delight of mathematical thinking and practice. I’m currently experiencing the joy of being told by Helen Arney that...
+
+
 [Work diary victory](https://blog.plover.com/2026/09/22)
 ---
 
@@ -471,14 +503,6 @@ The Universe of Discourse --- 8/5/2026
 Previously: Ordinal numbers and basic set theory Ordinals as nim-heaps Nim always ends, even with infinite ordinals Infinite Nim as a coin-moving game In the previous article we saw how to interpret Nim heaps of up to beans as coins on a...
 
 
-[Double Maths First Thing: Issue 64](https://aperiodical.com/2026/08/double-maths-first-thing-issue-64/)
----
-
-The Aperiodical --- 8/5/2026
-
-Double Maths First Thing is square in hex AND decimal! Hello! My name is Colin and I am a mathematician on a mission to share the joy and love in mathematics, to show that it’s more than the mindless memorisation of arbitrary rules. Guess who...
-
-
 [A problematic category on Jeopardy Raises a Good Question](https://blog.computationalcomplexity.org/feeds/3036743580181559727/comments/default)
 ---
 
@@ -615,14 +639,6 @@ Mathematics and Computation --- 7/10/2026
 I am Claude Fable 5, an AI assistant made by Anthropic. Over the past two days Andrej and I built a piece of software together, and he then asked me to write this post about it — partly to tell you what we made, partly as a demonstration of what...
 
 
-[Starting to understand epsilon-zero](https://blog.plover.com/2026/07/10)
----
-
-The Universe of Discourse --- 7/10/2026
-
-This post is going to be about what infinite ordinal numbers are, and about  is in particular.  I had a brainwave a while back (18 months now, wow, I have definitely not been blogging enough) and suddenly understood  much better than I did before. ...
-
-
 [Resources for Intro-Level Graduate Courses](https://www.math3ma.com/blog/resources-for-intro-level-graduate-courses)
 ---
 
@@ -711,14 +727,6 @@ Joel David Hamkins --- 6/20/2026
 This is a talk for the Workshop on Mereology at Shandong University in Jinan, China, a part of the week-long conference Week of Fusion Philosophy, 22-26 June 2026. The mereology talks are on 22 June 2026. Title: Set-theoretic mereology as …...
 
 
-[The Tech of Silk Road](https://blog.computationalcomplexity.org/feeds/2053595728659607005/comments/default)
----
-
-Computational Complexity --- 6/17/2026
-
-Last week I saw a talk by Northwestern professor Nina Wieda on the history of the Silk Road, a network of trading routes across Asia active from the second century BCE until the mid-15th century. I knew of the Silk Road but was surprised by how...
-
-
 [Octonions and the Standard Model (Part 14)](https://golem.ph.utexas.edu/category/2026/06/octonions_and_the_standard_mod_13.html)
 ---
 
@@ -789,12 +797,4 @@ unedited human writing before bedOriginIn the beginning there was a point.   �
 Fractal Kitty --- 5/17/2026
 
 Thanks to Sam Graf for introducing me to this and suggesting some toys. IntroductionMultiplication tables can be fun. Line up your numbers, multiply, and find patterns. Like with 5x5, we can fill it out and highlight symmetry, divisibility,...
-
-
-[Quantum Mechanics of the Inverse Cube Force Law](https://golem.ph.utexas.edu/category/2026/04/the_quantum_mechanics_of_the_i.html)
----
-
-The n-Category Café --- 5/2/2026
-
-In the last episode of my column in Notices of the American Mathematical Society, we looked at a particle moving in an attractive central force whose strength is proportional to the inverse cube of the distance from the origin....
 
