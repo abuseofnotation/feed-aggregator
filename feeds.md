@@ -1,4 +1,20 @@
 
+[Binomial Coefficient Coincidences](https://golem.ph.utexas.edu/category/2026/09/binomial_coefficient_coinciden.html)
+---
+
+The n-Category Café --- 9/24/2026
+
+These seven equations between binomial coefficients are 'coincidences' --- they aren't among the four known infinite families of such equations: (162)=(103)=120 \binom{16}{2} = \binom{10}{3} = 120 (212)=(104)=210 \binom{21}{2} = \binom{10}{4} = 210...
+
+
+[The road to epsilon-zero: “Shortlex” isn't actually a single order](https://blog.plover.com/2026/09/24)
+---
+
+The Universe of Discourse --- 9/24/2026
+
+Previously: Ordinal numbers and basic set theory Ordinals as nim-heaps Nim always ends, even with infinite ordinals Infinite Nim as a coin-moving game Coin-moving games with no coins Productive programs and well-founded orders Shortlex order...
+
+
 [CKKS — Encryption and Decryption](https://www.jeremykun.com/2026/09/23/ckks-encryption-and-decryption/)
 ---
 
@@ -591,14 +607,6 @@ The n-Category Café --- 7/19/2026
 John Baez, Endre Bokor and Latham Boyle have a new paper which gets at the Standard Model gauge group and its representation on one generation of fermions starting from a Jordan triple that consists of pairs of bioctonions.
 
 
-[The road to epsilon-zero: ordinals as nim-heaps](https://blog.plover.com/2026/07/18)
----
-
-The Universe of Discourse --- 7/18/2026
-
-Previously: Ordinal numbers and basic set theory We're going to get to  in a long and roundabout way.  First I want to talk about the game of Nim. Nim Nim is a very simple game for two players.  There are some piles of beans, which are...
-
-
 [Herman Chernoff (1923-2026)](https://blog.computationalcomplexity.org/feeds/2413597657266787510/comments/default)
 ---
 
@@ -789,12 +797,4 @@ Here are some more whimsical OEIS sequences I came across. XKCD 2016 joked that 
 Fractal Kitty --- 5/21/2026
 
 unedited human writing before bedOriginIn the beginning there was a point.              ...And the beginning was but a period in which time was noted by a wisp of this existence
-
-
-[Inquiries-Week 9: Mod Multiplication](https://www.fractalkitty.com/inquiries-week-9-mod-multiplication/)
----
-
-Fractal Kitty --- 5/17/2026
-
-Thanks to Sam Graf for introducing me to this and suggesting some toys. IntroductionMultiplication tables can be fun. Line up your numbers, multiply, and find patterns. Like with 5x5, we can fill it out and highlight symmetry, divisibility,...
 
