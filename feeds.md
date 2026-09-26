@@ -2,9 +2,25 @@
 [Binomial Coefficient Coincidences](https://golem.ph.utexas.edu/category/2026/09/binomial_coefficient_coinciden.html)
 ---
 
-The n-Category Café --- 9/24/2026
+The n-Category Café --- 9/25/2026
 
-These seven equations between binomial coefficients are 'coincidences' --- they aren't among the four known infinite families of such equations: (162)=(103)=120 \binom{16}{2} = \binom{10}{3} = 120 (212)=(104)=210 \binom{21}{2} = \binom{10}{4} = 210...
+These seven equations between binomial coefficients are 'coincidences': they aren't among the four known infinite families of such equations.   Here we explain one using representation theory and three using combinatorics.
+
+
+[L-systems generate weevils, pizza toppings, and matriarchal lineages](https://blog.plover.com/2026/09/25)
+---
+
+The Universe of Discourse --- 9/25/2026
+
+The Fibonacci sequence is so-called because in Western mathematics is first appears in connection with a problem from Fibonacci's 1202 book Liber Abaci. Fibonacci asks us to consider a rabbit farm where a pair of baby rabits grows to adulthood in...
+
+
+[NY Times should look across the East River, not across the Atlantic](https://crookedtimber.org/2026/09/25/ny-times-should-look-across-the-hudson-not-across-the-atlantic/)
+---
+
+Crooked Timber --- 9/25/2026
+
+Responding the gloominess of recent posts, I thought I’d try a piece that’s more optimistic about Europe, if not about the US. It’s a mashup of a couple of recent Substack newsletters. The New York Times has a thumb-sucker about the rise of the...
 
 
 [The road to epsilon-zero: “Shortlex” isn't actually a single order](https://blog.plover.com/2026/09/24)
@@ -399,14 +415,6 @@ Crooked Timber --- 8/25/2026
 Ceuta, the small Spanish enclave on the coast of North Africa, has been in the news lately. And I’ve seen a couple of articles mentioning that Ceuta has been a Spanish possession since 1668. Which triggered my inner history nerd, because on one...
 
 
-[Sunday photoblogging: Jenisch-Haus, Hamburg](https://crookedtimber.org/2026/08/23/sunday-photoblogging-jenisch-haus-hamburg/)
----
-
-Crooked Timber --- 8/23/2026
-
-
-
-
 [The road to epsilon-zero: Shortlex order also orders sequences of numbers](https://blog.plover.com/2026/08/21)
 ---
 
@@ -581,14 +589,6 @@ Last week was the start of a mini-series on limits and colimits in category theo
 Computational Complexity --- 7/22/2026
 
 Back in the 90s when I was a young professor at the University of Chicago, we would have a Complexity Class of the Week where I would take some interesting complexity class, write down on a white board everything we knew about it with some open...
-
-
-[The road to epsilon-zero: Nim always ends, even with infinite ordinals](https://blog.plover.com/2026/07/19)
----
-
-The Universe of Discourse --- 7/19/2026
-
-Previously: Ordinal numbers and basic set theory Ordinals as nim-heaps [Yesterday][prev-2] I talked about the game of Nim, which involves two players taking beans from several piles, and an extension that includes green tokens that behave a...
 
 
 [Bipartite Perfect Matching in Deterministic NC](https://blog.computationalcomplexity.org/feeds/1087736660426121662/comments/default)
