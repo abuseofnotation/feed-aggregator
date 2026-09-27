@@ -1,4 +1,12 @@
 
+[How to run the ivory tower?](https://crookedtimber.org/2026/09/26/how-to-run-the-ivory-tower/)
+---
+
+Crooked Timber --- 9/26/2026
+
+Books that complain about the state of universities, written by university members, are probably as old as the institution itself. And if there is one institution that needs – and should be able to provide – self-reflection, it is universities....
+
+
 [Binomial Coefficient Coincidences](https://golem.ph.utexas.edu/category/2026/09/binomial_coefficient_coinciden.html)
 ---
 
@@ -405,14 +413,6 @@ About all the terrible things right now that are happening, what can you do? (be
 Abuse of Notation --- 8/26/2026
 
 title: Predictability layout: microblog category: microblog tags: zen poetry — Reality is getting less and less predictable. At one point the wine is tasty, the next it makes me sick.
-
-
-[Why Ceuta is European, and what came of it](https://crookedtimber.org/2026/08/25/why-ceuta-is-european-and-what-came-of-it/)
----
-
-Crooked Timber --- 8/25/2026
-
-Ceuta, the small Spanish enclave on the coast of North Africa, has been in the news lately. And I’ve seen a couple of articles mentioning that Ceuta has been a Spanish possession since 1668. Which triggered my inner history nerd, because on one...
 
 
 [The road to epsilon-zero: Shortlex order also orders sequences of numbers](https://blog.plover.com/2026/08/21)
