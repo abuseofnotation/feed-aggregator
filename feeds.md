@@ -1,4 +1,12 @@
 
+[On the fundamental theorem of finite games, CUNY Graduate Student Seminar, October 2026](https://jdh.hamkins.org/fundamental-theorem-of-finite-games-cuny-grad-student-seminar-october-2026/)
+---
+
+Joel David Hamkins --- 9/28/2026
+
+This will be a talk for the Mathematics Graduate Student Seminar on 23rd October 2026, 5pm at the CUNY Graduate Center in midtown Manhattan. On the fundamental theorem of finite games Abstract: We will give five different proofs of the … Continue...
+
+
 [How to run the ivory tower?](https://crookedtimber.org/2026/09/26/how-to-run-the-ivory-tower/)
 ---
 
@@ -789,12 +797,4 @@ TL;DR: introducing nar-klepto, the context that led to its inception, and some f
 Math ∩ Programming --- 5/22/2026
 
 Here are some more whimsical OEIS sequences I came across. XKCD 2016 joked that “OEIS keeps rejecting my submissions,” including one that gives “Integers in increasing order of width when printed in Helvetica.” Well, two days after that comic was...
-
-
-[(0,0,0,...)](https://www.fractalkitty.com/0-0-0/)
----
-
-Fractal Kitty --- 5/21/2026
-
-unedited human writing before bedOriginIn the beginning there was a point.              ...And the beginning was but a period in which time was noted by a wisp of this existence
 
