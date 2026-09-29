@@ -1,10 +1,18 @@
 
-[On the fundamental theorem of finite games, CUNY Graduate Student Seminar, October 2026](https://jdh.hamkins.org/fundamental-theorem-of-finite-games-cuny-grad-student-seminar-october-2026/)
+[What is the point of AI-disclosure?](https://blog.computationalcomplexity.org/feeds/4420557289212328759/comments/default)
+---
+
+Computational Complexity --- 9/28/2026
+
+The STOC conference (and likely others) are requiring that a submission says how much AI was used. I can imagine the following options:1) AI was used for proofreading and tightening prose (I think in this case you do not need to disclose).2) AI was...
+
+
+[On the fundamental theorem of finite games, CUNY Student Logic Seminar, October 2026](https://jdh.hamkins.org/fundamental-theorem-of-finite-games-cuny-grad-student-seminar-october-2026/)
 ---
 
 Joel David Hamkins --- 9/28/2026
 
-This will be a talk for the Mathematics Graduate Student Seminar on 23rd October 2026, 5pm at the CUNY Graduate Center in midtown Manhattan. On the fundamental theorem of finite games Abstract: We will give five different proofs of the … Continue...
+This will be a talk for the CUNY Student Logic Seminar on 23rd October 2026, 5pm at the CUNY Graduate Center in midtown Manhattan. On the fundamental theorem of finite games Abstract: We will give five different proofs of the … Continue reading →
 
 
 [How to run the ivory tower?](https://crookedtimber.org/2026/09/26/how-to-run-the-ivory-tower/)
@@ -717,14 +725,6 @@ Peter Brass is a prior NSF theory director. He has written an intelligent guest 
 Computational Complexity --- 6/25/2026
 
 When you start thinking deeply about a mathematics problem you may enter the "zone", a period of intense focus where you think solely about the problem and potential solutions, and more importantly block out all other thoughts and even lose track...
-
-
-[The New Result on Off-diagonal Ramsey Numbers](https://blog.computationalcomplexity.org/feeds/1305115097196649740/comments/default)
----
-
-Computational Complexity --- 6/22/2026
-
-(All references in this blog post can be found in the main article the post is about which is here.)Recall that \(R(s,k) \) is the least \(n\) so that, for all 2-colorings of the edges of \(K_n\), there is either a RED \(s\)-clique or a BLUE...
 
 
 [Inquiries-Week 10: Self-Descriptive](https://www.fractalkitty.com/inquiries-week-10-self-descriptive/)
