@@ -1,4 +1,12 @@
 
+[Aggravated by “algorithms”](https://crookedtimber.org/2026/09/29/aggravated-by-algorithms/)
+---
+
+Crooked Timber --- 9/29/2026
+
+I’m mostly a descriptivist when it comes to the meaning of words. If everyone uses “literally” to mean “figuratively”, that’s fine by me. Same if there is no likelihood of confusion, as with “aggravate” for “annoy” as well as “exacerbate”. But that...
+
+
 [What is the point of AI-disclosure?](https://blog.computationalcomplexity.org/feeds/4420557289212328759/comments/default)
 ---
 
@@ -373,14 +381,6 @@ A couple of years ago, I edited a volume on pluralizing political philosophy, in
 Computational Complexity --- 8/31/2026
 
 BILL: Lance, I have a question and a meta question:a) List all the presidents and vice presidents who were colorblind.b) Do you know this sort of thing since you are colorblind, and hencemight have looked this up in the past?LANCE: (b) No. And if...
-
-
-[Gold and Myth in the Australian Blue Mountains](https://crookedtimber.org/2026/08/28/gold-and-myth-in-the-australian-blue-mountains/)
----
-
-Crooked Timber --- 8/28/2026
-
-At the end of a glorious day hanging out at galleries, antique shops and the pub with friend and historian Matt Allen we walked to the station at Blackheath in the Blue Mountains, Australia (where I live) for Matt to get the train back to the city....
 
 
 [The Calculator Transition](https://blog.computationalcomplexity.org/feeds/8258498853326152436/comments/default)
