@@ -1,4 +1,44 @@
 
+[The Office: A sort of conjecture about why some US sitcoms are the way they are.](https://crookedtimber.org/2026/09/30/the-office-a-sort-of-conjecture-about-why-some-us-sitcoms-are-the-way-they-are/)
+---
+
+Crooked Timber --- 9/30/2026
+
+People here often ask me what part of England I grew up in, which isn’t a particularly easy question – I was born in the north, but then lived in South Wales and then various place in the South all of which were west of London. Oxford is sort of...
+
+
+[Does Programming Help You Understand Complexity?](https://blog.computationalcomplexity.org/feeds/7859479834608702913/comments/default)
+---
+
+Computational Complexity --- 9/30/2026
+
+I got the following question in an email. My nephew is currently in high school in China and has developed a strong interest in computer science and mathematics. Recently, we've been talking about how computers can solve incredibly complex...
+
+
+[Aperiodical News Roundup – August/September 2026](https://aperiodical.com/2026/09/aperiodical-news-roundup-august-september-2026/)
+---
+
+The Aperiodical --- 9/30/2026
+
+Here’s a round-up of some news from the last couple of months. Mathematical discoveries Lerch primes are defined as odd primes that divide their Lerch quotients (obviously) and until now we only knew four of them existed. This month, Veljko Vranić...
+
+
+[Is philosophy of migration biased by methodological nationalism?](https://crookedtimber.org/2026/09/30/is-philosophy-of-migration-biased-by-methodological-nationalism/)
+---
+
+Crooked Timber --- 9/30/2026
+
+These days, methodological nationalism is finally sparking a heated debate in philosophy. A flurry of new papers has recently been published in open access: Baycan, 2026; Beaton, 2026; Milioni, 2024; Sager, 2021; Ujlaki, 2026. Naturally, some of...
+
+
+[Double Maths First Thing: Issue 6C](https://aperiodical.com/2026/09/double-maths-first-thing-issue-6c/)
+---
+
+The Aperiodical --- 9/30/2026
+
+Double Maths First Thing is fair drawing in. Hello! My name is Colin and I am a mathematician on a mission to spread the joy and delight in doing and talking (and singing) about maths. This week I’m in the undelightful state of “writing up maths...
+
+
 [Aggravated by “algorithms”](https://crookedtimber.org/2026/09/29/aggravated-by-algorithms/)
 ---
 
@@ -335,14 +375,6 @@ Crooked Timber --- 9/3/2026
 We are being flooded with spam coming from fake gmail.com addresses at the moment. So, for the moment, I’ve set our spam filter to delete everything from gmail.com If you want to post a real comment, just give a spurious address like anon.com and...
 
 
-[Taylor Swift: The Good Billionaire?](https://crookedtimber.org/2026/09/03/taylor-swift-the-good-billionaire/)
----
-
-Crooked Timber --- 9/3/2026
-
-I wrote this post a couple of weeks ago, responding to a challenge* to write about the economic aspects of Taylor Swift. Not long after that, the world lost the marvellous Dolly Parton. Parton’s lifetime income almost certainly exceeded a billion...
-
-
 [What is a Computer?](https://blog.computationalcomplexity.org/feeds/5506622862818745076/comments/default)
 ---
 
@@ -365,14 +397,6 @@ Double Maths First Thing is grateful to Past Colin’s organisation. Hello! My n
 The n-Category Café --- 9/1/2026
 
 How you can fit the Lie algebra of the Standard Model gauge group and its representation on three generations of fermions into the Lie algebra of E7.
-
-
-[Teaching pluralizing political philosophy](https://crookedtimber.org/2026/08/31/teaching-pluralizing-political-philosophy/)
----
-
-Crooked Timber --- 8/31/2026
-
-A couple of years ago, I edited a volume on pluralizing political philosophy, in particular in relation to economic and ecological inequalities. It was put together under the Covid-pandemic, so we had to swap the authors-conference for online...
 
 
 [Claude and Colorblind Questions](https://blog.computationalcomplexity.org/feeds/579233444126434428/comments/default)
@@ -463,14 +487,6 @@ The Aperiodical --- 8/19/2026
 Double Maths First Thing gets its kicks on a.19792ish Hello! My name is Colin and I am a mathematician on a mission to spread the joy and love in doing maths, figuring stuff out, getting stuck and getting unstuck again. You’ll need to forgive a...
 
 
-[\(-e^{i\pi}\) to Watch: Ellie Sleightholm](https://aperiodical.com/2026/08/eipi-to-watch-ellie-sleightholm/)
----
-
-The Aperiodical --- 8/17/2026
-
-In this series of posts, we’ll be featuring mathematical video and streaming channels from all over the internet, by speaking to the creators of the channel and asking them about what they do. We spoke to Ellie Sleightholm about her YouTube...
-
-
 [IIT is the canary in the coalmine (Do our younger readers know what that means? Do we have younger readers?)](https://blog.computationalcomplexity.org/feeds/7693509281939335540/comments/default)
 ---
 
@@ -493,14 +509,6 @@ Previously: Ordinal numbers and basic set theory Ordinals as nim-heaps Nim alway
 Computational Complexity --- 8/12/2026
 
 Enjoying Idaho while ignoring IllinoisToday is the first day of my life that I am unemployed. And not by choice.As I mentioned on LinkedIn last week, me and about 160 of my colleagues, staff and faculty, untenured and tenured, lost our positions at...
-
-
-[Double Maths First Thing: Issue 65](https://aperiodical.com/2026/08/double-maths-first-thing-issue-65/)
----
-
-The Aperiodical --- 8/12/2026
-
-Double Maths First Thing has an army of clones Hello! My name is Colin and I am a mathematician on a mission to spread the joy and delight of working things out. I had a delightful chat with young Bill about complex numbers and matrices and noticed...
 
 
 [There are two kinds of theorems](https://blog.plover.com/2026/08/11)
@@ -717,14 +725,6 @@ Math is wonderful, and there are so many different ways to play and experience i
 Computational Complexity --- 6/28/2026
 
 Peter Brass is a prior NSF theory director. He has written an intelligent guest post on the new NSF guidelines that we present here. You have received many mails regarding the proposed OMB Uniform Guidance for federal grant making. It is a very...
-
-
-[The Zone](https://blog.computationalcomplexity.org/feeds/958488770516036226/comments/default)
----
-
-Computational Complexity --- 6/25/2026
-
-When you start thinking deeply about a mathematics problem you may enter the "zone", a period of intense focus where you think solely about the problem and potential solutions, and more importantly block out all other thoughts and even lose track...
 
 
 [Inquiries-Week 10: Self-Descriptive](https://www.fractalkitty.com/inquiries-week-10-self-descriptive/)
