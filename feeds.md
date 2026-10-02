@@ -1,4 +1,20 @@
 
+[Philosophy and Logic of Games, Notre Dame, Fall 2026](https://jdh.hamkins.org/philosophy-and-logic-of-games-notre-dame-fall-2026/)
+---
+
+Joel David Hamkins --- 10/1/2026
+
+This is a rough outline syllabus for the class I am teaching this semester at the University of Notre Dame on the philosophy and logic of games. University of Notre Dame                    … Continue reading →
+
+
+[The last four digits of 16¹⁶](https://aperiodical.com/2026/10/the-last-four-digits-of-16%c2%b9%e2%81%b6/)
+---
+
+The Aperiodical --- 10/1/2026
+
+On the math-fun mailing list, Dick Hess posted “a couple of curiosities”: A speaker at G4G16 noted that \(16^{16}\) ends in \(1616\). A friend sent me this: \(499^{499}\) ends in \(499499\). Are there any other cases including numbers with more...
+
+
 [The Office: A sort of conjecture about why some US sitcoms are the way they are.](https://crookedtimber.org/2026/09/30/the-office-a-sort-of-conjecture-about-why-some-us-sitcoms-are-the-way-they-are/)
 ---
 
@@ -479,14 +495,6 @@ Computational Complexity --- 8/19/2026
 In the past, new PhD students would ask how they could succeed when they had to compete with the likes of say, Richard Karp or Avi Wigderson. I would say Karp and Wigderson have limited bandwidth and you can work on problems they don't work on, or...
 
 
-[Double Maths First Thing: Issue 66](https://aperiodical.com/2026/08/double-maths-first-thing-issue-66/)
----
-
-The Aperiodical --- 8/19/2026
-
-Double Maths First Thing gets its kicks on a.19792ish Hello! My name is Colin and I am a mathematician on a mission to spread the joy and love in doing maths, figuring stuff out, getting stuck and getting unstuck again. You’ll need to forgive a...
-
-
 [IIT is the canary in the coalmine (Do our younger readers know what that means? Do we have younger readers?)](https://blog.computationalcomplexity.org/feeds/7693509281939335540/comments/default)
 ---
 
@@ -789,12 +797,4 @@ Welcome to the 252nd Carnival of Mathematics! This post brings together submissi
 AlternativeBit --- 6/1/2026
 
 TL;DR: introducing nar-klepto, the context that led to its inception, and some fun experiments we did last week with it. 4 years ago, I moved out of Bayonne to a rural area. My quality of life almost instantly skyrocketed; however, I quickly felt a...
-
-
-[More whimsical OEIS sequences](https://www.jeremykun.com/shortform/2026-05-22-1528/)
----
-
-Math ∩ Programming --- 5/22/2026
-
-Here are some more whimsical OEIS sequences I came across. XKCD 2016 joked that “OEIS keeps rejecting my submissions,” including one that gives “Integers in increasing order of width when printed in Helvetica.” Well, two days after that comic was...
 
