@@ -1,4 +1,12 @@
 
+[Mathober 2026 Art](https://www.fractalkitty.com/mathober-2026-art/)
+---
+
+Fractal Kitty --- 10/2/2026
+
+It's Mathober! This post that will get updated throughout this month as I work on prompts. I am doing a few things this month so I separated them by type (doodles, code, Desmos). DoodlesI am going with fungus this year.Day 1CodeDay 1DesmosDay
+
+
 [Philosophy and Logic of Games, Notre Dame, Fall 2026](https://jdh.hamkins.org/philosophy-and-logic-of-games-notre-dame-fall-2026/)
 ---
 
@@ -789,12 +797,4 @@ Readers may have noticed that I haven't been very active here for a while. That 
 Fractal Kitty --- 6/3/2026
 
 Welcome to the 252nd Carnival of Mathematics! This post brings together submissions and other posts from the mathy web. Thanks all for participating.Let's start with the number: 252Divisors: 1, 2, 3, 4, 6, 7, 9, 12, 14, 18, 21, 28, 36, 42, 63, 84,...
-
-
-[Nar-klepto: Guix and Nix Offline Cache](https://alternativebit.fr/posts/nix-and-guix-offline-hacking/)
----
-
-AlternativeBit --- 6/1/2026
-
-TL;DR: introducing nar-klepto, the context that led to its inception, and some fun experiments we did last week with it. 4 years ago, I moved out of Bayonne to a rural area. My quality of life almost instantly skyrocketed; however, I quickly felt a...
 
