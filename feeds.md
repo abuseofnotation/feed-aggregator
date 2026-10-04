@@ -1,10 +1,26 @@
 
+[If a chatbot prompt like ‘find Australian medicine statistics’ results in a website breach, the responsibility does not lie with a piece of code](https://crookedtimber.org/2026/10/04/if-a-chatbot-prompt-like-find-australian-medicine-statistics-results-in-a-website-breach-the-responsibility-does-not-lie-with-a-piece-of-code/)
+---
+
+Crooked Timber --- 10/4/2026
+
+(A piece I ran in The Guardian) The recent panic about a breach of Medicare computer security by an “AI agent” contrasts sharply with other recent cases such as the Telstra and Optus outages that left many Australians unable to reach Triple Zero....
+
+
+[Recent addenda to articles 202609: Errors, omissions, and retractions](https://blog.plover.com/2026/10/03)
+---
+
+The Universe of Discourse --- 10/3/2026
+
+I was going to start with “it has been a while since we had one of these” but then I saw that the previous one started with “Wow, has it really been 7 months since I did one of these?” and that was in December 2023. Maybe I can make it a more...
+
+
 [Mathober 2026 Art](https://www.fractalkitty.com/mathober-2026-art/)
 ---
 
 Fractal Kitty --- 10/2/2026
 
-It's Mathober! This post that will get updated throughout this month as I work on prompts. I am doing a few things this month so I separated them by type (doodles, code, Desmos). DoodlesI am going with fungus this year.Day 1CodeDay 1DesmosDay
+It's Mathober! This post that will get updated throughout this month as I work on prompts. I am doing a few things this month so I separated them by type (doodles, code, Desmos). DoodlesI am going with fungus this year.Day 1Day 2CodeDay 1
 
 
 [Philosophy and Logic of Games, Notre Dame, Fall 2026](https://jdh.hamkins.org/philosophy-and-logic-of-games-notre-dame-fall-2026/)
@@ -391,14 +407,6 @@ Fractal Kitty --- 9/3/2026
 It's time for SciArt September hosted by Kristin Henry (vis.Social/@kristinHenry) with #SciArt on Mastodon.  This year, I made wallpapers. There are 137 images per doodle that are formed from mirroring, gliding, and rotating an image. I am hosting...
 
 
-[Don’t use a gmail.com address](https://crookedtimber.org/2026/09/03/dont-use-a-gmail-com-address/)
----
-
-Crooked Timber --- 9/3/2026
-
-We are being flooded with spam coming from fake gmail.com addresses at the moment. So, for the moment, I’ve set our spam filter to delete everything from gmail.com If you want to post a real comment, just give a spurious address like anon.com and...
-
-
 [What is a Computer?](https://blog.computationalcomplexity.org/feeds/5506622862818745076/comments/default)
 ---
 
@@ -597,14 +605,6 @@ I would like to start this post with a thank you to members of this site for mak
 The Universe of Discourse --- 7/29/2026
 
 Previously: Ordinal numbers and basic set theory Ordinals as nim-heaps Nim always ends, even with infinite ordinals In the previous articles I talked about the game of Nim, a very  simple game for two players: There are some piles of...
-
-
-[“Steph Curry: fluke or breakthrough” ten years later](https://blog.plover.com/2026/07/27)
----
-
-The Universe of Discourse --- 7/27/2026
-
-(Previously) Flukes and Breakthroughs In the NBA 2015–16 season, Steph Curry set the all-time single-season record for three-point field goals, 402, completely crushing the old record of 286.  Curry's record still stands. The New York Times was...
 
 
 [Would Erdos have been happy with the resolution of the Erdos Unit Distance Problem? How to find out?](https://blog.computationalcomplexity.org/feeds/47540465404978675/comments/default)
