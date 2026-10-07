@@ -1,4 +1,20 @@
 
+[Carnival of Maths 255](https://aperiodical.com/2026/10/carnival-of-maths-255/)
+---
+
+The Aperiodical --- 10/6/2026
+
+The next issue of the Carnival of Mathematics, rounding up blog posts from the month of September 2026, is now online at Ben Leis’s Math Off The Grid. The Carnival rounds up maths blog posts from all over the internet, including some from our...
+
+
+[Maybe a better way to track the release history of a Git repo](https://blog.plover.com/2026/10/06)
+---
+
+The Universe of Discourse --- 10/6/2026
+
+release-ref { color: #b34700 } metainfo-commit { color: #007a5a } tree-commit { color: #0072b2 } While I was still at ZipRecruiter, our Git monorepo was developing an annoying problem: it had too many refs. Whenever there was a deployment of any...
+
+
 [Experiments on Exploitation](https://crookedtimber.org/2026/10/05/experiments-on-exploitation/)
 ---
 
@@ -44,7 +60,7 @@ I was going to start with “it has been a while since we had one of these” bu
 
 Fractal Kitty --- 10/2/2026
 
-It's Mathober! This post that will get updated throughout this month as I work on prompts. I am doing a few things this month so I separated them by type (doodles, code, Desmos). DoodlesI am going with fungus this year. Days 1-3 (perimeter of an...
+It's Mathober! This post that will get updated throughout this month as I work on prompts. I am doing a few things this month so I separated them by type (doodles, code, Desmos). DoodlesI am going with fungus this year. Days 1-5 (perimeter of an...
 
 
 [Philosophy and Logic of Games, Notre Dame, Fall 2026](https://jdh.hamkins.org/philosophy-and-logic-of-games-notre-dame-fall-2026/)
@@ -455,14 +471,6 @@ Computational Complexity --- 8/26/2026
 There's a scene in Apollo 13 where Jim Lovell, played by Tom Hanks, asks Houston control to check his calculations, which they do using a slide rule. My father told me that when he was in college (1950s) that engineers measured their technical...
 
 
-[Double Maths First Thing: Issue 67](https://aperiodical.com/2026/08/double-maths-first-thing-issue-67/)
----
-
-The Aperiodical --- 8/26/2026
-
-Double Maths First Thing is not, and has never been, down with the kids. Hello! My name is Colin and I am a mathematician on a mission to spread joy and delight in maths, puzzles and problem-solving. I’m just back from a week in Germany, where the...
-
-
 [The contingent HOD dichotomy, Notre Dame Logic Seminar, September 2026](https://jdh.hamkins.org/the-contingent-hod-dichotomy-notre-dame-logic-seminar-september-2026/)
 ---
 
@@ -605,14 +613,6 @@ The bookshelf by my elbow, the one that I can reach without getting up, has seve
 Fractal Kitty --- 7/31/2026
 
 I would like to start this post with a thank you to members of this site for making both this blog and inquiries.link more sustainable. I've been asked about some of the toys I've made for interactive math play. I implement them on a site
-
-
-[The road to epsilon-zero: Infinite Nim as a coin-moving game](https://blog.plover.com/2026/07/29)
----
-
-The Universe of Discourse --- 7/29/2026
-
-Previously: Ordinal numbers and basic set theory Ordinals as nim-heaps Nim always ends, even with infinite ordinals In the previous articles I talked about the game of Nim, a very  simple game for two players: There are some piles of...
 
 
 [Would Erdos have been happy with the resolution of the Erdos Unit Distance Problem? How to find out?](https://blog.computationalcomplexity.org/feeds/47540465404978675/comments/default)
