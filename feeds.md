@@ -1,4 +1,28 @@
 
+[Open No More](https://blog.computationalcomplexity.org/feeds/3480016448434581979/comments/default)
+---
+
+Computational Complexity --- 10/7/2026
+
+I wrote the post below last week. That was a quaint and quiet time. Last night OpenAI released a treasure trove of 722 manuscripts solving 372 major open problems in mathematics including from theoretical computer science:A proof of the unique...
+
+
+[How Money Matters](https://crookedtimber.org/2026/10/07/55721/)
+---
+
+Crooked Timber --- 10/7/2026
+
+Having alighted from the bus in an industrial area I’d never been before, I found the right building and descended the stairs. As instructed by email, I rang the doorbell. I was immediately met by the two cutest dachshunds you’ve ever seen. My...
+
+
+[Double Maths First Thing: Issue 6D](https://aperiodical.com/2026/10/double-maths-first-thing-issue-6d/)
+---
+
+The Aperiodical --- 10/7/2026
+
+Double Maths First Thing is tangled up in knots Hello! My name is Colin and I am a mathematician on a mission to spread the joy and delight in doing and discussing maths. This week I have been in error-recovery mode after drawing a wrong conclusion...
+
+
 [Carnival of Maths 255](https://aperiodical.com/2026/10/carnival-of-maths-255/)
 ---
 
@@ -375,14 +399,6 @@ The Aperiodical --- 9/9/2026
 It’s Double Maths First Thing, not Double Entendre. Hello! My name is Colin and I am a mathematician on a mission to spread joy and delight in maths and mathematical thinking. Something that’s been brewing for a while: I’ve come to the decision...
 
 
-[Youth CND](https://crookedtimber.org/2026/09/08/youth-cnd/)
----
-
-Crooked Timber --- 9/8/2026
-
-Here’s another of my posts about being a peace activist in the UK in the early eighties. This one is mainly about my time in secondary school. When I linked to the substack version from Facebook a couple of people recognized some of the people...
-
-
 [Carnival of Maths 254](https://aperiodical.com/2026/09/carnival-of-maths-254/)
 ---
 
@@ -437,14 +453,6 @@ It's time for SciArt September hosted by Kristin Henry (vis.Social/@kristinHenry
 Computational Complexity --- 9/2/2026
 
 Ben Brubaker has a new Quanta essay Does Computer Science Need Computers? Despite the title (and authors generally don't choose their titles), Brubaker's essay really addresses the question as to whether computer science is about computers. He...
-
-
-[Double Maths First Thing: Issue 68](https://aperiodical.com/2026/09/double-maths-first-thing-issue-68/)
----
-
-The Aperiodical --- 9/2/2026
-
-Double Maths First Thing is grateful to Past Colin’s organisation. Hello! My name is Colin and I am a mathematician on a mission to spread the joy and love of mathematics, even when deadlines are tight. Fortunately, I anticipated this might happen...
 
 
 [Three Generations in E7](https://golem.ph.utexas.edu/category/2026/08/three_generations_in_e7.html)
@@ -725,14 +733,6 @@ This will be a talk for the Fudan University logic group on 16 July 4:00pm in Sh
 Computational Complexity --- 7/6/2026
 
 I recently read Alan Alda's first memoir Never have your dog stuffed which was pretty good. Hence I began looking for more information about him on the web. I came across a YouTube video  At 89, Alan Alda reveals the seven actors he HATED the...
-
-
-[The True Method](https://blog.computationalcomplexity.org/feeds/8889944152921391178/comments/default)
----
-
-Computational Complexity --- 7/1/2026
-
-Harry Lewis pointed Bill and me to Gottfried Leibniz's 1677 treatise The True Method (translated from the original French). I highly recommend taking the time to read this three page document where he talks about formalizing all human knowledge.The...
 
 
 [Moduloku](https://www.fractalkitty.com/moduloku/)
