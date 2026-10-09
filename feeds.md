@@ -1,4 +1,12 @@
 
+[Hotword detection in FHE on GPU in 350ms](https://www.jeremykun.com/shortform/2026-10-08-1120/)
+---
+
+Math ∩ Programming --- 10/8/2026
+
+A quick update on our homomorphic encryption compiler HEIR: our partners at Belfort have a hotword detector in FHE that runs in 350ms. More specifically, they launched a live demo at hotword.belfortlabs.com, that has a little game inspired by the...
+
+
 [Open No More](https://blog.computationalcomplexity.org/feeds/3480016448434581979/comments/default)
 ---
 
@@ -789,12 +797,4 @@ This will be a series of graduate lectures at Peking University, two lectures pe
 The n-Category Café --- 6/6/2026
 
 Readers may have noticed that I haven't been very active here for a while. That isn't because I haven't felt the "blogging urge", but because I felt that the things I want to blog about right now wouldn't be...
-
-
-[The 252nd Carnival of Mathematics](https://www.fractalkitty.com/the-252nd-carnival-of-mathematics/)
----
-
-Fractal Kitty --- 6/3/2026
-
-Welcome to the 252nd Carnival of Mathematics! This post brings together submissions and other posts from the mathy web. Thanks all for participating.Let's start with the number: 252Divisors: 1, 2, 3, 4, 6, 7, 9, 12, 14, 18, 21, 28, 36, 42, 63, 84,...
 
