@@ -1,4 +1,12 @@
 
+[The Six-Cent Drug Nobody Will Test: Memantine as an Alternative to Opioids for Chronic Pain](https://rin.io/memantine/)
+---
+
+Good Fibrations --- 10/10/2026
+
+Memantine is a cheap generic dementia drug that might help with chronic pain. Nobody has tested it properly, and that's mostly about money.
+
+
 [Hotword detection in FHE on GPU in 350ms](https://www.jeremykun.com/shortform/2026-10-08-1120/)
 ---
 
@@ -789,12 +797,4 @@ Let me tell you about a language. But if you wish to go play instead go here.  I
 Joel David Hamkins --- 6/8/2026
 
 This will be a series of graduate lectures at Peking University, two lectures per week beginning mid-June and proceeding into July. Topics. We shall aim to cover the central results in the modal logic of forcing, including an exploration of …...
-
-
-[A New Blog](https://golem.ph.utexas.edu/category/2026/06/a_new_blog.html)
----
-
-The n-Category Café --- 6/6/2026
-
-Readers may have noticed that I haven't been very active here for a while. That isn't because I haven't felt the "blogging urge", but because I felt that the things I want to blog about right now wouldn't be...
 
