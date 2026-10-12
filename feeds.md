@@ -1,4 +1,44 @@
 
+[The economic irrelevance of naval power](https://crookedtimber.org/2026/10/12/the-economic-irrelevance-of-naval-power/)
+---
+
+Crooked Timber --- 10/12/2026
+
+When I posted a piece on the latest failure of the US Navy a while back, I predicted that I wouldn’t be changing any minds. That was one of my safer predictions, confirmed almost immediately by Robert Farley at Lawyers, Guns and Money. Farley...
+
+
+[CKKS — Addition and Multiplication](https://www.jeremykun.com/2026/10/11/ckks-addition-and-multiplication/)
+---
+
+Math ∩ Programming --- 10/11/2026
+
+Table of Contents This is part of a tutorial series on the CKKS homomorphic encryption scheme. In the last article, we introduced symmetric and public-key encryption and decryption routines, and implemented modular polynomial arithmetic (using NTTs...
+
+
+[Conjectures that I thought would not be proved  in my lifetime....were](https://blog.computationalcomplexity.org/feeds/5568165131471474496/comments/default)
+---
+
+Computational Complexity --- 10/11/2026
+
+Lance blogged on the OpenAI solutions to many problems here and also created a website of the TCS-related problems OpenAI claims to have solved here.Terry Tao seems to have had an infinite number of guest bloggers talking about AI and Math even...
+
+
+[Alan Thornett is dead](https://crookedtimber.org/2026/10/11/alan-thornett-is-dead/)
+---
+
+Crooked Timber --- 10/11/2026
+
+Chris just let me know that Alan Thornett has died. International Viewpoint has a long obituary here. I doubt The Graun will carry an obit, and The Times certainly won’t. I got to know members of the Oxford branch of what was then the Socialist...
+
+
+[Sunday photoblogging: Céret](https://crookedtimber.org/2026/10/11/sunday-photoblogging-ceret/)
+---
+
+Crooked Timber --- 10/11/2026
+
+
+
+
 [The Six-Cent Drug Nobody Will Test: Memantine as an Alternative to Opioids for Chronic Pain](https://rin.io/memantine/)
 ---
 
@@ -100,7 +140,7 @@ I was going to start with “it has been a while since we had one of these” bu
 
 Fractal Kitty --- 10/2/2026
 
-It's Mathober! This post that will get updated throughout this month as I work on prompts. I am doing a few things this month so I separated them by type (doodles, code, Desmos). DoodlesI am going with fungus this year. Days 1-5 (perimeter of an...
+It's Mathober! This post that will get updated throughout this month as I work on prompts. I am doing a few things this month so I separated them by type (doodles, code, Desmos). DoodlesI am going with fungus this year. Days 1-10 (perimeter of an...
 
 
 [Philosophy and Logic of Games, Notre Dame, Fall 2026](https://jdh.hamkins.org/philosophy-and-logic-of-games-notre-dame-fall-2026/)
@@ -327,14 +367,6 @@ Crooked Timber --- 9/17/2026
 One of the oddities of our age is that there are two apocalyptic sensibilities that have captured two almost completely distinct groups of the scientifically literate not least among the youth: one can be found among those concerned with the...
 
 
-[The one where I figure out in real time whether I enjoy climbing](https://crookedtimber.org/2026/09/16/the-one-where-i-figure-out-in-real-time-whether-i-enjoy-climbing/)
----
-
-Crooked Timber --- 9/16/2026
-
-About a year ago, I started doing this thing that the people who do it just call “climbing.” Basically, you go to a giant place where there are things strategically stuck to a wall, and you grab them with your hands and feet trying to climb to the...
-
-
 [Double Maths First Thing: Issue 6A](https://aperiodical.com/2026/09/double-maths-first-thing-issue-6a/)
 ---
 
@@ -365,22 +397,6 @@ This will be a talk for the new Mathematical Philosophy Seminar here at the Univ
 Computational Complexity --- 9/14/2026
 
 On September 1, 2026:LANCE: I'm surprised you haven't blogged about OpenAI solving 10 open math problems.BILL: If I post every time an open math problem is solved by AI I won't ever post about anything else.I'll wait until AI does something really...
-
-
-[The US is not a serious country](https://crookedtimber.org/2026/09/13/the-us-is-not-a-serious-country/)
----
-
-Crooked Timber --- 9/13/2026
-
-Last week, on 9 September, Donald Trump promised that, if the Republicans retained their Congressional majorities in the November elections, he would send $5000 to every adult American citizen. The cost has been estimated at around $1.2 trillion....
-
-
-[Sunday photoblogging: Hôtel d’Alfonce, Pézenas](https://crookedtimber.org/2026/09/13/sunday-photoblogging-hotel-dalfonce-pezenas/)
----
-
-Crooked Timber --- 9/13/2026
-
-
 
 
 [George Orwell's essay on the atomic bomb anticipates Nineteen Eighty-Four](https://blog.plover.com/2026/09/12)
@@ -743,14 +759,6 @@ Joel David Hamkins --- 7/7/2026
 This will be a talk for the Fudan University logic group on 16 July 4:00pm in Shanghai. Abstract: The axiom V = HOD is contingently contingent—more precisely, it is class-forcing contingent that V = HOD is contingent with respect to set … Continue...
 
 
-[Extreme cases of clickbait!](https://blog.computationalcomplexity.org/feeds/9204732397788134167/comments/default)
----
-
-Computational Complexity --- 7/6/2026
-
-I recently read Alan Alda's first memoir Never have your dog stuffed which was pretty good. Hence I began looking for more information about him on the web. I came across a YouTube video  At 89, Alan Alda reveals the seven actors he HATED the...
-
-
 [Moduloku](https://www.fractalkitty.com/moduloku/)
 ---
 
@@ -789,12 +797,4 @@ A new characterization of the Standard Model gauge group as the group of symmetr
 Fractal Kitty --- 6/11/2026
 
 Let me tell you about a language. But if you wish to go play instead go here.  It's going to get a little abstract below.There is a Canvas to Compose UponThe canvas is a square with the largest circle that has a radius of ρ.There
-
-
-[The Modal Logic of Forcing and Set-theoretic Potentialism, Peking University lectures, June/July 2026](https://jdh.hamkins.org/modal-logic-of-forcing-and-potentialism-peking-university-2026/)
----
-
-Joel David Hamkins --- 6/8/2026
-
-This will be a series of graduate lectures at Peking University, two lectures per week beginning mid-June and proceeding into July. Topics. We shall aim to cover the central results in the modal logic of forcing, including an exploration of …...
 
