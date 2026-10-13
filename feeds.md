@@ -1,4 +1,20 @@
 
+[Conjectures that I thought would not be proved  in my lifetime....were](https://blog.computationalcomplexity.org/feeds/5568165131471474496/comments/default)
+---
+
+Computational Complexity --- 10/12/2026
+
+Lance blogged on the OpenAI solutions to many problems here and also created a website of the TCS-related problems OpenAI claims to have solved here.Terry Tao seems to have had an infinite number of guest bloggers talking about AI and Math even...
+
+
+[Adrian Grey-Turner, 1955-1986](https://crookedtimber.org/2026/10/12/adrian-grey-turner-1955-1986-2/)
+---
+
+Crooked Timber --- 10/12/2026
+
+(This is an updated version of something I posted 20 years ago, on the 20th anniversary, and 10 years ago, on the 30th anniversary, of my friend’s death) About 43 years and 3 weeks ago the soon-to-be late lamented You and Yours had one of those...
+
+
 [The economic irrelevance of naval power](https://crookedtimber.org/2026/10/12/the-economic-irrelevance-of-naval-power/)
 ---
 
@@ -13,14 +29,6 @@ When I posted a piece on the latest failure of the US Navy a while back, I predi
 Math ∩ Programming --- 10/11/2026
 
 Table of Contents This is part of a tutorial series on the CKKS homomorphic encryption scheme. In the last article, we introduced symmetric and public-key encryption and decryption routines, and implemented modular polynomial arithmetic (using NTTs...
-
-
-[Conjectures that I thought would not be proved  in my lifetime....were](https://blog.computationalcomplexity.org/feeds/5568165131471474496/comments/default)
----
-
-Computational Complexity --- 10/11/2026
-
-Lance blogged on the OpenAI solutions to many problems here and also created a website of the TCS-related problems OpenAI claims to have solved here.Terry Tao seems to have had an infinite number of guest bloggers talking about AI and Math even...
 
 
 [Alan Thornett is dead](https://crookedtimber.org/2026/10/11/alan-thornett-is-dead/)
@@ -357,14 +365,6 @@ After a rabbit hole of playing with the minimum L-shaped seams of Mrs Perkins' Q
 Computational Complexity --- 9/17/2026
 
 ITMS 2026Two years ago I attended the International Manufacturing Technology Show in Chicago's McCormick Place and found a rather limited focus on artificial intelligence among the exhibitors. ITMS is back in town so I went again this week. A quiet...
-
-
-[Existential Risks in an Age of Science](https://crookedtimber.org/2026/09/17/existential-risks-in-an-age-of-science/)
----
-
-Crooked Timber --- 9/17/2026
-
-One of the oddities of our age is that there are two apocalyptic sensibilities that have captured two almost completely distinct groups of the scientifically literate not least among the youth: one can be found among those concerned with the...
 
 
 [Double Maths First Thing: Issue 6A](https://aperiodical.com/2026/09/double-maths-first-thing-issue-6a/)
