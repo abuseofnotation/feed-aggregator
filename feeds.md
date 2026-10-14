@@ -1,4 +1,12 @@
 
+[Epistemic Logic Puzzles for Mathematicians, NYC Math Education and Communication Seminar, October 2026](https://jdh.hamkins.org/epistemic-logic-puzzles-for-mathematicians-nyc-math-communication-seminar-october-2026/)
+---
+
+Joel David Hamkins --- 10/14/2026
+
+This will be a talk for the NYC Math Education and Communication Seminar, 20 October 2026, 12:15 – 1:15pm, at the CUNY Graduate Center in midtown Manhattan. Epistemic Logic Puzzles for Mathematicians Joel David Hamkins, O’Hara Professor of Logic,...
+
+
 [Conjectures that I thought would not be proved  in my lifetime....were](https://blog.computationalcomplexity.org/feeds/5568165131471474496/comments/default)
 ---
 
@@ -789,12 +797,4 @@ This is a talk for the Workshop on Mereology at Shandong University in Jinan, Ch
 The n-Category Café --- 6/16/2026
 
 A new characterization of the Standard Model gauge group as the group of symmetries of an octonionic qutrit that restrict to act as unitary operators on an ordinary qutrit and, within that, a qubit.
-
-
-[There is(Ǝ) – Such that (∋)](https://www.fractalkitty.com/there-is-3-such-that/)
----
-
-Fractal Kitty --- 6/11/2026
-
-Let me tell you about a language. But if you wish to go play instead go here.  It's going to get a little abstract below.There is a Canvas to Compose UponThe canvas is a square with the largest circle that has a radius of ρ.There
 
