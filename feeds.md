@@ -1,4 +1,12 @@
 
+[Double Maths First Thing: Issue 6E](https://aperiodical.com/2026/10/double-maths-first-thing-issue-6e/)
+---
+
+The Aperiodical --- 10/14/2026
+
+Double Maths First Thing had to look up where Wells is Hello! My name is Colin and I am a mathematician on a mission to spread the joy and delight in the beauty of maths, and the human effort of figuring things out. This week I’ve been taking joy...
+
+
 [Epistemic Logic Puzzles for Mathematicians, NYC Math Education and Communication Seminar, October 2026](https://jdh.hamkins.org/epistemic-logic-puzzles-for-mathematicians-nyc-math-communication-seminar-october-2026/)
 ---
 
@@ -453,14 +461,6 @@ The next issue of the Carnival of Mathematics, rounding up blog posts from the m
 The n-Category Café --- 9/8/2026
 
 Counting and visualizing the faces of the E6 root polytope.
-
-
-[\(-e^{i\pi}\) to Watch: aboutlogic](https://aperiodical.com/2026/09/eipi-to-watch-aboutlogic/)
----
-
-The Aperiodical --- 9/7/2026
-
-In this series of posts, we’ll be featuring mathematical video and streaming channels from all over the internet, by speaking to the creators of the channel and asking them about what they do. We spoke to Deniz & Thorsten, who host the aboutlogic...
 
 
 [Richard Stearns (1936-2026)](https://blog.computationalcomplexity.org/feeds/6658559765577405589/comments/default)
