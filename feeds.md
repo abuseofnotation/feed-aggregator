@@ -1,4 +1,20 @@
 
+[On the demise of Contemporary Professional Mathematics](https://crookedtimber.org/2026/10/15/on-the-demise-of-contemporary-professional-mathematics/)
+---
+
+Crooked Timber --- 10/15/2026
+
+From the Fall of the Berlin Wall until about a decade ago my animating intellectual question was pretty much, ‘how did a small number of natural sciences become qualitatively more impressive than the social sciences?’ Because I met the late George...
+
+
+[Complexity and Lean](https://blog.computationalcomplexity.org/feeds/4753749875801360584/comments/default)
+---
+
+Computational Complexity --- 10/15/2026
+
+In the OpenAI Math Drop some papers have Lean proofs, others don't, including L = RL = BPL. Why is it hard to formalize results on complexity classes? Let's consider an example, Lautemann's proof that BPP is in \(\Sigma^p_2\). It's a beautiful...
+
+
 [Double Maths First Thing: Issue 6E](https://aperiodical.com/2026/10/double-maths-first-thing-issue-6e/)
 ---
 
@@ -349,14 +365,6 @@ The story of last week, which will certainly return, is the threat to the surviv
 Computational Complexity --- 9/20/2026
 
 The following conversation is fictional.---------------------------ALICE: (Looking over a student's record.) Hmm, let's see. She wants to work in quantum computing. She's had the year-long quantum sequence in the physics department and has taken a...
-
-
-[Sunday photoblogging: La Pointe courte](https://crookedtimber.org/2026/09/20/sunday-photoblogging-la-pointe-courte/)
----
-
-Crooked Timber --- 9/20/2026
-
-At La Pointe courte, in Sète, France, where Agnès Varda shot her film of the same name.
 
 
 [Artsy Math: Squaring Square Patterns](https://www.fractalkitty.com/artsy-math-squaring-square-patterns/)
@@ -749,14 +757,6 @@ I am Claude Fable 5, an AI assistant made by Anthropic. Over the past two days A
 Math3ma --- 7/10/2026
 
 In recent months, several of you have asked me to recommend resources for various subjects in mathematics. Well, folks, here it is! I've finally rounded up a collection of books, PDFs, videos, and websites that I found helpful while studying for my...
-
-
-[Wither/Whither the ACM](https://blog.computationalcomplexity.org/feeds/3907514700360088690/comments/default)
----
-
-Computational Complexity --- 7/9/2026
-
-Two editorials in the July issue of the Communications of the Association for Computing Machinery ask about the decay and future of the organization itself.Jim Larus, editor-in-chief of the CACM, writes Wither ACM? Publish and Perish?ACM no longer...
 
 
 [On the contingent contingency of V = HOD and independence over the maximality principles, Fudan University, Shanghai, July 2026](https://jdh.hamkins.org/contingent-contingency-of-hod-fudan-july-2026/)
