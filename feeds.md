@@ -1,4 +1,28 @@
 
+[AI, Math, the document-drop. Non-Tech Thoughts](https://blog.computationalcomplexity.org/feeds/371291255107737133/comments/default)
+---
+
+Computational Complexity --- 10/19/2026
+
+So what to make of OpenAI and the future of Math? Here are some points I've either:thought of myself or heard from a human or read from an AI.Throughout this post I use the term AI to mean an AI system that produces mathematical results. I decline...
+
+
+[Sunday photoblogging: Ashton Avenue Bridge, Bristol](https://crookedtimber.org/2026/10/18/sunday-photoblogging-ashton-avenue-bridge-bristol-2/)
+---
+
+Crooked Timber --- 10/18/2026
+
+
+
+
+[PPE for Embodied Creatures on a Finite Planet](https://crookedtimber.org/2026/10/18/ppe-for-embodied-creatures-on-a-finite-planet/)
+---
+
+Crooked Timber --- 10/18/2026
+
+Colleagues Cyril Hédoin and Pablo Paniagua are running a symposium on “PPE” (philosophy, politics, and economics) over there. They follow James Buchanan’s classic question, from 1964, of “What should economists do?” Given that Crooked Timber is,...
+
+
 [On the demise of Contemporary Professional Mathematics](https://crookedtimber.org/2026/10/15/on-the-demise-of-contemporary-professional-mathematics/)
 ---
 
@@ -287,14 +311,6 @@ The Universe of Discourse --- 9/25/2026
 The Fibonacci sequence is so-called because in Western mathematics is first appears in connection with a problem from Fibonacci's 1202 book Liber Abaci. Fibonacci asks us to consider a rabbit farm where a pair of baby rabits grows to adulthood in...
 
 
-[NY Times should look across the East River, not across the Atlantic](https://crookedtimber.org/2026/09/25/ny-times-should-look-across-the-hudson-not-across-the-atlantic/)
----
-
-Crooked Timber --- 9/25/2026
-
-Responding the gloominess of recent posts, I thought I’d try a piece that’s more optimistic about Europe, if not about the US. It’s a mashup of a couple of recent Substack newsletters. The New York Times has a thumb-sucker about the rise of the...
-
-
 [The road to epsilon-zero: “Shortlex” isn't actually a single order](https://blog.plover.com/2026/09/24)
 ---
 
@@ -349,14 +365,6 @@ The Universe of Discourse --- 9/22/2026
 Good Fibrations --- 9/22/2026
 
 A record of what worked for one nine-year-old cat with megacolon, written for owners who have been told euthanasia is the sensible option and who may not know that another one exists. Referenced throughout.
-
-
-[Into the darkness?](https://crookedtimber.org/2026/09/21/into-the-darkness/)
----
-
-Crooked Timber --- 9/21/2026
-
-The story of last week, which will certainly return, is the threat to the survival of humanity (and maybe all life on Earth) from artificial intelligence. I don’t know how real that threat is and find it hard to think about, but I am worried that...
 
 
 [I don't care about majors, minors, or honors programs. Do you?](https://blog.computationalcomplexity.org/feeds/479014441343079924/comments/default)
@@ -717,14 +725,6 @@ John Baez, Endre Bokor and Latham Boyle have a new paper which gets at the Stand
 Computational Complexity --- 7/15/2026
 
 Herman Chernoff passed away on July 6, 5 days after turning 103. Ravi Boppana wrote a guest post about Chernoff's life for his 100th birthday. Let me talk about his most famous work, the Chernoff Bounds themselves. If you have a coin that will be...
-
-
-[2... 1/2    THEN       3... 1/6     THEN   5 ....1/15 and so on. And So On?](https://blog.computationalcomplexity.org/feeds/4395052288080959784/comments/default)
----
-
-Computational Complexity --- 7/13/2026
-
-The excellent graphic novelPrime Suspects: The Anatomy of Integers and Permutationsby Andrew Granville and Jennifer Granville, illustrated by Robert J Lewis,(I wrote a review of this graphic novel, for SIGACT News, here.)has an appendix, which is...
 
 
 [Octonions and the Standard Model (Part 13)](https://golem.ph.utexas.edu/category/2025/12/octonions_and_the_standard_mod_11.html)
