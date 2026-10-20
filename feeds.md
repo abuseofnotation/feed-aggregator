@@ -1,4 +1,12 @@
 
+[Turns out the Melbourne Mint was about Gold for India](https://crookedtimber.org/2026/10/19/turns-out-the-melbourne-mint-was-about-gold-for-india/)
+---
+
+Crooked Timber --- 10/19/2026
+
+Last week I was in the Public Records of Victoria (PROV) looking at records of the Melbourne mint. My substack about the Sydney mint by rights should come first, but I’m fresh-ish off the plane so I’m doing this one first. It was a bit extravagant...
+
+
 [AI, Math, the document-drop. Non-Tech Thoughts](https://blog.computationalcomplexity.org/feeds/371291255107737133/comments/default)
 ---
 
@@ -204,7 +212,7 @@ I was going to start with “it has been a while since we had one of these” bu
 
 Fractal Kitty --- 10/2/2026
 
-It's Mathober! This post that will get updated throughout this month as I work on prompts. I am doing a few things this month so I separated them by type (doodles, code, Desmos). DoodlesI am going with fungus this year. Days 1-10 (perimeter of an...
+It's Mathober! This post that will get updated throughout this month as I work on prompts. I am doing a few things this month so I separated them by type (doodles, code, Desmos). DoodlesI am going with fungus this year. Days 1-9Day 10-18Coded
 
 
 [Philosophy and Logic of Games, Notre Dame, Fall 2026](https://jdh.hamkins.org/philosophy-and-logic-of-games-notre-dame-fall-2026/)
@@ -285,14 +293,6 @@ The STOC conference (and likely others) are requiring that a submission says how
 Joel David Hamkins --- 9/28/2026
 
 This will be a talk for the CUNY Student Logic Seminar on 23rd October 2026, 5pm at the CUNY Graduate Center in midtown Manhattan. On the fundamental theorem of finite games Abstract: We will give five different proofs of the … Continue reading →
-
-
-[How to run the ivory tower?](https://crookedtimber.org/2026/09/26/how-to-run-the-ivory-tower/)
----
-
-Crooked Timber --- 9/26/2026
-
-Books that complain about the state of universities, written by university members, are probably as old as the institution itself. And if there is one institution that needs – and should be able to provide – self-reflection, it is universities....
 
 
 [Binomial Coefficient Coincidences](https://golem.ph.utexas.edu/category/2026/09/binomial_coefficient_coinciden.html)
