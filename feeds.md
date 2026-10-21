@@ -1,4 +1,12 @@
 
+[The pattern of consistency strength for membership in a computably enumerable set](https://jdh.hamkins.org/pattern-of-consistencty-strength-of-membership-in-a-ce-set/)
+---
+
+Joel David Hamkins --- 10/21/2026
+
+Joel David Hamkins and Atticus Stonestrom, “The pattern of consistency strength for membership in a computably enumerable set,” preprint. arxiv:2610.24919. Abstract. Every computable preorder relation on the natural numbers is the order of...
+
+
 [Turns out the Melbourne Mint was about Gold for India](https://crookedtimber.org/2026/10/19/turns-out-the-melbourne-mint-was-about-gold-for-india/)
 ---
 
@@ -212,7 +220,7 @@ I was going to start with “it has been a while since we had one of these” bu
 
 Fractal Kitty --- 10/2/2026
 
-It's Mathober! This post that will get updated throughout this month as I work on prompts. I am doing a few things this month so I separated them by type (doodles, code, Desmos). DoodlesI am going with fungus this year. Days 1-9Day 10-18Coded
+It's Mathober! This post that will get updated throughout this month as I work on prompts. I am doing a few things this month so I separated them by type (doodles, code, Desmos). DoodlesI am going with fungus this year. Days 1-9Day 10-18Day
 
 
 [Philosophy and Logic of Games, Notre Dame, Fall 2026](https://jdh.hamkins.org/philosophy-and-logic-of-games-notre-dame-fall-2026/)
@@ -789,12 +797,4 @@ IntroductionIn this inquiry, we build a sequence from a single 2. The first rule
 Joel David Hamkins --- 6/20/2026
 
 This is a talk for the Workshop on Mereology at Shandong University in Jinan, China, a part of the week-long conference Week of Fusion Philosophy, 22-26 June 2026. The mereology talks are on 22 June 2026. Title: Set-theoretic mereology as …...
-
-
-[Octonions and the Standard Model (Part 14)](https://golem.ph.utexas.edu/category/2026/06/octonions_and_the_standard_mod_13.html)
----
-
-The n-Category Café --- 6/16/2026
-
-A new characterization of the Standard Model gauge group as the group of symmetries of an octonionic qutrit that restrict to act as unitary operators on an ordinary qutrit and, within that, a qubit.
 
