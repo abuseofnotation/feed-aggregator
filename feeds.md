@@ -1,5 +1,37 @@
 
-[The pattern of consistency strength for membership in a computably enumerable set](https://jdh.hamkins.org/pattern-of-consistencty-strength-of-membership-in-a-ce-set/)
+[The Quasi-Riemann Hypothesis](https://golem.ph.utexas.edu/category/2026/10/the_quasiriemann_hypothesis.html)
+---
+
+The n-Category Café --- 10/21/2026
+
+What is the quasi-Riemann hypothesis, and what does it imply?
+
+
+[Reading Messy Proofs](https://blog.computationalcomplexity.org/feeds/4959195466022730386/comments/default)
+---
+
+Computational Complexity --- 10/21/2026
+
+In fall of 1985 when I started graduate school, my advisor Michael Sipser asked me to read an early handwritten manuscript by Johan Håstad of his switching lemma. I spent many hours decoding the notation and working through the messy conditional...
+
+
+[CKKS — Key Switching and Relinearization](https://www.jeremykun.com/2026/10/21/ckks-key-switching-and-relinearization/)
+---
+
+Math ∩ Programming --- 10/21/2026
+
+Table of Contents This is part of a tutorial series on the CKKS homomorphic encryption scheme. In the last article, we described the ciphertext-ciphertext addition and multiplication operations. We ended with two challenges, one to restore the...
+
+
+[Double Maths First Thing: Issue 6F](https://aperiodical.com/2026/10/double-maths-first-thing-issue-6f/)
+---
+
+The Aperiodical --- 10/21/2026
+
+Double Maths First Thing is all a bit chaotic Hello! My name is Colin and I am a mathematician on a mission to find and share the joy in maths, puzzles and working things out. I’m likely to have some availability for new students in the next few...
+
+
+[The pattern of consistency strength for membership in a computably enumerable set](https://jdh.hamkins.org/consistency-strength-of-membership-in-a-ce-set/)
 ---
 
 Joel David Hamkins --- 10/21/2026
@@ -471,14 +503,6 @@ The Aperiodical --- 9/9/2026
 It’s Double Maths First Thing, not Double Entendre. Hello! My name is Colin and I am a mathematician on a mission to spread joy and delight in maths and mathematical thinking. Something that’s been brewing for a while: I’ve come to the decision...
 
 
-[Carnival of Maths 254](https://aperiodical.com/2026/09/carnival-of-maths-254/)
----
-
-The Aperiodical --- 9/8/2026
-
-The next issue of the Carnival of Mathematics, rounding up blog posts from the month of August 2026, is now online courtesy of Karen Campe at Reflections and Tangents. The Carnival rounds up maths blog posts from all over the internet, including...
-
-
 [The E6 Root Polytope](https://golem.ph.utexas.edu/category/2026/09/the_e6_root_polytope.html)
 ---
 
@@ -727,14 +751,6 @@ The n-Category Café --- 7/19/2026
 John Baez, Endre Bokor and Latham Boyle have a new paper which gets at the Standard Model gauge group and its representation on one generation of fermions starting from a Jordan triple that consists of pairs of bioctonions.
 
 
-[Herman Chernoff (1923-2026)](https://blog.computationalcomplexity.org/feeds/2413597657266787510/comments/default)
----
-
-Computational Complexity --- 7/15/2026
-
-Herman Chernoff passed away on July 6, 5 days after turning 103. Ravi Boppana wrote a guest post about Chernoff's life for his 100th birthday. Let me talk about his most famous work, the Chernoff Bounds themselves. If you have a coin that will be...
-
-
 [Octonions and the Standard Model (Part 13)](https://golem.ph.utexas.edu/category/2025/12/octonions_and_the_standard_mod_11.html)
 ---
 
@@ -781,20 +797,4 @@ This will be a talk for the Fudan University logic group on 16 July 4:00pm in Sh
 Fractal Kitty --- 6/29/2026
 
 Math is wonderful, and there are so many different ways to play and experience it. I enjoy having conversations with other math lovers and sharing ideas, puzzles, pedagogy, and questions. In one of these conversations with Dr. Maria at Natural...
-
-
-[Inquiries-Week 10: Self-Descriptive](https://www.fractalkitty.com/inquiries-week-10-self-descriptive/)
----
-
-Fractal Kitty --- 6/21/2026
-
-IntroductionIn this inquiry, we build a sequence from a single 2. The first rule of this sequence is that it has to describe itself.Starting with TwoHere is a 2. 2It says, "There are two here." The first number is a 2, so the next
-
-
-[Set-theoretic mereology as a foundation of mathematics? Shandong University, Workshop on Mereology, China, June 2026](https://jdh.hamkins.org/set-theoretic-mereology-shandong-june-2026/)
----
-
-Joel David Hamkins --- 6/20/2026
-
-This is a talk for the Workshop on Mereology at Shandong University in Jinan, China, a part of the week-long conference Week of Fusion Philosophy, 22-26 June 2026. The mereology talks are on 22 June 2026. Title: Set-theoretic mereology as …...
 
