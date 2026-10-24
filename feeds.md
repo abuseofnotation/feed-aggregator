@@ -2,7 +2,7 @@
 [The Quasi-Riemann Hypothesis](https://golem.ph.utexas.edu/category/2026/10/the_quasiriemann_hypothesis.html)
 ---
 
-The n-Category Café --- 10/21/2026
+The n-Category Café --- 10/23/2026
 
 What is the quasi-Riemann hypothesis, and what does it imply?
 
