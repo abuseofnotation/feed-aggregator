@@ -2,9 +2,17 @@
 [The Quasi-Riemann Hypothesis](https://golem.ph.utexas.edu/category/2026/10/the_quasiriemann_hypothesis.html)
 ---
 
-The n-Category Café --- 10/23/2026
+The n-Category Café --- 10/24/2026
 
 What is the quasi-Riemann hypothesis, and what does it imply?
+
+
+[Counting Primes](https://golem.ph.utexas.edu/category/2026/10/counting_primes.html)
+---
+
+The n-Category Café --- 10/24/2026
+
+The sign of li(x) - pi(x) changes infinitely many times, according to Littlewood.  Can we graph this?
 
 
 [Reading Messy Proofs](https://blog.computationalcomplexity.org/feeds/4959195466022730386/comments/default)
@@ -749,14 +757,6 @@ Nutan Limaye and Thore Husfeldt guest post on the new deterministic parallel alg
 The n-Category Café --- 7/19/2026
 
 John Baez, Endre Bokor and Latham Boyle have a new paper which gets at the Standard Model gauge group and its representation on one generation of fermions starting from a Jordan triple that consists of pairs of bioctonions.
-
-
-[Octonions and the Standard Model (Part 13)](https://golem.ph.utexas.edu/category/2025/12/octonions_and_the_standard_mod_11.html)
----
-
-The n-Category Café --- 7/12/2026
-
-There are two ways to stick SU(2) × SU(3) in Spin(10).   One is good for physics; the other, alas, is easily obtained using the octonions.
 
 
 [Making AI smarter with AI](https://math.andrej.com/2026/07/11/making-ai-smarter-with-ai/)
