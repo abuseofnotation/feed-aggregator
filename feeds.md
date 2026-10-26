@@ -1,18 +1,34 @@
 
+[When is it plausible that a result is optimal?](https://blog.computationalcomplexity.org/feeds/6782882136437862707/comments/default)
+---
+
+Computational Complexity --- 10/25/2026
+
+(Lance and Bill did a vidcast about the OpenAI Document Drop. See here. My spellcheck thinks that vidcast and OpenAI are not words.)  The Metric TSP problem is TSP where, for all vertices \(x,y,z\),                  \(w(x,z) \le...
+
+
+[Sunday photoblogging: Cherry trees near Céret](https://crookedtimber.org/2026/10/25/sunday-photoblogging-cherry-trees-near-ceret/)
+---
+
+Crooked Timber --- 10/25/2026
+
+
+
+
+[Counting Primes](https://golem.ph.utexas.edu/category/2026/10/counting_primes.html)
+---
+
+The n-Category Café --- 10/25/2026
+
+The sign of li(x) - pi(x) changes infinitely many times, according to Littlewood.  Can we graph this?
+
+
 [The Quasi-Riemann Hypothesis](https://golem.ph.utexas.edu/category/2026/10/the_quasiriemann_hypothesis.html)
 ---
 
 The n-Category Café --- 10/24/2026
 
 What is the quasi-Riemann hypothesis, and what does it imply?
-
-
-[Counting Primes](https://golem.ph.utexas.edu/category/2026/10/counting_primes.html)
----
-
-The n-Category Café --- 10/24/2026
-
-The sign of li(x) - pi(x) changes infinitely many times, according to Littlewood.  Can we graph this?
 
 
 [Reading Messy Proofs](https://blog.computationalcomplexity.org/feeds/4959195466022730386/comments/default)
@@ -317,14 +333,6 @@ These days, methodological nationalism is finally sparking a heated debate in ph
 The Aperiodical --- 9/30/2026
 
 Double Maths First Thing is fair drawing in. Hello! My name is Colin and I am a mathematician on a mission to spread the joy and delight in doing and talking (and singing) about maths. This week I’m in the undelightful state of “writing up maths...
-
-
-[Aggravated by “algorithms”](https://crookedtimber.org/2026/09/29/aggravated-by-algorithms/)
----
-
-Crooked Timber --- 9/29/2026
-
-I’m mostly a descriptivist when it comes to the meaning of words. If everyone uses “literally” to mean “figuratively”, that’s fine by me. Same if there is no likelihood of confusion, as with “aggravate” for “annoy” as well as “exacerbate”. But that...
 
 
 [What is the point of AI-disclosure?](https://blog.computationalcomplexity.org/feeds/4420557289212328759/comments/default)
@@ -741,14 +749,6 @@ Last week was the start of a mini-series on limits and colimits in category theo
 Computational Complexity --- 7/22/2026
 
 Back in the 90s when I was a young professor at the University of Chicago, we would have a Complexity Class of the Week where I would take some interesting complexity class, write down on a white board everything we knew about it with some open...
-
-
-[Bipartite Perfect Matching in Deterministic NC](https://blog.computationalcomplexity.org/feeds/1087736660426121662/comments/default)
----
-
-Computational Complexity --- 7/19/2026
-
-Nutan Limaye and Thore Husfeldt guest post on the new deterministic parallel algorithm for bipartite perfect matching by Abhranil Chatterjee, Sumanta Ghosh, Rohit Gurjar, Roshan Raj and Thomas Thierauf.The post will try to explain three main things...
 
 
 [Octonions and the Standard Model (Part 15)](https://golem.ph.utexas.edu/category/2026/07/octonions_and_the_standard_mod_14.html)
