@@ -1,10 +1,26 @@
 
+[Counting Primes](https://golem.ph.utexas.edu/category/2026/10/counting_primes.html)
+---
+
+The n-Category Café --- 10/26/2026
+
+The sign of li(x) - pi(x) changes infinitely many times, according to Littlewood.  Can we graph this?
+
+
 [When is it plausible that a result is optimal?](https://blog.computationalcomplexity.org/feeds/6782882136437862707/comments/default)
 ---
 
-Computational Complexity --- 10/25/2026
+Computational Complexity --- 10/26/2026
 
 (Lance and Bill did a vidcast about the OpenAI Document Drop. See here. My spellcheck thinks that vidcast and OpenAI are not words.)  The Metric TSP problem is TSP where, for all vertices \(x,y,z\),                  \(w(x,z) \le...
+
+
+[NAZA – on being a cog in a machine](https://crookedtimber.org/2026/10/26/naza-on-being-a-cog-in-a-machine/)
+---
+
+Crooked Timber --- 10/26/2026
+
+I went to see NAZA last week. In case you haven’t heard yet, NAZA is a documentary on the Israeli machinery of mass killing in Gaza. It draws a picture of this machinery by interviewing 24 Israeli who work(ed) for the Israeli Defense Forces (IDF)....
 
 
 [Sunday photoblogging: Cherry trees near Céret](https://crookedtimber.org/2026/10/25/sunday-photoblogging-cherry-trees-near-ceret/)
@@ -13,14 +29,6 @@ Computational Complexity --- 10/25/2026
 Crooked Timber --- 10/25/2026
 
 
-
-
-[Counting Primes](https://golem.ph.utexas.edu/category/2026/10/counting_primes.html)
----
-
-The n-Category Café --- 10/25/2026
-
-The sign of li(x) - pi(x) changes infinitely many times, according to Littlewood.  Can we graph this?
 
 
 [The Quasi-Riemann Hypothesis](https://golem.ph.utexas.edu/category/2026/10/the_quasiriemann_hypothesis.html)
@@ -317,14 +325,6 @@ I got the following question in an email. My nephew is currently in high school 
 The Aperiodical --- 9/30/2026
 
 Here’s a round-up of some news from the last couple of months. Mathematical discoveries Lerch primes are defined as odd primes that divide their Lerch quotients (obviously) and until now we only knew four of them existed. This month, Veljko Vranić...
-
-
-[Is philosophy of migration biased by methodological nationalism?](https://crookedtimber.org/2026/09/30/is-philosophy-of-migration-biased-by-methodological-nationalism/)
----
-
-Crooked Timber --- 9/30/2026
-
-These days, methodological nationalism is finally sparking a heated debate in philosophy. A flurry of new papers has recently been published in open access: Baycan, 2026; Beaton, 2026; Milioni, 2024; Sager, 2021; Ujlaki, 2026. Naturally, some of...
 
 
 [Double Maths First Thing: Issue 6C](https://aperiodical.com/2026/09/double-maths-first-thing-issue-6c/)
