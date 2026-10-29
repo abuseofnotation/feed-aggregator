@@ -1,4 +1,20 @@
 
+[The Exponential Time Refutation](https://blog.computationalcomplexity.org/feeds/3254656705984379798/comments/default)
+---
+
+Computational Complexity --- 10/28/2026
+
+In this week's big news (though it's only Wednesday), OpenAI announced a proof that the exponential-time hypothesis is false, with a Lean proof. Later Anthropic released their own paper. Ryan O'Donnell and Shiva Kintali posted follow-up proofs,...
+
+
+[Double Maths First Thing: Issue 70](https://aperiodical.com/2026/10/double-maths-first-thing-issue-70/)
+---
+
+The Aperiodical --- 10/28/2026
+
+Double Maths First Thing picked the wrong week to give up Lemsip Hello! My name is Colin and I am mathematician on a mission to spread the joy and delight of doing, thinking about, playing with and suffering from mathematics. I am not on a mission...
+
+
 [Counting Primes](https://golem.ph.utexas.edu/category/2026/10/counting_primes.html)
 ---
 
@@ -511,14 +527,6 @@ Computational Complexity --- 9/10/2026
 I was working on this week's post on Lean after reading Kevin Hartnett's book The Proof in the Code: How a Truth Machine Is Transforming Math and AI. And then yesterday OpenAI announced a solution to Navier-Stokes, one of the Millennium problems....
 
 
-[Double Maths First Thing: Issue 69](https://aperiodical.com/2026/09/double-maths-first-thing-issue-69/)
----
-
-The Aperiodical --- 9/9/2026
-
-It’s Double Maths First Thing, not Double Entendre. Hello! My name is Colin and I am a mathematician on a mission to spread joy and delight in maths and mathematical thinking. Something that’s been brewing for a while: I’ve come to the decision...
-
-
 [The E6 Root Polytope](https://golem.ph.utexas.edu/category/2026/09/the_e6_root_polytope.html)
 ---
 
@@ -719,12 +727,12 @@ The Universe of Discourse --- 8/2/2026
 The bookshelf by my elbow, the one that I can reach without getting up, has seven books on it, not necessarily the ones I look in the most, but the ones whose emanations I most hope will infuse me as I write. Roget's Thesaurus (4th edition) The...
 
 
-[About Interactives: Inquiries.link](https://www.fractalkitty.com/about-interactives-inquiries-link/)
+[About Interactives: MathString.org](https://www.fractalkitty.com/about-interactives-inquiries-link/)
 ---
 
 Fractal Kitty --- 7/31/2026
 
-I would like to start this post with a thank you to members of this site for making both this blog and inquiries.link more sustainable. I've been asked about some of the toys I've made for interactive math play. I implement them on a site
+Note: this post has been updated. MathString.org is the same site as inquiries.link. The domain has been updated to better work with internet filters.I would like to start this post with a thank you to members of this site for making both this blog...
 
 
 [Would Erdos have been happy with the resolution of the Erdos Unit Distance Problem? How to find out?](https://blog.computationalcomplexity.org/feeds/47540465404978675/comments/default)
@@ -741,14 +749,6 @@ Let's say there is a statement in math T that you wonder whether it's true or fa
 Math3ma --- 7/23/2026
 
 Last week was the start of a mini-series on limits and colimits in category theory. We began by answering a few basic questions, including, "What ARE (co)limits?" In short, they are a way to construct new mathematical objects from old ones. For...
-
-
-[Complexity Class of the Week: \(L_2^P\)](https://blog.computationalcomplexity.org/feeds/2507991347756082028/comments/default)
----
-
-Computational Complexity --- 7/22/2026
-
-Back in the 90s when I was a young professor at the University of Chicago, we would have a Complexity Class of the Week where I would take some interesting complexity class, write down on a white board everything we knew about it with some open...
 
 
 [Octonions and the Standard Model (Part 15)](https://golem.ph.utexas.edu/category/2026/07/octonions_and_the_standard_mod_14.html)
