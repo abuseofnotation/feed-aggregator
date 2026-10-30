@@ -2,9 +2,17 @@
 [The Exponential Time Refutation](https://blog.computationalcomplexity.org/feeds/3254656705984379798/comments/default)
 ---
 
-Computational Complexity --- 10/28/2026
+Computational Complexity --- 10/30/2026
 
 In this week's big news (though it's only Wednesday), OpenAI announced a proof that the exponential-time hypothesis is false, with a Lean proof. Later Anthropic released their own paper. Ryan O'Donnell and Shiva Kintali posted follow-up proofs,...
+
+
+[I’d rather drop the balls myself](https://crookedtimber.org/2026/10/29/id-rather-drop-the-balls-myself/)
+---
+
+Crooked Timber --- 10/29/2026
+
+Last week, my partner and I performed a familiar ritual of modern co-parenting: I told him that I felt overburdened by mental labor, and we made a plan to adjust. The logistical work of managing our kids’ lives has recently ramped up steeply, and...
 
 
 [Double Maths First Thing: Issue 70](https://aperiodical.com/2026/10/double-maths-first-thing-issue-70/)
@@ -317,14 +325,6 @@ This is a rough outline syllabus for the class I am teaching this semester at th
 The Aperiodical --- 10/1/2026
 
 On the math-fun mailing list, Dick Hess posted “a couple of curiosities”: A speaker at G4G16 noted that \(16^{16}\) ends in \(1616\). A friend sent me this: \(499^{499}\) ends in \(499499\). Are there any other cases including numbers with more...
-
-
-[The Office: A sort of conjecture about why some US sitcoms are the way they are.](https://crookedtimber.org/2026/09/30/the-office-a-sort-of-conjecture-about-why-some-us-sitcoms-are-the-way-they-are/)
----
-
-Crooked Timber --- 9/30/2026
-
-People here often ask me what part of England I grew up in, which isn’t a particularly easy question – I was born in the north, but then lived in South Wales and then various place in the South all of which were west of London. Oxford is sort of...
 
 
 [Does Programming Help You Understand Complexity?](https://blog.computationalcomplexity.org/feeds/7859479834608702913/comments/default)
