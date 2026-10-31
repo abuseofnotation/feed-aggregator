@@ -1,4 +1,12 @@
 
+[Bruce Bartlett Wins Levi Conant Prize](https://golem.ph.utexas.edu/category/2026/10/bruce_bartlett_wins_levi_conan.html)
+---
+
+The n-Category Café --- 10/30/2026
+
+Bruce Bartlett has won a prize for expository writing!
+
+
 [The Exponential Time Refutation](https://blog.computationalcomplexity.org/feeds/3254656705984379798/comments/default)
 ---
 
@@ -789,12 +797,4 @@ In recent months, several of you have asked me to recommend resources for variou
 Joel David Hamkins --- 7/7/2026
 
 This will be a talk for the Fudan University logic group on 16 July 4:00pm in Shanghai. Abstract: The axiom V = HOD is contingently contingent—more precisely, it is class-forcing contingent that V = HOD is contingent with respect to set … Continue...
-
-
-[Moduloku](https://www.fractalkitty.com/moduloku/)
----
-
-Fractal Kitty --- 6/29/2026
-
-Math is wonderful, and there are so many different ways to play and experience it. I enjoy having conversations with other math lovers and sharing ideas, puzzles, pedagogy, and questions. In one of these conversations with Dr. Maria at Natural...
 
