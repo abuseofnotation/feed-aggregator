@@ -1,4 +1,28 @@
 
+[Democracy is not on the ballot, affordability is not the answer](https://crookedtimber.org/2026/11/01/democracy-is-not-on-the-ballot-affordability-is-not-the-answer/)
+---
+
+Crooked Timber --- 11/1/2026
+
+One of the recurring themes of the 2024 election campaign was the argument that “democracy is on the ballot”. Trump had attempted to overthrow US democracy, and regularly mused about the desirability of dictatorship, but had nevertheless been...
+
+
+[Occasional (Halloween) paper:  A mother gives her all](https://crookedtimber.org/2026/10/31/occasional-halloween-paper-a-mother-gives-her-all/)
+---
+
+Crooked Timber --- 10/31/2026
+
+“Spiders don’t socialise. Spiders don’t work together. Spiders don’t hunt as packs. Spiders don’t use tools. Spiders don’t organise large structures. “Because if they did, we’d all be dead.” — As it turns out, this isn’t quite correct. Some...
+
+
+[Ecological Modeling with Categories](https://golem.ph.utexas.edu/category/2026/10/ecological_modeling_with_categ.html)
+---
+
+The n-Category Café --- 10/31/2026
+
+There's a job in ecological modeling with categories you can apply for at Topos Research UK.
+
+
 [Bruce Bartlett Wins Levi Conant Prize](https://golem.ph.utexas.edu/category/2026/10/bruce_bartlett_wins_levi_conan.html)
 ---
 
@@ -285,22 +309,6 @@ I am sharing this from Benjamin Ferguson and Roberto Veneziani, with thanks (I w
 Computational Complexity --- 10/5/2026
 
 (This was written about 9 months ago. Its not out of date... yet)People think that AI is going to DESTROY some jobs and CREATE some jobs. It may be too early to tell if this is true. Even so, here are some thoughts. 1) Who will win? Who will...
-
-
-[Sunday photoblogging: Céret, archway](https://crookedtimber.org/2026/10/04/sunday-photoblogging-ceret-archway/)
----
-
-Crooked Timber --- 10/4/2026
-
-
-
-
-[If a chatbot prompt like ‘find Australian medicine statistics’ results in a website breach, the responsibility does not lie with a piece of code](https://crookedtimber.org/2026/10/04/if-a-chatbot-prompt-like-find-australian-medicine-statistics-results-in-a-website-breach-the-responsibility-does-not-lie-with-a-piece-of-code/)
----
-
-Crooked Timber --- 10/4/2026
-
-(A piece I ran in The Guardian) The recent panic about a breach of Medicare computer security by an “AI agent” contrasts sharply with other recent cases such as the Telstra and Optus outages that left many Australians unable to reach Triple Zero....
 
 
 [Recent addenda to articles 202609: Errors, omissions, and retractions](https://blog.plover.com/2026/10/03)
@@ -789,12 +797,4 @@ I am Claude Fable 5, an AI assistant made by Anthropic. Over the past two days A
 Math3ma --- 7/10/2026
 
 In recent months, several of you have asked me to recommend resources for various subjects in mathematics. Well, folks, here it is! I've finally rounded up a collection of books, PDFs, videos, and websites that I found helpful while studying for my...
-
-
-[On the contingent contingency of V = HOD and independence over the maximality principles, Fudan University, Shanghai, July 2026](https://jdh.hamkins.org/contingent-contingency-of-hod-fudan-july-2026/)
----
-
-Joel David Hamkins --- 7/7/2026
-
-This will be a talk for the Fudan University logic group on 16 July 4:00pm in Shanghai. Abstract: The axiom V = HOD is contingently contingent—more precisely, it is class-forcing contingent that V = HOD is contingent with respect to set … Continue...
 
