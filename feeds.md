@@ -1,4 +1,12 @@
 
+[3SUM and APSP and ETH, Oh My!](https://blog.computationalcomplexity.org/feeds/1239647937217788194/comments/default)
+---
+
+Computational Complexity --- 11/1/2026
+
+(Throughout this post I will assume that the recent results by OpenAI and Anthropic contain correct proofs of what they claim.)I wrote the following about 2 years ago but did not post it. It's dated, but that's the point.BEGIN DOCUMENT FROM TWO...
+
+
 [Democracy is not on the ballot, affordability is not the answer](https://crookedtimber.org/2026/11/01/democracy-is-not-on-the-ballot-affordability-is-not-the-answer/)
 ---
 
@@ -324,7 +332,7 @@ I was going to start with “it has been a while since we had one of these” bu
 
 Fractal Kitty --- 10/2/2026
 
-It's Mathober! This post that will get updated throughout this month as I work on prompts. I am doing a few things this month so I separated them by type (doodles, code, Desmos). DoodlesI am going with fungus this year. Days 1-9Day 10-18Day
+Below are three galleries. One of fungi and growths, one with p5js and one with Desmos. Existential ClosureThirty-one fungi, lichen, slime molds in mathober-land. Created in procreate using camera-roll images and the Trudell Mushrooms of the...
 
 
 [Philosophy and Logic of Games, Notre Dame, Fall 2026](https://jdh.hamkins.org/philosophy-and-logic-of-games-notre-dame-fall-2026/)
@@ -749,14 +757,6 @@ The bookshelf by my elbow, the one that I can reach without getting up, has seve
 Fractal Kitty --- 7/31/2026
 
 Note: this post has been updated. MathString.org is the same site as inquiries.link. The domain has been updated to better work with internet filters.I would like to start this post with a thank you to members of this site for making both this blog...
-
-
-[Would Erdos have been happy with the resolution of the Erdos Unit Distance Problem? How to find out?](https://blog.computationalcomplexity.org/feeds/47540465404978675/comments/default)
----
-
-Computational Complexity --- 7/27/2026
-
-Let's say there is a statement in math T that you wonder whether it's true or false. You may even make a conjecture of which way it goes. Do you have a rooting interest? I may think T is true, but if someone proves T or proves NOT(T) my main...
 
 
 [A Diagram is a Functor](https://www.math3ma.com/blog/a-diagram-is-a-functor)
