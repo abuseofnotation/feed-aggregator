@@ -1,4 +1,12 @@
 
+[#mathober 2026: My Month of Maths Zines](https://aperiodical.com/2026/11/mathober-2026-my-month-of-maths-zines/)
+---
+
+The Aperiodical --- 11/2/2026
+
+The month of Mathober, which takes place during the actual month of October, is an annual celebration of mathematical ideas, art, creativity and general mathsy fun. According to the website at mathober.com, “Mathober is a space for everyone to...
+
+
 [3SUM and APSP and ETH, Oh My!](https://blog.computationalcomplexity.org/feeds/1239647937217788194/comments/default)
 ---
 
@@ -493,14 +501,6 @@ After a rabbit hole of playing with the minimum L-shaped seams of Mrs Perkins' Q
 Computational Complexity --- 9/17/2026
 
 ITMS 2026Two years ago I attended the International Manufacturing Technology Show in Chicago's McCormick Place and found a rather limited focus on artificial intelligence among the exhibitors. ITMS is back in town so I went again this week. A quiet...
-
-
-[Double Maths First Thing: Issue 6A](https://aperiodical.com/2026/09/double-maths-first-thing-issue-6a/)
----
-
-The Aperiodical --- 9/16/2026
-
-Double Maths First Thing is changing the key right back again. Hello! My name is Colin and I am a mathematician on a mission to spread the joy and love of maths as far and wide as I can. I’m fresh(ish) from extending my comfort zone by stepping in...
 
 
 [Rabbit Hole: Minimum L-seams](https://www.fractalkitty.com/rabbit-hole-minimum-l-seams/)
