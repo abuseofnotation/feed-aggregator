@@ -1,4 +1,20 @@
 
+[An open letter to JK Rowling from Sophie Grace Chappell](https://crookedtimber.org/2026/11/03/an-open-letter-to-jk-rowling-from-sophie-grace-chappell/)
+---
+
+Crooked Timber --- 11/3/2026
+
+An open letter to J K Rowling (November 2026) Dear Ms Rowling I see you have published an update on your June 2020 essay on transgender issues. As you probably recall, I responded to that at the time.1 And here I am again, with a couple of...
+
+
+[Aperiodical News Roundup – October 2026](https://aperiodical.com/2026/11/aperiodical-news-roundup-october-2026/)
+---
+
+The Aperiodical --- 11/3/2026
+
+Here’s a round-up of mathematical news from this month we didn’t otherwise cover on the site. Owing to a spam email we got which included the sentence “Given your recent roundup on AI and mathematical proof, I thought this might be of interest”,...
+
+
 [#mathober 2026: My Month of Maths Zines](https://aperiodical.com/2026/11/mathober-2026-my-month-of-maths-zines/)
 ---
 
@@ -311,14 +327,6 @@ The Universe of Discourse --- 10/6/2026
 release-ref { color: #b34700 } metainfo-commit { color: #007a5a } tree-commit { color: #0072b2 } While I was still at ZipRecruiter, our Git monorepo was developing an annoying problem: it had too many refs. Whenever there was a deployment of any...
 
 
-[Experiments on Exploitation](https://crookedtimber.org/2026/10/05/experiments-on-exploitation/)
----
-
-Crooked Timber --- 10/5/2026
-
-I am sharing this from Benjamin Ferguson and Roberto Veneziani, with thanks (I will be back to post myself soon, apologies for the long radio silence): We are conducting a survey about academic philosophers’ views of (1) the effect of exploitation...
-
-
 [How many humans does it take to make tech seem human? Do you want to be one of them?](https://blog.computationalcomplexity.org/feeds/4830946252279413513/comments/default)
 ---
 
@@ -445,14 +453,6 @@ The 59th ACM Symposium on the Theory of Computing takes place in Atlanta next Ju
 The Universe of Discourse --- 9/23/2026
 
 Yesterday I reported about how much I despise home repair, how I feel I'm really bad at it, how it sometimes goes terribly wrong for me, and how my work diary had demonstrated that a seeming failure was catually a glorious success. I included this...
-
-
-[Double Maths First Thing: Issue 6B](https://aperiodical.com/2026/09/double-maths-first-thing-issue-6b/)
----
-
-The Aperiodical --- 9/23/2026
-
-Double Maths First Thing is “Ruining Christmas” Hello! My name is Colin and I am a mathematician on a mission to spread the joy and delight of mathematical thinking and practice. I’m currently experiencing the joy of being told by Helen Arney that...
 
 
 [Work diary victory](https://blog.plover.com/2026/09/22)
