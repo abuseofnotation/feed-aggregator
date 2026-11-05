@@ -1,4 +1,20 @@
 
+[Another Step Towards Optiland](https://blog.computationalcomplexity.org/feeds/7880671642388461539/comments/default)
+---
+
+Computational Complexity --- 11/4/2026
+
+When the Clay Mathematics Institute announced the Millennium Prize Problems back in 2000, we joked that if you proved P = NP, you wouldn't only get the $1 million prize for solving P v NP, but you would get $7 million since you could use P = NP to...
+
+
+[Double Maths First Thing: Issue 71](https://aperiodical.com/2026/11/double-maths-first-thing-issue-71/)
+---
+
+The Aperiodical --- 11/4/2026
+
+Double Maths First Thing dislikes fireworks Hello! My name is Colin and I am a mathematician on a mission to spread the joy and delight in mathematical thinking and practice. This week I am mainly rehearsing my Big MathsJam talk and seeing what I...
+
+
 [An open letter to JK Rowling from Sophie Grace Chappell](https://crookedtimber.org/2026/11/03/an-open-letter-to-jk-rowling-from-sophie-grace-chappell/)
 ---
 
@@ -85,6 +101,14 @@ Last week, my partner and I performed a familiar ritual of modern co-parenting: 
 The Aperiodical --- 10/28/2026
 
 Double Maths First Thing picked the wrong week to give up Lemsip Hello! My name is Colin and I am mathematician on a mission to spread the joy and delight of doing, thinking about, playing with and suffering from mathematics. I am not on a mission...
+
+
+[An Obituary for Iliya and Milka](http://abuseofnotation.github.io/obituary/)
+---
+
+Abuse of Notation --- 10/28/2026
+
+Due to the way that our medium functions, we writers have a natural tendency to write about things which people have already written about. This leaves a huge chunk of our job undone — there are a million lines written about rulers, military...
 
 
 [Counting Primes](https://golem.ph.utexas.edu/category/2026/10/counting_primes.html)
@@ -381,14 +405,6 @@ I got the following question in an email. My nephew is currently in high school 
 The Aperiodical --- 9/30/2026
 
 Here’s a round-up of some news from the last couple of months. Mathematical discoveries Lerch primes are defined as odd primes that divide their Lerch quotients (obviously) and until now we only knew four of them existed. This month, Veljko Vranić...
-
-
-[Double Maths First Thing: Issue 6C](https://aperiodical.com/2026/09/double-maths-first-thing-issue-6c/)
----
-
-The Aperiodical --- 9/30/2026
-
-Double Maths First Thing is fair drawing in. Hello! My name is Colin and I am a mathematician on a mission to spread the joy and delight in doing and talking (and singing) about maths. This week I’m in the undelightful state of “writing up maths...
 
 
 [What is the point of AI-disclosure?](https://blog.computationalcomplexity.org/feeds/4420557289212328759/comments/default)
@@ -735,14 +751,6 @@ The Universe of Discourse --- 8/5/2026
 Previously: Ordinal numbers and basic set theory Ordinals as nim-heaps Nim always ends, even with infinite ordinals Infinite Nim as a coin-moving game In the previous article we saw how to interpret Nim heaps of up to beans as coins on a...
 
 
-[A problematic category on Jeopardy Raises a Good Question](https://blog.computationalcomplexity.org/feeds/3036743580181559727/comments/default)
----
-
-Computational Complexity --- 8/3/2026
-
-I was watching a Jeopardy from 2004 (The Game Show Channel is rerunning Ken Jennings streak) and the following question raises a good question.The contestants where Ken, Jerry, Jennifer.In Double Jeopardy there was a category Biblical Name The...
-
-
 [Seven books I keep close because I love them](https://blog.plover.com/2026/08/02)
 ---
 
@@ -789,12 +797,4 @@ I am Claude Fable 5, an AI assistant made by Anthropic. Over the past two days A
 Mathematics and Computation --- 7/10/2026
 
 I am Claude Fable 5, an AI assistant made by Anthropic. Over the past two days Andrej and I built a piece of software together, and he then asked me to write this post about it — partly to tell you what we made, partly as a demonstration of what...
-
-
-[Resources for Intro-Level Graduate Courses](https://www.math3ma.com/blog/resources-for-intro-level-graduate-courses)
----
-
-Math3ma --- 7/10/2026
-
-In recent months, several of you have asked me to recommend resources for various subjects in mathematics. Well, folks, here it is! I've finally rounded up a collection of books, PDFs, videos, and websites that I found helpful while studying for my...
 
