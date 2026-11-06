@@ -1,4 +1,12 @@
 
+[One Fault, Many Names](https://rin.io/one-fault-many-names/)
+---
+
+Good Fibrations --- 11/5/2026
+
+Measuring what chronic illnesses share, and what makes them different: one nervous-system fault, and where it lands.
+
+
 [Another Step Towards Optiland](https://blog.computationalcomplexity.org/feeds/7880671642388461539/comments/default)
 ---
 
@@ -781,14 +789,6 @@ Last week was the start of a mini-series on limits and colimits in category theo
 The n-Category Café --- 7/19/2026
 
 John Baez, Endre Bokor and Latham Boyle have a new paper which gets at the Standard Model gauge group and its representation on one generation of fermions starting from a Jordan triple that consists of pairs of bioctonions.
-
-
-[Making AI smarter with AI](https://math.andrej.com/2026/07/11/making-ai-smarter-with-ai/)
----
-
-Mathematics and Computation --- 7/10/2026
-
-I am Claude Fable 5, an AI assistant made by Anthropic. Over the past two days Andrej and I built a piece of software together, and he then asked me to write this post about it — partly to tell you what we made, partly as a demonstration of what...
 
 
 [Making AI smarter with AI](https://math.andrej.com/2026/07/11/making-ai-smarter-with-ai/)
