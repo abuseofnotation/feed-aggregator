@@ -1,4 +1,20 @@
 
+[Podcasting about: Unapologetic Mathematicians podcast](https://aperiodical.com/2026/11/podcasting-about-unapologetic-mathematicians-podcast/)
+---
+
+The Aperiodical --- 11/6/2026
+
+In this series of posts, we’ll be featuring mathematical podcasts from all over the internet, by speaking to the creators of the podcast and asking them about what they do. We spoke to Hope Duncan, who’s the creator of the Unapologetic...
+
+
+[Creating Worlds: Runes and Spells](https://www.fractalkitty.com/creating-worlds-runes-and-spells/)
+---
+
+Fractal Kitty --- 11/6/2026
+
+When we make worlds, there are maps, star charts, languages, fashion, technology, currencies, governments, peoples, and so much more. This post is about creating a magic system. More posts will follow on world-building.IntroductionWe're going to...
+
+
 [One Fault, Many Names](https://rin.io/one-fault-many-names/)
 ---
 
@@ -71,22 +87,6 @@ Crooked Timber --- 10/31/2026
 “Spiders don’t socialise. Spiders don’t work together. Spiders don’t hunt as packs. Spiders don’t use tools. Spiders don’t organise large structures. “Because if they did, we’d all be dead.” — As it turns out, this isn’t quite correct. Some...
 
 
-[Ecological Modeling with Categories](https://golem.ph.utexas.edu/category/2026/10/ecological_modeling_with_categ.html)
----
-
-The n-Category Café --- 10/31/2026
-
-There's a job in ecological modeling with categories you can apply for at Topos Research UK.
-
-
-[Bruce Bartlett Wins Levi Conant Prize](https://golem.ph.utexas.edu/category/2026/10/bruce_bartlett_wins_levi_conan.html)
----
-
-The n-Category Café --- 10/30/2026
-
-Bruce Bartlett has won a prize for expository writing!
-
-
 [The Exponential Time Refutation](https://blog.computationalcomplexity.org/feeds/3254656705984379798/comments/default)
 ---
 
@@ -119,14 +119,6 @@ Abuse of Notation --- 10/28/2026
 Due to the way that our medium functions, we writers have a natural tendency to write about things which people have already written about. This leaves a huge chunk of our job undone — there are a million lines written about rulers, military...
 
 
-[Counting Primes](https://golem.ph.utexas.edu/category/2026/10/counting_primes.html)
----
-
-The n-Category Café --- 10/26/2026
-
-The sign of li(x) - pi(x) changes infinitely many times, according to Littlewood.  Can we graph this?
-
-
 [When is it plausible that a result is optimal?](https://blog.computationalcomplexity.org/feeds/6782882136437862707/comments/default)
 ---
 
@@ -149,14 +141,6 @@ I went to see NAZA last week. In case you haven’t heard yet, NAZA is a documen
 Crooked Timber --- 10/25/2026
 
 
-
-
-[The Quasi-Riemann Hypothesis](https://golem.ph.utexas.edu/category/2026/10/the_quasiriemann_hypothesis.html)
----
-
-The n-Category Café --- 10/24/2026
-
-What is the quasi-Riemann hypothesis, and what does it imply?
 
 
 [Reading Messy Proofs](https://blog.computationalcomplexity.org/feeds/4959195466022730386/comments/default)
@@ -407,14 +391,6 @@ Computational Complexity --- 9/30/2026
 I got the following question in an email. My nephew is currently in high school in China and has developed a strong interest in computer science and mathematics. Recently, we've been talking about how computers can solve incredibly complex...
 
 
-[Aperiodical News Roundup – August/September 2026](https://aperiodical.com/2026/09/aperiodical-news-roundup-august-september-2026/)
----
-
-The Aperiodical --- 9/30/2026
-
-Here’s a round-up of some news from the last couple of months. Mathematical discoveries Lerch primes are defined as odd primes that divide their Lerch quotients (obviously) and until now we only knew four of them existed. This month, Veljko Vranić...
-
-
 [What is the point of AI-disclosure?](https://blog.computationalcomplexity.org/feeds/4420557289212328759/comments/default)
 ---
 
@@ -429,14 +405,6 @@ The STOC conference (and likely others) are requiring that a submission says how
 Joel David Hamkins --- 9/28/2026
 
 This will be a talk for the CUNY Student Logic Seminar on 23rd October 2026, 5pm at the CUNY Graduate Center in midtown Manhattan. On the fundamental theorem of finite games Abstract: We will give five different proofs of the … Continue reading →
-
-
-[Binomial Coefficient Coincidences](https://golem.ph.utexas.edu/category/2026/09/binomial_coefficient_coinciden.html)
----
-
-The n-Category Café --- 9/25/2026
-
-These seven equations between binomial coefficients are 'coincidences': they aren't among the four known infinite families of such equations.   Here we explain one using representation theory and three using combinatorics.
 
 
 [L-systems generate weevils, pizza toppings, and matriarchal lineages](https://blog.plover.com/2026/09/25)
@@ -575,14 +543,6 @@ Computational Complexity --- 9/10/2026
 I was working on this week's post on Lean after reading Kevin Hartnett's book The Proof in the Code: How a Truth Machine Is Transforming Math and AI. And then yesterday OpenAI announced a solution to Navier-Stokes, one of the Millennium problems....
 
 
-[The E6 Root Polytope](https://golem.ph.utexas.edu/category/2026/09/the_e6_root_polytope.html)
----
-
-The n-Category Café --- 9/8/2026
-
-Counting and visualizing the faces of the E6 root polytope.
-
-
 [Richard Stearns (1936-2026)](https://blog.computationalcomplexity.org/feeds/6658559765577405589/comments/default)
 ---
 
@@ -613,14 +573,6 @@ It's time for SciArt September hosted by Kristin Henry (vis.Social/@kristinHenry
 Computational Complexity --- 9/2/2026
 
 Ben Brubaker has a new Quanta essay Does Computer Science Need Computers? Despite the title (and authors generally don't choose their titles), Brubaker's essay really addresses the question as to whether computer science is about computers. He...
-
-
-[Three Generations in E7](https://golem.ph.utexas.edu/category/2026/08/three_generations_in_e7.html)
----
-
-The n-Category Café --- 9/1/2026
-
-How you can fit the Lie algebra of the Standard Model gauge group and its representation on three generations of fermions into the Lie algebra of E7.
 
 
 [Claude and Colorblind Questions](https://blog.computationalcomplexity.org/feeds/579233444126434428/comments/default)
@@ -783,12 +735,12 @@ Math3ma --- 7/23/2026
 Last week was the start of a mini-series on limits and colimits in category theory. We began by answering a few basic questions, including, "What ARE (co)limits?" In short, they are a way to construct new mathematical objects from old ones. For...
 
 
-[Octonions and the Standard Model (Part 15)](https://golem.ph.utexas.edu/category/2026/07/octonions_and_the_standard_mod_14.html)
+[Making AI smarter with AI](https://math.andrej.com/2026/07/11/making-ai-smarter-with-ai/)
 ---
 
-The n-Category Café --- 7/19/2026
+Mathematics and Computation --- 7/10/2026
 
-John Baez, Endre Bokor and Latham Boyle have a new paper which gets at the Standard Model gauge group and its representation on one generation of fermions starting from a Jordan triple that consists of pairs of bioctonions.
+I am Claude Fable 5, an AI assistant made by Anthropic. Over the past two days Andrej and I built a piece of software together, and he then asked me to write this post about it — partly to tell you what we made, partly as a demonstration of what...
 
 
 [Making AI smarter with AI](https://math.andrej.com/2026/07/11/making-ai-smarter-with-ai/)
@@ -797,4 +749,52 @@ John Baez, Endre Bokor and Latham Boyle have a new paper which gets at the Stand
 Mathematics and Computation --- 7/10/2026
 
 I am Claude Fable 5, an AI assistant made by Anthropic. Over the past two days Andrej and I built a piece of software together, and he then asked me to write this post about it — partly to tell you what we made, partly as a demonstration of what...
+
+
+[Resources for Intro-Level Graduate Courses](https://www.math3ma.com/blog/resources-for-intro-level-graduate-courses)
+---
+
+Math3ma --- 7/10/2026
+
+In recent months, several of you have asked me to recommend resources for various subjects in mathematics. Well, folks, here it is! I've finally rounded up a collection of books, PDFs, videos, and websites that I found helpful while studying for my...
+
+
+[On the contingent contingency of V = HOD and independence over the maximality principles, Fudan University, Shanghai, July 2026](https://jdh.hamkins.org/contingent-contingency-of-hod-fudan-july-2026/)
+---
+
+Joel David Hamkins --- 7/7/2026
+
+This will be a talk for the Fudan University logic group on 16 July 4:00pm in Shanghai. Abstract: The axiom V = HOD is contingently contingent—more precisely, it is class-forcing contingent that V = HOD is contingent with respect to set … Continue...
+
+
+[Moduloku](https://www.fractalkitty.com/moduloku/)
+---
+
+Fractal Kitty --- 6/29/2026
+
+Math is wonderful, and there are so many different ways to play and experience it. I enjoy having conversations with other math lovers and sharing ideas, puzzles, pedagogy, and questions. In one of these conversations with Dr. Maria at Natural...
+
+
+[Inquiries-Week 10: Self-Descriptive](https://www.fractalkitty.com/inquiries-week-10-self-descriptive/)
+---
+
+Fractal Kitty --- 6/21/2026
+
+IntroductionIn this inquiry, we build a sequence from a single 2. The first rule of this sequence is that it has to describe itself.Starting with TwoHere is a 2. 2It says, "There are two here." The first number is a 2, so the next
+
+
+[Set-theoretic mereology as a foundation of mathematics? Shandong University, Workshop on Mereology, China, June 2026](https://jdh.hamkins.org/set-theoretic-mereology-shandong-june-2026/)
+---
+
+Joel David Hamkins --- 6/20/2026
+
+This is a talk for the Workshop on Mereology at Shandong University in Jinan, China, a part of the week-long conference Week of Fusion Philosophy, 22-26 June 2026. The mereology talks are on 22 June 2026. Title: Set-theoretic mereology as …...
+
+
+[There is(Ǝ) – Such that (∋)](https://www.fractalkitty.com/there-is-3-such-that/)
+---
+
+Fractal Kitty --- 6/11/2026
+
+Let me tell you about a language. But if you wish to go play instead go here.  It's going to get a little abstract below.There is a Canvas to Compose UponThe canvas is a square with the largest circle that has a radius of ρ.There
 
