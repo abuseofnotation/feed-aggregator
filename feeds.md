@@ -1,4 +1,20 @@
 
+[Demaine-Gasarch-Hajiaghayi have written a book that is a sequel to Garey and Johnson](https://blog.computationalcomplexity.org/feeds/5002127439597736207/comments/default)
+---
+
+Computational Complexity --- 11/9/2026
+
+LANCE: You should take a break from all the AI stuff and talk about your book!BILL: I will! But it's not my book its co-authored with Erik Demaine and Mohammad Hajiaghayi. The title isComputational Intractability: A Guide to Algorithmic Lower...
+
+
+[Sunday photoblogging: Bristol, floating harbour](https://crookedtimber.org/2026/11/08/sunday-photoblogging-bristol-floating-harbour/)
+---
+
+Crooked Timber --- 11/8/2026
+
+
+
+
 [Podcasting about: Unapologetic Mathematicians podcast](https://aperiodical.com/2026/11/podcasting-about-unapologetic-mathematicians-podcast/)
 ---
 
@@ -309,14 +325,6 @@ A quick update on our homomorphic encryption compiler HEIR: our partners at Belf
 Computational Complexity --- 10/7/2026
 
 I wrote the post below last week. That was a quaint and quiet time. Last night OpenAI released a treasure trove of 722 manuscripts solving 372 major open problems in mathematics including from theoretical computer science:A proof of the unique...
-
-
-[How Money Matters](https://crookedtimber.org/2026/10/07/55721/)
----
-
-Crooked Timber --- 10/7/2026
-
-Having alighted from the bus in an industrial area I’d never been before, I found the right building and descended the stairs. As instructed by email, I rang the doorbell. I was immediately met by the two cutest dachshunds you’ve ever seen. My...
 
 
 [Double Maths First Thing: Issue 6D](https://aperiodical.com/2026/10/double-maths-first-thing-issue-6d/)
@@ -677,14 +685,6 @@ Enjoying Idaho while ignoring IllinoisToday is the first day of my life that I a
 The Universe of Discourse --- 8/11/2026
 
 In mathematical study there are two kinds of theorems, which serve very different purposes.  Math instruction follows the same pattern. Students are often very puzzled by this, and rightly so, because it's never explained, or at least I've never...
-
-
-[Math Concepts With Funny Names](https://blog.computationalcomplexity.org/feeds/1016886829547690351/comments/default)
----
-
-Computational Complexity --- 8/10/2026
-
-(Some of this came from a Reddit post I read, and some of the comments on it.) Here are theorems with names that I think are funny or unusual. The names are also pointers to the Wikipedia entry on them or some other source.The Chicken McNugget...
 
 
 [Alternative Fields Medal, awarded August 2026](https://jdh.hamkins.org/alternative-fields-medal-awarded-august-2026/)
