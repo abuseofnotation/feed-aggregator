@@ -1,4 +1,12 @@
 
+[A Conversation on Philosophy, Mathematics, and the Mysteries of Infinity](https://jdh.hamkins.org/a-conversation-on-philosophy-mathematics-and-the-mysteries-of-infinity/)
+---
+
+Joel David Hamkins --- 11/9/2026
+
+I was interviewed by Professor Bokai Yao at Peking University on philosophy, mathematics, and the mysteries of infinity. The interview took place 22 July 2026 on the PKU campus, where I have been appointed as Guest Chair Professor for 2026-2028, …...
+
+
 [Demaine-Gasarch-Hajiaghayi have written a book that is a sequel to Garey and Johnson](https://blog.computationalcomplexity.org/feeds/5002127439597736207/comments/default)
 ---
 
@@ -789,12 +797,4 @@ IntroductionIn this inquiry, we build a sequence from a single 2. The first rule
 Joel David Hamkins --- 6/20/2026
 
 This is a talk for the Workshop on Mereology at Shandong University in Jinan, China, a part of the week-long conference Week of Fusion Philosophy, 22-26 June 2026. The mereology talks are on 22 June 2026. Title: Set-theoretic mereology as …...
-
-
-[There is(Ǝ) – Such that (∋)](https://www.fractalkitty.com/there-is-3-such-that/)
----
-
-Fractal Kitty --- 6/11/2026
-
-Let me tell you about a language. But if you wish to go play instead go here.  It's going to get a little abstract below.There is a Canvas to Compose UponThe canvas is a square with the largest circle that has a radius of ρ.There
 
