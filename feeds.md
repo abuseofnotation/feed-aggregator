@@ -1,4 +1,20 @@
 
+[Armistice Day, #109](https://crookedtimber.org/2026/11/11/armistice-day-109/)
+---
+
+Crooked Timber --- 11/11/2026
+
+More than a century after the Armistice of 11 November 1918 brought a halt to fighting on the Western Front of the Great War, after a second round of World War, and decades of Cold War the catastrophes it spawned continue, in Ukraine, Iran and...
+
+
+[Tourist](http://abuseofnotation.github.io/tourist/)
+---
+
+Abuse of Notation --- 11/10/2026
+
+Walking in the rain A group of tourists reminded me I am a tourist too.
+
+
 [A Conversation on Philosophy, Mathematics, and the Mysteries of Infinity](https://jdh.hamkins.org/a-conversation-on-philosophy-mathematics-and-the-mysteries-of-infinity/)
 ---
 
@@ -301,14 +317,6 @@ Table of Contents This is part of a tutorial series on the CKKS homomorphic encr
 Crooked Timber --- 10/11/2026
 
 Chris just let me know that Alan Thornett has died. International Viewpoint has a long obituary here. I doubt The Graun will carry an obit, and The Times certainly won’t. I got to know members of the Oxford branch of what was then the Socialist...
-
-
-[Sunday photoblogging: Céret](https://crookedtimber.org/2026/10/11/sunday-photoblogging-ceret/)
----
-
-Crooked Timber --- 10/11/2026
-
-
 
 
 [The Six-Cent Drug Nobody Will Test: Memantine as an Alternative to Opioids for Chronic Pain](https://rin.io/memantine/)
@@ -789,12 +797,4 @@ Math is wonderful, and there are so many different ways to play and experience i
 Fractal Kitty --- 6/21/2026
 
 IntroductionIn this inquiry, we build a sequence from a single 2. The first rule of this sequence is that it has to describe itself.Starting with TwoHere is a 2. 2It says, "There are two here." The first number is a 2, so the next
-
-
-[Set-theoretic mereology as a foundation of mathematics? Shandong University, Workshop on Mereology, China, June 2026](https://jdh.hamkins.org/set-theoretic-mereology-shandong-june-2026/)
----
-
-Joel David Hamkins --- 6/20/2026
-
-This is a talk for the Workshop on Mereology at Shandong University in Jinan, China, a part of the week-long conference Week of Fusion Philosophy, 22-26 June 2026. The mereology talks are on 22 June 2026. Title: Set-theoretic mereology as …...
 
