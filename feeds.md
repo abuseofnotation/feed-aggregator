@@ -1,10 +1,42 @@
 
+[CKKS — Rescaling](https://www.jeremykun.com/2026/11/11/ckks-rescaling/)
+---
+
+Math ∩ Programming --- 11/11/2026
+
+Table of Contents This is part of a tutorial series on the CKKS homomorphic encryption scheme. In the last article, we described the key switching and relinearization algorithms. Relinearization allowed us to restore the natural “two tuple”...
+
+
+[Fall Jobs Post 2026](https://blog.computationalcomplexity.org/feeds/5606902564828474212/comments/default)
+---
+
+Computational Complexity --- 11/11/2026
+
+Each fall I try to predict the upcoming job market for theoretical computer science faculty and give suggestions to those pursuing these positions. Last year I wrote that we should get set for a rocky ride, with AI’s disruption of computer science,...
+
+
+[Double Maths First Thing: Issue 72](https://aperiodical.com/2026/11/double-maths-first-thing-issue-72/)
+---
+
+The Aperiodical --- 11/11/2026
+
+Double Maths First Thing has two more sleep until Big MathsJam Hello! My name is Colin and I am a mathematician on a mission to spread the joy and delight in doing maths, solving problems, and thinking really hard. Big MathsJam is almost upon us –...
+
+
 [Armistice Day, #109](https://crookedtimber.org/2026/11/11/armistice-day-109/)
 ---
 
 Crooked Timber --- 11/11/2026
 
 More than a century after the Armistice of 11 November 1918 brought a halt to fighting on the Western Front of the Great War, after a second round of World War, and decades of Cold War the catastrophes it spawned continue, in Ukraine, Iran and...
+
+
+[Care ethics for people, consequentialism for governments, deontology for judges](https://crookedtimber.org/2026/11/10/care-ethics-for-people-consequentialism-for-governments-deontology-for-judges/)
+---
+
+Crooked Timber --- 11/10/2026
+
+(Disclaimer: as ought to be obvious, I’m not an academic philosopher and haven’t even read all that widely. But one way or another, everyone needs to think about these questions) I’ve long supported Bob Goodin’s view that utilitarianism (or, more...
 
 
 [Tourist](http://abuseofnotation.github.io/tourist/)
@@ -311,14 +343,6 @@ Math ∩ Programming --- 10/11/2026
 Table of Contents This is part of a tutorial series on the CKKS homomorphic encryption scheme. In the last article, we introduced symmetric and public-key encryption and decryption routines, and implemented modular polynomial arithmetic (using NTTs...
 
 
-[Alan Thornett is dead](https://crookedtimber.org/2026/10/11/alan-thornett-is-dead/)
----
-
-Crooked Timber --- 10/11/2026
-
-Chris just let me know that Alan Thornett has died. International Viewpoint has a long obituary here. I doubt The Graun will carry an obit, and The Times certainly won’t. I got to know members of the Oxford branch of what was then the Socialist...
-
-
 [The Six-Cent Drug Nobody Will Test: Memantine as an Alternative to Opioids for Chronic Pain](https://rin.io/memantine/)
 ---
 
@@ -397,14 +421,6 @@ Below are three galleries. One of fungi and growths, one with p5js and one with 
 Joel David Hamkins --- 10/1/2026
 
 This is a rough outline syllabus for the class I am teaching this semester at the University of Notre Dame on the philosophy and logic of games. University of Notre Dame                    … Continue reading →
-
-
-[The last four digits of 16¹⁶](https://aperiodical.com/2026/10/the-last-four-digits-of-16%c2%b9%e2%81%b6/)
----
-
-The Aperiodical --- 10/1/2026
-
-On the math-fun mailing list, Dick Hess posted “a couple of curiosities”: A speaker at G4G16 noted that \(16^{16}\) ends in \(1616\). A friend sent me this: \(499^{499}\) ends in \(499499\). Are there any other cases including numbers with more...
 
 
 [Does Programming Help You Understand Complexity?](https://blog.computationalcomplexity.org/feeds/7859479834608702913/comments/default)
@@ -687,14 +703,6 @@ The Universe of Discourse --- 8/13/2026
 Previously: Ordinal numbers and basic set theory Ordinals as nim-heaps Nim always ends, even with infinite ordinals Infinite Nim as a coin-moving game Coin-moving games without the coins Previously we saw how to interpret the difficult-seeming...
 
 
-[Unexpected Unemployment](https://blog.computationalcomplexity.org/feeds/6471563182170834736/comments/default)
----
-
-Computational Complexity --- 8/12/2026
-
-Enjoying Idaho while ignoring IllinoisToday is the first day of my life that I am unemployed. And not by choice.As I mentioned on LinkedIn last week, me and about 160 of my colleagues, staff and faculty, untenured and tenured, lost our positions at...
-
-
 [There are two kinds of theorems](https://blog.plover.com/2026/08/11)
 ---
 
@@ -789,12 +797,4 @@ This will be a talk for the Fudan University logic group on 16 July 4:00pm in Sh
 Fractal Kitty --- 6/29/2026
 
 Math is wonderful, and there are so many different ways to play and experience it. I enjoy having conversations with other math lovers and sharing ideas, puzzles, pedagogy, and questions. In one of these conversations with Dr. Maria at Natural...
-
-
-[Inquiries-Week 10: Self-Descriptive](https://www.fractalkitty.com/inquiries-week-10-self-descriptive/)
----
-
-Fractal Kitty --- 6/21/2026
-
-IntroductionIn this inquiry, we build a sequence from a single 2. The first rule of this sequence is that it has to describe itself.Starting with TwoHere is a 2. 2It says, "There are two here." The first number is a 2, so the next
 
