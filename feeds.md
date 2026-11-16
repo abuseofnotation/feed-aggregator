@@ -1,4 +1,20 @@
 
+[A More Impressive Use of AI than Proving the Unique Game Conjecture](https://blog.computationalcomplexity.org/feeds/8785625913510631891/comments/default)
+---
+
+Computational Complexity --- 11/15/2026
+
+I have a website devoted to parodies of the song       I am the very model of a modern major general here. So I sometimes look around the web for more. I recently came across                We are the very models of the...
+
+
+[Sunday photoblogging: Hamburg fish and chips](https://crookedtimber.org/2026/11/15/sunday-photoblogging-hamburg-fish-and-chips/)
+---
+
+Crooked Timber --- 11/15/2026
+
+
+
+
 [CKKS — Rescaling](https://www.jeremykun.com/2026/11/11/ckks-rescaling/)
 ---
 
@@ -325,14 +341,6 @@ Lance blogged on the OpenAI solutions to many problems here and also created a
 Crooked Timber --- 10/12/2026
 
 (This is an updated version of something I posted 20 years ago, on the 20th anniversary, and 10 years ago, on the 30th anniversary, of my friend’s death) About 43 years and 3 weeks ago the soon-to-be late lamented You and Yours had one of those...
-
-
-[The economic irrelevance of naval power](https://crookedtimber.org/2026/10/12/the-economic-irrelevance-of-naval-power/)
----
-
-Crooked Timber --- 10/12/2026
-
-When I posted a piece on the latest failure of the US Navy a while back, I predicted that I wouldn’t be changing any minds. That was one of my safer predictions, confirmed almost immediately by Robert Farley at Lawyers, Guns and Money. Farley...
 
 
 [CKKS — Addition and Multiplication](https://www.jeremykun.com/2026/10/11/ckks-addition-and-multiplication/)
@@ -685,14 +693,6 @@ This will be a talk for the CUNY Logic Workshop, 23 October 2026, 2pm, at the CU
 Computational Complexity --- 8/19/2026
 
 In the past, new PhD students would ask how they could succeed when they had to compete with the likes of say, Richard Karp or Avi Wigderson. I would say Karp and Wigderson have limited bandwidth and you can work on problems they don't work on, or...
-
-
-[IIT is the canary in the coalmine (Do our younger readers know what that means? Do we have younger readers?)](https://blog.computationalcomplexity.org/feeds/7693509281939335540/comments/default)
----
-
-Computational Complexity --- 8/16/2026
-
-Lance has posted about his, and around 160 others, being laid off from IIT here.(IIT stands for Illinois Institute of Technology which is where Lance was employed.)Hence I looked into what is happening at IIT to see if there is a lesson for us...
 
 
 [The road to epsilon-zero: Productive programs and well-founded orders](https://blog.plover.com/2026/08/13)
