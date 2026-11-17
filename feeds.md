@@ -1,4 +1,12 @@
 
+[I can’t believe it’s 1!](https://aperiodical.com/2026/11/i-cant-believe-its-1/)
+---
+
+The Aperiodical --- 11/16/2026
+
+At this year’s MathsJam Gathering, I gave a talk about the number 1. Here’s the recording: The talk was a bit quick, due to having to fit in 5 minutes, so I thought I’d put a bit of writing here that you can stare at in your own time. You might...
+
+
 [A More Impressive Use of AI than Proving the Unique Game Conjecture](https://blog.computationalcomplexity.org/feeds/8785625913510631891/comments/default)
 ---
 
@@ -381,14 +389,6 @@ I wrote the post below last week. That was a quaint and quiet time. Last night O
 The Aperiodical --- 10/7/2026
 
 Double Maths First Thing is tangled up in knots Hello! My name is Colin and I am a mathematician on a mission to spread the joy and delight in doing and discussing maths. This week I have been in error-recovery mode after drawing a wrong conclusion...
-
-
-[Carnival of Maths 255](https://aperiodical.com/2026/10/carnival-of-maths-255/)
----
-
-The Aperiodical --- 10/6/2026
-
-The next issue of the Carnival of Mathematics, rounding up blog posts from the month of September 2026, is now online at Ben Leis’s Math Off The Grid. The Carnival rounds up maths blog posts from all over the internet, including some from our...
 
 
 [Maybe a better way to track the release history of a Git repo](https://blog.plover.com/2026/10/06)
