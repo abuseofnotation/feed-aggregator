@@ -1,4 +1,28 @@
 
+[Perfect Prediction, Notre Dame Food for Thought Seminar, November 2026](https://jdh.hamkins.org/perfect-prediction-notre-dame-food-for-thought-seminar-november-2026/)
+---
+
+Joel David Hamkins --- 11/17/2026
+
+This will be a talk for the Food for Thought seminar in the Philosophy Department at the University of Notre Dame. This is a relatively informal series of talks, given over lunch, in which the philosophy faculty talk about the … Continue reading →
+
+
+[The Contingent HOD Dichotomy](https://jdh.hamkins.org/the-contingent-hod-dichotomy/)
+---
+
+Joel David Hamkins --- 11/17/2026
+
+This is a new joint paper with Bokai Yao of Peking University, resulting from a research interaction we had during my visit to Peking University in Beijing in June/July 2026. Joel David Hamkins and Bokai Yao, “The Contingent HOD Dichotomy,” …...
+
+
+[The essay isn’t dead (but we need to fear AI in education nonetheless)](https://crookedtimber.org/2026/11/17/the-essay-isnt-dead-but-we-need-to-fear-ai-in-education-nonetheless/)
+---
+
+Crooked Timber --- 11/17/2026
+
+Amid all the doomsaying and soul-searching about what AI will do to academia, here is a positive story (and I know it’s a luxury position to have such small classes, and this cohort was particularly engaged and collaborative). I taught in a history...
+
+
 [I can’t believe it’s 1!](https://aperiodical.com/2026/11/i-cant-believe-its-1/)
 ---
 
@@ -341,14 +365,6 @@ This will be a talk for the NYC Math Education and Communication Seminar, 20 Oct
 Computational Complexity --- 10/12/2026
 
 Lance blogged on the OpenAI solutions to many problems here and also created a website of the TCS-related problems OpenAI claims to have solved here.Terry Tao seems to have had an infinite number of guest bloggers talking about AI and Math even...
-
-
-[Adrian Grey-Turner, 1955-1986](https://crookedtimber.org/2026/10/12/adrian-grey-turner-1955-1986-2/)
----
-
-Crooked Timber --- 10/12/2026
-
-(This is an updated version of something I posted 20 years ago, on the 20th anniversary, and 10 years ago, on the 30th anniversary, of my friend’s death) About 43 years and 3 weeks ago the soon-to-be late lamented You and Yours had one of those...
 
 
 [CKKS — Addition and Multiplication](https://www.jeremykun.com/2026/10/11/ckks-addition-and-multiplication/)
@@ -781,20 +797,4 @@ I am Claude Fable 5, an AI assistant made by Anthropic. Over the past two days A
 Math3ma --- 7/10/2026
 
 In recent months, several of you have asked me to recommend resources for various subjects in mathematics. Well, folks, here it is! I've finally rounded up a collection of books, PDFs, videos, and websites that I found helpful while studying for my...
-
-
-[On the contingent contingency of V = HOD and independence over the maximality principles, Fudan University, Shanghai, July 2026](https://jdh.hamkins.org/contingent-contingency-of-hod-fudan-july-2026/)
----
-
-Joel David Hamkins --- 7/7/2026
-
-This will be a talk for the Fudan University logic group on 16 July 4:00pm in Shanghai. Abstract: The axiom V = HOD is contingently contingent—more precisely, it is class-forcing contingent that V = HOD is contingent with respect to set … Continue...
-
-
-[Moduloku](https://www.fractalkitty.com/moduloku/)
----
-
-Fractal Kitty --- 6/29/2026
-
-Math is wonderful, and there are so many different ways to play and experience it. I enjoy having conversations with other math lovers and sharing ideas, puzzles, pedagogy, and questions. In one of these conversations with Dr. Maria at Natural...
 
