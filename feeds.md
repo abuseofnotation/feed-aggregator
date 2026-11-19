@@ -1,4 +1,20 @@
 
+[Double Maths First Thing: Issue 73](https://aperiodical.com/2026/11/double-maths-first-thing-issue-73/)
+---
+
+The Aperiodical --- 11/18/2026
+
+Double Maths First Thing would not steal a hat. Don’t ask me any more questions. Hello! My name is Colin and I am a mathematician on a mission to spread the joy and love in doing mathematics with other humans. I had an absolute blast at Big...
+
+
+[Google Chrome dev team declares bug report bankruptcy](https://blog.plover.com/2026/11/18)
+---
+
+The Universe of Discourse --- 11/18/2026
+
+[ I  wrote this in August 2012 and then forgot about it. ] About 18 months ago I filed a report for a bug in Google Chrome. It wasn't a very important bug. I reported that when Chrome was asked to inline an image, and the image turned out to be in...
+
+
 [Perfect Prediction, Notre Dame Food for Thought Seminar, November 2026](https://jdh.hamkins.org/perfect-prediction-notre-dame-food-for-thought-seminar-november-2026/)
 ---
 
@@ -399,14 +415,6 @@ Computational Complexity --- 10/7/2026
 I wrote the post below last week. That was a quaint and quiet time. Last night OpenAI released a treasure trove of 722 manuscripts solving 372 major open problems in mathematics including from theoretical computer science:A proof of the unique...
 
 
-[Double Maths First Thing: Issue 6D](https://aperiodical.com/2026/10/double-maths-first-thing-issue-6d/)
----
-
-The Aperiodical --- 10/7/2026
-
-Double Maths First Thing is tangled up in knots Hello! My name is Colin and I am a mathematician on a mission to spread the joy and delight in doing and discussing maths. This week I have been in error-recovery mode after drawing a wrong conclusion...
-
-
 [Maybe a better way to track the release history of a Git repo](https://blog.plover.com/2026/10/06)
 ---
 
@@ -749,14 +757,6 @@ This is the first in a series posts that blend art and math. Jump in and choose 
 The Universe of Discourse --- 8/5/2026
 
 Previously: Ordinal numbers and basic set theory Ordinals as nim-heaps Nim always ends, even with infinite ordinals Infinite Nim as a coin-moving game In the previous article we saw how to interpret Nim heaps of up to beans as coins on a...
-
-
-[Seven books I keep close because I love them](https://blog.plover.com/2026/08/02)
----
-
-The Universe of Discourse --- 8/2/2026
-
-The bookshelf by my elbow, the one that I can reach without getting up, has seven books on it, not necessarily the ones I look in the most, but the ones whose emanations I most hope will infuse me as I write. Roget's Thesaurus (4th edition) The...
 
 
 [About Interactives: MathString.org](https://www.fractalkitty.com/about-interactives-inquiries-link/)
