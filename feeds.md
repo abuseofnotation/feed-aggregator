@@ -1,4 +1,20 @@
 
+[No planet but this one (repost)](https://crookedtimber.org/2026/11/20/no-planet-but-this-one-repost/)
+---
+
+Crooked Timber --- 11/20/2026
+
+I posted this back in 2018, I’m reposting on the news that Voyager 1 has reached 1 light day from the sun. Worth reading the comments from the earlier post if you are interested. The Voyager 2 spacecraft has just passed through the heliopause and...
+
+
+[How Will We Judge?](https://blog.computationalcomplexity.org/feeds/4252903294312500744/comments/default)
+---
+
+Computational Complexity --- 11/19/2026
+
+I hate that we have to judge theorists but departments need to make decisions about PhD admission, faculty hiring, tenure and promotion. Artificial intelligence adds new wrinkles to the process. AI makes it easier to prove theorems and write up...
+
+
 [Double Maths First Thing: Issue 73](https://aperiodical.com/2026/11/double-maths-first-thing-issue-73/)
 ---
 
@@ -341,14 +357,6 @@ Crooked Timber --- 10/18/2026
 Crooked Timber --- 10/18/2026
 
 Colleagues Cyril Hédoin and Pablo Paniagua are running a symposium on “PPE” (philosophy, politics, and economics) over there. They follow James Buchanan’s classic question, from 1964, of “What should economists do?” Given that Crooked Timber is,...
-
-
-[On the demise of Contemporary Professional Mathematics](https://crookedtimber.org/2026/10/15/on-the-demise-of-contemporary-professional-mathematics/)
----
-
-Crooked Timber --- 10/15/2026
-
-From the Fall of the Berlin Wall until about a decade ago my animating intellectual question was pretty much, ‘how did a small number of natural sciences become qualitatively more impressive than the social sciences?’ Because I met the late George...
 
 
 [Complexity and Lean](https://blog.computationalcomplexity.org/feeds/4753749875801360584/comments/default)
@@ -709,14 +717,6 @@ Previously: Ordinal numbers and basic set theory Ordinals as nim-heaps Nim alway
 Joel David Hamkins --- 8/21/2026
 
 This will be a talk for the CUNY Logic Workshop, 23 October 2026, 2pm, at the CUNY Graduate Center in midtown Manhattan. The Contingent HOD Dichotomy Joel David Hamkins, O’Hara Professor of Logic, University of Notre Dame Abstract: We shall …...
-
-
-[Centaur Math](https://blog.computationalcomplexity.org/feeds/3544420287917761769/comments/default)
----
-
-Computational Complexity --- 8/19/2026
-
-In the past, new PhD students would ask how they could succeed when they had to compete with the likes of say, Richard Karp or Avi Wigderson. I would say Karp and Wigderson have limited bandwidth and you can work on problems they don't work on, or...
 
 
 [The road to epsilon-zero: Productive programs and well-founded orders](https://blog.plover.com/2026/08/13)
