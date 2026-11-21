@@ -28,7 +28,7 @@ Double Maths First Thing would not steal a hat. Don’t ask me any more question
 
 The Universe of Discourse --- 11/18/2026
 
-[ I  wrote this in August 2012 and then forgot about it. ] About 18 months ago I filed a report for a bug in Google Chrome. It wasn't a very important bug. I reported that when Chrome was asked to inline an image, and the image turned out to be in...
+[ I  wrote this in August 2012 and then forgot about it. ] About 18 months ago I filed a report for a bug in Google Chrome. It wasn't a very important bug. I reported that when Chrome was asked to inline an image, and the image turned out to be...
 
 
 [Perfect Prediction, Notre Dame Food for Thought Seminar, November 2026](https://jdh.hamkins.org/perfect-prediction-notre-dame-food-for-thought-seminar-november-2026/)
