@@ -1,4 +1,20 @@
 
+[After 20 years I finally learned what 'double buffering' is](https://www.jeremykun.com/shortform/2026-11-21-1938/)
+---
+
+Math ∩ Programming --- 11/22/2026
+
+After 20 years, I finally learned what ‘double buffering’ means. In 2006, I took Java programming in high school, and we made games. The book we were learning from had us learn from experience how displayed graphics jitter and tear if you write to...
+
+
+[Building the 400,000th OEIS Sequence: a MathsJam activity](https://aperiodical.com/2026/11/building-the-400000th-oeis-sequence-a-mathsjam-activity/)
+---
+
+The Aperiodical --- 11/21/2026
+
+On Saturday night after dinner at the MathsJam weekend, delegates can take part in a variety of activities called Saturday evening tables. At the 2026 event I ran a table ‘Making OEIS Sequence A400000: The city-building sequence’. The city-building...
+
+
 [No planet but this one (repost)](https://crookedtimber.org/2026/11/20/no-planet-but-this-one-repost/)
 ---
 
@@ -365,14 +381,6 @@ Colleagues Cyril Hédoin and Pablo Paniagua are running a symposium on “PPE”
 Computational Complexity --- 10/15/2026
 
 In the OpenAI Math Drop some papers have Lean proofs, others don't, including L = RL = BPL. Why is it hard to formalize results on complexity classes? Let's consider an example, Lautemann's proof that BPP is in \(\Sigma^p_2\). It's a beautiful...
-
-
-[Double Maths First Thing: Issue 6E](https://aperiodical.com/2026/10/double-maths-first-thing-issue-6e/)
----
-
-The Aperiodical --- 10/14/2026
-
-Double Maths First Thing had to look up where Wells is Hello! My name is Colin and I am a mathematician on a mission to spread the joy and delight in the beauty of maths, and the human effort of figuring things out. This week I’ve been taking joy...
 
 
 [Epistemic Logic Puzzles for Mathematicians, NYC Math Education and Communication Seminar, October 2026](https://jdh.hamkins.org/epistemic-logic-puzzles-for-mathematicians-nyc-math-communication-seminar-october-2026/)
@@ -789,12 +797,4 @@ I am Claude Fable 5, an AI assistant made by Anthropic. Over the past two days A
 Mathematics and Computation --- 7/10/2026
 
 I am Claude Fable 5, an AI assistant made by Anthropic. Over the past two days Andrej and I built a piece of software together, and he then asked me to write this post about it — partly to tell you what we made, partly as a demonstration of what...
-
-
-[Resources for Intro-Level Graduate Courses](https://www.math3ma.com/blog/resources-for-intro-level-graduate-courses)
----
-
-Math3ma --- 7/10/2026
-
-In recent months, several of you have asked me to recommend resources for various subjects in mathematics. Well, folks, here it is! I've finally rounded up a collection of books, PDFs, videos, and websites that I found helpful while studying for my...
 
