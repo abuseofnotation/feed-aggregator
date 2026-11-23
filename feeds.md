@@ -1,4 +1,12 @@
 
+[Sunday photoblogging: scooter](https://crookedtimber.org/2026/11/22/sunday-photoblogging-scooter/)
+---
+
+Crooked Timber --- 11/22/2026
+
+
+
+
 [After 20 years I finally learned what 'double buffering' is](https://www.jeremykun.com/shortform/2026-11-21-1938/)
 ---
 
@@ -365,14 +373,6 @@ So what to make of OpenAI and the future of Math? Here are some points I've eith
 Crooked Timber --- 10/18/2026
 
 
-
-
-[PPE for Embodied Creatures on a Finite Planet](https://crookedtimber.org/2026/10/18/ppe-for-embodied-creatures-on-a-finite-planet/)
----
-
-Crooked Timber --- 10/18/2026
-
-Colleagues Cyril Hédoin and Pablo Paniagua are running a symposium on “PPE” (philosophy, politics, and economics) over there. They follow James Buchanan’s classic question, from 1964, of “What should economists do?” Given that Crooked Timber is,...
 
 
 [Complexity and Lean](https://blog.computationalcomplexity.org/feeds/4753749875801360584/comments/default)
