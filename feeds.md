@@ -1,4 +1,20 @@
 
+[Daring theory to care about the real world](https://www.jeremykun.com/shortform/2026-11-23-2007/)
+---
+
+Math ∩ Programming --- 11/24/2026
+
+I’m far removed from CS theory conferences these days, but one 2026 paper inspired me: “Beyond Smoothed Analysis: Analyzing the Simplex Method By-The-Book.” A stark relief to the drama of AI slop overtaking mathematics, this paper by Eleon Bach,...
+
+
+[Why read proofs anymore?](https://blog.computationalcomplexity.org/feeds/7431641230173201702/comments/default)
+---
+
+Computational Complexity --- 11/23/2026
+
+Loosely based on an actual dinner conversation between Lance and Bill in DC ten days ago and updated with recent announcements because the math world moves too quickly.LANCE: We have all these wonderful new theorems assisted or proven by AI, but I...
+
+
 [Sunday photoblogging: scooter](https://crookedtimber.org/2026/11/22/sunday-photoblogging-scooter/)
 ---
 
@@ -671,14 +687,6 @@ Computational Complexity --- 8/31/2026
 BILL: Lance, I have a question and a meta question:a) List all the presidents and vice presidents who were colorblind.b) Do you know this sort of thing since you are colorblind, and hencemight have looked this up in the past?LANCE: (b) No. And if...
 
 
-[The Calculator Transition](https://blog.computationalcomplexity.org/feeds/8258498853326152436/comments/default)
----
-
-Computational Complexity --- 8/26/2026
-
-There's a scene in Apollo 13 where Jim Lovell, played by Tom Hanks, asks Houston control to check his calculations, which they do using a slide rule. My father told me that when he was in college (1950s) that engineers measured their technical...
-
-
 [The contingent HOD dichotomy, Notre Dame Logic Seminar, September 2026](https://jdh.hamkins.org/the-contingent-hod-dichotomy-notre-dame-logic-seminar-september-2026/)
 ---
 
@@ -781,14 +789,6 @@ Note: this post has been updated. MathString.org is the same site as inquiries.l
 Math3ma --- 7/23/2026
 
 Last week was the start of a mini-series on limits and colimits in category theory. We began by answering a few basic questions, including, "What ARE (co)limits?" In short, they are a way to construct new mathematical objects from old ones. For...
-
-
-[Making AI smarter with AI](https://math.andrej.com/2026/07/11/making-ai-smarter-with-ai/)
----
-
-Mathematics and Computation --- 7/10/2026
-
-I am Claude Fable 5, an AI assistant made by Anthropic. Over the past two days Andrej and I built a piece of software together, and he then asked me to write this post about it — partly to tell you what we made, partly as a demonstration of what...
 
 
 [Making AI smarter with AI](https://math.andrej.com/2026/07/11/making-ai-smarter-with-ai/)
