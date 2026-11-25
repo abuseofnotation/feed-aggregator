@@ -1,4 +1,12 @@
 
+[VP ≠ VNP](https://blog.computationalcomplexity.org/feeds/232253208386917045/comments/default)
+---
+
+Computational Complexity --- 11/24/2026
+
+You'd think we could have a quiet Thanksgiving week but Anthropic dropped a Lean-verified proof of VP ≠ VNP. This is, for now, the most important computational complexity result of the year, which says a lot for 2026. Let me break down the result,...
+
+
 [Daring theory to care about the real world](https://www.jeremykun.com/shortform/2026-11-23-2007/)
 ---
 
@@ -677,14 +685,6 @@ It's time for SciArt September hosted by Kristin Henry (vis.Social/@kristinHenry
 Computational Complexity --- 9/2/2026
 
 Ben Brubaker has a new Quanta essay Does Computer Science Need Computers? Despite the title (and authors generally don't choose their titles), Brubaker's essay really addresses the question as to whether computer science is about computers. He...
-
-
-[Claude and Colorblind Questions](https://blog.computationalcomplexity.org/feeds/579233444126434428/comments/default)
----
-
-Computational Complexity --- 8/31/2026
-
-BILL: Lance, I have a question and a meta question:a) List all the presidents and vice presidents who were colorblind.b) Do you know this sort of thing since you are colorblind, and hencemight have looked this up in the past?LANCE: (b) No. And if...
 
 
 [The contingent HOD dichotomy, Notre Dame Logic Seminar, September 2026](https://jdh.hamkins.org/the-contingent-hod-dichotomy-notre-dame-logic-seminar-september-2026/)
