@@ -1,4 +1,12 @@
 
+[Double Maths First Thing: Issue 74](https://aperiodical.com/2026/11/double-maths-first-thing-issue-74/)
+---
+
+The Aperiodical --- 11/25/2026
+
+Double Maths First Thing is doped up on Lemsip Hello! My name is Colin and I am a mathematician on a mission to spread the joy and delight in mathematics, rather than the bug one inevitably gets from going to MathsJam. Since this newsletter is...
+
+
 [VP ≠ VNP](https://blog.computationalcomplexity.org/feeds/232253208386917045/comments/default)
 ---
 
@@ -212,7 +220,7 @@ In this series of posts, we’ll be featuring mathematical podcasts from all ove
 
 Fractal Kitty --- 11/6/2026
 
-When we make worlds, there are maps, star charts, languages, fashion, technology, currencies, governments, peoples, and so much more. This post is about creating a magic system. More posts will follow on world-building.IntroductionWe're going to...
+When we make worlds, there are maps, star charts, languages, fashion, technology, currencies, governments, peoples, and so much more. This post is about creating a magic system. More posts will follow on world-building.I'd like to thank my...
 
 
 [One Fault, Many Names](https://rin.io/one-fault-many-names/)
@@ -357,14 +365,6 @@ In fall of 1985 when I started graduate school, my advisor Michael Sipser asked 
 Math ∩ Programming --- 10/21/2026
 
 Table of Contents This is part of a tutorial series on the CKKS homomorphic encryption scheme. In the last article, we described the ciphertext-ciphertext addition and multiplication operations. We ended with two challenges, one to restore the...
-
-
-[Double Maths First Thing: Issue 6F](https://aperiodical.com/2026/10/double-maths-first-thing-issue-6f/)
----
-
-The Aperiodical --- 10/21/2026
-
-Double Maths First Thing is all a bit chaotic Hello! My name is Colin and I am a mathematician on a mission to find and share the joy in maths, puzzles and working things out. I’m likely to have some availability for new students in the next few...
 
 
 [The pattern of consistency strength for membership in a computably enumerable set](https://jdh.hamkins.org/consistency-strength-of-membership-in-a-ce-set/)
