@@ -1,4 +1,12 @@
 
+[Opening a sealed box: a MathsJam competition](https://aperiodical.com/2026/11/opening-a-sealed-box-a-mathsjam-competition/)
+---
+
+The Aperiodical --- 11/26/2026
+
+The MathsJam weekend includes, among many fun mathematical delights, a Competition Competition. Attendees bring and enter a competition of their own design, which other attendees can enter, and the best competitions win prizes. I provided a...
+
+
 [Double Maths First Thing: Issue 74](https://aperiodical.com/2026/11/double-maths-first-thing-issue-74/)
 ---
 
@@ -309,14 +317,6 @@ In this week's big news (though it's only Wednesday), OpenAI announced a proof t
 Crooked Timber --- 10/29/2026
 
 Last week, my partner and I performed a familiar ritual of modern co-parenting: I told him that I felt overburdened by mental labor, and we made a plan to adjust. The logistical work of managing our kids’ lives has recently ramped up steeply, and...
-
-
-[Double Maths First Thing: Issue 70](https://aperiodical.com/2026/10/double-maths-first-thing-issue-70/)
----
-
-The Aperiodical --- 10/28/2026
-
-Double Maths First Thing picked the wrong week to give up Lemsip Hello! My name is Colin and I am mathematician on a mission to spread the joy and delight of doing, thinking about, playing with and suffering from mathematics. I am not on a mission...
 
 
 [An Obituary for Iliya and Milka](http://abuseofnotation.github.io/obituary/)
