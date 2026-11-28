@@ -1,4 +1,12 @@
 
+[Large numbers and Infinity](https://aperiodical.com/2026/11/large-numbers-and-infinity/)
+---
+
+The Aperiodical --- 11/27/2026
+
+In which David Benjamin takes us on a whistle-stop tour of big numbers, immense numbers and the infinite, including stops at Hilbert’s Hotel, Leibniz’s series for pi and Gabriel’s Horn. All aboard! How big is a trillion? A recent article stated...
+
+
 [Opening a sealed box: a MathsJam competition](https://aperiodical.com/2026/11/opening-a-sealed-box-a-mathsjam-competition/)
 ---
 
@@ -269,14 +277,6 @@ An open letter to J K Rowling (November 2026) Dear Ms Rowling I see you have pub
 The Aperiodical --- 11/3/2026
 
 Here’s a round-up of mathematical news from this month we didn’t otherwise cover on the site. Owing to a spam email we got which included the sentence “Given your recent roundup on AI and mathematical proof, I thought this might be of interest”,...
-
-
-[#mathober 2026: My Month of Maths Zines](https://aperiodical.com/2026/11/mathober-2026-my-month-of-maths-zines/)
----
-
-The Aperiodical --- 11/2/2026
-
-The month of Mathober, which takes place during the actual month of October, is an annual celebration of mathematical ideas, art, creativity and general mathsy fun. According to the website at mathober.com, “Mathober is a space for everyone to...
 
 
 [3SUM and APSP and ETH, Oh My!](https://blog.computationalcomplexity.org/feeds/1239647937217788194/comments/default)
